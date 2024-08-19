@@ -1,6 +1,6 @@
 # dominix
 
-> Nuestra misión es **convertir** los datos del Estado **Dominicano** en Conocimientos claros y accesibles, **permitiendo** así que todos puedan tomar decisiones informadas y participar activamente en debates trascendentales.
+> Nuestra misión es **convertir** los datos del **Estado Dominicano** en Conocimientos claros y accesibles, **permitiendo** así que todos puedan tomar decisiones informadas y participar activamente en debates trascendentales.
 
 ## Notas Curiosas
 
