@@ -1,8 +1,7 @@
 # dominix
 
-> Nuestro objetivo es transformar los datos estatales dominicanos en conocimientos claros y accesibles, para que todos puedan tomar decisiones informadas y participar en debates significativos.
+> Nuestra misión es convertir los datos del Estado dominicano en conocimientos claros y accesibles, permitiendo así que todos puedan tomar decisiones informadas y participar activamente en debates trascendentales.
 
 ## Notas Curiosas
 
-- **Dominix** - Combining "Dominicus" and a suffix implying data or analytics.
-- - ...
+- **Dominix** - Combinando 'Dominicus' con un sufijo que implica datos o análisis.
