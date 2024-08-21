@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Simple Gauge - Apache ECharts Demo</title>
+</head>
+
+<body>
+  <div id="chart-container"></div>
+  <script src="https://fastly.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+</body>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    #chart-container {
+        position: relative;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+</style>
+
+<script>
+var dom = document.getElementById('chart-container');
+var myChart = echarts.init(dom, 'dark', {
+  renderer: 'canvas',
+  useDirtyRect: false
+});
+var app = {};
+
+var option;
+
+option = {
+  tooltip: {
+    formatter: '{a} <br/>{b} : {c}%'
+  },
+  series: [
+    {
+      name: 'Pressure',
+      type: 'gauge',
+      progress: {
+        show: true
+      },
+      detail: {
+        valueAnimation: true,
+        formatter: '{value}'
+      },
+      data: [
+        {
+          value: 20,
+          name: 'SCORE'
+        }
+      ]
+    }
+  ]
+};
+
+if (option && typeof option === 'object') {
+  myChart.setOption(option);
+}
+
+// Function to update the gauge value dynamically
+function updateGaugeValue(newValue) {
+    myChart.setOption({
+        series: [{
+            data: [{value: newValue, name: 'Tiempo'}]
+        }]
+    }, {merge: true}); // merge ensures only the changed data is updated
+}
+
+var  i  = myChart.getOption().series[0].data[0].value;
+
+// Example: Dynamically update the gauge value every 2 seconds
+setInterval(function() {
+    // var newValue = Math.floor(Math.random() * 101); // Random value between 0 and 100
+    i = i + 2;
+    updateGaugeValue(i);
+}, 2000);
+
+
+window.addEventListener('resize', myChart.resize);
+
+    </script>
+
+
+</html>
