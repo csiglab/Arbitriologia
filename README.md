@@ -4,6 +4,8 @@
 
 > Este proyecto es parte de **RD 1.0**, una serie de iniciativas diseñadas para comprender y analizar el Estado, con la intención de transformarlo en la siguiente fase, conocida como **RD 2.0**.
 
+> Nuestra labor se desarrolla según la estrategia: Modelo Ontológico: Datos de la República Dominicana -> Fichas.
+
 ## Notas Curiosas
 
 - **Dominix** - Combinando 'Dominicus' con un sufijo que implica datos o análisis.
