@@ -35,6 +35,7 @@
 - Enterprises
 - Historical Events
 - Economic Clusters
+- International Treates
 
   ## Computations
   
