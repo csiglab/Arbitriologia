@@ -3,17 +3,16 @@
 > Think about the ontological model of the Knowledge Base.
 
 -  ¿Which type of entities?
-- 
+- ...
 
-
-## List of Entites
+## List of Entities
 
 - Public Services
 - Provinces
-- Municipalies
+- Municipalities
 - Elections
 - Public Servants
-- Polititions
+- Politicians
 - Industries
 - Exports
 - Imports
@@ -21,10 +20,10 @@
 - Education
 - Health
 - Hospitals
-- Institutions Budged
+- Institutions Budget
 - Laws
 - State Capacity
-- Ocupations
+- Occupations
 - Policy
 - Regulations
 - Monetary System
@@ -35,9 +34,10 @@
 - Products
 - Enterprises
 - Historical Events
-
+- Economic Clusters
 
   ## Computations
   
   - People Space
+  - NGrams
   - ...
