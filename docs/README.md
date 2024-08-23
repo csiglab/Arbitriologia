@@ -1,6 +1,6 @@
 # Dominic Engineering
 
-> Hidden Engine: "Computational Knowledge Engine and Historical Modeling for the Dominican Republic's State and Society"**
+> Hidden Engine: Computational **Knowledge Engine** and **Topic Profiles** for the Dominican Republic's State and Society.
 
 ## Techniques
 
