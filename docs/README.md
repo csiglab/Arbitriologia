@@ -15,6 +15,12 @@
 - Knowledge-Based
 - Data Schema
 
+  ## Data Sources
+  - [Oficina Nacional de Estadística (ONE)](https://www.one.gob.do/)
+  - [Datos Abiertos](https://datos.gob.do/)
+  - Instituciones
+  
+
 ## Tech Stack
 
 - [D3 Plus](https://d3plus.org/)
