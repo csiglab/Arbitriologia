@@ -39,3 +39,4 @@
 - [Data USA](https://datausa.io/)
 - [Google Ngrams](https://books.google.com/ngrams/)
 - [OEC Global Trade](https://oec.world/en)
+- [ckan Open Datasource Management System](https://ckan.org/)
