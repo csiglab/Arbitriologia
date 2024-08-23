@@ -36,6 +36,7 @@
 - Historical Events
 - Economic Clusters
 - International Treates
+- Economic Added Value - > Added Value Errosion
 
   ## Computations
   
