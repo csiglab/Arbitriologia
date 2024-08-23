@@ -38,3 +38,8 @@ Building the product space of countries is a complex process that involves mappi
 - **Dynamic Connections**: Building the space dynamically based on data-driven connections allows for a more flexible and potentially more accurate representation of the product space.
 
 In conclusion, while predefined positions can be useful, the strength and nature of connections between products, based on co-production and related capabilities, will ultimately define the product space. The goal is to create a map that reflects the actual economic and production relationships between products, guiding countries in their economic diversification strategies.
+
+
+## References
+- [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
+- [Japon Country Space](https://atlas.cid.harvard.edu/countries/114/paths)
