@@ -42,4 +42,4 @@ In conclusion, while predefined positions can be useful, the strength and nature
 
 ## References
 - [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
-- [Japon Country Space](https://atlas.cid.harvard.edu/countries/114/paths)
+- [Japon Product Space](https://atlas.cid.harvard.edu/countries/114/paths)
