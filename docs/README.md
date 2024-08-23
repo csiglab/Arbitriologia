@@ -13,7 +13,7 @@
 - Performace Techniques
 - Telemetry
 - Knowledge-Based
-- Data Schemas
+- Data Schema
 
 # References
 
