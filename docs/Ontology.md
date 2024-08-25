@@ -31,6 +31,9 @@
 - Regulations
 - Monetary System
 - Markets
+  -   Labor Market
+  -   Credit Market
+  -   Real State Market
 - Macroeconomics
 - Degrees
 - Services
