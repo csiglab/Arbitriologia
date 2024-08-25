@@ -41,7 +41,8 @@
 - International Treates
 - Economic Added Value - > Added Value Errosion
 - Energy
-
+- Comunications Data
+  - Internet Access ...
 
   ## Computations
   
