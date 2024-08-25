@@ -19,6 +19,9 @@
 - Universities
 - Education
 - Health
+  - Camas por Cada 100 Habitantes
+  - Medicos Por Cada 100 Habibantes
+  - ...
 - Hospitals
 - Institutions Budget
 - Laws
@@ -37,6 +40,7 @@
 - Economic Clusters
 - International Treates
 - Economic Added Value - > Added Value Errosion
+
 
   ## Computations
   
