@@ -1,4 +1,4 @@
-# Ontology
+![image](https://github.com/user-attachments/assets/a7144046-9ff1-4280-bd46-2ffd82e52562)# Ontology
 
 > Think about the ontological model of the Knowledge Base.
 
@@ -52,3 +52,7 @@
   - People Space
   - NGrams
   - ...
+ 
+
+![image](https://github.com/user-attachments/assets/b1004d66-433f-479c-91a2-1f23b66042ca)
+
