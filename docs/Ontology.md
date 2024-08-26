@@ -32,6 +32,9 @@
 - Monetary System
 - Markets
   -   Labor Market
+    - Subemployment
+    - Unemployment (Real)
+    - Crapy Jobs (Informal Jobs)
   -   Credit Market
   -   Real State Market
 - Macroeconomics
