@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7144046-9ff1-4280-bd46-2ffd82e52562)# Ontology
+# Ontology
 
 > Think about the ontological model of the Knowledge Base.
 
