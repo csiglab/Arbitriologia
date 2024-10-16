@@ -6,12 +6,15 @@
 
 - [Fideicomiso Público Privado para la Gestión Integral de Residuos Sólidos](https://dosostenible.gob.do/)
 - [Oportunidades de Exportaciones RD](https://rd.exportpotential.intracen.org/es/)
-- 
+
+## Policy Space
+> List of Polcies
 
 ## Work Space
 > ...
 
 ## Patent Space
+> Productive Policy.
 > ...
 
 References:
@@ -42,6 +45,8 @@ References:
 - [Instituto de Educacion Superior y Consular](https://www.inesdyc.edu.do/)
 - [Direccion General de Alianzas Publicos Privadas](https://dgapp.gob.do/)
 - [Super Intendencia de Bancos](https://sb.gob.do/)
+- [Pro Dominicana](https://prodominicana.gob.do/)
+- [Innova RD](https://innovacionrd.gob.do/)
 
 ## Sistema Nacional de Investigación y Desarrollo
 > ...
@@ -53,6 +58,10 @@ References:
 - [INTEC](https://www.intec.edu.do/)
 - [PUCMM](https://investigacion.pucmm.edu.do/)
 - [UNPHU](https://investigacion.unphu.edu.do/)
+- [Instituto de Innovacion en Biotecnologia e Industria](https://iibi.gob.do/)
+- [Instituto Dominicano de Investigaciones Agropecuarias y Forestales](https://www.idiaf.gob.do/)
+- [La innovación en RD: un recorrido poco alentador y sin valor agregado](https://acento.com.do/opinion/la-innovacion-rd-recorrido-poco-alentador-sin-valor-agregado-8339385.html)
+- [HUB de Innovacion Financiera](https://www.hubifrd.gob.do/en/)
 
 ## Asociaciones
 > ...
@@ -66,6 +75,13 @@ References:
 
 - [SIMBAD](https://simbad.sb.gob.do/superset/dashboard/inicio/)
 
+## Sistema Judicial
+
+- [Consejo Nacional de la Magistratura](https://cnm.gob.do/)
+- [Ministerio Público](https://pgr.gob.do/)
+- https://es.wikipedia.org/wiki/Procurador_general
+- …
+
 ### Multimedia
 > ...
 
@@ -74,8 +90,8 @@ References:
 - ...
 
 ## Data Sources
-> ...
 
+- [ONE](https://www.one.gob.do/)
 - [Oficina Nacional de Estadística (ONE)](https://www.one.gob.do/)
 - [Datos Abiertos](https://datos.gob.do/)
 - [World Integraded Trade Solution](https://wits.worldbank.org/Default.aspx)
@@ -84,4 +100,6 @@ References:
 - [HechoenRD](https://www.hechoenrd.do/)
 - [Solicitud Acceso a la Informacion Publica](https://saip.gob.do/)
 - [Dominican Republic - Growth Lab](https://atlas.cid.harvard.edu/countries/65)
+- [Our World In Data](https://ourworldindata.org/)
+- [Pantheon](https://pantheon.world/)
 - ...
