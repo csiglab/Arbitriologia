@@ -48,12 +48,16 @@
 
 In conclusion, while predefined positions can be useful, the strength and nature of connections between products, based on co-production and related capabilities, will ultimately define the product space. The goal is to create a map that reflects the actual economic and production relationships between products, guiding countries in their economic diversification strategies.
 
-
 ## References
 - [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
 - [Japon Product Space](https://atlas.cid.harvard.edu/countries/114/paths)
 - [The Product Space](https://en.wikipedia.org/wiki/The_Product_Space)
 
+## Sistema Tributario
+> ...
+
+## Sistema Presupuestario
+> ...
 
 ## Work Space
 > ...
