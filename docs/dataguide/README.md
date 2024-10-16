@@ -33,6 +33,8 @@ References:
 ## Asociaciones
 
 - [Conep](https://conep.org.do/)
+- https://www.adoacero.org/
+- [aird](https://aird.org.do/es/)
 - ...
 
 ## References
@@ -43,5 +45,4 @@ References:
 - [Cátalogo de Conjunto de Datos](https://righteous-guardian-68f.notion.site/C-talogo-de-Conjunto-de-Datos-058e637fcc124a4295aa132c869211ea)
 - [Industria RD Estadistica](https://industriasrd.micm.gob.do/)
 - [HechoenRD](https://www.hechoenrd.do/)
-- [aird](https://aird.org.do/es/)
 - ...
