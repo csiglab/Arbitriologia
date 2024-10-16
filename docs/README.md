@@ -2,19 +2,6 @@
 
 > Hidden Engine: Computational **Knowledge Engine** and **Topic Profiles** for the Dominican Republic's State and Society.
 
-## Techniques
-
-- Natural Language Understanding (NLU)
-- Information Retrieval (IR)
-- Named Entity Recognition (NER)
-- Knowledge Representation (Ontology)
-- Data Visualization
-- AB Testing
-- Performace Techniques
-- Telemetry
-- Knowledge-Based
-- Data Schema
-
 ## Tech Stack
 
 - [D3 Plus](https://d3plus.org/)
