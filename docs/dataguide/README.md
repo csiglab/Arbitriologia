@@ -1,13 +1,16 @@
 # Data Guide
 
+## Product Space
+> The "Product Space" is a network-based economic model that maps the relatedness of products, showing how the capabilities needed to produce one product can lead to the development of others, helping to explain patterns of economic diversification.
+
+- [Fideicomiso Público Privado para la Gestión Integral de Residuos Sólidos](https://dosostenible.gob.do/)
+- 
+
 ## Work Space
 > ...
 
 ## Patent Space
 > ...
-
-## Product Space
-> The "Product Space" is a network-based economic model that maps the relatedness of products, showing how the capabilities needed to produce one product can lead to the development of others, helping to explain patterns of economic diversification.
 
 References:
 - [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
