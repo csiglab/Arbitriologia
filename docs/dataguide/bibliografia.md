@@ -1,6 +1,6 @@
 # Bibliografia
 
-> Real-time information gatherin and data analysis.
+> Real-time information gathering and data analysis pertaining to **RD 1.0**.
 
 Tools:
 - Intelligent Tool for Automatic Economic Monitoring
