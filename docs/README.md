@@ -1,4 +1,4 @@
-# Dominic Engineering
+# Dominix Engineering
 
 > Hidden Engine: Computational **Knowledge Engine** and **Topic Profiles** for the Dominican Republic's State and Society.
 
