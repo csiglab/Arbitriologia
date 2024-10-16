@@ -1,4 +1,4 @@
-# Ontology
+# Ontologia
 
 > Think about the ontological model of the Knowledge Base.
 
