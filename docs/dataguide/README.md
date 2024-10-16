@@ -48,6 +48,8 @@ References:
 - [Pro Dominicana](https://prodominicana.gob.do/)
 - [Innova RD](https://innovacionrd.gob.do/)
 - [SISMAP: Sistema de Monitoreo de la Administracion Pública](https://www.sismap.gob.do/Central/Home/About)
+- [Ministerio de Industria, Comercio y Mipymes](https://micm.gob.do/)
+- https://es.wikipedia.org/wiki/Ministerio_del_Interior_y_Policía_(República_Dominicana)
 
 ## Sistema Nacional de Investigación y Desarrollo
 > ...
@@ -102,5 +104,16 @@ References:
 - [Solicitud Acceso a la Informacion Publica](https://saip.gob.do/)
 - [Dominican Republic - Growth Lab](https://atlas.cid.harvard.edu/countries/65)
 - [Our World In Data](https://ourworldindata.org/)
-- [Pantheon](https://pantheon.world/)
-- ...
+- [Brasil in Data](Pantheon](https://pantheon.world/)
+- https://observatorio.ciren.cl/
+- https://argendata.fund.ar/
+- https://data.stat.ee/profile/country/ee/
+- https://www.economia.gob.mx/datamexico/
+- https://data-peru.itp.gob.pe/
+- [OCE: Dominican Republic](https://oec.world/en/profile/country/dom)
+- https://github.com/alexandersimoes/oec
+- https://github.com/cipodu/datosrd
+- https://datausa.io/
+- https://www.argendata.net/
+- https://github.com/Datawheel/oec-website
+- https://data.gov.my/
