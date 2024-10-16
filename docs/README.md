@@ -2,11 +2,6 @@
 
 > Hidden Engine: Computational **Knowledge Engine** and **Topic Profiles** for the Dominican Republic's State and Society.
 
-## Tech Stack
-
-- [D3 Plus](https://d3plus.org/)
-- [Apache ECharts](https://echarts.apache.org/en/index.html)
-
 # References
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
