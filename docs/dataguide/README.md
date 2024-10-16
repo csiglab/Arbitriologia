@@ -34,16 +34,18 @@ References:
 - ...
 
 ## Sistema Nacional de Investigación y Desarrollo
-- 
+> ...
 
 ## Asociaciones
+> ...
 
 - [Conep](https://conep.org.do/)
 - https://www.adoacero.org/
 - [aird](https://aird.org.do/es/)
 - ...
 
-## References
+## Data Sources
+> ...
 
 - [Oficina Nacional de Estadística (ONE)](https://www.one.gob.do/)
 - [Datos Abiertos](https://datos.gob.do/)
@@ -51,4 +53,11 @@ References:
 - [Cátalogo de Conjunto de Datos](https://righteous-guardian-68f.notion.site/C-talogo-de-Conjunto-de-Datos-058e637fcc124a4295aa132c869211ea)
 - [Industria RD Estadistica](https://industriasrd.micm.gob.do/)
 - [HechoenRD](https://www.hechoenrd.do/)
+- ...
+
+### Multimedia
+> ...
+
+- Periodicos
+ - Sitios Web Actores: Empresas, Asociaciones, Estado, ...
 - ...
