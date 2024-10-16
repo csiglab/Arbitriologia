@@ -1,6 +1,6 @@
 # ...
 
-## Administratión Estatal
+## Work Space
 > ...
 
 ## Patent Space
@@ -20,8 +20,9 @@ References:
 ## Sistema Presupuestario
 > ...
 
-## Work Space
+## State Workforce
 > ...
+
 
 ## References
 
