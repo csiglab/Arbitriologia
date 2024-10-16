@@ -2,6 +2,20 @@
 
 > ...
 
+## Administratión Estatal
+> ...
+
+## Patent Space
+> ...
+
+## Product Space
+> ...
+
+## Work Space
+> ...
+
+## ...
+
 ## References
 
 - [Oficina Nacional de Estadística (ONE)](https://www.one.gob.do/)
