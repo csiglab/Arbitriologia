@@ -1,6 +1,7 @@
 # Data Guide
 
 ## Product Space
+
 > The "Product Space" is a network-based economic model that maps the relatedness of products, showing how the capabilities needed to produce one product can lead to the development of others, helping to explain patterns of economic diversification.
 
 - [Fideicomiso Público Privado para la Gestión Integral de Residuos Sólidos](https://dosostenible.gob.do/)
@@ -24,7 +25,7 @@ References:
 ## Sistema Presupuestario
 > ...
 
-## Listado de Empresas
+## Empresas
 > ...
 
 References:
@@ -56,6 +57,14 @@ References:
 - [aird](https://aird.org.do/es/)
 - [Consejo Nacional de la Competitividad](https://cnc.gob.do/)
 
+
+### Multimedia
+> ...
+
+- Periodicos
+- Sitios Web Actores: Empresas, Asociaciones, Estado, ...
+- ...
+
 ## Data Sources
 > ...
 
@@ -66,11 +75,4 @@ References:
 - [Industria RD Estadistica](https://industriasrd.micm.gob.do/)
 - [HechoenRD](https://www.hechoenrd.do/)
 - [Solicitud Acceso a la Informacion Publica](https://saip.gob.do/)
-- ...
-
-### Multimedia
-> ...
-
-- Periodicos
- - Sitios Web Actores: Empresas, Asociaciones, Estado, ...
 - ...
