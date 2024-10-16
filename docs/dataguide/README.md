@@ -26,15 +26,23 @@ References:
 ## Listado de Empresas
 > ...
 
+References:
+- [InfoGuia - Buscador de Empresas en RD](https://infoguia.com.do/?ref=logo)
+
 ## Listado de Instituciones
 > ...
 
--  Presupuesto
+- Presupuesto
 - Empleados
 - ...
 
 ## Sistema Nacional de Investigación y Desarrollo
 > ...
+
+- [CREES - Centro Regional de Estrategias Economicas Sostenibles](https://crees.org.do/)
+- [Obserbatorio Político Dominicano](https://www.opd.org.do/)
+- [Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico](https://mescyt.gob.do/programas/fondocyt/)
+- 
 
 ## Asociaciones
 > ...
@@ -42,7 +50,8 @@ References:
 - [Conep](https://conep.org.do/)
 - https://www.adoacero.org/
 - [aird](https://aird.org.do/es/)
-- ...
+- [Consejo Nacional de la Competitividad](https://cnc.gob.do/)
+- 
 
 ## Data Sources
 > ...
