@@ -50,6 +50,9 @@ References:
 - [Obserbatorio Político Dominicano](https://www.opd.org.do/)
 - [Fondo Nacional de Innovación y Desarrollo Científico y Tecnológico](https://mescyt.gob.do/programas/fondocyt/)
 - [La Fundación Economía y Desarrollo, Inc](https://lafundacion.do/)
+- [INTEC](https://www.intec.edu.do/)
+- [PUCMM](https://investigacion.pucmm.edu.do/)
+- [UNPHU](https://investigacion.unphu.edu.do/)
 
 ## Asociaciones
 > ...
@@ -80,4 +83,5 @@ References:
 - [Industria RD Estadistica](https://industriasrd.micm.gob.do/)
 - [HechoenRD](https://www.hechoenrd.do/)
 - [Solicitud Acceso a la Informacion Publica](https://saip.gob.do/)
+- [Dominican Republic - Growth Lab](https://atlas.cid.harvard.edu/countries/65)
 - ...
