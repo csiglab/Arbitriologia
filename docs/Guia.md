@@ -1,3 +1,0 @@
-# Guia
->  How's To?
-
