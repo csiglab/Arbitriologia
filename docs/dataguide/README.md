@@ -1,6 +1,7 @@
 # Ontology
 
 > Ontological Model for RD 1.0.
+
 > Notes on data sources, data gathering, processing, and storage.
 
 ## List of Entities
