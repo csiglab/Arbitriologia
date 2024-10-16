@@ -1,9 +1,10 @@
 # Ontology
 
-> Think about the ontological model of the Knowledge Base.
-- ¿Which type of entities?
+> Ontological Model for RD 1.0.
+> Notes on data sources, data gathering, processing, and storage.
 
 ## List of Entities
+>  ¿Which type of entities?
 
 - Public Services
 - Provinces
