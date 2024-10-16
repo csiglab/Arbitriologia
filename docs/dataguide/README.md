@@ -30,6 +30,11 @@ References:
 - Empleados
 - ...
 
+## Asociaciones
+
+- [Conep](https://conep.org.do/)
+- ...
+
 ## References
 
 - [Oficina Nacional de Estadística (ONE)](https://www.one.gob.do/)
