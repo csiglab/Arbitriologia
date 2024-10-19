@@ -3,57 +3,9 @@
 > Ontological Model for RD 1.0.
 > Notes on data sources, data gathering, processing, and storage.
 
-## List of Entities
+## Public Service Space
 
-> ¿Which type of entities?
-
-- Public Servants
-- Provinces
-- Municipalities
-- Elections
-- Politicians
-- Industries
-- Exports
-- Imports
-- Universities
-- Education
-- Health
-- Hospitals
-- Institutions Budget
-- Laws
-- State Capacity
-- Occupations
-- Policy
-- Regulations
-- Monetary System
-- Markets
-  - Labor Market
-  - Subemployment
-  - Unemployment (Real)
-  - Crapy Jobs (Informal Jobs)
-  - Credit Market
-  - Real State Market
-- Macroeconomics
-- Degrees
-- Services
-- Products
-- Enterprises
-- Historical Events
-- Economic Clusters
-- International Treates
-- Economic Added Value -> Added Value Errosion
-- Energy
-- Comunications Data
-- Internet Access
-- ...
-
-## Computations
-
-- People Space
-- NGrams
-- ...
-
-![image](https://github.com/user-attachments/assets/b1004d66-433f-479c-91a2-1f23b66042ca)
+> ...
 
 ## Product Space
 
@@ -122,6 +74,10 @@ References:
 - [SISMAP: Sistema de Monitoreo de la Administracion Pública](https://www.sismap.gob.do/Central/Home/About)
 - [Ministerio de Industria, Comercio y Mipymes](https://micm.gob.do/)
 - https://es.wikipedia.org/wiki/Ministerio_del_Interior_y_Policía_(República_Dominicana)
+
+## Servicio Público
+
+> ...
 
 ## Sistema Nacional de Investigación y Desarrollo
 
@@ -210,3 +166,46 @@ References:
 - Gobierno de la República Dominicana → https://presidencia.gob.do/noticias
 - Federal Reserve System                       → https://www.federalreserve.gov/
 - ...
+
+## TODO
+
+> ¿Which type of entities?
+
+- [ ] Provinces
+- [ ]  Municipalities
+- [ ]  Elections
+- [ ]  Politicians
+- [ ]  Industries
+- [ ]  Exports
+- [ ]  Imports
+- [ ]  Universities
+- [ ]  Education
+- [ ]  Health
+- [ ]  Hospitals
+- [ ]  Institutions Budget
+- [ ]  Laws
+- [ ]  State Capacity
+- [ ]  Occupations
+- [ ]  Policy
+- [ ]  Regulations
+- [ ]  Monetary System
+- [ ]  Markets
+  - Labor Market
+  - Subemployment
+  - Unemployment (Real)
+  - Crapy Jobs (Informal Jobs)
+  - Credit Market
+  - Real State Market
+- [ ]  Macroeconomics
+- [ ]  Degrees
+- [ ]  Services
+- [ ]  Products
+- [ ]  Enterprises
+- [ ]  Historical Events
+- [ ]  Economic Clusters
+- [ ]  International Treates
+- [ ]  Economic Added Value -> Added Value Errosion
+- [ ]  Energy
+- [ ]  Comunications Data
+- [ ]  Internet Access
+- [ ]  ...
