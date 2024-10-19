@@ -1,13 +1,6 @@
-# dominix
+# Laboratorium Arbitristae
 
-> Nuestra misión es transformar los datos del Estado Dominicano en conocimientos claros y accesibles, facilitando que todos puedan tomar decisiones informadas y participar activamente en debates trascendentales, ofreciendo una visión completa del Estado Dominicano.
-> Este proyecto es parte de **RD 1.0**, una serie de iniciativas diseñadas para comprender y analizar el Estado, con la intención de transformarlo en la siguiente fase, conocida como **RD 2.0**.
-> Nuestra labor se desarrolla según la estrategia: Modelo Ontológico: Datos de la República Dominicana -> Fichas.
-> Hidden Engine: Computational **Knowledge Engine** and **Topic Profiles** for the Dominican Republic's State and Society.
-
-## Notas Curiosas
-
-- **Dominix** - Combinando 'Dominicus' con un sufijo que implica datos o análisis.
+> ...
 
 ## Linux: Build & Run
 
@@ -32,7 +25,7 @@ En nuestra arca de herramientas, atesoramos:
 - Modelos Estadísticos,
 - Modelos de Aprendizaje Automático,
 - Cibernética,
-- Modelos de la Economía Heterodoxa: Complejidad, Evolutiva, Diseño de Mecanismos,
+- Modelos de la Economía Heterodoxa: ComSTURZENEGGERplejidad, Evolutiva, Diseño de Mecanismos,
 - Modelos de Sistemas Sociales: Confianza, Agente Principal, Acción Colectiva, etc.
 
 ### CS

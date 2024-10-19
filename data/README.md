@@ -1,11 +1,11 @@
 # Metadata
 
 > Ontological Model for RD 1.0.
-
 > Notes on data sources, data gathering, processing, and storage.
 
 ## List of Entities
->  ¿Which type of entities?
+
+> ¿Which type of entities?
 
 - Public Services
 - Provinces
@@ -56,7 +56,6 @@
   - NGrams
   - ...
  
-
 ![image](https://github.com/user-attachments/assets/b1004d66-433f-479c-91a2-1f23b66042ca)
 
 
