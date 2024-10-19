@@ -1,6 +1,6 @@
 # Laboratorium Arbitristae
 
-> ...
+> Investigando y Diseñando Estrategias para la Grandeza Tecnológica y Productiva de la República Dominicana.
 
 ## Linux: Build & Run
 
@@ -12,6 +12,21 @@
 
 - pip freeze > requirements.txt
 - pip install -r requirements.txt
+
+## Locus Problematis
+
+Aquí tienes una versión mejorada y más concisa de tu lista de laboratorios, manteniendo la claridad y el enfoque:
+
+- Laboratorio de Teoría Arbitrista
+- Laboratorio de Políticas Productivas
+- Laboratorio de Políticas Comerciales
+- Laboratorio de Teoría Organizacional
+- Laboratorio de Organización Industrial
+- Laboratorio de Herramientas y Métodos
+- Laboratorio de Políticas Tecnocientíficas
+- Laboratorio de Políticas Macroeconómicas
+- Laboratorio de Sistemas Adaptativos Complejos
+- Laboratorio de Innovación en Sistemas Financieros
 
 ## Locus Instrumenta
 
@@ -27,9 +42,6 @@ En nuestra arca de herramientas, atesoramos:
 - Cibernética,
 - Modelos de la Economía Heterodoxa: ComSTURZENEGGERplejidad, Evolutiva, Diseño de Mecanismos,
 - Modelos de Sistemas Sociales: Confianza, Agente Principal, Acción Colectiva, etc.
-
-### CS
-
 - Natural Language Understanding (NLU)
 - Information Retrieval (IR)
 - Named Entity Recognition (NER)
@@ -40,6 +52,11 @@ En nuestra arca de herramientas, atesoramos:
 - Telemetry
 - Knowledge-Based
 - Data Schema
+
+## Proyectos
+
+- Dominix
+- Domibilis
 
 ## References
 
