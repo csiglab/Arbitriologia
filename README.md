@@ -15,18 +15,11 @@
 
 ## Locus Problematis
 
-Aquí tienes una versión mejorada y más concisa de tu lista de laboratorios, manteniendo la claridad y el enfoque:
-
-- Laboratorio de Teoría Arbitrista
-- Laboratorio de Políticas Productivas
-- Laboratorio de Políticas Comerciales
-- Laboratorio de Teoría Organizacional
-- Laboratorio de Organización Industrial
-- Laboratorio de Herramientas y Métodos
-- Laboratorio de Políticas Tecnocientíficas
-- Laboratorio de Políticas Macroeconómicas
-- Laboratorio de Sistemas Adaptativos Complejos
-- Laboratorio de Innovación en Sistemas Financieros
+- Teoria Organizativa
+- Politica Tecnocientíficas
+- Políticas Productivas
+- Políticas Comerciales
+- ...
 
 ## Locus Instrumenta
 
@@ -34,6 +27,7 @@ Aquí tienes una versión mejorada y más concisa de tu lista de laboratorios, m
 
 En nuestra arca de herramientas, atesoramos:
 
+- Sistemas Adaptativos y Complejos
 - Sistémica,
 - Sistemas Complejos,
 - Modelos Computacionales,

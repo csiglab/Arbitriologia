@@ -7,7 +7,7 @@
 
 > ¿Which type of entities?
 
-- Public Services
+- Public Servants
 - Provinces
 - Municipalities
 - Elections
