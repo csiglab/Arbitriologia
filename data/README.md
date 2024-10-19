@@ -11,7 +11,6 @@
 - Provinces
 - Municipalities
 - Elections
-- Public Servants
 - Politicians
 - Industries
 - Exports
@@ -48,7 +47,7 @@
 - Economic Added Value - > Added Value Errosion
 - Energy
 - Comunications Data
-  - Internet Access ...
+- Internet Access ...
 
   ## Computations
   
