@@ -135,7 +135,7 @@ References:
 - [Solicitud Acceso a la Informacion Publica](https://saip.gob.do/)
 - [Dominican Republic - Growth Lab](https://atlas.cid.harvard.edu/countries/65)
 - [Our World In Data](https://ourworldindata.org/)
-- [Brasil in Data](Pantheon](https://pantheon.world/)
+- [Pantheon](https://pantheon.world/)
 - https://observatorio.ciren.cl/
 - https://argendata.fund.ar/
 - https://data.stat.ee/profile/country/ee/
