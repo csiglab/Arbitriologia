@@ -12,6 +12,17 @@
 
 - **Dominix** - Combinando 'Dominicus' con un sufijo que implica datos o análisis.
 
+## Linux: Build & Run
+
+- python3 -m venv venv
+- source venv/bin/activate
+- deactivate
+
+## Requirements
+
+- pip freeze > requirements.txt
+- pip install -r requirements.txt
+
 ## References
 
 - [RD 1.0: A Critical Examination](https://fantastic-earl-35c.notion.site/RD-1-0-A-Critical-Examination-e15114746a8f44cda60f2e3402cc14d8)
