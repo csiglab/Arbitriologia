@@ -1,4 +1,4 @@
-# Ontology
+# Metadata
 
 > Ontological Model for RD 1.0.
 

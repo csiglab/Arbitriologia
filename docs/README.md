@@ -1,3 +1,0 @@
-# Dominix Engineering
-
-> Project Documentation.
