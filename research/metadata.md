@@ -18,9 +18,6 @@
 - Universities
 - Education
 - Health
-  - Camas por Cada 100 Habitantes
-  - Medicos Por Cada 100 Habibantes
-  - ...
 - Hospitals
 - Institutions Budget
 - Laws
@@ -30,12 +27,12 @@
 - Regulations
 - Monetary System
 - Markets
-  -   Labor Market
-    - Subemployment
-    - Unemployment (Real)
-    - Crapy Jobs (Informal Jobs)
-  -   Credit Market
-  -   Real State Market
+  - Labor Market
+  - Subemployment
+  - Unemployment (Real)
+  - Crapy Jobs (Informal Jobs)
+  - Credit Market
+  - Real State Market
 - Macroeconomics
 - Degrees
 - Services
@@ -44,20 +41,19 @@
 - Historical Events
 - Economic Clusters
 - International Treates
-- Economic Added Value - > Added Value Errosion
+- Economic Added Value -> Added Value Errosion
 - Energy
 - Comunications Data
-- Internet Access ...
+- Internet Access
+- ...
 
-  ## Computations
-  
-  - People Space
-  - NGrams
-  - ...
- 
+## Computations
+
+- People Space
+- NGrams
+- ...
+
 ![image](https://github.com/user-attachments/assets/b1004d66-433f-479c-91a2-1f23b66042ca)
-
-
 
 ## Product Space
 
@@ -67,39 +63,56 @@
 - [Oportunidades de Exportaciones RD](https://rd.exportpotential.intracen.org/es/)
 
 ## Policy Space
+
 > List of Polcies
 
 ## Work Space
+
 > ...
 
 ## Patent Space
+
 > Productive Policy.
 > ...
 
 References:
+
 - [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
 - [Japon Product Space](https://atlas.cid.harvard.edu/countries/114/paths)
 - [The Product Space](https://en.wikipedia.org/wiki/The_Product_Space)
 
 ## Sistema Tributario
+
 > ...
- 
+
 ## Sistema Presupuestario
+
 > ...
 
 ## Empresas
+
 > ...
 
 References:
+
 - [InfoGuia - Buscador de Empresas en RD](https://infoguia.com.do/?ref=logo)
+- https://industriasrd.micm.gob.do/
+- [Grupo Arisa](https://www.grupoabrisa.com/)
+- [Nesplas](https://nesplas.com/)
+- [Arajet](https://en.wikipedia.org/wiki/Arajet)
+- ...
 
 ## Instituciones
+
 > ...
 
 - Presupuesto
 - Empleados
 - ...
 
+- https://www.presidencia.gob.do/
+- https://www.prodominicana.gob.do/
+- https://www.presidencia.gob.do/ministerios
 - [Agenda Digital 2030](https://agendadigital.gob.do/)
 - [Instituto de Educacion Superior y Consular](https://www.inesdyc.edu.do/)
 - [Direccion General de Alianzas Publicos Privadas](https://dgapp.gob.do/)
@@ -111,6 +124,7 @@ References:
 - https://es.wikipedia.org/wiki/Ministerio_del_Interior_y_Policía_(República_Dominicana)
 
 ## Sistema Nacional de Investigación y Desarrollo
+
 > ...
 
 - [CREES - Centro Regional de Estrategias Economicas Sostenibles](https://crees.org.do/)
@@ -126,6 +140,7 @@ References:
 - [HUB de Innovacion Financiera](https://www.hubifrd.gob.do/en/)
 
 ## Asociaciones
+
 > ...
 
 - [Conep](https://conep.org.do/)
@@ -145,6 +160,7 @@ References:
 - …
 
 ### Multimedia
+
 > ...
 
 - Periodicos
@@ -176,3 +192,21 @@ References:
 - https://www.argendata.net/
 - https://github.com/Datawheel/oec-website
 - https://data.gov.my/
+
+## News
+
+- [Listín Diario](http://www.listin.com.do/)      → https://listindiario.com/economia
+- [Hoy](http://www.hoy.com.do/)                   → https://hoy.com.do/secciones/economia/
+- [El Caribe](https://www.elcaribe.com.do/)           → https://www.elcaribe.com.do/seccion/panorama/dinero/
+- [Diario Libre](http://diariolibre.com/)       → https://www.diariolibre.com/economia
+- [El Día](http://www.eldia.com.do/)                → https://eldia.com.do/secciones/economicas/
+- [El Nacional](http://www.elnacional.com.do/)        → https://elnacional.com.do/secciones/economia/
+- [Acento.com.do](http://acento.com.do/)  → https://acento.com.do/seccion/economia.html
+- [El Nuevo Diario](https://elnuevodiario.com.do/) → https://elnuevodiario.com.do/economia/
+- [Asociación de Industrias de la República Dominicana (AIRD)](https://aird.org.do/es/) → https://aird.org.do/es/
+- Ministerio de Economía       → https://mepyd.gob.do/prensa/
+- Ministerio de Industria          → https://micm.gob.do/
+- Ministerio de Hacienda         → https://www.hacienda.gob.do/sala-de-prensa/
+- Gobierno de la República Dominicana → https://presidencia.gob.do/noticias
+- Federal Reserve System                       → https://www.federalreserve.gov/
+- ...
