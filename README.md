@@ -67,3 +67,8 @@ En nuestra arca de herramientas, atesoramos:
 - Tree Map: https://atlas.cid.harvard.edu/countries/114/export-basket
 - Economics: Internatioal Trade->  Growth In Global Markets / https://atlas.cid.harvard.edu/countries/114/growth-dynamics
 - Growth in Global Market Share -> https://atlas.cid.harvard.edu/countries/114/market-share
+- https://github.com/pymupdf/PyMuPDF
+- https://github.com/jsvine/pdfplumber
+- https://camelot-py.readthedocs.io/en/master/
+- https://github.com/camelot-dev/camelot
+- ...
