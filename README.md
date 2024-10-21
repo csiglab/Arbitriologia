@@ -2,6 +2,9 @@
 
 > Investigando y Diseñando Estrategias para la Grandeza Tecnológica y Productiva de la República Dominicana.
 
+![image](https://github.com/user-attachments/assets/2a4a529e-d4ea-49e4-9f46-fe6364f86b92)
+
+
 ## Linux: Build & Run
 
 - python3 -m venv venv
