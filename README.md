@@ -34,7 +34,7 @@ En nuestra arca de herramientas, atesoramos:
 - Modelos Estadísticos,
 - Modelos de Aprendizaje Automático,
 - Cibernética,
-- Modelos de la Economía Heterodoxa: ComSTURZENEGGERplejidad, Evolutiva, Diseño de Mecanismos,
+- Modelos de la Economía Heterodoxa: Complejidad, Evolutiva, Diseño de Mecanismos,
 - Modelos de Sistemas Sociales: Confianza, Agente Principal, Acción Colectiva, etc.
 - Natural Language Understanding (NLU)
 - Information Retrieval (IR)
