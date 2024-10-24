@@ -27,6 +27,11 @@
 > Productive Policy.
 > ...
 
+## Enterprise Space
+
+- [Fersan](https://www.fersan.com.do/)
+- ...
+
 References:
 
 - [Israel Product Space](https://atlas.cid.harvard.edu/countries/110/paths)
