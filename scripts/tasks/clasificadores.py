@@ -5,7 +5,7 @@ import pymupdf4llm
 
 # Parametros
 
-ruta  = ""
+ruta  = "/home/dvictoriano/Downloads/Clasificador-Institucional.pdf"
 
 class Clasificador:
     def __init__(self) -> None:
