@@ -1,3 +1,0 @@
-# Tasks
-
-- List of Jobs

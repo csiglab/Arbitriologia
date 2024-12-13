@@ -50,12 +50,15 @@ En nuestra arca de herramientas, atesoramos:
 - Data Schema
 - [Apache Airflow](https://airflow.apache.org/)
 - [Filesystem](https://github.com/PyFilesystem/pyfilesystem2)
+- Duckdb
+- Gzip
+
+## Data Storage
+
+- Storage each dataset / schema in an `Apache Avro` File.
+- Generate a schema file, schema.json. [This is just for reader easy; Avro Tools handle the reading of the files].
+- Store the datasets in a `gzip file` in linux.
 - ...
-
-## Proyectos
-
-- Dominix
-- Domibilis
 
 ## References
 
