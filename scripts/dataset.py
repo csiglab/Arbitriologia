@@ -1,6 +1,6 @@
 class Dataset:
 
-    def __init__(self, name=None, schema=None, data=None):
+    def __init__(self, name=None, schema=None, records=None, metadata = None):
         """
         Initialize the Dataset class.
 
@@ -9,6 +9,7 @@ class Dataset:
             schema (dict, optional): Schema of the dataset as a dictionary (e.g., column names and types).
             data (pd.DataFrame, optional): A pandas DataFrame containing the data.
         """
-        self.data = data
+        self.records = records
         self.name = name
         self.schema = schema
+        self.metadata =  metadata
