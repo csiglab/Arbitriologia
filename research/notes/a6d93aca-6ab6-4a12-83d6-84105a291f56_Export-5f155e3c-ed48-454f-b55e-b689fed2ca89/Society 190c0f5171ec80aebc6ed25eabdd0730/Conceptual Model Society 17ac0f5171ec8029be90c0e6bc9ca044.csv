@@ -1,0 +1,349 @@
+﻿Name,Tags,Property
+ROI,Investment,3
+Tax,,3
+IPO,"Finance, Investment",3
+Risk,,4
+Cost,"Accounting, Operation",4
+Land,,4
+Debt,,4
+Work,,4
+Good,,4
+Good,,4
+Bond,Investment,4
+Loan,Investment,4
+Scale,Business,5
+Value,,5
+Agent,,5
+Elite,,5
+Value,,5
+Trust,,5
+Trade,,5
+Actor,,5
+Sales,"Laboratory, Sales",5
+Trade,,5
+Brand,,5
+Value,,5
+House,Real State,5
+Share,Investment,5
+Asset,Accounting,5
+Saving,,6
+Income,,6
+Wealth,,6
+Family,,6
+Market,,6
+Wealth,,6
+Demand,,6
+Market,,6
+Credit,Investment,6
+Linkage,,7
+Tarrifs,Economics,7
+Synergy,,7
+Utility,,7
+Culture,,7
+Culture,,7
+Pricing,,7
+Tax Law,"Laboratory, Legal",7
+Utility,,7
+Linkage,,7
+Synergy,,7
+Customer,Persona,8
+Exchange,,8
+Commerce,,8
+Identity,,8
+Progress,,8
+Contract,,8
+Industry,,8
+Pobrismo,,8
+Spin-Off,,8
+Violence,,8
+Nepotism,,8
+Georgism,,8
+Hittites,,8
+"Product ",Laboratory,8
+Business,Business,8
+Strategy,Strategy,8
+Building,Real State,8
+Upgrading,,9
+Inflation,,9
+Pechenegs,,9
+Spillover,,9
+Deflation,,9
+Hierarchy,,9
+Sociality,,9
+Recession,,9
+Invoicing,,9
+Budgeting,,9
+Valuation,"Accounting, Finance",9
+Logistics,Logistics,9
+Inventory,Inventory,9
+Marketing,"Laboratory, Marketing",9
+Licensing,Business,9
+Colocation,,10
+Efficiency,,10
+Elasticity,,10
+Kuomintang,,10
+Enterprise,Business,10
+Investment,Investment,10
+Bronze Age,,10
+Capitalism,,10
+Free Trade,,10
+Monopolies,,10
+Conformity,,10
+Corrupcion,,10
+Resilience,,10
+Psychology,,10
+Leadership,,10
+Real State,,10
+E-commerce,"Laboratory, Marketing, Sales",10
+Efficiency,,10
+Elasticity,,10
+Management,Governance,10
+Marketplace,,11
+Value Chain,,11
+Consumption,,11
+Institution,,11
+Marginalism,,11
+IS-LM Model,,11
+Stagflation,,11
+Citizenship,,11
+Competition,,11
+Supervision,,11
+Physiocrats,,11
+Social Ties,,11
+Public Debt,,11
+AD–AS Model,,11
+Catching-Up,,11
+Procurement,Inventory,11
+Consumption,,11
+Value Chain,Laboratory,11
+Marketplace,,11
+Pig Farming,Research,11
+Derivatives,Investment,11
+Advertising,,11
+Labor Market,,12
+Productivity,,12
+Kalmar Union,,12
+Song Dynasty,,12
+Roman Empire,,12
+Soviet Union,,12
+Central Asia,,12
+Central Bank,,12
+Etnofaulismo,,12
+Price System,,12
+Public Goods,,12
+Social Value,,12
+Social Order,,12
+Commoditized,,12
+Original Sin,,12
+Capital Good,,12
+Breton Woods,,12
+Colapsología,,12
+Coordination,,12
+Pornomiseria,,12
+Crematística,,12
+Social Group,,12
+Mercantilism,,12
+Depreciation,Accounting,12
+Supply Chain,Logistics,12
+Food Biotech,,12
+Productivity,,12
+Contract Law,"Laboratory, Legal",12
+Commoditized,,12
+Intelligence,Laboratory,12
+Reinvestment,Investment,12
+Archivística,,12
+Mercadologia,,12
+Multinational,Business,13
+Market Design,,13
+Fiscal Policy,,13
+Slavic People,,13
+Imperio Parto,,13
+Mongol Empire,,13
+Economic Rent,,13
+Paris Commune,,13
+World History,,13
+Social Choice,,13
+Herd Behavior,,13
+Social Action,,13
+Human Capital,,13
+Dutch Disease,,13
+Socialization,,13
+Exchange Rate,,13
+Protectionism,,13
+External Debt,,13
+Action Theory,,13
+Social System,,13
+Multinational,,13
+Variable Rent,Investment,13
+Market Failure,,14
+Specialization,,14
+British Empire,,14
+Russian Empire,,14
+Banking System,,14
+Liquidity trap,,14
+Economic Cycle,,14
+Resource Curse,,14
+Libertarianism,,14
+Private Equity,,14
+Phillips Curve,,14
+Hyperinflation,,14
+Public Finance,,14
+Social Physics,,14
+Digitalization,,14
+Transportation,Logistics,14
+Business Model,"Business, Laboratory",14
+Theory of Firm,Laboratory,14
+Business Cycle,,14
+Market Tracker,,14
+Private Equity,Investment,14
+Tagging System,,14
+Market Analysis,Marketing,15
+Path Dependency,,15
+Learning Curves,,15
+Economic Growth,,15
+Competitiveness,,15
+Triffin dilemma,,15
+South East Asia,,15
+Monetary System,,15
+Thirlwall's Law,,15
+Capital Account,,15
+Social Mobility,,15
+Digital Society,,15
+Human Geography,,15
+Matching Theory,,15
+Digital Economy,,15
+Social Behavior,,15
+Economic Crisis,,15
+Critical Theory,,15
+Social Movement,,15
+Price Discovery,,15
+Competitiveness,,15
+Digital Currency,,16
+Knowledge Broker,,16
+Business Process,Business,16
+Technical Change,,16
+Reserve Currency,,16
+Social Movements,,16
+Financial Market,,16
+Entrepreneurship,,16
+Aggregate Demand,,16
+On Collaboration,,16
+Social Structure,,16
+Export Deflation,,16
+"Contract Theory ",,16
+Mechanism Design,,16
+"Contract Theory ",,16
+Futures Contract,Investment,16
+Real State Market,,17
+Prediction Market,,17
+Market Saturation,,17
+Productive Policy,,17
+Economic of Scale,,17
+Market Efficiency,,17
+Portuguese Empire,,17
+Public Management,,17
+Arabian Peninsula,,17
+Money (+Currency),,17
+Eurodollar System,,17
+Political Parties,,17
+Product Lifecycle,,17
+Spontaneous Order,,17
+Ringelmann effect,,17
+Social Complexity,,17
+Social Psychology,,17
+Economic Research,,17
+Prediction Market,,17
+Real State Market,,17
+Market Saturation,,17
+Order Fulfillment,,17
+Corporate Strategy,"Business, Strategy",18
+Economies of Scope,,18
+Decreasing Returns,,18
+Global Value Chain,,18
+Social Interaction,,18
+Middle-Income Trap,,18
+Input-Output Model,,18
+Consumer Behaviour,,18
+Increasing Returns,,18
+Prosocial Behavior,,18
+Economic Complexity,,19
+Algorithmic Trading,,19
+Product Development,,19
+Absorptive Capacity,,19
+Complementary Goods,,19
+Stock Market System,,19
+Restricción externa,,19
+Production Function,,19
+Cultural Generation,,19
+Virtual Communities,,19
+Cournot Competition,,19
+Technical Knowledge,,19
+Startup Accelerator,,19
+Value-added Erosion,,19
+Supply/Demand Model,Economics,19
+International Trade,,19
+Point of Sale (POS),,19
+Distribution Center,Logistics,19
+Operational Strategy,Strategy,20
+Economies of Density,,20
+Productivity S-curve,,20
+Industrial Upgrading,,20
+World Energy History,,20
+Eastern Roman Empire,,20
+Social Credit System,,20
+Creative Destruction,,20
+Washington Consensus,,20
+Society Polarization,,20
+Neo-Classical School,,20
+Social Recognization,,20
+Corporate Governance,Governance,20
+Agricultural Biotech,,20
+Human Resources (HR),,20
+Management Consulting,,21
+Management Accounting,Accounting,21
+Allocative efficiency,,21
+Organizational Theory,,21
+Diseconomies of scale,,21
+Comparative Advantage,,21
+Theory of Constraints,,21
+Commercial Revolution,,21
+Competitive Advantage,,21
+Organizational Theory,,21
+Merger and Acquisition,"Business, Strategy",22
+Minimum Viable Product,Product Development,22
+Technological Transfer,,22
+R&D Project Management,,22
+Economic Externalities,,22
+Social Learning Theory,,22
+Socio-Technical System,,22
+International Business,Business,22
+Foreign Exchange Market,,23
+Subcontracting Linkages,,23
+Chinese Communist Party,,23
+Global Economic History,,23
+Industrial Organization,,23
+Product Differentiation,,23
+Collective Intelligence,,23
+Economic Diversification,,24
+"Exit, Voice, and Loyalty",,24
+Structural Transformation,,25
+Factor Price Equalization,,25
+Good Nomenclature  System,,25
+Technological Capabilities,,26
+Scientific Research System,,26
+General Equilibrium Theory,,26
+Prebisch–Singer Hypothesis,,26
+Financial market efficiency,,27
+Commodities Trading Systems,,27
+Total Cost of Ownership (TCO),Accounting,29
+Organizational Learning Models,Business,30
+Organizational Ownership Models,Business,31
+Organizational Ownership Models,,31
+"Foreign Direct Investment (FDI) ",,32
+Cobb–Douglas production function,,32
+National Innovation System (NIS),,32
+Schelling's Model of Segregation,,32
+Enterprise Information Flow Models,,34
+"Real Business-cycle Theory (RBC Theory) ",,40
+Non-bank Financial Intermediaries (NBFIs),,41
+Dynamic Stochastic General Equilibrium Models,,45

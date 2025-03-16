@@ -1,0 +1,95 @@
+﻿Name,Problem,Tags,Property
+Food,Food,"Food, Problem",4
+Sports,Enterteiment,Problem,6
+Energy,Energy,"Energy, Problem, Technology",6
+Mining,Material,Mining,6
+Textile Technology,,Technology,18
+Printing,,Printing,8
+Material,,"Material, Problem",8
+Finance,,"Finance, Problem",7
+Furniture,,"Material, Problem",9
+Healthcare,,"Healthcare, Problem",10
+Construction,,"Construction, Problem",12
+Transportation,,"Problem, Transportation",14
+Personal Care,,Problem,13
+Manufacturing,,"Problem, Technology",13
+Personal Protection,,Problem,19
+Waste Management,,Problem,16
+Bicycle,,Technology,7
+Elevator,,Technology,8
+Sewing Machine,,Technology,14
+Printing Press,,"Printing, Technology",14
+Metals Technology,,Technology,17
+Gas Lighting,,Technology,12
+Plastic Technology,,Technology,18
+Submarine,,Technology,9
+Material Science,,Technology,16
+Waterproof Fabrics Technology,,Technology,29
+Digital Manufacturing,,"Manufacturing, Technology",21
+Fabrication Technology,,"Manufacturing, Technology",22
+Electric Telegraph Cable,,Technology,24
+Sports Technology,,Technology,17
+Paper Technology,,Technology,16
+Optical Telegraph,,Technology,17
+Engine Technology,,Technology,17
+Telegraph,,Technology,9
+Typewriter,,Technology,10
+Linotype machine,,Technology,16
+Electronics Technology,,Technology,22
+Balloon,,Technology,7
+Incandescent Lamp,,Technology,17
+Photography,,Technology,11
+Packaging Technology,,Technology,20
+Chemical Technology,,"Chemical Technology, Technology",19
+Locomotive,,Technology,10
+Electroagriculture,,"Agriculture, Technology",18
+Automobile,,"Technology, Transportation",10
+Coating,,Technology,7
+Anesthesia,,Technology,10
+HVAC Technology,,Technology,15
+Steam Engine,,Technology,12
+Chemical Processing Technology,,"Chemical Technology, Technology",30
+Internal Combustion Engine,,Technology,26
+Vaccination,,Technology,11
+Wood Technology,,Technology,15
+Cotton Gin,,Technology,10
+Genetic Technology,,"Biotechnology, Genetic Technology, Technology",18
+Precision Agriculture Technology,,Technology,32
+Biotechnology,,"Biotechnology, Chemical Technology, Material, Technology",13
+Preservation,,"Agriculture, Chemical Technology, Material, Preservation Technology",12
+Refrigeration,,Technology,13
+Printed Circuit Board,,"Electronics, Semiconductor, Technology",21
+Plant Breeding Technology,,"Genetic Technology, Technology",25
+Crop Improvement  Technology,,"Genetic Technology, Technology",28
+Food Technology,,Technology,15
+Aerospace Technology,,Technology,20
+Breeding Technology,,"Genetic Technology, Technology",19
+Waste Management Technology,,"Technology, Waste Management",27
+Synthetic Food Technology,,Technology,25
+Computer-aided Manufacturing (CAM),,Technology,34
+"Computer-aided Design (CAD) ",,Technology,28
+Marine Technology,,Technology,17
+Computer Numerical Control (CNC),,Technology,32
+Ship,,"Technology, Transportation",4
+Nuclear Reactor,,"Energy, Technology",15
+High Purity Chemicals Technology,,Technology,32
+Nuclear Energy,,"Energy, Technology",14
+Hydrodesulfurization,,"Chemical Technology, Technology",20
+Robotics,,Technology,8
+Industrial Hemp,,Raw Material,15
+Wafer,,"Electronics, Semiconductor, Technology",5
+Semiconductor,,"Semiconductor, Technology",13
+Cotton-spinning Machinery,,"Legacy, Machine Tool, Technology",25
+Coal,,Raw Material,4
+Charcoal,,Raw Material,8
+Pharmaceutical,,Technology,14
+Ladrillo,,Raw Material,8
+Arcilla,,Raw Material,7
+Fiber,,Raw Material,5
+Display Device,,"Electronics, Technology",14
+Laser Technology,,Technology,16
+Recycling Technology,,"Technology, Waste Management",20
+Construction Technology,,Technology,23
+Mining Technology,,Technology,17
+Refining Technology,,Technology,19
+Information Technology (Infotecnica)(Tecnocomputacional),,"Information Technology, Technology",56

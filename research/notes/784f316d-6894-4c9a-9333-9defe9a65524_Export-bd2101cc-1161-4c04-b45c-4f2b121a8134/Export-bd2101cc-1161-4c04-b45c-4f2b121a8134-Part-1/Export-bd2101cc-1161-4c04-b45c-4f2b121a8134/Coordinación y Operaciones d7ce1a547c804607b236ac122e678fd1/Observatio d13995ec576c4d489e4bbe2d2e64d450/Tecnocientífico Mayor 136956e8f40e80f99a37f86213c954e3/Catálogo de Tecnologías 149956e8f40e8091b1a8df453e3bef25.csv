@@ -1,0 +1,14 @@
+﻿Name,Problem,Tags,Property
+Food,Food,"Food, Problem",4
+Sports,Enterteiment,Problem,6
+Energy,Energy,"Energy, Problem, Technology",6
+Material,,"Material, Problem",8
+Finance,,"Finance, Problem",7
+Furniture,,"Material, Problem",9
+Healthcare,,"Healthcare, Problem",10
+Construction,,"Construction, Problem",12
+Transportation,,"Problem, Transportation",14
+Personal Care,,Problem,13
+Manufacturing,,"Problem, Technology",13
+Personal Protection,,Problem,19
+Waste Management,,Problem,16
