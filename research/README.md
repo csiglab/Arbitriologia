@@ -27,6 +27,9 @@
 
 ## Laboratorios
 
+- Maestroindustria Mayor
+- Tecnocientifico  Mayor
+- Maestro-materia-prima Mayor
 - Laboratorio de Teoría Arbitrista
 - Laboratorio de Políticas Productivas
 - Laboratorio de Políticas Comerciales
