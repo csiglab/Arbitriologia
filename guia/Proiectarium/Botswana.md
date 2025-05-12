@@ -113,4 +113,6 @@ These tables provide a detailed breakdown of the various systems and subsystems 
 
 ## References
 
-- https://en.wikipedia.org/wiki/Botswana
+- [Botswana](https://en.wikipedia.org/wiki/Botswana)
+
+- [Economyn of Botwana](https://en.wikipedia.org/wiki/Economy_of_Botswana)

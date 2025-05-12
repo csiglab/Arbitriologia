@@ -38,3 +38,7 @@
 - Laboratorio de Políticas Tecnocientíficas
 - Laboratorio de Teoría y Practica Organizacional
 - Laboratorio de Innovación en Sistemas Financieros
+
+## References
+
+* [Designing a Study Blueprint for National Economic Strategy](https://windy-parent-de9.notion.site/Designing-a-Study-Blueprint-for-National-Economic-Strategy-1eed38c7497c802ba7c9c6fa671f0210)

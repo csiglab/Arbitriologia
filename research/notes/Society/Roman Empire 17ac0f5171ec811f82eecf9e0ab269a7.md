@@ -21,3 +21,6 @@ mineros antiguos en la Península Ibérica. Investigaciones recientes y nuevas l
 - https://en.wikipedia.org/wiki/Mare_Nostrum
 - https://en.wikipedia.org/wiki/Roman_commerce
 - https://www.labrujulaverde.com/2023/10/centuriacion-el-complejo-sistema-de-reparto-de-tierras-en-la-antigua-roma
+
+
+- [The Almost-Industrial Revolutions of Rome and China](https://www.youtube.com/watch?v=yKk4_Cgoptg)
