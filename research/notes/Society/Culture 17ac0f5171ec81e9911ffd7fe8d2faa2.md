@@ -22,9 +22,18 @@ DO:
 - Test your definitions
 - Ground abstract ideas
 - Reveal contradictions or blind spots
-- ...
+- Develoop a set of examples of global behavior or structure; that emerges naturally - withtout an agent conditionning.
 
 > Culture is not a system but an emergent pattern produced by interacting agents operating under structured conditions (institutions, norms, incentives, technologies). It persists through feedback loops, but is not reducible to any of its parts or stable over time. The term “cultural system” should only be used with caution—and only when these emergent patterns show self-stabilization and structural feedback.
+
+## To Be Explained
+
+- Cultural Institutions that seems to have not designers; let' say regiluous / magical ars practices,
+- Institutions like tax collection;
+- Educational institudes,
+- Passing thorugh red light;
+- Universailty test,
+- 
 
 ## Conceptaul Taxonomy
 
