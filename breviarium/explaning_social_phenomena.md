@@ -117,7 +117,7 @@ Exactly. Social systems—especially those as complex as the interplay between m
    - Not all "military spending" is equal. A naval power (Britain) uses force differently than a land empire (Russia).  
    - Key agents (entrepreneurs, bureaucrats, scientists) interact unpredictably—e.g., DARPA’s loose management style allowed serendipitous innovation, while top-down Soviet R&D stifled it.  
 
-### Why Reductionism Fails  
+### Why Reductionism Fails
 - **No Single Lever**: You can’t just "increase military spending" or "abolish the army" and predict outcomes—the same input may have opposite effects in different contexts.  
 - **History is Path-Dependent**: Spain’s 16th-century militarism operated under feudal constraints; France’s 19th-century militarism coexisted with industrialization. The *same* variable behaves differently across time/space.  
 - **Trade-offs Are Unavoidable**: Even "successful" military-industrial systems (e.g., U.S. Cold War tech) create distortions (e.g., over-reliance on defense contractors, regional inequality).  
@@ -163,3 +163,16 @@ The question isn’t *whether* military power affects progress, but *how it inte
 ## References
 
 - Look at my entry of culture;
+
+- https://www.researchgate.net/profile/Tian-Chen-Zeng
+
+- https://scholar.google.com/citations?user=XjxueRYAAAAJ&hl=en
+
+
+- https://www.youtube.com/watch?v=dYuNJSilRMo
+
+- https://www.youtube.com/watch?v=0nMXYdayQIU
+
+- https://www.youtube.com/watch?v=S4fOJvAL9E0&t=290s
+
+- ...

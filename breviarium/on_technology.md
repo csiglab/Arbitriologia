@@ -14,6 +14,18 @@
 
 > ...
 
+- Actor-Network Theory (Latour): Treats radar as part of a network (humans, algorithms, airspace laws). But it may dilute power analysis.
+
+- Cyborg Theory (Haraway): Sees radar as blurring human/machine. But it’s less focused on material contradictions.
+
+- Postphenomenology (Ihde): Examines how radar mediates experience. But it may underplay political economy.
+
+A one-sided focus on radar as a technical object or phenomenotechnique risks either:
+
+    Fetishizing its materiality (ignoring its sociopolitical dimensions), or
+
+    Overemphasizing its knowledge-production (ignoring its biases and failures).
+
 ## References
 
 [1] [Wikipedia: Technology](https://en.wikipedia.org/wiki/Technology)
