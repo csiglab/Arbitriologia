@@ -17,4 +17,3 @@ This can occur due to various reasons, such as:
 - Clark, G. “Why Isn’t the Whole World Developed? Lessons from the Cotton Mills.” Journal of Economic History (March 1987).
 - Stiglitz, J. “Markets, Market Failures and Development,” American Economic Review 79 (1989).
 - North, D. C. “Institutions, Transactions Costs and Economic Growth.” Economic Inquiry 25 (1987).
-- North, D. C. “Institutions, Transactions Costs and Economic Growth.” Economic Inquiry 25 (1987).

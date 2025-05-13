@@ -1,9 +1,6 @@
 # Roman Empire
 
-: 12
-
 > …
-> 
 
 ## References
 
@@ -24,3 +21,7 @@ mineros antiguos en la Península Ibérica. Investigaciones recientes y nuevas l
 
 
 - [The Almost-Industrial Revolutions of Rome and China](https://www.youtube.com/watch?v=yKk4_Cgoptg)
+
+- https://es.wikipedia.org/wiki/Erg%C3%A1stulo
+
+- https://en.wikipedia.org/wiki/Amphora
