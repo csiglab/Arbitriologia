@@ -61,9 +61,79 @@ Principles
 | **1980s-2000s** | **Neoliberalism** | François Mitterrand (shift in later term), Jacques Chirac | Deregulation, privatization, reduced state intervention | The privatization of many state-owned enterprises resulted in a shift towards a more market-oriented economy. |
 | **2000s-Present** | **Innovation and Digital Economy** | Emmanuel Macron, various tech leaders | Support for startups, digital transformation, global competitiveness | Emphasizes innovation, entrepreneurship, and positioning France as a leader in the tech industry. |
 
+## France Regional Government System
+
+> ...
+
+France's regional government model is a **unitary but decentralized system**. This means that while ultimate authority lies with the central state, powers are devolved to local levels. The regional structure consists of several tiers of subnational government:
+
+---
+
+### 🗺️ **Levels of Local Government in France**
+
+1. **Communes** (≈ 34,900)
+
+   * Smallest administrative units (villages, towns, cities).
+   * Each has a **mayor (maire)** and a **municipal council**.
+   * Handle local services like schools, utilities, and permits.
+
+2. **Departments (Départements)** (101)
+
+   * Intermediate level, created during the French Revolution.
+   * Each has a **Departmental Council**.
+   * Responsibilities: social services, departmental roads, middle schools, public transport.
+
+3. **Regions (Régions)** (18, including 5 overseas)
+
+   * Largest subnational entities.
+   * Each has a **Regional Council** and a **President of the Regional Council**.
+   * Responsibilities: economic development, vocational training, high schools, transport infrastructure, environmental planning.
+
+---
+
+### 🧭 **Governance Features**
+
+* **Decentralization Laws**: Since the 1980s (notably the **Deferre Laws**, 1982), France has pursued decentralization to give more autonomy to regions and departments.
+* **No Federalism**: Despite decentralization, France is not a federal state. Local governments operate under the oversight of the central state through **prefects** (appointed by the national government).
+
+---
+
+### 🏛️ **Key Institutions**
+
+* **Regional Council (Conseil régional)**:
+
+  * Elected every 6 years.
+  * Proportional representation with a majority bonus system.
+  * Manages regional affairs and budget.
+
+* **President of the Regional Council**:
+
+  * Chief executive of the region.
+  * Coordinates regional policies and budget execution.
+
+* **Prefect (Préfet)**:
+
+  * Appointed by the national government.
+  * Ensures local adherence to national laws.
+  * Has veto powers over local decisions that violate law.
+
+---
+
+### 🔄 Recent Reforms
+
+* **2015 Territorial Reform**:
+
+  * Reduced number of mainland regions from 22 to 13.
+  * Goal: increase economic efficiency, reduce administrative fragmentation.
+
 ## References
 
 - [List of largest French companies](https://en.wikipedia.org/wiki/List_of_largest_French_companies)
+
 - https://es.wikipedia.org/wiki/Estados_generales_de_Francia
+
 - https://es.wikipedia.org/wiki/Cuadernos_de_quejas
+
 - https://es.wikipedia.org/wiki/Estados_generales_de_Francia
+
+- https://www.bretagne.bzh/
