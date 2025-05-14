@@ -1,0 +1,6 @@
+# Index of Financial Technology Access
+
+: 36
+
+- Indice de Bancarizacion …
+- …

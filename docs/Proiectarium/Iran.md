@@ -1,0 +1,147 @@
+# Iran
+
+Tags: Observatorio
+ID: PRO-1313
+L: 4
+Status: Not started
+
+> Here's a table outlining the **types of systems** and **subsystems** that should be studied when profiling a country:
+> 
+
+## Index
+
+## Brevario
+
+- Economic History
+- Economic Statecraft Institutions
+- R&D Actors
+- Industrial Policy
+- Economic Sectors
+- Economic Statesman
+
+## Economic System
+
+> The economic system of a country encompasses all activities related to the production, distribution, and consumption of goods and services.
+> 
+
+| Subsystem | Focus Areas | Metrics |
+| --- | --- | --- |
+| Macroeconomic Indicators | Economic performance, growth trends, income distribution |  |
+| Economic Sectors | Sectoral contributions, productivity, industrial development |  |
+| Trade and Commerce | Trade balance, major trading partners, trade policies |  |
+| Financial System | Financial stability, investment climate, capital markets |  |
+| Economic History | … |  |
+| Economic Statecraft Institutions | … |  |
+| Industrial Policy | … |  |
+|  |  |  |
+
+## Technological System
+
+> The technological system of a country involves its innovation capabilities and technological infrastructure.
+> 
+
+| Subsystem | Focus Areas | Metrics |
+| --- | --- | --- |
+| Research and Development (R&D) | Innovation capacity, R&D spending, technological advancements |  |
+| Information and Communication Technology (ICT) | Digital infrastructure, internet penetration, ICT policies |  |
+| Industrial and Technological Infrastructure | Technological capabilities, industrial base, innovation ecosystems |  |
+
+## R&D Institutions
+
+Here is the updated table with the founding year of each institution included:
+
+| **Institution Name** | **Field of Research** | **Location** | **Year Established** |
+| --- | --- | --- | --- |
+| Iranian Research Organization for Science and Technology (IROST) | Science and Technology | Tehran | 1980 |
+| Atomic Energy Organization of Iran (AEOI) | Nuclear Energy and Technology | Tehran | 1974 |
+| Institute for Research in Fundamental Sciences (IPM) | Fundamental Sciences | Tehran | 1989 |
+| National Institute of Genetic Engineering and Biotechnology (NIGEB) | Genetic Engineering and Biotechnology | Tehran | 1989 |
+| Pasteur Institute of Iran | Medical and Health Sciences | Tehran | 1920 |
+| Royan Institute | Stem Cell Research and Reproductive Biomedicine | Tehran | 1991 |
+| Sharif University of Technology Research Institute | Engineering and Technology | Tehran | 1966 |
+| Amirkabir University of Technology Research Institute | Engineering and Technology | Tehran | 1958 |
+| Iran University of Science and Technology Research Center | Engineering and Technology | Tehran | 1929 |
+| Institute for Advanced Studies in Basic Sciences (IASBS) | Basic Sciences | Zanjan | 1991 |
+| Petroleum University of Technology | Petroleum and Energy Research | Abadan, Tehran | 1939 |
+| Iran Polymer and Petrochemical Institute | Polymer and Petrochemical Research | Tehran | 1986 |
+| Iranian Space Research Center (ISRC) | Space and Satellite Technology | Tehran | 2000 |
+| Razi Vaccine and Serum Research Institute | Veterinary and Vaccine Research | Karaj | 1925 |
+| Agricultural Biotechnology Research Institute of Iran (ABRII) | Agricultural Biotechnology | Karaj | 1999 |
+| Research Institute of Forests and Rangelands | Environmental and Agricultural Research | Tehran | 1968 |
+| Materials and Energy Research Center (MERC) | Materials Science and Energy Research | Karaj | 1979 |
+| Iranian National Institute for Oceanography and Atmospheric Science (INIOAS) | Oceanography and Atmospheric Science | Tehran | 1992 |
+
+If you need further details or have other questions, please ask!
+
+## Political System
+
+> The political system of a country involves the structure and processes of its government and political institutions.
+> 
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| Government Structure | Governance, policy-making processes, political stability |
+| Political Parties and Ideologies | Political landscape, party policies, electoral system |
+| Legal and Regulatory Framework | The rule of law, regulatory environment, corruption |
+
+## Social System
+
+> The social system of a country includes the demographic, educational, and health aspects of its population.
+> 
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| Demographics | Population trends, urbanization, migration patterns |
+| Education and Literacy | The education system, literacy rates, educational attainment |
+| Health and Healthcare | Healthcare infrastructure, health indicators, public health policies |
+
+## Cultural System
+
+The cultural system of a country encompasses its traditions, languages, religions, and cultural practices.
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| Language and Religion | Linguistic diversity, religious practices, cultural norms |
+| Arts and Heritage | Cultural heritage, arts scene, national traditions |
+| Media and Communication | Media landscape, freedom of the press, digital connectivity |
+
+## Environmental System
+
+The environmental system of a country includes its natural resources, climate, and environmental policies.
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| Natural Resources | Resource availability, environmental sustainability, conservation |
+| Climate and Weather Patterns | Climate zones, weather impacts, climate change vulnerability |
+| Environmental Policies and Regulations | Environmental protection, pollution control, sustainability efforts |
+
+## Infrastructure System
+
+The infrastructure system of a country covers its transportation networks, utilities, and urban development.
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| Transportation | Transportation networks, connectivity, logistics |
+| Utilities | Utility infrastructure, access to services, energy production |
+| Housing and Urban Development | Urban planning, housing quality, urbanization trends |
+| Energy System | … |
+
+## Security System
+
+The security system of a country includes its defense, public safety, and cybersecurity measures.
+
+| Subsystem | Focus Areas |
+| --- | --- |
+| National Defense | Military capabilities, defense expenditure, strategic alliances |
+| Public Safety | Law enforcement, crime statistics, emergency response systems |
+| Cybersecurity | Cyber threats, cybersecurity policies, digital security measures |
+
+These tables provide a detailed breakdown of the various systems and subsystems that should be studied when profiling a country, offering insights into their focus areas.
+
+## References
+
+- How do you study countries?
+- How do we predict country behavior?
+- Which are a country or at least (the elites world models & views)?
+[https://en.wikipedia.org/wiki/Memetics](https://en.wikipedia.org/wiki/Memetics)
+- [Iran](https://en.wikipedia.org/wiki/Iran)
