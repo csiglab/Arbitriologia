@@ -1,4 +1,0 @@
-# Colegio Menor de Historia
-
-> …
->

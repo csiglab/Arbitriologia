@@ -1,6 +1,0 @@
-# Ringelmann effect
-
-: 17
-
-> 
->

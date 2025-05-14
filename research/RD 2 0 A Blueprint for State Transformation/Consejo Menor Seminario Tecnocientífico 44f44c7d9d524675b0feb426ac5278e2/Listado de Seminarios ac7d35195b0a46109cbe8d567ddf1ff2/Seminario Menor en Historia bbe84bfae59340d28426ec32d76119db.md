@@ -1,4 +1,0 @@
-# Seminario Menor en Historia
-
-> …
->

@@ -1,1 +1,0 @@
-# Seminario Menor de Humanidades

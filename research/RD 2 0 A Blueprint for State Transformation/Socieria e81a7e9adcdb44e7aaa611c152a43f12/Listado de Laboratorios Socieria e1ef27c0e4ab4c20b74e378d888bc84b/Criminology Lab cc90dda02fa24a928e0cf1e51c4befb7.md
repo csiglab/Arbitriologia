@@ -1,3 +1,0 @@
-# Criminology Lab
-
-: 15

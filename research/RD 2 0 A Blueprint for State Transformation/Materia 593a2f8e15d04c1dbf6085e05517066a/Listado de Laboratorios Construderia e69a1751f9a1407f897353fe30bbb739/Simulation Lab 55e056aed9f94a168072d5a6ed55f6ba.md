@@ -1,3 +1,0 @@
-# Simulation Lab
-
-: 14

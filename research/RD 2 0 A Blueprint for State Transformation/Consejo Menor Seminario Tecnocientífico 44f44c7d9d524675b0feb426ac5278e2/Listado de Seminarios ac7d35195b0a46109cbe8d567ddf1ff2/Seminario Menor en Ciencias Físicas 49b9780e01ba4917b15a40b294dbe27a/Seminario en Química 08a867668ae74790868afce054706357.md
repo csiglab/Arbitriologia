@@ -1,1 +1,0 @@
-# Seminario en Química

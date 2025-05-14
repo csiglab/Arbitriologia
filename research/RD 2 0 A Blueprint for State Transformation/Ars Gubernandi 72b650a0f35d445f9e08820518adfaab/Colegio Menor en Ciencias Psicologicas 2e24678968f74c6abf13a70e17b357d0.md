@@ -1,1 +1,0 @@
-# Colegio Menor en Ciencias Psicologicas

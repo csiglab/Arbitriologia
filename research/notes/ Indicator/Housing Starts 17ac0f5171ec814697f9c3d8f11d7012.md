@@ -1,3 +1,0 @@
-# Housing Starts
-
-: 14

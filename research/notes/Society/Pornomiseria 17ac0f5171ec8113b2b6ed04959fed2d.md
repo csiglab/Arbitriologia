@@ -1,5 +1,0 @@
-# Pornomiseria
-
-: 12
-
-…

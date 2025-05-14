@@ -1,1 +1,0 @@
-# Launch Systems Lab

@@ -1,3 +1,0 @@
-# Archaeology Lab
-
-: 15

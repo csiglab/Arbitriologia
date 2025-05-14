@@ -1,3 +1,0 @@
-# Honey Lab
-
-**Honey Products**

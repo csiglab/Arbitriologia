@@ -1,4 +1,0 @@
-# Logistic Lab
-
-> …
->

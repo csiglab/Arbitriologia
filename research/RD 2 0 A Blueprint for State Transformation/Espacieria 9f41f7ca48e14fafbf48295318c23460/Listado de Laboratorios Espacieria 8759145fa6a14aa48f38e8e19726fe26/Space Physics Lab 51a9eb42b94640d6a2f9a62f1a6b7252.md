@@ -1,1 +1,0 @@
-# Space Physics Lab

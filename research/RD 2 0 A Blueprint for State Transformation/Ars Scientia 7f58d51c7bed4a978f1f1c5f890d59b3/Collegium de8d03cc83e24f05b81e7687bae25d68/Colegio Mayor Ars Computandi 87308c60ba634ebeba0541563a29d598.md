@@ -1,4 +1,0 @@
-# Colegio Mayor Ars Computandi
-
-> …
->

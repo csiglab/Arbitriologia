@@ -1,3 +1,0 @@
-# Geochemistry Lab
-
-: 16

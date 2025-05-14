@@ -1,1 +1,0 @@
-# Spacecraft Power Systems Lab
