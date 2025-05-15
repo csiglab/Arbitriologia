@@ -1,6 +1,0 @@
-# Complementary Goods
-
-: 19
-
-> …
->
