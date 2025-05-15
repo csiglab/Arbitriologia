@@ -6,7 +6,6 @@ L: 40
 Status: Not started
 
 > …
-> 
 
 ## References
 

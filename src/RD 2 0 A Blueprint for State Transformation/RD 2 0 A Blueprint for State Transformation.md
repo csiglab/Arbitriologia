@@ -7,7 +7,7 @@ L: 44
 Status: In progress
 
 > **Dominican Republic** 2.0: From Static Advantages to Dynamics Advantages.
-> 
+>
 
 ## Index
 
@@ -26,7 +26,7 @@ Status: In progress
 ## Transformation Goals
 
 > …
-> 
+>
 - Professionalize the state by eliminating clientelism.
     - Create a clear sepeartion between profesional servand & polititions
 - Professional Civil Service: Build a professional, merit-based civil service that operates efficiently and serves the public interest.
