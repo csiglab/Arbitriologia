@@ -1,9 +1,5 @@
 # China
 
-ID: PRO-1677
-L: 5
-Status: Not started
-
 > Dictatorships are bad. https://en.wikipedia.org/wiki/Disappearance_of_Peng_Shuai.
 
 China has become the leading producer for many foreign delicacies like Caviar, Black truffles, matcha, foie gras, eel & Wagyu beef.
@@ -18,10 +14,7 @@ Truffle pigs in China can fine truffles in mountains faster than specially train
 
 ## References
 
-- [https://www.eastisread.com/](https://www.eastisread.com/)
-- [https://www.pekingnology.com/](https://www.pekingnology.com/)
-
-## References
-
 - https://en.wikipedia.org/wiki/China
 - https://en.wikipedia.org/wiki/Disappearance_of_Peng_Shuai
+- [https://www.eastisread.com/](https://www.eastisread.com/)
+- [https://www.pekingnology.com/](https://www.pekingnology.com/)
