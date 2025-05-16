@@ -50,10 +50,14 @@ Status: Not started
 | **Taiwan Institute of Economic Research (TIER)** | Research Institute | 1976 | Conducts economic research, provides policy recommendations | Private, supported by government |
 | **Council for Economic Planning and Development (CEPD)** | Government Agency | 1977 (Merged into NDC) | Developed economic strategies, coordinated major projects | Government of Taiwan |
 
+## Economic Strategist
+
+- https://en.wikipedia.org/wiki/Li_Kwoh-ting
+- https://en.wikipedia.org/wiki/Sun_Yun-suan
+
 ## Economic Sectors
 
 > Here's a table summarizing vital economic sectors in Taiwan, including their characteristics and contributions to the economy:
-> 
 
 | Economic Sector | Key Characteristics | Contribution to GDP | Notable Aspects |
 | --- | --- | --- | --- |

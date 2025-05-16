@@ -113,7 +113,6 @@ Here's a historical overview of Japan's average tariff rates from 1858 to 2022:
 
 Here’s a table showing **Japanese corporate profit repatriation in U.S. dollars (USD)** based on approximate exchange rate conversions from yen:  
 
-
 | **Year** | **Repatriated Profits (USD Billion)** | **Exchange Rate (JPY/USD)** | **Key Events** |  
 |----------|--------------------------------------|----------------------------|----------------|  
 | **2000** | ~$23B  | ¥107 | Dot-com bubble, weak yen |  
@@ -127,7 +126,6 @@ Here’s a table showing **Japanese corporate profit repatriation in U.S. dollar
 ## Trade
 
 > **Long-term: Japan’s current account** stays positive thanks to overseas investments (repatriation) and services (tourism).
-
 
 ## Civil Service
 
@@ -143,6 +141,19 @@ Here’s a table showing **Japanese corporate profit repatriation in U.S. dollar
 
 [Liberal Democratic Party](https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan))
 
+## Business Groups
+
+- https://en.wikipedia.org/wiki/DKB_Group
+- https://en.wikipedia.org/wiki/Fuyo_Group
+- https://en.wikipedia.org/wiki/Sanwa_Group
+- https://en.wikipedia.org/wiki/Shigeru_Nakayama
+
+## Modern Firm Culture
+
+- **Masayoshi Son** (SoftBank) – Known for aggressive investments.
+- **Akio Toyoda** (Toyota) – Represents a family legacy in one of Japan’s most important firms.
+- **Nobuyuki Idei** (former Sony CEO) – Known for globalizing vision.
+- **Hiroshi Mikitani** (Rakuten) – Advocates for English-based corporate culture.
 
 ## References
 
