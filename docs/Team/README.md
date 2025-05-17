@@ -1,0 +1,5 @@
+- [ ]  How to think about the following scenario:
+    - [ ]  How to make sure that people are able to make the **best work**?
+    - [ ]  How to sure that the global outcomes are achieved?
+    - [ ]  Is incentive alignment a great abstraction and concept?
+    - How to manage and integrate high performace talents?
