@@ -41,7 +41,9 @@ Tags: Strategy
 > 
 
 > A very large system is often compose of subsystem; so many strategies can be underpinign the dynamics of an organization at the same time.
-> 
+>
+
+![alt text](strategy.png)
 
 ## Index
 

@@ -12,6 +12,10 @@ Lowering px of Chinese caviar to just $150/30g.
 China has also become the biggest producer of black truffle. Yunnan/Sichuan alone produced 500t out of 800t globally.
 Truffle pigs in China can fine truffles in mountains faster than specially trained truffle dogs.
 
+## Legal Framework
+
+- [China’s New Private Economy Promotion Law: Good Intentions Meet Weak Government Accountability](https://npcobserver.com/2025/05/china-private-economy-law-government-accountability/)
+
 ## References
 
 - https://en.wikipedia.org/wiki/China

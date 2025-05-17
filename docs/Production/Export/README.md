@@ -1,3 +1,12 @@
+# Exports
+
+Tags: Export, Policy Area
+: 7
+
+> Export subsidies, marketing assistance, trade missions, and export credit insurance.
+>
+
+
 # ...
 
 > National Economic Completeness = (Strategic Exports) + (Essential Imports paid from Export Surplus) + (Capacity Building via Trade).
@@ -66,3 +75,8 @@ Ask yourself:
 This frames trade not as zero-sum but as an active system design — with exports as *leverage*, and imports as *targeted reinforcements*.
 
 Would you like an example using a specific country or sector?
+
+## References
+
+- [An Essay of Strategies for Boosting Exports](../../../../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/An%20Essay%20of%20Strategies%20for%20Boosting%20Exports%2015d956e8f40e8020b235d10eb4cb7f37.md)
+- …
