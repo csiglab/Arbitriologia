@@ -1,10 +1,7 @@
 # Manufacturing
 
-: 13
-Tags: Problem, Technology
-
 > …
-> 
+
 - Casting
 - Machining
 - Forming
@@ -15,3 +12,5 @@ Tags: Problem, Technology
 - Laser Cutting
 - Advanced Materials
 - Robotics
+
+![manufacturing](manufacturing.png)

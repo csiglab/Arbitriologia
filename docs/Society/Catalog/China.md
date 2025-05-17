@@ -18,3 +18,6 @@ Truffle pigs in China can fine truffles in mountains faster than specially train
 - https://en.wikipedia.org/wiki/Disappearance_of_Peng_Shuai
 - [https://www.eastisread.com/](https://www.eastisread.com/)
 - [https://www.pekingnology.com/](https://www.pekingnology.com/)
+- https://semianalysis.com/2025/04/16/huawei-ai-cloudmatrix-384-chinas-answer-to-nvidia-gb200-nvl72/
+- https://www.project-syndicate.org/commentary/how-china-should-respond-to-trumps-tariffs-by-shang-jin-wei-2025-04
+- https://library.oapen.org/bitstream/handle/20.500.12657/63653/9781000936131.pdf?sequence=1&isAllowed=y

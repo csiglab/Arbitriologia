@@ -128,3 +128,8 @@ These tables provide a detailed breakdown of the various systems and subsystems 
 [https://en.wikipedia.org/wiki/Memetics](https://en.wikipedia.org/wiki/Memetics)
 
 https://www.eastisread.com/p/feng-yujun-on-the-future-of-eurasia
+References
+
+- https://en.wikipedia.org/wiki/Rurikids
+- https://en.wikipedia.org/wiki/Sergei_Witte
+- https://archive.org/details/memoirsofcountwi00wittuoft/memoirsofcountwi00wittuoft/mode/2up

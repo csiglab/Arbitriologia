@@ -1,19 +1,12 @@
 # United States of America (USA)
 
-ID: PRO-209
-L: 30
-Status: Not started
+> ...
 
 > The structure of the **U.S. National Innovation System (NIS)** is highly complex and dispersed across numerous agencies, government programs, and other entities.
-> 
 
 > **NIS Complexity**: The rationale is that departments should foster innovation and facilitate the commercialization of technologies that address issues within their respective domains.
-> 
 
 ## Taxonomy
-
-> …
-> 
 
 ## R&D Actors
 
@@ -234,3 +227,6 @@ A National Defense Strategy for Generic Drugs
 - https://www.journals.uchicago.edu/doi/10.1086/729340
 - https://www.eda.gov/
 - https://en.wikipedia.org/wiki/Illinois_Technology_and_Research_Corridor
+- https://www.amazon.com/Producing-Prosperity-America-Manufacturing-Renaissance/dp/1422162680 →  Building (Manufacturing) goes hand in hand with design & R&D if you loose the other.
+- https://www.amazon.com/Making-America-Innovation-Market-Press/dp/0262528371
+- https://www.ft.com/content/37e5f642-cec9-4a88-a2fb-a0d0d6697e11

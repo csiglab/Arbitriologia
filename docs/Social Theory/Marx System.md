@@ -25,7 +25,7 @@
 - **General Formula**: $M \rightarrow C \left[\text{MP} + \text{LP}\right] \rightarrow P \rightarrow C′ \rightarrow M′$
     
     Where:
-    
+
     - MP = means of production
     - LP = labor power
     - P = production process
@@ -163,6 +163,20 @@ governance, or transitional economies.
 **Critique**:
 
 - **Eco-Marxism and Feminist Marxism**: Contemporary Marxist critiques such as eco-Marxism and feminist Marxism have expanded Marx's framework to incorporate gender and environmental concerns, but these aspects were not sufficiently addressed in Marx’s original analysis.
+
+## Dictatorship of the Proletariat
+
+> The Marxist idea of the "dictatorship of the proletariat" has its roots in both classical political philosophy and the historical analysis of class struggle that Marx and Engels developed in the 19th century.
+
+Origins:
+
+- Classical Origins: Roman Law and Political Theory: The word "dictatorship" originally comes from Roman law, where a dictator was a temporary magistrate given extraordinary powers during emergencies. - Marx uses the term in a non-pejorative, historical sense—not as authoritarian rule, but as class rule of the working class.
+- Marx’s Development of the Idea
+  - "The Class Struggles in France" (1850)
+  - "The Civil War in France" (1871)
+  - "Critique of the Gotha Programme" (1875)
+- Historical Catalyst: The Paris Commune (1871)
+- Engels and Lenin on the Term
 
 ## References
 
