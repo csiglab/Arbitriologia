@@ -24,4 +24,3 @@ Tags: Consejo Menor, General
 
 ## Referencias
 
-‣
