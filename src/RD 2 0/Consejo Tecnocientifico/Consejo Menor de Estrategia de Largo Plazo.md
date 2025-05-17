@@ -4,7 +4,7 @@ Tags: Consejo Menor, Estrategia
 : 42
 
 > Find new technologies, propose experiments to improve the COUNTRY.
-> 
+>
 
 Long Term:
 

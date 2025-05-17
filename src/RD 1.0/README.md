@@ -120,3 +120,7 @@ Status: Not started
 - Hu, K., Bakker, M. A., Li, S., Kraska, T., & Hidalgo, C. (2019, May). Vizml: A machine learning approach to visualization recommendation. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-12).
 - Mylopoulos, J. (1980). An overview of knowledge representation. ACM SIGART Bulletin, (74), 5-12.
 - https://www.algunaspropuestas.com/
+
+
+- [Mapa Interactivo Fondo de Pensiones ](https://www.sipen.gob.do/tablero-interactivo-mapa)
+- Betances, E. (1995). Social classes and the origin of the modern state: The Dominican Republic, 1844-1930. *Latin American Perspectives*, *22*(3), 20-40.
