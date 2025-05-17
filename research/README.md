@@ -6,15 +6,6 @@
 
 > ...
 
-## Research Automation
-
-> Bundle Data Capturing, Curation, and Storage with the studies themselves.
-
-> Self Contain Research Notebooks.
-
-## Policy Space
-
-> ...
 
 | **Policy Area**        | **Description**                                                                                             |
 |------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -31,6 +22,12 @@
 | **Education Policy**    | Frameworks for regulating educational institutions, curriculum standards, and access to education.           |
 | **Health Policy**       | Strategies and regulations to ensure access to healthcare services, manage public health, and control health costs. |
 | **Energy Policy**       | Decisions regarding energy production, consumption, and sustainability, including the promotion of renewabl# Legal|
+
+## Research Automation
+
+> Bundle Data Capturing, Curation, and Storage with the studies themselves.
+
+> Self Contain Research Notebooks.
 
 ## References
 
