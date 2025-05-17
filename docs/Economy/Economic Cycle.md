@@ -1,5 +1,9 @@
 # Economic Cycle
 
+> aka. Business Cycle
+
+> aka. Economic Fluctuations
+
 : 14
 
 ¿Why does economic activity fluctuate?
@@ -69,3 +73,5 @@ Overall, the origins of the economic cycle are deeply rooted in historical patte
 - https://es.wikipedia.org/wiki/Ciclo_económico
     - https://es.wikipedia.org/wiki/Onda_de_Kondrátiev
     - https://es.wikipedia.org/wiki/Carlota_Pérez (Reelaboracion de la Honda de Kondratiev)
+- https://www.newyorkfed.org/research/staff_reports/sr554.html
+- https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium

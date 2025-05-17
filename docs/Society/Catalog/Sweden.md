@@ -139,6 +139,135 @@ Status: Not started
 - ‣
 - ‣
 
+
+### Sweden SOU Model
+
+- [ ]  https://en.wikipedia.org/wiki/Statens_offentliga_utredningar
+- [ ]  …
+
+Postwar Sweden's **export strategy**, **technology plans**, and **industrial policies** were designed to support industrialization, innovation, and international competitiveness. Some key documents and frameworks that guided these strategies are listed below:
+
+### 1. **Export Strategy**
+
+- **Swedish Export Council (Handelsrådet)**: Established in 1918, the Swedish Export Council played a key role in supporting Swedish exports. Although not a single policy document, the Council produced a variety of reports and strategic documents aimed at boosting Sweden's trade relations.
+- **1945-1950s National Economic Plans**: These early postwar economic plans laid the groundwork for Sweden's export-led growth. These plans focused on revitalizing Swedish industry and ensuring that Swedish goods were competitive on the global market. A key aspect was the development of export-friendly policies, including subsidies for certain industries.
+- **SOU Reports (Statens Offentliga Utredningar)**: Several reports published under the Swedish government’s public investigation system (SOU) detailed strategies for expanding Sweden's global trade. The **SOU 1952:24** report focused on Sweden’s export strategy and industrial policy, laying the foundation for international trade expansion.
+- **1970s-1980s Export Strategy Reports**: Later in the 20th century, a series of government reports further articulated Sweden's focus on exports. For example, **SOU 1972:27**, the *Swedish Export Policy Report*, outlined policy recommendations to improve the competitive edge of Swedish companies abroad.
+
+### 2. **Technology Plans**
+
+- **National Technology Policy**: In the 1960s and 1970s, Sweden began developing technology policies to advance R&D in key sectors such as telecommunications, machinery, and defense. These plans emphasized collaboration between government, academia, and private industry.
+- **The Swedish National Board for Industrial and Technical Development (NUTEK)**: Established in 1967, NUTEK aimed to promote innovation and technological development. It produced documents such as the **1970 Technology Development Plan**, which focused on boosting Swedish R&D and technological capabilities. It particularly supported innovation in industries like electronics, telecommunications, and the automotive sector.
+- **The Swedish Council for Research and Development (STU)**: The STU (founded in 1966) developed technology-focused policy documents to facilitate R&D and innovation. These plans often sought to improve industrial output and integrate emerging technologies, especially in sectors vital to Sweden’s export economy.
+- **The Swedish Technology Pact (1970s)**: In the 1970s, Sweden formalized its commitment to advancing technology with a pact that called for public-private collaboration in technology-driven sectors. This pact emphasized creating the conditions for long-term research investment and technological progress.
+
+### 3. **Industrial Policy**
+
+- **The Rehn-Meidner Model (1950s)**: One of Sweden’s most famous industrial policies was the **Rehn-Meidner Model**, introduced in the late 1950s by economists Gösta Rehn and Rudolf Meidner. The model advocated for:
+    - Full employment through state intervention in the economy.
+    - A central role for trade unions in wage bargaining.
+    - Active industrial policy to promote competitiveness and equity.
+    - It was documented in various policy papers and reports from the Swedish Trade Union Confederation (LO), which emphasized wage moderation and industrial coordination to foster economic stability and growth.
+- **The 1960s National Industrial Development Plan**: This document set the framework for long-term industrial policy in Sweden, focusing on both the expansion and restructuring of Swedish industry. The plan targeted key sectors such as steel, automotive, and electronics, with an emphasis on innovation, high wages, and collective bargaining.
+- **SOU Reports on Industrial Policy**: Various SOU reports, particularly those in the **1960s** and **1970s**, focused on creating conditions for industrial growth through state support for strategic sectors. The **SOU 1965:16** report proposed targeted subsidies, tax incentives, and other support mechanisms for Swedish industries in global competition.
+- **The Industrial Agreement (1970)**: A significant industrial policy document in Sweden, this agreement outlined the role of unions, employers, and the state in shaping industrial relations. It encouraged increased worker participation in management decisions, aiming to create a stable, innovative industrial environment.
+
+### 4. **Key Government Agencies and Documents**
+
+- **Svenska Handelsbanken Reports**: As Sweden's largest bank, Handelsbanken released various studies in the postwar period to analyze and influence Swedish industry and export strategies. These documents often contained important recommendations on trade, credit policy, and industry-specific growth strategies.
+- **The Swedish Government’s Annual Economic Reports**: Every year, Sweden’s government publishes detailed reports outlining the state of the economy, including analysis of industrial and technological progress. These reports helped shape future industrial policies and strategic priorities.
+
+### 5. **European Integration and Global Competitiveness**
+
+- **EFTA and European Trade Documents**: As a member of the European Free Trade Association (EFTA) and later engaging with the European Union (though not a member), Sweden’s industrial and export policies were shaped by European integration. Documents related to Sweden's engagement with the EFTA, and later the EU, were critical in shaping the country’s economic and industrial policies in the postwar era.
+
+---
+
+If you’re looking for specific documents or reports, many of these are housed in Swedish government archives or specialized institutions like **The Swedish National Archives (Riksarkivet)** or the **Swedish Institute for Industrial Economics (IIIE)**, where key documents, such as **SOU reports**, are publicly accessible. Many of these reports are also available in digitized form or through academic libraries.
+
+Would you like more information on any specific document or agency?
+
+## STU
+
+The **Styrelsen för Teknisk Utveckling (STU)**—the **Swedish Board for Technical Development** (1968–1991)—did **not own its own research labs**. Instead, it functioned as a **funding and coordination agency**, similar to modern innovation agencies like **Vinnova** (its successor). Here’s a breakdown of its key roles and activities:
+
+---
+
+### **1. Primary Functions of STU**
+
+### **A. Funding Industrial R&D**
+
+- **Grants & Loans**: Provided financial support to companies (especially SMEs) and universities for applied technical research.
+- **Focus Areas**:
+    - **Electronics & Computing** (e.g., early Swedish computer companies like Datasaab).
+    - **Telecommunications** (e.g., Ericsson’s digital switching systems).
+    - **Materials Science & Manufacturing** (e.g., steel, automotive tech).
+
+### **B. Coordinating Public-Private Research**
+
+- **Collaborative Projects**: Facilitated partnerships between companies, universities, and state institutes (e.g., **FOA** for defense-related tech).
+- **Technology Transfer**: Helped move academic research into industrial applications.
+
+### **C. Strategic Technology Advocacy**
+
+- **Identifying Key Sectors**: Prioritized funding for fields deemed critical for Sweden’s competitiveness (e.g., microelectronics in the 1970s–80s).
+- **Policy Advice**: Advised the government on emerging technologies and industrial needs.
+
+---
+
+### **2. How STU Operated (Without Own Labs)**
+
+- **No In-House Research**: Unlike Sweden’s **Defense Research Institute (FOA)** or **Aeronautical Research Institute (FFA)**, STU did not conduct research itself.
+- **Instead, It Funded External Labs**:
+    - **Corporate R&D**: Subsidized projects at companies like **Ericsson, ASEA (ABB), and Volvo**.
+    - **University Labs**: Supported tech research at **KTH, Chalmers, and Lund University**.
+    - **State-Owned Research Institutes**: Worked with **IVF (Industrial Research Institute)** and **SI (Swedish Institute for Production Engineering)**.
+
+---
+
+### **3. Example Projects Supported by STU**
+
+- **Ericsson’s AXE Telephone Exchange**: STU funding helped develop this groundbreaking digital telecom system (1970s).
+- **Datasaab’s Computers**: Early Swedish computing projects received STU grants.
+- **Renewable Energy & Materials**: Funded advancements in pulp/paper tech and early wind energy research.
+
+---
+
+### **4. Why STU Was Dissolved (1991)**
+
+- **Merger into NUTEK**: As Sweden liberalized its economy in the 1990s, STU was merged with other agencies to form **NUTEK** (National Board for Industrial and Technical Development), which later evolved into **Vinnova** (2001).
+- **Shift to Market-Driven Innovation**: Less direct state funding, more emphasis on private-sector-led R&D.
+
+---
+
+### **Key Difference Between STU and Other Swedish Research Bodies**
+
+| **Agency** | **Owned Labs?** | **Primary Role** |
+| --- | --- | --- |
+| **STU** | No | Funding & coordinating industrial R&D |
+| **FOA** (Defense Research) | Yes | Military-related research (e.g., radar, materials) |
+| **FFA** (Aeronautical) | Yes | Aerospace research (Saab collaborations) |
+| **IVF** | Yes | Industrial manufacturing R&D |
+
+---
+
+### **Legacy of STU**
+
+- **Laid groundwork for Sweden’s tech boom**: Many innovations it funded (e.g., digital telecom, computing) became global successes.
+- **Model for Vinnova**: Today, Sweden’s innovation system still follows STU’s principles of public-private R&D partnerships.
+
+Would you like details on a specific STU-funded project or how it compares to modern agencies like Vinnova?
+
+- [ ]  https://iui.se/
+- [ ]  https://lagen.nu/dataset/forarbeten?sou=1965
+- [ ]  https://link.springer.com/chapter/10.1007/978-3-642-23315-9_40
+- [ ]  Persson, Bo. "The development of a new Swedish innovation policy: a historical institutional approach." (2008).
+- [ ]  National Defense Research Institute (FOA)
+- [ ]  Swedish Board for Technical Development (Styrelsen för Teknisk Utveckling, STU) (1968–1991)
+- [ ]  Swedish Research Council (1942–present)
+- [ ]  NUTEK **(1991–2009)**
+- [ ]  https://sv.wikipedia.org/wiki/Styrelsen_f%C3%B6r_teknisk_utveckling
+
 ## References
 
 - Erixon, Lennart. "The golden age of the Swedish model." *Manuscript, Department of Economics, Stockholm University* (1996).

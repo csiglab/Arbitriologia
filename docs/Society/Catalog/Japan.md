@@ -155,6 +155,51 @@ Here’s a table showing **Japanese corporate profit repatriation in U.S. dollar
 - **Nobuyuki Idei** (former Sony CEO) – Known for globalizing vision.
 - **Hiroshi Mikitani** (Rakuten) – Advocates for English-based corporate culture.
 
+
+## Meji Period
+
+- Technology as the common denominator of Japonese Policy sinse the Meji Restrauration:
+    1. Indegenization of technology **(kokusanka)**;
+    2. the national commitment to diffuse this learning throughout the economy **(hakyu)**;
+    3. and the national, regional, local and sectorial effort to nurture and sustain Japanese enterprises to which technical knowledge can be diffused **(ikusei)**.
+
+| Period | Main Actors | Methods of Reverse Engineering | Examples |
+| --- | --- | --- | --- |
+| **1868–1880s** | Government arsenals and shipyards | Import foreign machines → Disassemble → Reproduce → Improve | Yokosuka Naval Arsenal; Osaka Army Arsenal |
+| **1870s onward** | Technical schools and universities | Formal education in engineering; applied studies with foreign technology | Tokyo Imperial University; Imperial College of Engineering |
+| **1870s–1890s** | Foreign experts (Oyatoi Gaikokujin) | Hands-on setup of industries and direct training of Japanese workers | British engineers in shipyards; French military instructors |
+| **1890s onward** | Private companies (Zaibatsu: Mitsubishi, Sumitomo, Mitsui) | Internal R&D using previously acquired technologies; domestic innovation | Mitsubishi Shipbuilding; Sumitomo Mining |
+
+### Slogans
+
+> ...
+> 
+
+| Japanese | Pronunciation | Meaning |
+| --- | --- | --- |
+| **富国強兵** | *Fukoku Kyōhei* | "Enrich the country, strengthen the military." (Industrial and military modernization.) |
+| **文明開化** | *Bunmei Kaika* | "Civilization and enlightenment." (Westernization across society, education, and tech.) |
+| **殖産興業** | *Shokusan Kōgyō* | "Encourage industry and increase production." (Government-driven industrialization.) |
+| **脱亜入欧** | *Datsu-A Nyū-Ō* | "Leave Asia, join Europe." (Shift cultural/political alignment toward the West.) |
+| **和魂洋才** | *Wakon Yōsai* | "Japanese spirit, Western technology." (Modernization while preserving national identity.) |
+| **知識の普及** | *Chishiki no Fukyū* | "Diffusion of knowledge." (Educational and scientific spread to the population.) |
+| **技術普及** | *Gijutsu Fukyū* | "Diffusion of technology." (Promotion of technology use across sectors.) |
+| **開発と普及** | *Kaihatsu to Fukyū* | "Development and diffusion." (R&D and adoption into society.) |
+| **和洋折衷** | *Wayō Secchū* | "Blending of Japanese and Western styles." (Hybridization of culture, architecture, institutions.) |
+| **学問ノススメ** | *Gakumon no Susume* | "Encouragement of Learning." (Title of Fukuzawa Yukichi's famous work — symbol of education and progress.) |
+| **国家独立** | *Kokka Dokuritsu* | "National independence." (Strengthening Japan to avoid colonization, via modernization.) |
+| **国威発揚** | *Kokui Hatsuyō* | "Enhancement of national prestige." (Using modernization to raise Japan’s status internationally.) |
+| **興亜会** (organization name but slogan-like) | *Kōakai* | "Society for Asian Advancement." (Early idea of leading Asia through strength — diffusion of technology and modernization.) |
+
+References
+
+- "Technology and Industrial Development in Japan: Building Capabilities by Learning, Innovation and Public Policy" — Hiroyuki Odagiri and Akira Goto
+- "Technology and the Rise of the Japanese Empire (1868–1945)" — Johannes Siemes
+- "Science and Technology in Modern Japanese Development" — Morris Low
+- [https://www.hbs.edu/ris/Publication Files/Jmod_3bff2d89-91c9-44fb-8c30-e8ba029b8cfe.pdf](https://www.hbs.edu/ris/Publication%20Files/Jmod_3bff2d89-91c9-44fb-8c30-e8ba029b8cfe.pdf)
+- https://www.jstor.org/stable/26459811?seq=1
+- [Samuels, R. J. (1996). Rich Nation, Strong Army: National Security and the Technological Transformation of Japan. Cornell University Press. ](https://www.notion.so/Samuels-R-J-1996-Rich-Nation-Strong-Army-National-Security-and-the-Technological-Transformat-10e598edb790812ba702c3e8d188969e?pvs=21)
+
 ## References
 
 - [National Industrial Exhibitions](https://en.wikipedia.org/wiki/National_Industrial_Exhibitions)

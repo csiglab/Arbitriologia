@@ -1,0 +1,5 @@
+\[rotofábrica\]
+→ [Education of workers]
+→ [Absorption of new technology]
+→ [Pilot production to test methods]
+→ [Scaling up to full industry]

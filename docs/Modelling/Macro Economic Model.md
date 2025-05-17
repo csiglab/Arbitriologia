@@ -1,0 +1,22 @@
+# Macro Economic Modelling
+
+- Debt Dynamics Model
+- IS-LM Model
+- Mundell-Fleming Model
+- Ricardian Equivalence Hypothesis
+- **Empirical Models (VAR, DSGE)**
+    - **VAR Models:** Estimate how deficits interact with GDP, inflation, rates (e.g., Blanchard & Perotti, 2002).
+    - **DSGE Models:** Simulate deficit shocks in forward-looking economies (used by central banks).
+- Solow-Swan Growth Model (Neoclassical Growth Model)
+- Quantity Theory of Money (QTM)
+- Ricardian Equivalence
+- AD-AS Model (Aggregate Demand-Aggregate Supply)
+- Multiplier-Accelerator Model
+- Real Business Cycle (RBC) Model (Kydland & Prescott)
+- Lucas Islands Model
+- New Keynesian Phillips Curve (NKPC)
+- DSGE Models with Nominal Rigidities
+- Romer Model
+- AK Model
+- Overlapping Generations (OLG) Models
+- Mundell-Fleming Model

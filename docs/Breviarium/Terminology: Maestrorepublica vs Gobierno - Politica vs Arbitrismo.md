@@ -1,0 +1,3 @@
+# Terminology: Maestrorepublica vs Gobierno - Politica vs Arbitrismo.
+
+> ...

@@ -47,7 +47,11 @@ Tags: Business, Laboratory
 2. **Strategic Design**: Guide innovation and evolution of business models.
 3. **Decision Support**: Help organizations choose suitable models for growth and sustainability.
 
-Would you like to expand on any specific business modeling concept or focus on a particular industry application? 😊
+## ...
+
+- Royalty
+- Derecho de  Uso de Marca
+- Distribution Channels
 
 ## References
 

@@ -1,0 +1,3 @@
+# ...
+
+> The idea is as old as civilization itself: the mental globalization that extrapolates the known into the unknown. Long before actual geographic globalization, ancient rulers often believed they ruled the entire world — a classic fallacy of mistaking the limits of one's knowledge for the limits of reality.

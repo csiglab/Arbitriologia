@@ -2,6 +2,25 @@
 
 > …
 
+## Technology
+
+- Why was the Venetian Arsenal way more industrial than Roman Industry?
+- Why not industrial revolution in ancient rome?
+- Proto-Industrialization;
+- Fabricae (State Weapon Factories) : By the **late Roman Empire** (especially 3rd–5th centuries AD), there were **state-owned arms factories** called **fabricae**.
+- Naval Shipyards**:**  The Roman navy operated **state-controlled shipyards** called **navalia**.
+
+References
+
+- "The Roman Economy" — Kevin Greene
+- "The Roman Agricultural Economy: Organization, Investment, and Production" — edited by Alan Bowman and Andrew Wilson
+- "The Oxford Handbook of Engineering and Technology in the Classical World" — edited by John Peter Oleson
+- https://archive.org/details/technology-and-culture-in-greek-and-roman-antiquity/page/6/mode/2up
+- https://www.amazon.com/Handbook-Engineering-Technology-Classical-Handbooks/dp/0199734852 → A Great Book to Buy
+- https://en.wikipedia.org/wiki/Roman_commerce
+- https://en.wikipedia.org/wiki/Roman_economy
+- https://www.jstor.org/stable/4387519?seq=1
+
 ## References
 
 - [Roman Commerce](https://en.wikipedia.org/wiki/Roman_commerce)

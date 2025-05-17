@@ -126,6 +126,30 @@ France's regional government model is a **unitary but decentralized system**. Th
   * Reduced number of mainland regions from 22 to 13.
   * Goal: increase economic efficiency, reduce administrative fragmentation.
 
+## ...
+
+> French Strong Dynamics  → …
+> 
+
+> The **Cobden–Chevalier Treaty** (1860) opened up trade with Britain — this **forced some industries to modernize**, but **exports still grew slowly**.
+> 
+
+> The Cobden–Chevalier Treaty (1860) opened up trade with Britain — this forced some industries to modernize, but exports still grew slowly.
+> 
+
+### Second Empire:
+
+- **Apoyo al capital privado**:  Creó un ambiente donde empresarios industriales (los “nuevos burgueses”) podían invertir en grandes proyectos, con respaldo político y financiero.
+- 
+
+- https://archive.org/details/in.ernet.dli.2015.1318/page/n7/mode/2up
+- https://archive.org/details/dli.ernet.1307
+- https://en.wikipedia.org/wiki/Jean_Bodin
+    - https://en.wikipedia.org/wiki/Antoine_de_Montchrestien →  Tratado de la Economia Politica → https://gallica.bnf.fr/ark:/12148/bpt6k106383n/f1.item.texteImage
+- Thomas Mun
+- Italian Model → Colbert admired **Italian city-states' control** over luxury production (Venetian glass, Florentine silks).
+- https://es.wikipedia.org/wiki/Jean-Baptiste_Say → https://www.hacer.org/pdf/TEP1.pdf
+
 ## References
 
 - [List of largest French companies](https://en.wikipedia.org/wiki/List_of_largest_French_companies)

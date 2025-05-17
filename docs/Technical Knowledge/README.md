@@ -1,0 +1,5 @@
+- Technical Knowledge
+- Technology Domina
+- Technicacl Object
+- Problem
+- Problem Domain
