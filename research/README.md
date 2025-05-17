@@ -2,6 +2,16 @@
 
 > ...
 
+## Research Domains
+
+> ...
+
+## Research Automation
+
+> Bundle Data Capturing, Curation, and Storage with the studies themselves.
+
+> Self Contain Research Notebooks.
+
 ## Policy Space
 
 > ...
@@ -20,25 +30,8 @@
 | **Agricultural Policy**  | Policies supporting agriculture, including subsidies, rural development, and food security.                 |
 | **Education Policy**    | Frameworks for regulating educational institutions, curriculum standards, and access to education.           |
 | **Health Policy**       | Strategies and regulations to ensure access to healthcare services, manage public health, and control health costs. |
-| **Energy Policy**       | Decisions regarding energy production, consumption, and sustainability, including the promotion of renewable energy sources. |
-| **Urban Policy**        | Policies aimed at managing urban development, housing, transportation, and infrastructure.                   |
-| **Technology Policy**   | Frameworks to support innovation, research, and development, and to regulate the use of technology in society. |
-| **Defense Policy**      | Government strategies for national security, military capabilities, and defense spending.                    |
-
-## Laboratorios
-
-- Maestroindustria Mayor
-- Tecnocientifico  Mayor
-- Maestro-materia-prima Mayor
-- Laboratorio de Teoría Arbitrista
-- Laboratorio de Políticas Productivas
-- Laboratorio de Políticas Comerciales
-- Laboratorio de Modelado y Herramientas
-- Laboratorio de Políticas Macroeconómicas
-- Laboratorio de Políticas Tecnocientíficas
-- Laboratorio de Teoría y Practica Organizacional
-- Laboratorio de Innovación en Sistemas Financieros
+| **Energy Policy**       | Decisions regarding energy production, consumption, and sustainability, including the promotion of renewabl# Legal|
 
 ## References
 
-* [Designing a Study Blueprint for National Economic Strategy](https://windy-parent-de9.notion.site/Designing-a-Study-Blueprint-for-National-Economic-Strategy-1eed38c7497c802ba7c9c6fa671f0210)
+- [Designing a Study Blueprint for National Economic Strategy](https://windy-parent-de9.notion.site/Designing-a-Study-Blueprint-for-National-Economic-Strategy-1eed38c7497c802ba7c9c6fa671f0210)
