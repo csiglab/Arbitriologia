@@ -1,7 +1,7 @@
 # Food
 
 : 4
-Tags: Food Technology, Problem
+Tags: Food, Problem
 Problem: Food
 
 - https://cropnuts.com/overview-of-food-safety-standards/

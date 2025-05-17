@@ -1,16 +1,69 @@
 # España
 
-ID: PRO-1680
-L: 6
-Status: Not started
+> Nota: Buscar los decretos de la creacion de las instituciones en la gaceta ofical de españa. → https://www.boe.es/gazeta/dias/1850/03/22/pdfs/GMD-1850-5713.pd
 
-> …
+> Aunque en 1930 Argentina era mucho más rica  **España tenía mejores cimientos industriales y científicos**  para crecer a largo plazo.
+
+> **El techo de crecimiento de España era más alto** , aunque tardara más en alcanzarlo.
+
+> **Formaciones Profesionales (FP).**
+
+## España vs Argentina
+
+- **Base industrial**: Aunque pequeña, España podía expandirla mucho más fácilmente que Argentina, porque **ya había núcleos industriales** listos para ser modernizados.
+- **Base técnica y educativa**: España tenía **capital humano formable** y algunas estructuras científicas sobre las que construir.
+- **Localización**: Estar en Europa significaba **mayor acceso a tecnologías** nuevas y **mercados de alto nivel**.
+- **Diversificación posible**: España no estaba atada a un solo producto o sector (como la carne en Argentina).
+
+Educación:
+> **Así que tu intuición es correcta**: en términos de *capital humano técnico* y *capacidad de crecimiento industrial*, **España estaba mejor posicionada** que Argentina en 1930, a pesar de tener una población general menos alfabetizada.
+
+**🧠  ¿Por qué?** 
+
+- **España** había comenzado su industrialización en el siglo XIX, aunque de forma desigual: eso generó núcleos de **ingenieros, arquitectos, técnicos industriales, militares científicos**, etc.
+- **Argentina** apostó por una **economía primaria** (agricultura y ganadería) que **no demandaba grandes cuerpos técnicos** más allá de las necesidades agropecuarias y portuarias.
+
+
+Comparasion:
+
+| Concepto | España 1930 | Argentina 1930 |
+| --- | --- | --- |
+| Alfabetización básica | Más baja (~60-65%) | Más alta (~70-80%) |
+| Educación técnica | Más desarrollada (ingenieros, técnicos, científicos) | Menos desarrollada (formación básica, universitaria generalista) |
+| Capital humano para industria | Mayor, aunque minoritario | Menor, orientado a servicios y agricultura |
+
+
+Escuelas de Artes y Oficios (https://www.boe.es/gazeta/dias/1850/03/22/pdfs/GMD-1850-5713.pdf):
+
+- Se establecían **Escuelas de Artes y Oficios** en varias ciudades.
+- Objetivo: **formar mano de obra cualificada** para la industria (principalmente mecánica, textil, construcción, minería).
+- Formación en:
+    - Dibujo técnico
+    - Mecánica
+    - Herrería
+    - Carpintería
+    - Tejeduría
+    - Electricidad (en etapas posteriores)
+- Buscaba también **elevar el nivel de los obreros** y mejorar la productividad industrial nacional.
+
+Humanidades:
+
+> España fue una potencia literaria, jurídica y filosófica en un país semiindustrial y científicamente subdesarrollado.
 > 
+
+| Área | Situación |
+| --- | --- |
+| **Literatura** | Muy fuerte: siglo de escritores como Benito Pérez Galdós, Emilia Pardo Bazán, Unamuno, Valle-Inclán, Lorca. España era una potencia literaria mundial. |
+| **Filosofía** | Notable: generación del 98 (Unamuno, Ortega y Gasset), pensamiento sobre decadencia nacional, europeización, modernidad. |
+| **Derecho** | Avanzado: códigos civiles y penales modernos, fuerte tradición de juristas. Derecho español tenía prestigio en Hispanoamérica. |
+| **Ciencia y Técnica** | Mucho más débil: pocos físicos, ingenieros o inventores mundialmente destacados. Pequeños núcleos científicos (Cajal, etc.), pero poco peso global. |
+| **Industria** | Subdesarrollada: focos industriales pequeños (textil en Cataluña, minería en Asturias y Vizcaya, construcción naval en Cádiz y Cartagena), pero insuficientes para industrializar el país entero. |
+
 
 ## List of R&D Actors
 
 > …
-> 
+>
 
 | **Category** | **Name** | **Description** |
 | --- | --- | --- |
@@ -75,3 +128,5 @@ Status: Not started
 
 - [ACCIÓ - Agencia para la Competitividad de la Empresa](ACCIO%CC%81%20-%20Agencia%20para%20la%20Competitividad%20de%20la%20Empr%2015d956e8f40e80d7a75ac6beed3bb5d5.md)
 - [Agencia Vasca de Desarrollo Empresarial (Grupo Spri)](Agencia%20Vasca%20de%20Desarrollo%20Empresarial%20(Grupo%20Spr%20133956e8f40e81a4ad5ce6d18d521b9f.md)
+- https://es.wikipedia.org/wiki/Junta_para_Ampliaci%C3%B3n_de_Estudios_e_Investigaciones_Cient%C3%ADficas https://boe.es/datos/pdfs/BOE//1907/015/A00165-00167.pdf → Gaceta de Madrid
+- https://ahus.us.es/index.php/escuela-de-artes-y-oficios-artisticos-de-sevilla?sf_culture=es

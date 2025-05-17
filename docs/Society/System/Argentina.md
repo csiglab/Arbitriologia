@@ -46,6 +46,31 @@ Status: Not started
 > 
 - [Cafecito](https://cafecito.app/)
 
+## Mito Argentina Potencia
+
+- https://core-cms.cambridgecore.org/core/journals/revista-de-historia-economica-journal-of-iberian-and-latin-american-economic-history/article/abs/el-gigante-con-pies-de-barro-fue-la-argentina-realmente-rica-el-capital-humano-durante-la-primera-globalizacion-en-una-perspectiva-comparada/B8156E465208C54D690C7315D07CB102
+- https://www.jstor.org/stable/26974711?seq=1
+- https://www.redalyc.org/pdf/281/28112196006.pdf
+- https://es.wikipedia.org/wiki/Carlos_Pellegrini
+- https://es.wikipedia.org/wiki/Pedro_Luro
+- https://es.wikipedia.org/wiki/Pedro_Olegario_Luro_Prad%C3%A8re
+- https://es.wikipedia.org/wiki/Manuel_Savio
+-
+- Terrateniente
+  - Anchorena
+  - José Hernández
+  - Carlos Casares
+  - Leonardo Pereyra
+  - La familia Martínez de Hoz
+  - Manuel Quintana
+  - Los Braun
+  - Los Menéndez Behety
+  - Los Blaquier
+  - Los Amadeo
+  - Los Santamarina
+  - Los Pereyra Iraola
+  - ….
+
 ## References
 
 - Semanario de Agricultura
