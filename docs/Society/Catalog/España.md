@@ -124,6 +124,67 @@ Humanidades:
 | **Spanish Tourism Institute (TURESPAÑA)** | National | Promotes Spain as a tourist destination and supports tourism development. |
 | **Spanish Agricultural Guarantee Fund (FEGA)** | National | Supports agricultural development and rural innovation. |
 
+## Historia de la Eduacion
+
+Buena pregunta. La **educación técnica en los colegios españoles entre los siglos XV y XIX** no era parte del currículo general de los **colegios tradicionales** (como los **colegios mayores** o **convictorios** tipo Monserrat), pero **sí existía** educación técnica en **otras instituciones paralelas** que se fueron desarrollando a medida que surgían nuevas necesidades sociales, económicas y militares.
+
+Aquí te explico el panorama según los períodos:
+
+---
+
+## 📚 **Siglos XV–XVII: Humanismo y Escolástica**
+
+* La educación formal en España estaba dominada por instituciones **eclesiásticas y universitarias**.
+* Los **colegios** enseñaban **teología, filosofía, latín, lógica, retórica**.
+* **No había educación técnica** como tal en estos espacios.
+
+🔧 **¿Dónde se aprendían oficios o técnicas?**
+
+* En **gremios** (sistemas de aprendiz de maestro).
+* En **academias militares** para ingeniería de guerra.
+* En **talleres** artesanales y familiares.
+
+---
+
+## ⚙️ **Siglo XVIII: Ilustración y primeras reformas borbónicas**
+
+Este siglo marca un **cambio importante** con la llegada de las ideas ilustradas.
+
+* Se crean instituciones para formar en **ciencias aplicadas y técnicas**:
+
+  * **Reales Colegios de Cirugía**
+  * **Escuelas de Náutica**
+  * **Escuelas de Minas**
+  * **Escuelas de Ingenieros Militares** (Ej. Real Academia de Matemáticas de Madrid, luego Real Academia de Ingenieros)
+* Aparece la **enseñanza técnica estructurada**, pero fuera del marco de los colegios clásicos.
+
+🎓 Los **colegios como Monserrat** seguían centrados en formación humanista, aunque con algunas reformas borbónicas se añadieron asignaturas como **física**, **geometría**, **astronomía** o **historia natural** en ciertos casos.
+
+---
+
+## 🏭 **Siglo XIX: Revolución industrial y educación técnica moderna**
+
+* La industrialización llevó a la creación de **Escuelas de Artes y Oficios** y **Escuelas Técnicas Superiores**.
+* En 1850 se funda en España la **Escuela Central de Artes y Manufacturas** (modelo francés).
+* Se profesionaliza la **educación técnica** (ingeniería civil, minas, agronomía, etc.).
+
+Pero de nuevo, esto **ocurría en paralelo a los colegios tradicionales**, que lentamente se adaptaban pero no eran los centros principales de formación técnica.
+
+---
+
+### ✅ **Resumen**
+
+| Siglo   | Educación técnica en colegios                                                |
+| ------- | ---------------------------------------------------------------------------- |
+| XV–XVII | No, solo en gremios o academias militares                                    |
+| XVIII   | No en colegios, pero sí en nuevas instituciones ilustradas                   |
+| XIX     | Surge la educación técnica moderna, pero fuera de los colegios tradicionales |
+
+---
+
+¿Te interesaría una tabla cronológica o saber qué materias técnicas específicas se enseñaban en estas escuelas paralelas a los colegios?
+
+
 ## References
 
 - [ACCIÓ - Agencia para la Competitividad de la Empresa](ACCIO%CC%81%20-%20Agencia%20para%20la%20Competitividad%20de%20la%20Empr%2015d956e8f40e80d7a75ac6beed3bb5d5.md)

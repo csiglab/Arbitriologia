@@ -7,13 +7,13 @@ Tags: Consejo Menor, Educativo
 > 
 
 > The ones that failed to maintains the standards of learning are out → and have to move the another seminary or the technical school → later they can take a **preparatory class**.
-> 
+>
 
 > 6 Years of Training.
-> 
+>
 
 > Entry: Exams + Interviews + Evaluation Period !!!
-> 
+>
 
 > Training of young Reserchers → Research From Day One.
 > 

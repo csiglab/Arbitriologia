@@ -69,3 +69,9 @@
 - [Economic Research](Society%20190c0f5171ec80aebc6ed25eabdd0730/Conceptual%20Model%20Society%2017ac0f5171ec8029be90c0e6bc9ca044/Economic%20Research%2017ac0f5171ec814eb1c4daefca49b3d1.md)
 - ‣
 - [Models for Building Regional Manufacturing Economies - From "Home Alone" to "Regional Ecosystems"](https://ipc.mit.edu/wp-content/uploads/2023/10/Regional-Manufacturing-1-Nov.pdf)
+
+- [Encyclopaedia Herder](https://encyclopaedia.herdereditorial.com/wiki/P%C3%A1gina_principal)
+
+- [Tecno-Antropología](https://encyclopaedia.herdereditorial.com/wiki/Recurso:La_Tecno-Antropolog%C3%ADa_1)
+
+- [La Tecno-Antropología una visión desde Dinamarca](https://ichan.ciesas.edu.mx/la-tecno-antropologia-una-vision-desde-dinamarca/)
