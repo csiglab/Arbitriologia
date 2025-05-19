@@ -1,4 +1,3 @@
-
 # People’s Action Party
 
 > ...
