@@ -1,9 +1,8 @@
 # Heavy Industry
 
-: 14
-
 > Heavy industry refers to a sector of the economy that involves the production of large, heavy goods and products, often using large-scale machinery and processes. This sector is characterized by the use of heavy equipment, extensive infrastructure, and significant capital investment. Heavy industry plays a crucial role in the development and growth of economies, providing essential materials and products for various sectors.
-> 
+
+>
 
 Key characteristics of heavy industry include:
 
@@ -16,7 +15,6 @@ Key characteristics of heavy industry include:
 ## Industries
 
 > Heavy industry refers to the sector of the economy that produces large, heavy products or raw materials that are used in other industries or for infrastructure development. These industries typically involve large-scale manufacturing, machinery, and complex processes.
-> 
 
 Here is a list of some common heavy industries:
 
@@ -49,4 +47,3 @@ These industries play a crucial role in economic development and infrastructure 
 - Gordon, Andrew. The evolution of labor relations in Japan: Heavy industry, 1853-1955. No. 117. Harvard Univ Asia Center, 1985.
 - Amjadi, Golnaz, Tommy Lundgren, and Lars Persson. "The rebound effect in Swedish heavy industry." *Energy Economics* 71 (2018): 140-148.
 - Kim, Minho, Munseob Lee, and Yongseok Shin. The plant-level view of an industrial policy: The Korean heavy industry drive of 1973. No. w29252. National Bureau of Economic Research, 2021.
-- …

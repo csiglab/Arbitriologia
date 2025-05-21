@@ -1,6 +1,6 @@
 # Industry
 
-: 8
+> ...
 
 The term "industry" generally refers to a category of economic activity that involves the production and manufacturing of goods or the provision of services. It encompasses a wide range of businesses and activities that contribute to the production and distribution of goods and services within an economy. Industries can be classified into various sectors based on the nature of their activities.
 
