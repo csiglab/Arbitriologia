@@ -1,12 +1,6 @@
-# UAE
-
-Tags: Observatorio
-ID: PRO-1346
-L: 3
-Status: Not started
+# United Arab Emirates (UAE)
 
 > Here's a table outlining the **types of systems** and **subsystems** that should be studied when profiling a country:
-> 
 
 ## Index
 
@@ -115,4 +109,6 @@ These tables provide a detailed breakdown of the various systems and subsystems 
 
 - https://gf.com/
 - https://www.youtube.com/watch?v=d7USgBB7sAQ
-- …
+- [An Introduction To Dubai’s Industrial Development Strategy](https://www.middleeastbriefing.com/news/an-introduction-to-dubais-industrial-development-strategy/)
+- [Abu Dhabi](https://www.abudhabi.gov.ae/en/about-the-government/government-entities)
+- [Abu Dhabi Industrial Strategy](https://www.abudhabi.gov.ae/en/programmes/abu-dhabi-industrial-strategy)
