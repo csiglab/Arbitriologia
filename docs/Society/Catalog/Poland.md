@@ -127,6 +127,28 @@ As of my last knowledge update in January 2022, I can provide a general overview
 9. **Science and Technology Parks:** Various science and technology parks across the country provide infrastructure and support for R&D activities. Examples include Gdańsk Science and Technology Park and Poznań Science and Technology Park.
 10. **European Funds:** Poland also receives funding from European Union research programs, such as Horizon Europe, which supports R&D initiatives.
 
+## GDP Measurement
+
+While World Bank claims Poland has twice GDP per capita of China, if you look at these indicators, it appears that Chinese living standards are higher.
+
+Poland's living standards appear to be, in fact, midway between China's and Mexico's (note I corrected Poland's energy consumption, the previous datapoint of 0.065 was the Romanian level).
+
+![alt text](poland-metrics.png)
+
+> Mean years of schooling of China is strange, 8.1 yrs (HDI data) are even lower than Congo. 2020 census puts it at 9.5 years (>25yrs old). HDI in 2018 also mysteriously used 7.8 years from the Barro & Lee (2016) which itself says 7.8 is 2005’s level and it was 8.14 yrs in 2015.
+
+> several of these indicators like  electricity generation per capita, energy consumption per capita relate rather to the industry contribution to GDP than to the standard of living
+
+> Their correlation with GDP per capita is higher than years of schooling, the only indicator where Poland performs better than China.
+
+> Also, energy/electricity consumption tends to be higher in countries with low population density like US and Canada. South Korea and Germany are much more industrialized but consume less electricity.
+
+> I agree they can be misleading. Thats why I presented eight indicators besides one.
+
+> The point of the exercise is to show that even GDP PPP can also be misleading.
+
+> You can get a “sugar high” in growth by pushing fertility very low, below replacement People work a lot, save the money, and to the extent they have kids, invest a lot in a few kids While this turbo charges growth, it’s hard to get out of the resulting low fertility equilibrium
+
 ## References
 
 - [https://en.wikipedia.org/wiki/National_Centre_for_Research_and_Development](https://en.wikipedia.org/wiki/National_Centre_for_Research_and_Development)
