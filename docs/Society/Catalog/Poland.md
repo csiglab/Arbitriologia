@@ -7,7 +7,7 @@ L: 6
 Status: Not started
 
 > …
-> 
+>
 
 ## Index
 
@@ -152,9 +152,19 @@ Here's a detailed table summarizing key economic and industrial strategists in P
 * **Planned Allocation Model**:
   Expenditures were driven by five-year plans, with targets for innovation linked to industrial production quotas rather than market-driven outcomes.
 
-## Productive Structure
+### Productive Structure
 
-> ...
+| Industry Sector                           | Output Characteristics                   | Export Orientation                                  | Employment & Notes                              |
+| ----------------------------------------- | ---------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
+| Heavy Industry (Steel, Mining, Machinery) | Large-scale, prioritized sector          | Significant exports to Comecon partners             | Backbone of industrial policy; high employment  |
+| Coal Mining                               | Major coal production centers            | Exported within Comecon                             | Labor-intensive, key energy source              |
+| Chemical Industry                         | Fertilizers, basic chemicals             | Mainly Comecon, some global                         | Integrated with agriculture and manufacturing   |
+| Shipbuilding                              | Significant output in Gdańsk, Szczecin   | Exports to socialist and some non-aligned countries | Strategic export sector, skilled labor          |
+| Textiles and Apparel                      | Mass production, often low quality       | Limited export outside Comecon                      | Employs many, often manual and semi-skilled     |
+| Agriculture                               | State farms (PGRs) and cooperatives      | Limited exports, mainly domestic                    | Low productivity, many workers, food shortages  |
+| Electronics and Electrical Equipment      | Small but growing sector                 | Limited export, mostly to socialist bloc            | Early stage development                         |
+| Energy Production                         | Coal, lignite dominant                   | Domestic focus                                      | Central to economy, under modernization efforts |
+| Construction Materials                    | Cement, bricks, basic building materials | Mostly domestic use                                 | Needed for rapid urbanization                   |
 
 ### 🌍 Export Structure
 
