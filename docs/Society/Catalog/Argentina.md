@@ -93,3 +93,7 @@ Status: Not started
 - [Las crisis económicas y la industria argentina - De la crisis de 1890 al Rodrigazo](https://www.teseopress.com/lascrisiseconomicasylaindustriaargentina/)
 - ‣
 - https://visiondesarrollista.org/juan-carlos-hallak-la-mirada-mas-moderna-del-desarrollo-ya-no-tiene-que-ver-con-elegir-sectores-para-darle-subsidios-exenciones-impositivas-o-proteccion-comercial-sino-genera-bienes-publicos-secto/
+
+- Reginmen de Tierra del Fuego
+  - [La producción de Tierra del Fuego no es competitiva](https://www.laprensa.com.ar/La-produccion-de-Tierra-del-Fuego-no-es-competitiva-560013.note.aspx)
+- ...
