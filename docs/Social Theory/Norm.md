@@ -1,13 +1,6 @@
 # Norm
 
-: 4
-tags: Normation
-
-> …
-> 
-
 > En RD se abusa de la palabra **código** sin sentido.
-> 
 
 ## References
 

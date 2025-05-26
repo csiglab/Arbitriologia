@@ -6,4 +6,4 @@
 
 ## References
 
-- https://en.wikipedia.org/wiki/LibertarianismI
+- https://en.wikipedia.org/wiki/Libertarianism
