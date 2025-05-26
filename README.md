@@ -15,6 +15,12 @@
 - pip freeze > requirements.txt
 - pip install -r requirements.txt
 
+## Small Scripts
+
+```bash
+find . -type f -not -path './env/**' -not -path  './.*' | shuf -n 1
+```
+
 ## References
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
