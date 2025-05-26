@@ -1,7 +1,9 @@
 # Social Theory
 
 > A note that **dives deep** into social structures; underlying ideas systems; normative frameworks (personal & collective).
-> 
+
+> Authentic existence arises when we use our present to shape the future ✨,
+transcending the limits imposed by current circumstances. To live is to live in the future. 🚀
 
 > A **Philosophical Account** of the Foundational Aspects of Human Existence and Practice.
 > 
