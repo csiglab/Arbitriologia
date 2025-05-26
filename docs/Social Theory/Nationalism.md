@@ -4,7 +4,7 @@
 
 >  **Nationalism** is best understood as a **complex, multilevel system of identity formation, boundary enforcement, and power assertion**, rooted in sociocultural constructs and operationalized through institutional mechanisms aiming at aligning a political entity (state) with a collective identity (nation).
 
-> **A sociopolitical ideology and systemic orientation characterized by the assertion and mobilization of a perceived congruence between a population (defined by shared cultural, linguistic, historical, or ethnic traits) and a sovereign political unit (the nation-state), often manifesting as a demand for self-determination, territorial integrity, and the prioritization of national interests in governance, policy, and identity formation.**
+> A sociopolitical ideology and systemic orientation characterized by the assertion and mobilization of a perceived congruence between a population (defined by shared cultural, linguistic, historical, or ethnic traits) and a sovereign political unit (the nation-state), often manifesting as a demand for self-determination, territorial integrity, and the prioritization of national interests in governance, policy, and identity formation.
 
 > Del verbo latino: nasci (nacer) → participio pasado: natus (nacido). “Grupo de personas unidas por un origen común” → es decir, una colectividad de nacimiento.
 
