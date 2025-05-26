@@ -6,11 +6,9 @@
 
 > **A sociopolitical ideology and systemic orientation characterized by the assertion and mobilization of a perceived congruence between a population (defined by shared cultural, linguistic, historical, or ethnic traits) and a sovereign political unit (the nation-state), often manifesting as a demand for self-determination, territorial integrity, and the prioritization of national interests in governance, policy, and identity formation.**
 
-> Del verbo latino: nasci (nacer) → participio pasado: natus (nacido)
+> Del verbo latino: nasci (nacer) → participio pasado: natus (nacido). “Grupo de personas unidas por un origen común” → es decir, una colectividad de nacimiento.
 
 > Note: En Roma, natio se usaba para: Designar pueblos extranjeros o no romanos (por ejemplo, galos, germanos, íberos). Connotaba una comunidad étnica o tribal más que una unidad política.A veces con un matiz peyorativo o de alteridad frente al civis romanus (ciudadano romano).
-
-> “Grupo de personas unidas por un origen común” → es decir, una colectividad de nacimiento.
 
 ## Ontological Basis
 
