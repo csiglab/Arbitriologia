@@ -24,3 +24,4 @@
 - [Model](https://righteous-guardian-68f.notion.site/Model-1b1c0f5171ec807192cad4c8bdbc9b88?pvs=4)
 - [Social System](https://en.wikipedia.org/wiki/Social_system)
 - [Level of Organization](https://righteous-guardian-68f.notion.site/Level-of-Organization-1ebc0f5171ec80dd9100ec305664c2d3?pvs=4)
+- [Expected-utility maximizers don’t maximize utility](https://ergodicityeconomics.com/2025/05/28/expected-utility-maximizers-dont-maximize-utility/)
