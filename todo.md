@@ -13,7 +13,9 @@
 - [ ]  https://en.wikipedia.org/wiki/Preference_learning
 - [ ]  https://sahillavingia.com/doge
   [ ]  https://github.com/slavingia/va
-- ...
+- https://es.wikipedia.org/wiki/Chambel%C3%A1n
+- https://es.wikipedia.org/wiki/Grandes_oficiales_de_Estado
+- 
 
 ## Should We Regulate Information:
 
