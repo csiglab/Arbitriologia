@@ -29,46 +29,44 @@ Organization:
 ## Key Research Questions
 
 > …
-> 
 
 IQ:
 
 - Recruitment and Composition
-    - What are the key demographic characteristics of CCP members, and how have these changed in recent decades?
-    - How has CCP membership grown or declined over time, and what factors influenced these trends?
+- What are the key demographic characteristics of CCP members, and how have these changed in recent decades?
+- How has CCP membership grown or declined over time, and what factors influenced these trends?
 - Career
-    - What are the most common career paths for CCP officials at different levels of government?
-    - How important are educational qualifications in determining promotions?
-    - What regional disparities exist in promotion opportunities for Party members?
+- What are the most common career paths for CCP officials at different levels of government?
+- How important are educational qualifications in determining promotions?
+- What regional disparities exist in promotion opportunities for Party members?
 - Political Trends
-    - How has the ideological focus of the CCP changed over time, and how have members responded?
-    - What role do CCP members play in disseminating and enforcing Party policies?
-    - To what extent do members’ personal beliefs align with the Party’s official ideology?
+- How has the ideological focus of the CCP changed over time, and how have members responded?
+- What role do CCP members play in disseminating and enforcing Party policies?
+- To what extent do members’ personal beliefs align with the Party’s official ideology?
 - Internal Party Politics
-    - How do factional politics shape the dynamics of CCP leadership and membership?
-    - What role do political networks play in shaping the careers of Party members?
-    - How are factional disputes managed within the Party to maintain unity?
+- How do factional politics shape the dynamics of CCP leadership and membership?
+- What role do political networks play in shaping the careers of Party members?
+- How are factional disputes managed within the Party to maintain unity?
 - Party Members' Role in Governance
-    - What roles do CCP members play in governance at the local, regional, and national levels?
-    - How do CCP members balance their Party responsibilities with administrative duties?
-    - What mechanisms are in place to hold CCP members accountable for governance failures?
+- What roles do CCP members play in governance at the local, regional, and national levels?
+- How do CCP members balance their Party responsibilities with administrative duties?
+- What mechanisms are in place to hold CCP members accountable for governance failures?
 - The CCP's Anti-Corruption Campaigns
-    - How have anti-corruption campaigns affected CCP membership and internal dynamics?
-    - What patterns can be observed in the types of officials targeted by these campaigns?
-    - How do Party members perceive the effectiveness and fairness of anti-corruption efforts?
+- How have anti-corruption campaigns affected CCP membership and internal dynamics?
+- What patterns can be observed in the types of officials targeted by these campaigns?
+- How do Party members perceive the effectiveness and fairness of anti-corruption efforts?
 - CCP Membership at the Grassroots Level
-    - What roles do grassroots CCP members play in their communities?
-    - How does CCP membership differ between urban and rural areas?
-    - What is the relationship between grassroots Party organizations and local development outcomes?
+- What roles do grassroots CCP members play in their communities?
+- How does CCP membership differ between urban and rural areas?
+- What is the relationship between grassroots Party organizations and local development outcomes?
 - CCP Membership and Public Perception
-    - How does the Chinese public perceive CCP members and their contributions to governance?
-    - How do younger generations view the benefits and responsibilities of CCP membership?
-    - What strategies does the CCP employ to improve the public image of its members?
+- How does the Chinese public perceive CCP members and their contributions to governance?
+- How do younger generations view the benefits and responsibilities of CCP membership?
+- What strategies does the CCP employ to improve the public image of its members?
 
 ## Party History
 
 > …
-> 
 
 References:
 

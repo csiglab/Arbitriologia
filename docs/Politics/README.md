@@ -119,6 +119,61 @@ According to **systems theory** and **rational-choice institutionalism**, partie
 | **Aggregation of interests**     | Synthesizes diverse demands into policy platforms |
 | **Control over state apparatus** | Provides continuity and control over bureaucracy  |
 
+## Semantics of Politics
+
+> Politics is the collective process by which groups define, contest, and enforce the norms and structures that govern shared life.
+
+> Politics is the art and mechanism of coordinating collective behavior, allocating shared resources, and legitimizing authority within a group.
+
+> Politics is how a group governs itself.
+
+### 1. **Etymological Roots**
+
+* **Greek:** *politiká* (πολιτικά) – "affairs of the polis (city-state)"
+
+  * From **polis** (πόλις) – city-state
+  * Related to **politēs** – citizen
+  * Related to **politikós** – "of citizens or civic matters"
+
+### 2. **Core Denotations**
+
+* **Politics** refers to the **activities, actions, and policies** used to **gain and hold power in a government** or to **influence the governance** of a group or community.
+
+### 3. **Connotative Dimensions**
+
+* **Neutral / Descriptive:**
+
+  * The process of governance, administration, decision-making in groups
+* **Negative / Pejorative:**
+
+  * Scheming, manipulation, power games (“office politics”)
+* **Positive / Idealistic:**
+
+  * Civic engagement, participatory democracy, public reasoning
+
+### 4. **Key Semantic Fields and Related Concepts**
+
+| Domain                     | Semantic Association                       |
+| -------------------------- | ------------------------------------------ |
+| **Civic life**             | public affairs, statecraft, governance     |
+| **Power**                  | authority, domination, legitimacy, control |
+| **Ethics & justice**       | deliberation, law, fairness, public good   |
+| **Conflict & negotiation** | struggle, compromise, diplomacy            |
+| **Identity**               | partisanship, ideology, citizenship        |
+
+### 5. **Philosophical Interpretations**
+
+* **Aristotle:** “Man is by nature a political animal” – *politics* as the natural extension of living in a community (*polis*)
+* **Hobbes / Machiavelli:** Politics as the **management of power** and **control over disorder**
+* **Arendt:** Politics as **public action and discourse** in a shared space of appearance
+* **Foucault:** Politics as **distribution and exercise of power**, including biopolitics and micro-politics
+
+### 6. **Modern Usages**
+
+* **Macro:** Electoral systems, political theory, institutional power
+* **Micro:** Organizational politics, identity politics, academic politics
+* **Global:** Geopolitics, climate politics, economic governance
+
 ## References
 
 ![Untitled](Political%20Parties%2017ac0f5171ec8181b799c26bfe601eec/Untitled.png)
