@@ -1,2 +1,0 @@
-- https://en.wikipedia.org/wiki/Commenda
-- https://en.wikipedia.org/wiki/Obligatio_consensu

@@ -1,3 +1,0 @@
-# Aculculture
-
-: 11

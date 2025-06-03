@@ -1,3 +1,0 @@
-# Telecommunications
-
-: 18
