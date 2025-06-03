@@ -16,6 +16,10 @@
 - https://es.wikipedia.org/wiki/Chambel%C3%A1n
 - https://es.wikipedia.org/wiki/Grandes_oficiales_de_Estado
 - How to improve the productivity of the non exporting service sector?
+- [Singapore Launched a New Eight-Inch SiC-Related Production Line](https://www.trendforce.com/news/2025/06/02/news-singapore-launched-a-new-eight-inch-sic-related-production-line/)
+  - [Institute of Microelectronics (IME)](https://www.a-star.edu.sg/ime)
+- ...
+- https://en.wikipedia.org/wiki/Restricted_Data
 
 ## Should We Regulate Information:
 
