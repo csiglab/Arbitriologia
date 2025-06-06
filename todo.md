@@ -21,6 +21,35 @@
 - ...
 - https://en.wikipedia.org/wiki/Restricted_Data
 
+
+| Bremontix Laboratorio Arbitrista | [bremontix.lsp@gmail.com](mailto:bremontix.lsp@gmail.com) | bstrategiae |
+| --- | --- | --- |
+
+> Estamos en pausa con este proyecto;  pero seguiremos acumulanod informacion.
+> 
+
+> La pausa llega - por concentración …
+> 
+
+## Index
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/031c48d7-d38e-41eb-b165-9462aa3d373f/08d86182-4b6e-486d-be96-3038e6e5cace/image.png)
+
+## Estudios Arbitristas Generales
+
+- https://dev-plan-mexico.infotec.mx/
+- https://en.wikipedia.org/wiki/Zoning
+- https://es.wikipedia.org/wiki/Llanero
+- https://es.wikipedia.org/wiki/Agrociudad
+- [Japan’s Economic Puzzle](https://growthlab.hks.harvard.edu/sites/projects.iq.harvard.edu/files/2024-03-cid-wp-442-japan-economic-puzzle_4.pdf)
+
+## Estudios  Hispanicos
+
+- https://es.wikipedia.org/wiki/Jos%C3%A9_de_la_Riva_Ag%C3%BCero_y_Osma
+- https://es.wikipedia.org/wiki/Anexo:Oficios_p%C3%BAblicos_Antiguo_R%C3%A9gimen_(%C3%81mbito_Hispano)
+
+- https://es.wikipedia.org/wiki/Escudo_de_Espa%C3%B1a
+
 ## Should We Regulate Information:
 
 Mis-information: Choices
