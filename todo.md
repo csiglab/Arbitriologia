@@ -18,8 +18,15 @@
 - How to improve the productivity of the non exporting service sector?
 - [Singapore Launched a New Eight-Inch SiC-Related Production Line](https://www.trendforce.com/news/2025/06/02/news-singapore-launched-a-new-eight-inch-sic-related-production-line/)
   - [Institute of Microelectronics (IME)](https://www.a-star.edu.sg/ime)
-- ...
 - https://en.wikipedia.org/wiki/Restricted_Data
+- [ ]  https://www.ayudexport.com/en/
+- NSE EMERGE -> Stock Market Without IPO for SME - Good Idea; It Should be Proposed as an Arbitrium.
+    - How to Create a Private Equity Market; to help the development of enterprises.
+- [ ]  https://acceso.prochile.cl/wp-content/uploads/2017/01/PMP_RDominicana_Camarones_2016.pdf
+- [ ]  http://es.wikipedia.org/wiki/Arbitrismo
+- [ ]  https://www.paragkhanna.com/the-periodic-table-of-states-2/
+- https://www.csps-efpc.gc.ca/index-eng.aspx
+- ...
 
 
 | Bremontix Laboratorio Arbitrista | [bremontix.lsp@gmail.com](mailto:bremontix.lsp@gmail.com) | bstrategiae |
@@ -29,7 +36,7 @@
 > 
 
 > La pausa llega - por concentración …
-> 
+>
 
 ## Index
 
