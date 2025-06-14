@@ -1,12 +1,6 @@
 # Catalan Institute of Nanoscience and Nanotechnology (ICN2)
 
-Tags: Observatorio
-ID: PRO-1353
-L: 58
-Status: Not started
-
 > …
-> 
 
 ## References
 
