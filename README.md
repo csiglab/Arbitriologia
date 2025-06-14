@@ -2,7 +2,7 @@
 
 > Espacio para prototipar ideas, investigando y diseñando estrategias para la grandeza tecnológica y productiva de la República Dominicana.
 
-![image](https://github.com/user-attachments/assets/2a4a529e-d4ea-49e4-9f46-fe6364f86b92)
+![Escudo de Armas - Laboratorio Arbitrista](https://raw.githubusercontent.com/csiglab/Meta/refs/heads/main/img/resized/bremontix-laboratorio-arbitrista_256x256.png)
 
 ## Linux: Build & Run
 
