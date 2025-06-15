@@ -28,7 +28,6 @@
 - https://www.csps-efpc.gc.ca/index-eng.aspx
 - ...
 
-
 | Bremontix Laboratorio Arbitrista | [bremontix.lsp@gmail.com](mailto:bremontix.lsp@gmail.com) | bstrategiae |
 | --- | --- | --- |
 
@@ -37,6 +36,10 @@
 
 > La pausa llega - por concentración …
 >
+
+
+- https://www.phenomenalworld.org/analysis/industrial-policy-and-imperial-realignment/
+-
 
 ## Index
 

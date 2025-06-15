@@ -88,7 +88,7 @@ Las **características de las economías** según su tipo:
 ### Dinamicas Acumulativas, M**asas Crítica** y Transiciones de Fases
 
 > ¿Cómo ocurre una transición de fase en el proceso de desarrollo? ¿Cuál debería ser el ritmo de los cambios en el desarrollo? ¿Qué características hacen que los cambios sean significativos y cuán profundos deben ser para provocar una transición de fase? ¿Qué tan amplios y profundos deberían ser?
-> 
+>
 
 ## Herramientas para catalizar y razonar el proceso de desarrollo
 
@@ -153,7 +153,6 @@ Para estructurar la exposición, nos proponemos responder un conjunto de pregunt
 ### Combatir la Pobreza y/o Promover las Estructuras que Generan Riqueza
 
 > ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?  ¿Combatir una **condición negativa** o crear una **condición positiva**?
-> 
 
 Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
 
@@ -164,22 +163,32 @@ Es común que las personas**, en lugar de analizar las causas de la riqueza**, s
 ### Análisis y Explicación
 
 > …
-> 
 
 ### Caso de Éxito: Escocia en el Siglo XVII
 
 > …
-> 
 
 ### Caso de Éxito: Finlandia en el Siglo XX
 
 > …
-> 
 
 ### Caso de Fracaso: Brasil en los Siglos XIX-XXI
 
 > …
-> 
+
+## 🌀 Contra la “razón” circular: El Desarrollo No Se Hereda, Se Construye
+
+> Desarrollo → Desarrollo ≠ Condición inicial → Desarrollo
+
+> Dejar de Justificar el Estancamiento.
+
+> El desarrollo no es la prolongación automática de un punto de partida favorable, sino la superación activa de un punto de partida cualquiera —por adverso que sea.
+
+> No es la herencia lo que determina el desarrollo, sino la capacidad de transformarla.
+
+> El desarrollo no se frustra por las condiciones heredadas, sino por la inercia institucional, la falta de visión histórica, y la ausencia de voluntad transformadora para superar esas condiciones.
+
+> El punto de partida no se elige. Factores como infraestructura deficiente, escasa educación, débil gobernanza, rezago tecnológico o aislamiento internacional son obstáculos reales.  Pero no explican por sí mismos el estancamiento: lo decisivo es cómo se actúa frente a ellos.
 
 ## Conclusión
 

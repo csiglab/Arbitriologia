@@ -1,3 +1,4 @@
+
 # Architecture
 
 > **Architectural style models** are conceptual frameworks that define and guide the design and construction of buildings or structures based on specific aesthetic, functional, and historical principles.
@@ -20,3 +21,4 @@
 - https://en.wikipedia.org/wiki/List_of_architectural_styles
 - https://ericmcintyre.substack.com/p/a-century-of-ugly-architecture
 - [r/ArchitecturalRevival](https://www.reddit.com/r/ArchitecturalRevival/)
+- https://es.wikipedia.org/wiki/Arquitectura_herreriana
