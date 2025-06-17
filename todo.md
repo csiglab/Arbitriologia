@@ -32,14 +32,14 @@
 | --- | --- | --- |
 
 > Estamos en pausa con este proyecto;  pero seguiremos acumulanod informacion.
-> 
 
 > La pausa llega - por concentración …
->
-
 
 - https://www.phenomenalworld.org/analysis/industrial-policy-and-imperial-realignment/
--
+
+- https://en.wikipedia.org/wiki/Tang_dynasty
+- https://nikon-slm-solutions.com/slm-systems/nxg-xii-600/
+- ***Preußische Seehandlung** -  ….*
 
 ## Index
 
