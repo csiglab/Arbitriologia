@@ -41,6 +41,13 @@
 - https://nikon-slm-solutions.com/slm-systems/nxg-xii-600/
 - ***Preußische Seehandlung** -  ….*
 
+## USA Public AI Startegy - Gov Productivity
+
+1. At the heart of this is the “AI. gov” project, developed by the General Services Administration (GSA) in collaboration with Technology Transformation Services (TTS) under the leadership of Thomas Shedd.
+2. According to the plans, Shedd, formerly a software engineering manager at Tesla, is aiming for a “startup-like” way of working - with the aim of making the federal administration AI-first and largely automating many processes.
+3. The repository contained several key building blocks: an AI chatbot to take over administrative tasks; an API platform to integrate external models from OpenAI, Google Anthropic and others;
+4. and an analytics dashboard called CONSOLE, which authorities can use to monitor the use of AI in real http://time.An official launch of AI. gov was apparently planned for July 4 - US Independence Day.
+
 ## Index
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/031c48d7-d38e-41eb-b165-9462aa3d373f/08d86182-4b6e-486d-be96-3038e6e5cace/image.png)
