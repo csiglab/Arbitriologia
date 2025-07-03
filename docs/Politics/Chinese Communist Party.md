@@ -66,7 +66,61 @@ IQ:
 
 ## Party History
 
-> …
+>  “The dictatorship of the proletariat must be democratic, or it becomes the dictatorship of a party over the proletariat. And if that party has no internal democracy, it becomes the dictatorship of a few men over the whole party.” — (Condenseation Not Direct Phrase) Chen Duxiu.
+
+> Chen Duxiu and Li Dazhao were the two most important founding figures of the Chinese Communist Party (CCP). They introduced Marxism to China, organized the first cells, and laid the ideological and organizational foundation for the Party. Mao Zedong, though present at the founding (as a delegate), rose to power only later through a combination of political maneuvering, ideological innovation, and military leadership.
+
+### Chen Duxiu
+
+> “Today’s Communist Party has become a dictatorship over the proletariat, not a dictatorship of the proletariat.”     — Letter to Comrades, 1931
+
+> “The Party has silenced democratic discussion in the name of discipline; it has replaced collective leadership with commandism.”
+
+> “Stalin’s policy turned the Communist International into an instrument of Soviet foreign policy, not world revolution.”
+
+> “A real internationalist must oppose Moscow’s bureaucratic despotism just as one opposes capitalist imperialism.” — Open Letter to Chinese Communists, 1931
+
+> “Without democracy within the party, socialism becomes a new form of oppression.” — Reflections on the Proletarian Dictatorship, 1932
+
+> “Democracy is not a bourgeois luxury; it is the only safeguard against the Party becoming the tool of a few.”
+
+> “The masses must be the subject of revolution, not its object.”
+
+> “We must trust in the working class, not substitute it with a ‘revolutionary’ bureaucracy.”
+
+> “I do not deny my responsibility for the failures of the Party during my leadership. But my error was not in underestimating the revolution — it was in overestimating the Party’s willingness to serve the revolution instead of itself.” — Political Self-Confession, 1932
+
+> “Better to be expelled for speaking truth than to remain silent among flatterers.”
+
+### Mao Rose to Power
+
+⚔️ Step 1: After 1927 — Focus on Rural Revolution
+
+- The failure of urban uprisings led Mao to focus on peasants.
+- He organized the Autumn Harvest Uprising and founded rural soviets.
+- Most other leaders remained urban-focused, which failed under KMT repression.
+
+🧠 Step 2: Ideological Innovation
+
+- Mao argued that peasants, not just workers, could be revolutionary agents in China.
+- This broke from orthodox Marxism (which prioritized the urban proletariat).
+
+🚶 Step 3: The Long March (1934–35)
+
+- Mao's forces retreated after the Jiangxi Soviet was crushed.
+- During the Long March, Mao took control of the Party leadership at the Zunyi Conference (1935) by criticizing earlier strategic failures.
+- This was the turning point when Mao became the de facto leader.
+
+🛠 Step 4: Consolidation through Warfare and Purge
+
+- Mao won support through guerrilla warfare, discipline, and political education.
+- From Yan'an (1936–1947), he developed Maoism, combining Marxism with Chinese realities.
+- Eliminated rivals (e.g., Wang Ming, Zhang Guotao) through party purges and power plays.
+
+🧨 Step 5: Total Control After 1949
+
+- After the Communist victory in the civil war, Mao became Chairman of the CCP and head of state.
+- Used ideological campaigns, mass mobilization, and cult of personality to centralize control.
 
 References:
 
