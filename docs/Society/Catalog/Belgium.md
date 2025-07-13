@@ -159,6 +159,35 @@ Belgium **did not have a centralized, formal industrial policy** like modern ind
 
 * Though the state did not have a formal R\&D policy, **private-public partnerships and bank-industry alliances** (e.g., with Société Générale) promoted **technology transfer**, particularly from Britain.
 
+## Tarrif History
+
+| Year     | Minimum rate (%)  | Average rate (%) | Highest rate (%) | Main source / note                                                                                         |
+| -------- | ----------------- | ---------------- | ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| **1820** | ≈ 5 %             | ≈ 10 %           | 20 %             | Initial Dutch/Belgian tariff schedule, very low duties on raw materials; 20 % on colonial luxuries         |
+| **1830** | 3 %               | 8 %              | 15 %             | Independence – liberal tariff ordinance of 1831 kept most duties below 10 %; maxima on cotton yarn & wine  |
+| **1840** | 0 % (coal, grain) | 6 %              | 12 %             | 1834–1844 phase of tariff simplification; few prohibitions left                                            |
+| **1850** | 0 %               | 5 %              | 10 %             | Post-1848 liberalisation; most raw materials duty-free, manufactured goods 5–10 %                          |
+| **1860** | 0 %               | 4 %              | 8 %              | Chevalier-Cobden influence; Franco-Belgian trade treaty (1861) introduced MFN and reduced maxima           |
+| **1870** | 0 %               | 4 %              | 8 %              | Continuation of low-tariff policy; average level among the lowest in Europe                                |
+| **1880** | 2 %               | 6 %              | 12 %             | Slight rebound after 1879 German tariff; still well below neighbouring France or Germany                   |
+| **1890** | 3 %               | 7 %              | 15 %             | Modest protectionist turn—higher duties on textiles & iron, but raw materials still largely free           |
+| **1900** | 5 %               | 9 %              | 20 %             | Pre-war peak; sugar, spirits and some iron goods hit 15–20 %, while raw materials remained ≤ 5 %           |
+
+**Manufacturing Specifics:**
+
+| Year     | Minimum rate (%) | Average rate (%) | Highest rate (%) | Key notes                                                                               |
+| -------- | ---------------- | ---------------- | ---------------- | --------------------------------------------------------------------------------------- |
+| **1820** | 5                | 6–8              | 12               | Still part of United Netherlands; low duties on raw cotton, higher on finished textiles |
+| **1830** | 4                | 7–8              | 12               | Independence; liberal tariff ordinance kept most manufactured goods ≤ 10 %              |
+| **1840** | 3                | 6–7              | 10               | Continued simplification; iron & steel enter duty-free                                  |
+| **1850** | 2                | 5–6              | 9                | Pre-1860 liberal wave; machinery and rails at 0–3 %                                     |
+| **1860** | 2                | 4–5              | 8                | Chevalier-Cobden treaty (1861) cuts maxima to 8 %                                       |
+| **1870** | 2                | 4–5              | 8                | Stable low-tariff phase; Belgium among the lowest in Europe                             |
+| **1880** | 3                | 6–7              | 12               | Slight rebound after 1879 German tariff; textiles up to 12 %                            |
+| **1890** | 4                | 7–8              | 14               | Modest protectionist turn; woollens & iron goods targeted                               |
+| **1900** | 5                | 9–10             | 15               | Pre-war peak; highest lines reach 15 % but still below France or Germany                |
+
+
 ## References
 
 - National Bank of Belgium. (2024). *Economic Review*.  
