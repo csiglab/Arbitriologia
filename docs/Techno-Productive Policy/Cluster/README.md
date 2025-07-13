@@ -67,6 +67,30 @@ industrial district, an agglomeration of small businesses in the same locality.
 - Targeted policies to help cluster catch up & innovate. Because the money is limited
 - …
 
+## Firm Space
+
+> Firm space refers to a multi-dimensional feature space where each dimension corresponds to a measurable attribute of a firm.
+
+
+| Category        | Features (Dimensions)                               |
+| --------------- | --------------------------------------------------- |
+| Sectoral        | NAICS/ISIC code, sub-sector type                    |
+| Technological   | Patent classes, R\&D intensity, tech stack          |
+| Organizational  | Firm size, governance type, foreign/local ownership |
+| Market-based    | Customer types, export orientation, market segments |
+| Innovation      | Product novelty, collaboration score, digital tools |
+| Input structure | Source of raw materials, supplier reliance          |
+| ...             | ...                                                 |
+
+Distance Measures:
+
+- Gower Distance
+- Manhattan (City Block) Distance
+- Jaccard Distance
+- Cosine Similarity / Distance
+- Euclidean Distance
+
+
 ## Cluster Synergies
 
 > **Cluster synergies** arise from the concentration of related industries and organizations, enhancing productivity, accelerating R&D, fostering innovation, and driving regional economic growth through shared resources, expertise, and networks.
@@ -344,4 +368,4 @@ industry clusters: Resources, networks, and regional advantages." *Growth and Ch
 [https://academic.oup.com/spp/article/51/5/823/7685863](https://academic.oup.com/spp/article/51/5/823/7685863)
 - Nanotechnology and knowledge relatedness: how to identify optimal regional partners in EU innovation networks?
 [https://academic.oup.com/spp/article/51/5/879/7686928](https://academic.oup.com/spp/article/51/5/879/7686928)
-- ‣
+- https://en.wikipedia.org/wiki/Silhouette_(clustering)
