@@ -138,6 +138,29 @@
 
 ...
 
+## Metrics
+
+| Metric                              | Description                                                                     | Method                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Location Quotient (LQ)**          | How concentrated the industry is in the region compared to national average     | `LQ > 1.25` implies clustering                    |
+| **Input–Output Linkage**            | Company buys from or sells to other cluster firms                               | Survey or firm transaction data                   |
+| **Technology or Knowledge Overlap** | Shares R\&D topics, patents, tech platform with nearby firms                    | Patent co-classification, research collaborations |
+| **Labor Pool Commonality**          | Competes for or exchanges skilled workers with others in the cluster            | Job ads analysis, worker mobility                 |
+| **Co-participation in platforms**   | Member of industry association, innovation consortium, or supply chain alliance | Membership data                                   |
+| **Innovation flows**                | Co-invention, knowledge sharing, attendance at same fairs, labs, training       | Interviews, institutional mapping                 |
+| **Local embeddedness**              | % of suppliers or clients within region                                         | Supplier audit, surveys                           |
+
+**Tools**
+
+| Tool                                 | Use                                                                                |
+| ------------------------------------ | ---------------------------------------------------------------------------------- |
+| **Cluster Mapping (Porter/Harvard)** | Visualize sectoral clusters by region using LQ and employment concentration        |
+| **Social Network Analysis (SNA)**    | Identify dense networks of collaboration and information exchange                  |
+| **Geospatial Analysis (GIS)**        | Map firm densities, transportation proximity, natural constraints                  |
+| **Value Chain Mapping**              | Understand upstream/downstream dependencies and gaps                               |
+| **Cluster Observatory Platforms**    | e.g., [Cluster Mapping Project](https://clustermapping.us), EU Cluster Observatory |
+
+
 ## References
 
 * ...

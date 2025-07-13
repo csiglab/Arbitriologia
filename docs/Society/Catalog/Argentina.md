@@ -1,26 +1,20 @@
 # Argentina
 
-Tags: Observatorio
-ID: PRO-1597
-L: 9
-Status: Not started
-
 > A captivating blend of vibrant tango rhythms, breathtaking landscapes stretching from the Andes to the Pampas, and a rich cultural heritage fueled by passion, resilience, and the pursuit of gastronomic delights.
-> 
+>
 
 > Without the inhabitants of a country becoming enlightened, or in other words, without education, we could advance nothing.
-> 
+>
 
 > The trade we have done until now has been limited to very little, buying in Cádiz as cheaply as possible and selling in America as expensive as possible. (…) these infatuated men do not deserve the name of merchants.
-> 
+
+> So agriculture is a springboard, not a ceiling. The trick is to reinvest the rents into R&D, logistics, and downstream industries (bio-inputs, precision machinery, functional foods, renewable-energy-powered agri-chemicals) so that the next export dollar contains more domestic IP and capital goods and less imported content.
 
 ## Historia Economica
 
 > Mito Argentina Potencia !!!
-> 
 
-> …
-> 
+
 - Schiaffino, Pablo. "¿ Fue la Argentina realmente rica? Una aproximación al debate desde el capital humano." Boletín del Instituto de Historia Argentina y Americana Dr. Emilio Ravignani 58 (2023): 113-122.
 - Gallo, Ezequiel. "Agrarian expansion and industrial development in Argentina, 1880-1930." (1970).
 

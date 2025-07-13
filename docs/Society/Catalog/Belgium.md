@@ -26,6 +26,7 @@
 | **Contemporary Era**  | 1970s-1980s: decline of Walloon heavy industry; Flemish ports and services rise; 1999-2002 euro adoption; 2008 crisis hit banking (Dexia, Fortis); 2020s green transition & digitalization. |
 
 **Guiding Questions:**  
+
 - Coal + waterways → early industrial advantage.  
 - Colonialism limited; instead, strategic location at Rhine-Scheldt delta.  
 - Shift from Walloon heavy industry to Flanders logistics & services.  
@@ -187,6 +188,42 @@ Belgium **did not have a centralized, formal industrial policy** like modern ind
 | **1890** | 4                | 7–8              | 14               | Modest protectionist turn; woollens & iron goods targeted                               |
 | **1900** | 5                | 9–10             | 15               | Pre-war peak; highest lines reach 15 % but still below France or Germany                |
 
+## Manpower Training
+
+> By 1900 Belgium had the **densest per-capita network of technical schools** on the continent, feeding **foremen, draughtsmen and junior engineers** directly into coal mines, ironworks, locomotive plants and textile mills—precisely the skills required to maintain the **second-highest industrial density in the world** after Britain .
+
+### University-level engineering
+
+- **Université de Liège (State)** – opened **1835** with a Faculty of Applied Sciences; by the 1860s housed laboratories for mining, metallurgy and civil engineering.  
+- **Ghent State University** – created **1830**; added mechanical-engineering courses (1860s) to serve the Flemish textile belt.  
+- **Catholic University of Louvain & Free University of Brussels** – both founded engineering sections in the 1860s, often competing for industry contracts .
+
+### Higher technical “grandes écoles”
+
+- **École des Mines de Mons** – founded **1838**, training mining engineers for the Borinage and Liège coal basins.  
+- **École des Arts et Manufactures (later École Centrale)** – launched **Liège 1838**, **Ghent 1838**, **Huy 1838**, **Verviers 1841**, **Charleroi 1845**; curricula combined **mathematics, mechanics, chemistry and drawing** with **evening classes** so that foremen and master-craftsmen could attend while working .  
+- **Antwerp Industrial School** – opened **1866**; four-year programme (extended to five in 1894) with branches in **materials science, construction, ship-building and wood-working**; modelled on Liège and German schools .
+
+### Network of industrial & vocational schools
+
+| Year | Number of schools | Typical location | Focus |
+|------|-------------------|------------------|-------|
+| 1850 | 12 | Liège, Ghent, Verviers | Textile, mining, iron |
+| 1897 | 40 | Hainaut (18), Charleroi, Namur, Antwerp | Coal, steel, glass, mechanical construction  |
+
+Classes were **evening or winter courses** (Oct–Mar) so apprentices could keep daytime jobs; curricula included **projective geometry, machine drawing, mechanics and basic chemistry** .
+
+### State & private funding
+
+- Municipalities and provincial councils provided buildings; the **Ministry of Industry & Labour** issued national **programme regulations** (1867, 1872, 1894) and paid part-time teachers .  
+- Catholic and municipal **vocational schools** complemented the industrial schools, offering strictly practical day-time training for younger workers.
+## Summary
+
+Belgium’s industrial take-off rested on three mutually reinforcing layers:
+
+- Factor endowment: cheap coal + iron ore in the Sillon industriel
+- Institutional finance: Société Générale de Belgique (SG) provided risk capital, long-term credit and equity markets
+- State-backed coordination: tariffs, railway charters, patent law, canal and rail concessions, technical education
 
 ## References
 
@@ -195,3 +232,5 @@ Belgium **did not have a centralized, formal industrial policy** like modern ind
 - OECD. (2023). *Economic Survey: Belgium*.  
 - European Commission. (2023). *Country Report Belgium 2023*.  
 - Science Policy Office (BELSPO). (2024). *Belgian Research Overview*.
+- [Société Générale de Belgique](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_de_Belgique)
+- https://www.arct.cam.ac.uk/system/files/documents/vol-1-379-392-bertels.pdf
