@@ -66,11 +66,21 @@ It is characterized by:
 | Policy Term (🌱 Invented)   | Politics Term      |
 | --------------------------- | ------------------ |
 | **Gobernática**             | Política           |
+| **Gobernática**             | Política           |
 | **Politicia**               | Política           |
 | **Gobernática**             | Partidismo         |
 | **Programática estatal**    | Campaña ideológica |
 | **Ciclo de intervenciones** | Ciclo electoral    |
 | **Planeación técnica**      | Discurso político  |
+
+| Spanish Term     | English Equivalent Term                          | Part of Speech | Definition / Explanation                                                                                                                          | Usage / Scope                                                |
+| ---------------- | ------------------------------------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Gobernática**  | Governance Science / Policy Science              | Noun           | Discipline and methods for systematic design, implementation, and evaluation of evidence-based public actions, distinct from politics.            | Field focused on technical and evidence-based policy making. |
+| **Gobernología** | Governance Studies                               | Noun           | Scientific study of government structures, processes, and dynamics, including political, social, and institutional aspects.                       | Academic interdisciplinary study of governance.              |
+| **Gobernático**  | Governance-related / Technical governance (adj.) | Adjective      | Pertaining to technical methods, tools, and practices applied to evidence-based governance and policy execution.                                  | Describes technical or methodological aspects of governance. |
+| **Gobernata**    | Policy / Governance Unit                         | Noun           | Unit or set of public actions designed and executed under gobernática principles to achieve specific objectives, distinct from partisan politics. | The “policy” or program developed through gobernática.       |
+| **Gobernatario** | Governance Practitioner / Policy Manager         | Noun (agent)   | Person who practices gobernática, designing and managing gobernatas with systematic, evidence-based methods.                                      | Professionals applying technical governance approaches.      |
+
 
 ## Refeernces
 
