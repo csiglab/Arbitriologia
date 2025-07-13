@@ -18,6 +18,36 @@ QA:
 
 - Which datasets (e.g., World Bank Governance Indicators, WGI; WVS; linguistic typologies) can support empirical testing of the hypothesis?
 
+## Policy
+
+> Policy refers to the purposeful, coordinated, and evidence-based set of decisions and actions taken by a public or private actor to address specific problems, achieve defined objectives, or guide systemic outcomes.
+
+It is characterized by:
+– Instrumentality: oriented toward solving concrete problems
+– Intentional design: often involves planning, modeling, and evaluation
+– Strategic neutrality: ideally autonomous from partisan or ideological bias
+– Temporal projection: focused on medium- and long-term implementation
+– Technical justification: supported by data, analysis, or expert knowledge
+
+See:
+
+- Public health policy,
+- monetary policy,
+- housing policy
+
+## Politics
+
+> Politics refers to the process of collective decision-making and contestation over power, interests, values, and representation within a society or organization.
+
+> Collective Desigion Making Proceess & Framework.
+
+It is characterized by:
+– Power negotiation: who decides, who benefits, who pays
+– Ideological alignment: shaped by worldviews, identities, coalitions
+– Conflict and consensus: involves persuasion, debate, and compromise
+– Symbolic action: mobilization through language, imagery, and narratives
+– Institutional mediation: expressed through parties, parliaments, elections
+
 ## Data
 
 | Language   | Word for Politics | Word for Policy                | Clear Lexical Distinction?            |
@@ -30,6 +60,17 @@ QA:
 | Chinese    | 政治 (zhèngzhì)     | 政策 (zhèngcè)                   | ✅ Partial                             |
 | English    | politics          | policy                         | ✅ Clear                               |
 | German     | Politik           | Politik / Maßnahme / Strategie | ✅ Partial (more granular terms exist) |
+
+## Towards Clearer Distinctions: Solutions for Policy and Politics in Spanish
+
+| Policy Term (🌱 Invented)   | Politics Term      |
+| --------------------------- | ------------------ |
+| **Gobernática**             | Política           |
+| **Politicia**               | Política           |
+| **Gobernática**             | Partidismo         |
+| **Programática estatal**    | Campaña ideológica |
+| **Ciclo de intervenciones** | Ciclo electoral    |
+| **Planeación técnica**      | Discurso político  |
 
 ## Refeernces
 
