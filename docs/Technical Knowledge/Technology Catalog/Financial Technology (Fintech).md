@@ -1,7 +1,5 @@
 # Financial Technology (Fintech)
 
-: 30
-Tags: Finance, Problem
 
 > Technology-driven companies offering a wide range of digital financial services, including mobile banking, payment processing, and digital lending.
 > 
@@ -9,7 +7,11 @@ Tags: Finance, Problem
 ## Payment Systems
 
 > …
-> 
+
+QA:
+
+- What are the mechanisms and protocols through which national payment systems interconnect with other domestic and international payment systems?
+
 
 | **Category** | **Description** | **Examples** |
 | --- | --- | --- |
@@ -36,7 +38,6 @@ Tags: Finance, Problem
 ## **Open Banking**
 
 > …
-> 
 
 ## References
 
