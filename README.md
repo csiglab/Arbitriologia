@@ -41,3 +41,4 @@ find . -type f -not -path './env/**' -not -path  './.*' | shuf -n 1
 - https://github.com/jsvine/pdfplumber
 - https://camelot-py.readthedocs.io/en/master/
 - https://github.com/camelot-dev/camelot
+- https://github.com/csiglab/Meta
