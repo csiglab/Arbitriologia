@@ -118,3 +118,4 @@ Mis-information: Choices
 
 - https://www.meer.com/es/82847-escuela-industrial-de-barcelona
 - Technische Hochschulen - https://de.wikipedia.org/wiki/Technische_Hochschule
+- https://en.wikipedia.org/wiki/Good_Tsar,_bad_Boyars
