@@ -4,7 +4,7 @@
 
 ## 🧠 Modeling Paradox: Visiviliby - Intelligibility
 
-> aka. Emergence Beyond the Obvious
+> aka. Emergence Beyond the Obvious.
 
 > Because social systems are directly observable to the human eye—unlike, for example, molecular systems—this immediacy of observation often leads to a false sense of intelligibility. Yet, at this level of organization, social systems are among the most complex phenomena in existence, due to the presence of adaptation, learning, strategic interaction, and the fact that nearly all meaningful patterns are emergent rather than reducible to simple components.
 
