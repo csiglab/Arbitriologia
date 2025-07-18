@@ -1,6 +1,15 @@
 # Social System Modelling
 
 > A complete model of a social system must include representation of entities, interaction and feedback between them, and adaptation over time, all within the context of structures, environments, and historical dynamics.
+
+## 🧠 Modeling Paradox: Visiviliby - Intelligibility
+
+> aka. Emergence Beyond the Obvious
+
+> Because social systems are directly observable to the human eye—unlike, for example, molecular systems—this immediacy of observation often leads to a false sense of intelligibility. Yet, at this level of organization, social systems are among the most complex phenomena in existence, due to the presence of adaptation, learning, strategic interaction, and the fact that nearly all meaningful patterns are emergent rather than reducible to simple components.
+
+> Social systems may appear intelligible because they’re visible, but they are fundamentally complex and opaque due to emergent behavior and dynamic learning.
+
 ## Core
 
 | **Component**                 | **Description**                                                                                 | **Example**                                                   |
@@ -44,6 +53,21 @@
 | **Symbolic Systems**      | - Ideologies<br>- Religions<br>- Classifications<br>- Myths                                          | Deep structures of legitimacy, identity, and belonging.                                        |
 | **Knowledge Systems**     | - Epistemologies<br>- Expertise<br>- Education<br>- Science & beliefs                                | How knowledge is produced, legitimated, and circulated.                                        |
 | **Boundary Conditions**   | - Openness<br>- Embeddedness<br>- Interfaces with other systems (economic, political, technological) | Social systems are interdependent and embedded in larger networks and environments.            |
+
+## Modelling Principles
+
+| **Principle**                      | **Description**                                                                                     |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Multi-level Structure**       | Model interactions across micro (individual), meso (group), and macro (systemic) levels.            |
+| **Representation Fidelity**     | Accurately capture key actors, structures, norms, and technologies relevant to the system.          |
+| **Dynamic Interaction**         | Focus on feedback loops, nonlinearity, and emergent properties from agent and structural interplay. |
+| **Adaptation & Learning**       | Include mechanisms for change, learning, and self-organization over time.                           |
+| **Embeddedness**                | Situate the system within ecological, technological, and institutional environments.                |
+| **Temporality & History**       | Account for historical path-dependence, memory, and evolving trajectories.                          |
+| **Openness & Boundary Clarity** | Define system boundaries while allowing for external inputs and inter-system exchanges.             |
+| **Reflexivity**                 | Recognize that agents have beliefs about the system and may act based on their perceptions.         |
+| **Heterogeneity**               | Allow for diversity in agents, preferences, resources, and behaviors.                               |
+| **Value-Sensitivity**          | Be aware of normative assumptions, power dynamics, and the ethical implications of the model.       |
 
 ## References
 
