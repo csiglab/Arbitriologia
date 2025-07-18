@@ -1,29 +1,22 @@
 # Social System
 
-: 13
-
 > **Social Science:** The study of emergent behavior in groups of individuals, exploring how collective actions and interactions lead to complex phenomena. It is closely related to psychology and neuroscience, examining how social dynamics influence and are influenced by cognitive and neurological processes.
-> 
+
 
 > A **society** can be defined as a set of agents (individuals, firms, …) who share a common set of resources (territory, infra-estructure, institutions, …), interact with one another, and are connected by social relationships and institutions.
-> 
 
 > ¿What drives a new society typHuman resources (HR) e? Size and  Technology (Food, Health, Transportation, Computation, Communication, Transportation)
-> 
 
 > "Insanity in individuals is rare, but in groups, parties, nations, it is the rule." - Nietzsche
-> 
 
 > Social dynamics: Complexity Science applied to social systems. It studies how social systems change over time.
-> 
 
 > **Rule:** Make sure to introduce the historical perspective in the studies.
-> 
 
 ## Social System
 
 > **Characterizing a social system** involves understanding its various components and dynamics.
-> 
+>
 
 > A **social system is a complex network** of interconnected individuals, groups, institutions, and norms that shape and govern social interactions within a society.
 > 

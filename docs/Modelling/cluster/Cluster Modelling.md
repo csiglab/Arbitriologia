@@ -159,6 +159,8 @@
 | **Geospatial Analysis (GIS)**        | Map firm densities, transportation proximity, natural constraints                  |
 | **Value Chain Mapping**              | Understand upstream/downstream dependencies and gaps                               |
 | **Cluster Observatory Platforms**    | e.g., [Cluster Mapping Project](https://clustermapping.us), EU Cluster Observatory |
+| Cluster Heatmap                      |                                                                                    |
+
 
 
 ## References
