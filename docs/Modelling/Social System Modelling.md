@@ -68,8 +68,33 @@
 | **Reflexivity**                 | Recognize that agents have beliefs about the system and may act based on their perceptions.         |
 | **Heterogeneity**               | Allow for diversity in agents, preferences, resources, and behaviors.                               |
 | **Value-Sensitivity**          | Be aware of normative assumptions, power dynamics, and the ethical implications of the model.       |
+| Anti-reification|...|
+
+## Modelling Pitfalls
+
+| **Pitfall**                           | **Description**                                                                                 | **Impact**                                                            | **Mitigation Strategies**                                   |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Visibility vs. Intelligibility**    | Mistaking observable phenomena for true understanding of system dynamics                        | Overconfidence; oversimplification of complex systems                 | Recognize emergent behavior; use multi-level analysis       |
+| **Reductionism**                      | Breaking down systems into parts assuming full understanding can be reassembled from components | Loss of emergent properties and system-level behavior                 | Incorporate holistic, network, and systemic approaches      |
+| **Static Modeling**                   | Ignoring system dynamics, adaptation, and time evolution                                        | Models become quickly outdated or irrelevant                          | Use dynamic, time-dependent models; simulate feedback loops |
+| **Ignoring Feedback Loops**           | Overlooking circular causality and recursive influences                                         | Misses key drivers of behavior and system stability                   | Identify and model feedback loops explicitly                |
+| **Overfitting**                       | Tailoring model too closely to historical data without generalizing                             | Poor predictive power; fragile models                                 | Regularize models; validate with out-of-sample data         |
+| **Underfitting**                      | Oversimplifying, missing important variables or relationships                                   | Model fails to capture essential system behavior                      | Include key variables and validate model assumptions        |
+| **Data Quality Issues**               | Using incomplete, biased, or noisy data                                                         | Distorted insights and flawed conclusions                             | Perform data cleaning; use multiple data sources            |
+| **Ignoring Human Agency**             | Treating agents as passive or purely mechanistic                                                | Missing strategic behavior, learning, and adaptation                  | Model agents as adaptive, learning, or strategic            |
+| **Overconfidence in Predictions**     | Assuming precise forecasts in inherently uncertain, complex systems                             | Misleading decisions based on false certainty                         | Use scenario analysis; communicate uncertainty explicitly   |
+| **Misinterpretation of Emergence**    | Attributing observed patterns to simple causes or ignoring multi-level interactions             | Wrong causal assumptions; policy failures                             | Study multiple scales; embrace complexity and nonlinearity  |
+| **Lack of Interdisciplinary Insight** | Modeling from a narrow disciplinary lens                                                        | Missing important factors from economics, sociology, psychology, etc. | Integrate cross-disciplinary knowledge                      |
+| **Ignoring Model Purpose**            | Using models without clarifying their scope or intended use                                     | Misapplication of results; loss of trust                              | Define clear objectives and limitations upfront             |
+
 
 ## References
 
 - [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
 - [Seminario Latinoamericano de Filosofía de la Administración](https://www.youtube.com/watch?v=W0RQPGgti5c)
+- [System](https://righteous-guardian-68f.notion.site/System-1dac0f5171ec80c38c08f74d095235a9?pvs=4)
+- [Modelado](https://righteous-guardian-68f.notion.site/Modelado-a6727ea210124fb9a00ff6bb5bcf7cd5?pvs=4)
+- [Complexity](https://righteous-guardian-68f.notion.site/Complexity-2633ab7c5d5a46519593153880c13e57?pvs=4)
+- [Natural Computing](https://righteous-guardian-68f.notion.site/Natural-Computing-111c0f5171ec804196f2e48b5ee1afb5?pvs=4)
+- [Complexity Science](https://righteous-guardian-68f.notion.site/Complexity-Science-171c0f5171ec80c18335cdf06a024db6?pvs=4)
+- [Dynamical Intelligence](https://righteous-guardian-68f.notion.site/Dynamical-Intelligence-a41fde247c384e3bb5e561bf55c70f33?pvs=4)
