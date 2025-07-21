@@ -121,6 +121,8 @@ Wealth can be achieved by three means:
 
 > Model(We) vs Model (the Other)
 
+- How societies think and response to other societies progress?
+
 > A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
 
 > `Observer/s ->  Perception ->  [Processing] ->  Response -> Feedback`.
