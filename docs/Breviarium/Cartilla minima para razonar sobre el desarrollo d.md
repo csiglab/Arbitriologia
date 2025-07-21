@@ -2,6 +2,8 @@
 
 > **Guía**, **marcos** y **modelos** para **razonar** de manera holística sobre las dimensiones del desarrollo nacional.
 
+> How to architect such document?
+
 ## Abstract
 
 > Ideas about economic development are often disorganized and unstructured. Therefore, we aim to create a clear framework to organize our thinking about development: What exactly is it? How can it be achieved? What challenges must be overcome?
@@ -60,6 +62,7 @@ Estrategia de Desarollo:
 
 - The **economic development problem** consists in mobilizing and enhancing human potential to transform material constraints into opportunities for growth, productivity, and long-term improvements in well-being.
 - The **catching-up problem** involves formulating and executing strategies that allow late-developing economies to acquire and internalize the technological foundations of contemporary production systems, and eventually be able to **generate cutting edge innovation** and **technologies** that yield new products.
+- The **leap-frog** problem: ...
 
 ### Means of Wealth
 
