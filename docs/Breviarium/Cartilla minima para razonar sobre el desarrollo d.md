@@ -290,9 +290,8 @@ Key Elements:
 
 > **Note**: Thinkers operate within broader ecosystems of ideas. It is rare for radically different concepts to emerge in isolation. The smaller the intellectual or institutional environment, the lower the probability of divergence. Therefore, this list does not account for the intellectual history or context in which these ideas emerged.
 
-
-| 🌍 **Country**             | ⏳ **Period** | 👤 **Thinker**                                    | 📘 **Contribution**                                  |
-| -------------------------- | ------------ | ---------------------------------------------- | ----------------------------------------------------------------- |
+| 🌍 **Country**           |⏳ **Period** | 👤 **Thinker**                                 | 📘 **Contribution**                                               |
+| -------------------------| ------------ | ---------------------------------------------- | ----------------------------------------------------------------- |
 | 🇦🇷 Argentina             | 19th c.      | Carlos Enrique José Pellegrini                 | President; promoted industrial protection and infrastructure.     |
 | 🇦🇹 Austria               | 18th c.      | Joseph von Sonnenfels                          | Cameralist reformer advocating productive state development.      |
 |                          | 19th c.      | Eugen Böhm-Bawerk                              | Capital theory and industrial productivity analysis.              |
@@ -342,8 +341,7 @@ Key Elements:
 |                          | 21st c.      | Ricardo Hausmann                               | Economic complexity and capabilities theory.                      |
 |                          | 21st c.      | Michael Porter                                 | *Competitive Advantage of Nations*.                               |
 |                          | 21st c.      | Paul Romer                                     | Endogenous growth theory.                                         |
-| 🇻🇪 / 🇬🇧 Venezuela / UK | 21st c.      | Carlota Pérez                                  | *Technological Revolutions and Financial Capital*.                |
-
+| 🇻🇪 / 🇬🇧 Venezuela / UK   | 21st c.      | Carlota Pérez                                  | *Technological Revolutions and Financial Capital*.                |
 
 ## Terminology
 
