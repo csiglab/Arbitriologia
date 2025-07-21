@@ -1,38 +1,12 @@
 # Cartilla minima para razonar sobre  el desarrollo dominicano: marcos y modelos
 
-ID: PRO-1100
-L: 78
-Status: Not started
-
 > **Guía**, **marcos** y **modelos** para **razonar** de manera holística sobre las dimensiones del desarrollo nacional.
-> 
 
-## Indice
+## Abstract
 
-## Abstracto
+> Ideas about economic development are often disorganized and unstructured. Therefore, we aim to create a clear framework to organize our thinking about development: What exactly is it? How can it be achieved? What challenges must be overcome?
 
-> Se ha discutido ampliamente sobre la **riqueza y el desarrollo**, lo que ha generado un caos y confusión en las ideas. En **esta breve cartilla**, nos proponemos **inspirar una reaproximación** analítica y hoslitica a las ideas del desarrollo mediante preguntas y  modelos estructurantes, ejemplos ilustrativos.
-> 
-
-> La etimología de la palabra **"desarrollo"** proviene del latín **"dis-"** (que significa "desprender" o "separar") y **"rollare"** (que significa "enrollar" o "rodar"). Así, la palabra sugiere la idea de **"desenrollar"** o **"desplegar"** algo que estaba enroscado o limitado.
-> 
-
-> El término **"riqueza nacional"** a menudo se confunde con el patrimonio financiero de la nación. Sin embargo, si nos detenemos a reflexionar sobre qué genera realmente esta riqueza y cuáles son las estructuras subyacentes, podemos entenderla y obtenearla.
-> 
-
-> El término **'desarrollo'** a menudo se confunde con el **bienestar social** y el **buen funcionamiento** de las cosas en una geografía determinada. Sin embargo, ¿era México  más desarrollado que Alemania tras perder la Segunda Guerra Mundial, especialmente considerando el riesgo de hambruna en la ultima?
-> 
-
-## Introducción
-
-> Nuestra aventura para crear una cartilla que facilite el razonamiento sobre el desarrollo comienza con una pregunta fundamental: **¿Cuáles son las estructuras subyacentes de la riqueza?** La riqueza se define como abundancia, pero ¿qué causa esa abundancia?
-> 
-
-1. **Tipo 1:** Recursos proporcionados por la naturaleza, intercambiados por bienes con otras economías.
-2. **Tipo 2:** La aplicación del ingenio humano para inventar o adoptar **tecnologías** que nos permitan producir nuevos productos con mayor calidad en áreas fundamentales para la humanidad, como la alimentación, la salud, el transporte, la construcción de materiales y el manejo de información. Estas sociedades y economías pueden transformar la naturaleza en bienes que mejoren la calidad de vida.
-
-En esta cartilla, proponemos un conjunto de preguntas guiadoras para razonar e investigar sobre el desarrollo nacional, tales como:
-
+QA:
 1. ¿Qué entendemos por desarrollo?
 2. ¿Cuáles son los métodos más adecuados para medirlo?
 3. ¿Cuáles son las estructuras subyacentes de la riqueza?
@@ -49,53 +23,47 @@ En esta cartilla, proponemos un conjunto de preguntas guiadoras para razonar e i
 6. ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?
 7. ¿Cuáles son las ideas comunes que se tienen sobre el desarrollo?
 
-## Base: La Naturaleza del Desarrollo
+## Formulation
 
-### Definir “Desarrollo“
+> **Human groups** face various **material constraints** that limit access to essentials such as food intake, shelter, transportation, communication, and other vital resources. Despite these limitations, some societies manage to overcome scarcity and generate abundance and wealth. This transformation is largely driven by the creation and adoption of new technologies.
 
-> En esta sección, proponemos continuar el análisis de los tipos de economía e introducir el concepto de desarrollo que utilizaremos en nuestra guía.
-> 
+> A key example from the medieval period is the introduction of the **heavy plow** and the **three-field crop rotation system** in Northern Europe. The heavy plow made it possible to till the dense, clay-rich soils of the north more effectively than earlier tools, while the three-field system increased land productivity by rotating crops across three plots—one with a winter crop, one with a spring crop, and one left fallow. This combination increased yields, reduced soil exhaustion, and allowed for more reliable food supplies. The resulting surplus supported population growth, urbanization, and the revival of trade and markets.
 
-Las **características de las economías** según su tipo:
+### Problem Definition
 
-- Las economías de **`Tipo 1`** carecen de las estructuras subyacentes necesarias para generar riqueza; su abundancia proviene del intercambio con otras economías. Es crucial destacar la vulnerabilidad de estas economías, ya que son dependientes y enfrentan limitaciones para proporcionar bienestar a una gran población. Además, están caracterizadas por la escasez de ciclos virtuosos en su actividad económica, que dependen en gran medida de factores externos.
-- En contraste, las economías de **`Tipo 2`** son capaces de crear y absorber capacidades tecnológicas y productivas, lo que facilita la generación de una amplia variedad de bienes y servicios, resultando en abundancia y riqueza. Este tipo de sociedades y economías se caracterizan por ciclos virtuosos de producción que conducen a mejoras tecnológicas, un aumento en la producción y un crecimiento continuo. Además, destacan por sinergias intersectoriales, especializaciones y una clara división del trabajo.
+- The **economic development problem** consists in mobilizing and enhancing human potential to transform material constraints into opportunities for growth, productivity, and long-term improvements in well-being.
+- The **catching-up problem** involves formulating and executing strategies that allow late-developing economies to acquire and internalize the technological foundations of contemporary production systems, and eventually be able to **generate cutting edge innovation** and **technologies** that yield new products.
 
-**Sobre la definición del desarrollo:**
+### Means of Wealth
 
-- Las palabras se definen y adquieren significado a través de su uso. Sin embargo, para **razonar de manera efectiva**,  nuestras palabras deben de ser rigurosas,  claras, consisas y precisas,
-- Al examinar las imprecisiones en el uso común del término "desarrollo", lo definiremos como el **proceso de convergencia de las capacidades tecno-productivas de una geografía, sociedad o economía con la frontera de las capacidades tecno-productivas reconocidas por la humanidad.**
-- Nota: El **punto de convergencia es dinámico**, ya que las economías avanzadas siguen progresando.
+Wealth can be achieved by three means:
 
-### Medir el “Desarrollo“
+1. **Creation of new productive capabilities** — This refers to the development of technologies, institutions, skills, and infrastructure that transform how resources are used, enabling sustained increases in productivity, innovation, and economic complexity. This is the foundation of long-term, endogenous wealth creation.
+2. **Extraction and Exploitation of Existing Resources** — This refers to drawing on natural endowments such as fertile land, mineral reserves, forests, or advantageous trade positions—often in relation to countries that possess the technological capacity to generate material abundance. While this path can yield short-term wealth, it is constrained by resource depletion, diminishing returns, and vulnerability to external dependencies and price fluctuations.
+3. **Hybrid Resource-Industrial Systems** — In this model, wealth is generated by combining resource extraction with the domestic development of technological and industrial capabilities. Rather than exporting raw materials, the focus is on building value chains that include semi-processing, refining, and eventually advanced transformation of natural resources. If well-managed, this pathway can serve as a transitional platform toward broader productive diversification.
 
-> …
-> 
+## Characterizing Type-1 Economies
+
+> ...
+
 - ECI
 - Valor Agregado
-    - Errosion del Valor Agregado
+- Errosion del Valor Agregado
 
-### Procesos Co-evolutivos
+## On Economic Structural Transformation - Evolution - Critical Mass - Phase Transition
 
-> …
-> 
+> ¿Cómo ocurre una transición de fase en el proceso de desarrollo? ¿Cuál debería ser el ritmo de los cambios en el desarrollo? ¿Qué características hacen que los cambios sean significativos y cuán profundos deben ser para provocar una transición de fase? ¿Qué tan amplios y profundos deberían ser? Can the market alone **coordinate development?
 
-### Procesos Adaptativos
+- Procesos Adaptativos
+- Procesos Co-evolutivos
 
-> …
-> 
+## On Developmetn Strategy
 
-### Dinamicas Acumulativas, M**asas Crítica** y Transiciones de Fases
-
-> ¿Cómo ocurre una transición de fase en el proceso de desarrollo? ¿Cuál debería ser el ritmo de los cambios en el desarrollo? ¿Qué características hacen que los cambios sean significativos y cuán profundos deben ser para provocar una transición de fase? ¿Qué tan amplios y profundos deberían ser?
->
-
-## Herramientas para catalizar y razonar el proceso de desarrollo
+> ...
 
 ### Las Capacidades Tecno-Productivas y la Riqueza
 
-> En esta sección, introduciremos una de las ideas fundamentales que estructuran los razonamientos sobre la economía y el desarrollo: las capacidades **tecno-productivas.**
-> 
+> En esta sección, introduciremos una de las ideas fundamentales que estructuran los razonamientos sobre la economía y el desarrollo: las capacidades **tecno-productivas.** 
 
 Para estructurar la exposición, nos proponemos responder un conjunto de preguntas clave:
 
@@ -105,15 +73,10 @@ Para estructurar la exposición, nos proponemos responder un conjunto de pregunt
 ### La Investigación y Desarrollo: Motor de Absorción y Producción de Conocimiento Productivo
 
 > ¿Cómo se lleva a cabo la absorción y producción de tecnologías, y cuál es su impacto en la economía?
-> 
-
-> …
-> 
 
 ### Las Redes Productivas y el Cambio Estructural
 
 > En esta session, introducimos un concepto util para rozonar sobre actividades economicas y du distribucion en un conjunto de actores.
-> 
 
 Para estructurar la exposición, nos proponemos responder un conjunto de preguntas clave:
 
@@ -125,10 +88,10 @@ Para estructurar la exposición, nos proponemos responder un conjunto de pregunt
 6. ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
 7. ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
 
-### La Sociedad y el Desarrollo
+### On Roots & Drivers of the Development Strategy
 
 > ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
-> 
+
 
 ### La Institucionalidad del Desarollo
 
@@ -145,10 +108,6 @@ Para estructurar la exposición, nos proponemos responder un conjunto de pregunt
 > …
 > 
 
-### Equivocaciones Habituales al Reflexionar sobre la Riqueza Nacional
-
-> Preguntas como: **¿Por qué el país A es más rico que el país B? ¿Cómo se enriqueció Europa? ¿Cómo pasó China de la gran hambruna a ser una potencia industrial? ¿Por qué América Latina sigue siendo pobre?**   han sido objeto de análisis desde diversos enfoques. Sin embargo, a menudo se han abordado de manera errónea, utilizando análisis históricos, condiciones climáticas, factores geográficos, capacidad estatal y análisis social, entre otros.
-> 
 
 ### Combatir la Pobreza y/o Promover las Estructuras que Generan Riqueza
 
@@ -161,18 +120,6 @@ Es común que las personas**, en lugar de analizar las causas de la riqueza**, s
 ¿Cómo estudiar y explicar los procesos de desarrollo?
 
 ### Análisis y Explicación
-
-> …
-
-### Caso de Éxito: Escocia en el Siglo XVII
-
-> …
-
-### Caso de Éxito: Finlandia en el Siglo XX
-
-> …
-
-### Caso de Fracaso: Brasil en los Siglos XIX-XXI
 
 > …
 
@@ -190,10 +137,40 @@ Es común que las personas**, en lugar de analizar las causas de la riqueza**, s
 
 > El punto de partida no se elige. Factores como infraestructura deficiente, escasa educación, débil gobernanza, rezago tecnológico o aislamiento internacional son obstáculos reales.  Pero no explican por sí mismos el estancamiento: lo decisivo es cómo se actúa frente a ellos.
 
+## Common Misunderstandings
+
+- **Development is synonymous with achieving immediate improvements in quality of life**: A common misconception is to treat development simply as achieving certain welfare outcomes—such as higher income, better health, or education—without recognizing that development is fundamentally the *process* by which societies build productive capacities, institutions, and innovations needed to sustain those improvements. Put differently, development is often confused with its *end goals* rather than understood as the ongoing *dynamic transformation*—through advances in technology, skills, infrastructure, and governance—that enables societies to overcome material constraints and achieve lasting well-being. This misunderstanding can result in policies aimed at short-term relief or isolated metrics, neglecting the deeper structural changes required for sustained growth and resilience.
+- **Development is a linear or automatic process:** Many assume that economic growth naturally follows investment or aid, ignoring complex social, political, and institutional dynamics and path dependencies.
+- **There is not such a thing as a development model:**
+  - In fact, ***development models*** are widely recognized in policy and academic discourse as structured configurations of a society’s institutional arrangements, legal systems, and governance mechanisms. These frameworks establish the enabling conditions for productive investment, enterprise development, and innovation.
+  - Nonetheless, such models should not be miscbonstrued as rigid or universally applicable templates. Development unfolds within dynamic and uncertain environments, and effective models must exhibit adaptive capacity. A useful analogy is that of traveling with a lightweight backpack: policymakers must carry only essential instruments and be prepared to revise, replace, or augment them in response to changing terrain—be it economic shocks, institutional bottlenecks, or technological shifts. Adaptive governance, contextual sensitivity, and iterative learning are thus central to any viable development strategy.
+- **Countries** should focus on what they do best (Static Comparative Advantage): ...
+- **Markets** alone can coordinate development, provided the necessary institutional and legal frameworks are in place.
+
+
+### Caso de Éxito: Escocia en el Siglo XVII
+
+> …
+
+### Caso de Éxito: Finlandia en el Siglo XX
+
+> …
+
+### Caso de Fracaso: Brasil en los Siglos XIX-XXI
+
+> …
+
+
+
+## Terminology
+
+- > La etimología de la palabra **"desarrollo"** proviene del latín **"dis-"** (que significa "desprender" o "separar") y **"rollare"** (que significa "enrollar" o "rodar"). Así, la palabra sugiere la idea de **"desenrollar"** o **"desplegar"** algo que estaba enroscado o limitado.
+
+- **Technology**: ...
+
 ## Conclusión
 
 > En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de investigación y desarrollo.
-> 
 
 ## Referencias
 
