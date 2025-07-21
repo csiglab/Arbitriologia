@@ -7,21 +7,44 @@
 > Ideas about economic development are often disorganized and unstructured. Therefore, we aim to create a clear framework to organize our thinking about development: What exactly is it? How can it be achieved? What challenges must be overcome?
 
 QA:
-1. ¿Qué entendemos por desarrollo?
-2. ¿Cuáles son los métodos más adecuados para medirlo?
-3. ¿Cuáles son las estructuras subyacentes de la riqueza?
-4. ¿Qué son y cómo emergen las redes productivas complejas?
-    - ¿Cuál es la naturaleza del conocimiento productivo?
-    - ¿Cuál es la naturaleza de la tecnología?
-    - ¿Cómo se lleva a cabo la absorción y producción de tecnologías, y cuál es su impacto en la economía?
-    - ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
-    - ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
-    - ¿Qué es y cómo ocurre una transformación productiva-estructural?
-5. ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?
-    - ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
-    - ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?
-6. ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?
-7. ¿Cuáles son las ideas comunes que se tienen sobre el desarrollo?
+
+Riqueza:
+
+- ¿Cuáles son las estructuras subyacentes de la riqueza?
+- ¿Qué son y cómo emergen las redes productivas complejas?
+- ¿Cuál es la naturaleza del conocimiento productivo?
+- ¿Cuál es la naturaleza de la tecnología?
+- ¿Cómo se lleva a cabo la absorción y producción de tecnologías, y cuál es su impacto en la economía?
+- ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
+- ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
+- ¿Qué es y cómo ocurre una transformación productiva-estructural?
+- ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?
+- ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
+- ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?
+- ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?
+- ¿Cuáles son las ideas comunes que se tienen sobre el desarrollo?
+
+Desarollo:
+
+- ¿Qué entendemos por desarrollo?
+- ¿Cuáles son los métodos más adecuados para medirlo?
+- ¿Cómo se relaciona el desarrollo con la transformación de las capacidades productivas de la sociedad?
+
+Marcos de Pensamiento:
+
+- ¿Qué modelos conceptuales existen para razonar sobre el desarrollo (estructuralismo, institucionalismo, evolucionismo, sistemas complejos, etc.)?
+- ¿Qué papel juegan las ideas, las instituciones, la tecnología y el conocimiento en el desarrollo?
+- Cómo se pueden articular marcos normativos (qué deberíamos hacer) con marcos explicativos (qué está pasando)?
+
+Estrategia de Desarollo:
+
+- ¿Es necesaria una estrategia explícita de desarrollo o puede el mercado, con garantías mínimas, generar por sí solo un proceso sostenido de catch-up?
+- ¿Hasta qué punto puede el mercado por sí solo expandir de manera sustancial la frontera tecnológica y productiva de un país como la República Dominicana?
+- ¿Qué condiciones deben estar presentes para que el mercado funcione como motor de desarrollo, y cuáles requieren intervención deliberada del Estado o acción colectiva organizada?
+- ¿Qué instituciones son necesarias para inducir el desarrollo? ¿Cómo deben organizarse los sistemas público, privado y social?
+- ¿Qué papel juegan la planificación estratégica, la política industrial y la innovación organizacional en este proceso?
+- ¿Cómo se crean sinergias entre sectores productivos, sistemas de conocimiento y marcos regulatorios?
+- ¿Cómo se construyen ventajas competitivas dinámicas a partir de las condiciones locales?
 
 ## Formulation
 
