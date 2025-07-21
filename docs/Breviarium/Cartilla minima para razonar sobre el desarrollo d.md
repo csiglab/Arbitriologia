@@ -1,4 +1,4 @@
-# Cartilla minima para razonar sobre  el desarrollo dominicano: marcos y modelos
+# Cartilla minima para razonar sobre  el desarrollo economico: marcos y modelos
 
 > **Guía**, **marcos** y **modelos** para **razonar** de manera holística sobre las dimensiones del desarrollo nacional.
 
