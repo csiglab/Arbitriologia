@@ -35,6 +35,7 @@ Marcos de Pensamiento:
 - ¿Qué modelos conceptuales existen para razonar sobre el desarrollo (estructuralismo, institucionalismo, evolucionismo, sistemas complejos, etc.)?
 - ¿Qué papel juegan las ideas, las instituciones, la tecnología y el conocimiento en el desarrollo?
 - Cómo se pueden articular marcos normativos (qué deberíamos hacer) con marcos explicativos (qué está pasando)?
+- What underpins the economic greatness and developmental ambitions of some nations (Brazil vs Japan)?
 
 Estrategia de Desarollo:
 
@@ -183,6 +184,34 @@ Es común que las personas**, en lugar de analizar las causas de la riqueza**, s
 
 > …
 
+### Caso de Fracaso: España en los Siglos XXI-XVIII
+
+> …
+
+### Caso de Exito Parcial: España en los Siglos XIX-XX
+
+> …
+
+## QA
+
+### What underpins the economic greatness and developmental ambitions of some nations (Brazil vs Japan)?
+
+> **Elites and Incentives**: Japanese elites were historically invested in national industrial autonomy; Brazilian elites profited from rent extraction, land, and finance.
+
+> **Institutional Design**: Japan built robust institutions (e.g., MITI) to steer policy and coordinate sectors; Brazil’s institutions are often disconnected from long-term planning.
+
+> **Development as Identity**: Japan internalized development as existential, tied to national survival; Brazil never established a hegemonic project around productive sovereignty.
+
+| **Dimension**              | **Japan**                                                                                          | **Brazil**                                                                                              | **Analysis**                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Developmental Ideology** | Deeply technonationalist; economic and technological self-sufficiency are non-negotiable.          | Fragmented; oscillates between nationalist rhetoric and dependency on commodity booms.                  | Japan sees power through *productive capability*, Brazil tolerates external dependence.       |
+| **Post-war Strategy**      | Full-state mobilization for industrialization and technological mastery (MITI, keiretsu).          | Periodic state-led efforts (Vargas, BNDES) undermined by inconsistent political will and elite capture. | Japan engineered a production-state; Brazil has not sustained a developmental coalition.      |
+| **View of Technology**     | Strategic asset and tool of sovereignty.                                                           | Treated more as imported utility than national mission.                                                 | Japan builds tech; Brazil consumes it.                                                        |
+| **Role of Industry**       | Core to nationhood. Heavy investment in advanced manufacturing, robotics, electronics, automotive. | Industry devalued; decline in manufacturing share, rise in primary sector exports.                      | Brazil underwent premature deindustrialization without replacement strategy.                  |
+| **Education & R\&D**       | Early and massive investment in STEM education and research institutions.                          | Underfunded, fragmented university system; weak tech-transfer pipeline.                                 | Japan linked education to national production system.                                         |
+| **Cultural Factors**       | National pride tied to excellence, discipline, long-term vision.                                   | High cultural creativity, but low political commitment to productive transformation.                    | Culture doesn’t determine outcome, but mediates how ambition is translated into institutions. |
+| **Global Strategy**        | Exports high-tech products, maintains manufacturing base at all costs.                             | Exports raw materials, soy, oil, and low-value-added goods.                                             | Brazil functions structurally as a 21st-century colony in trade terms.                        |
+| **State Role**             | Developmental state: strategic, competent, and embedded in industry.                               | Often captured by elites; lacks bureaucratic coherence.                                                 | Institutional depth is key to autonomy and long-term development.                             |
 
 
 ## Terminology
