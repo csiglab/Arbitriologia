@@ -303,6 +303,17 @@ Poland's living standards appear to be, in fact, midway between China's and Mexi
 
 > You can get a “sugar high” in growth by pushing fertility very low, below replacement People work a lot, save the money, and to the extent they have kids, invest a lot in a few kids While this turbo charges growth, it’s hard to get out of the resulting low fertility equilibrium
 
+## Poland FDI-Local Linkage
+
+| Phase                            | Conditionality Instrument                      | Purpose/Effect                                                |
+| -------------------------------- | ---------------------------------------------- | ------------------------------------------------------------- |
+| **Early 1990s (Fiat FDI)**       | Local-content clauses in privatization deals   | Ensured early engagement of local suppliers                   |
+| **Mid-1990s onward**             | Formal local content requirements              | Embedded supplier sourcing in FDI incentive structures        |
+| **SEZ regimes (post‑1995)**      | Tax relief tied to local sourcing/job targets  | Anchored MNCs’ commitment to regional value chain integration |
+| **Supplier programs**            | Training, finance, tech support                | Built local SME capacity to meet anchor firm standards        |
+| **EU accession era (post-2004)** | EU funding replace protective tariffs/policies | Upgraded local firms via capacity building, innovation grants |
+
+
 ## References
 
 - [https://en.wikipedia.org/wiki/National_Centre_for_Research_and_Development](https://en.wikipedia.org/wiki/National_Centre_for_Research_and_Development)
