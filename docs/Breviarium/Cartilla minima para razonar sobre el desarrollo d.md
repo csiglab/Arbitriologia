@@ -16,6 +16,8 @@
 
 > This section focuses on understanding the structural, cultural, institutional, and historical dimensions of societies as a foundation for reasoning about development. Observing society involves analyzing how people organize themselves, how institutions emerge and evolve, and how values, norms, and power relations shape collective behavior. It is the first step in identifying the constraints, opportunities, and trajectories available to a given society.
 
+![abstract-society-observer](../../img/resized/abstract-society-observer_512x512.png)
+
 #### 🏗️ Reality Side
 
 > The material structures and constraints that shape development possibilities.
