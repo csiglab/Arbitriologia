@@ -21,6 +21,7 @@
 > The material structures and constraints that shape development possibilities.
 
 - Development Problem Formulation
+- Economic Social System
 - Wealth: Human Capital, Technology, Markets and  Production Systems
   - Grand Production Paradigm
 - Measuring Development
@@ -93,6 +94,10 @@ Problem Definition:
 - The **convergence problem** *(or catching-up challenge)* involves designing and implementing strategies that enable late-developing societies to absorb, adapt, and internalize the technological and organizational foundations of modern production—eventually reaching the capacity to generate frontier innovations and create new technological paradigms.
 
 - The **frontier progress problem** *(leapfrogging and innovation leadership)* consists in advancing beyond existing global capabilities by generating novel technologies, redefining product categories, and shaping new productive trajectories—often under uncertainty and structural inertia.
+
+### Economic Social System
+
+> An **Economic Social System** refers to the complex network of relationships, institutions, norms, and behaviors through which a society organizes the production, distribution, and consumption of goods and services. It encompasses economic agents (individuals, firms, governments), social structures, cultural values, and institutional frameworks that together shape economic activity and social outcomes.
 
 ### Wealth: Human Capital, Technology, Markets and  Production Systems
 
@@ -440,21 +445,32 @@ where:
 
 ### Organizational Architecture
 
-| **Category**                 | **Institution**                             | **Description**                                                                                  | **Goal**                                                        |
+>  How are the social systems and actors as a whole integrated into the transformational agenda?
+
+| **Category**                 | **Actor**                                   | **Description**                                                                                  | **Role**                                                        |
 | ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
 | **Government Agencies**      | Ministry of Economy / Planning              | Central bodies responsible for formulating economic policy, strategies, and coordinating sectors | Design coherent development plans and policy alignment          |
 |                              | Ministry of Finance                         | Manages public finances, budgeting, and fiscal policy                                            | Ensure sustainable financing and macroeconomic stability        |
 |                              | Ministry of Trade & Industry                | Regulates trade policy, industrial promotion, and investment climate                             | Promote competitive industries and favorable trade conditions   |
 |                              | Development Banks                           | State-owned or semi-autonomous banks providing long-term finance and credit guarantees           | Mobilize finance for strategic sectors and infrastructure       |
 |                              | Regulatory Authorities                      | Independent or semi-independent agencies regulating competition, sector standards, licenses      | Ensure fair markets, consumer protection, and sector efficiency |
+|                              | Investment Promotion Agencies               | Facilitate foreign and domestic investment by streamlining processes and offering incentives     | Attract strategic capital and technology                        |
 | **Public Enterprises**       | State-Owned Enterprises (SOEs)              | Government-owned companies active in strategic sectors like energy, transport, or telecom        | Drive industrial policy objectives and fill market gaps         |
 | **Research & Innovation**    | National Research Councils / Institutes     | Public research bodies supporting R\&D, technology development, and innovation policy            | Generate knowledge and promote technology diffusion             |
-|                              | Innovation Agencies                         | Agencies managing grants, incubators, and technology parks                                       | Facilitate firm upgrading and entrepreneurship                  |
-| **Trade & Export Support**   | Export Promotion Agencies                   | Institutions that support exporters with market intelligence, certification, and logistics       | Expand export capacity and diversification                      |
+|                              | Innovation & Technology Agencies            | Manage grants, incubators, accelerators, and tech parks                                          | Foster firm upgrading and entrepreneurship                      |
+|                              | University-Industry Linkage Offices         | Units fostering collaboration between academia and industry                                      | Translate research into commercial applications                 |
+| **Trade & Export Support**   | Export Promotion Agencies                   | Institutions supporting exporters with market intelligence, certification, and logistics         | Expand export capacity and diversification                      |
+|                              | Trade Facilitation Bodies                   | Coordinate customs, logistics, and infrastructure for efficient international trade              | Reduce trade costs and improve competitiveness                  |
 | **Social Institutions**      | Labor Ministries / Employment Agencies      | Manage labor market regulations, workforce training, and employment services                     | Improve workforce skills and labor market functioning           |
 |                              | Social Protection Agencies                  | Provide safety nets, welfare programs, and poverty alleviation                                   | Promote social inclusion and reduce vulnerability               |
+|                              | Cooperatives / Mutual Organizations         | Member-owned social and economic organizations                                                   | Democratize economic participation and support local resilience |
+| **Private Sector Platforms** | Business Chambers / Industry Associations   | Organized representation of firms across sectors                                                 | Provide feedback, coordinate upgrading, and influence policy    |
+|                              | Financial Institutions                      | Banks, venture capital, and other financial intermediaries                                       | Channel resources toward productive investments                 |
 | **Coordination Platforms**   | Economic Development Councils / Commissions | Multi-stakeholder bodies coordinating public-private cooperation and strategic planning          | Align stakeholders and enhance policy coherence                 |
-| **Judiciary & Legal System** | Courts and Arbitration Bodies               | Institutions responsible for contract enforcement, dispute resolution, and rule of law           | Provide legal certainty and enforce property rights             |
+|                              | Inter-Ministerial Coordination Units        | Internal government platforms to synchronize policies across sectors                             | Avoid fragmentation and improve execution capacity              |
+| **Judiciary & Legal System** | Courts and Arbitration Bodies               | Institutions for contract enforcement, dispute resolution, and rule of law                       | Provide legal certainty and enforce property rights             |
+| **Territorial Actors**       | Regional & Municipal Development Agencies   | Subnational institutions managing localized development programs                                 | Implement place-based strategies and address spatial inequality |
+|                              | Community-Based Organizations (CBOs)        | Grassroots actors involved in participatory planning and service delivery                        | Anchor transformation in local needs and social legitimacy      |
 
 
 ### Strategic Layer (Long-term vision & direction)
