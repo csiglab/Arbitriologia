@@ -10,7 +10,7 @@
 
 > In this document, we propose an abstract framework for thinking about wealth, progress, and development. This framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraint that shape developmental possibilities.
 
-![alt text](image.png)
+![Thinking Framework for Development – Cognitive and Reality Dimensions](../../img/resized/thinking-framework-for-development-cognitive-realiaty_256x256.png)
 
 Let me know if you'd like a more formal, academic, or metaphorical tone.
 
