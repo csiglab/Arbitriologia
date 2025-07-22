@@ -4,7 +4,7 @@
 
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
-![alt text](../../img/resized/abstract-society-observer_512x512.png)
+![abstract-society-observer](../../img/resized/abstract-society-observer_512x512.png)
 
 ## Abstract
 
@@ -222,7 +222,62 @@ where:
 
 ## 🔄 Operational Intersection Layer
 
->  Where cognition meets structure to produce action.
+>  Where cognition meets reality to produce action.
+
+### Strategic Action Space
+
+> **Note**: This is a preliminary sketch of the space; refinement and expansion are expected.
+
+| **Category**                      | **Action**                             | **Description**                                                                                | **Goal**                                                                     |
+| --------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Institutional Foundations**     | Legal-Institutional Reform             | Strengthen property rights, contracts, regulatory quality, and enforcement capacity            | Enable trust, reduce transaction costs, and foster productive investment     |
+|                                   | Governance & Bureaucratic Capability   | Build a meritocratic, learning-oriented public administration                                  | Ensure policy continuity and effective implementation                        |
+| **Firm & Entrepreneurial Growth** | SME Support & Formalization            | Support small and medium-sized enterprises through access to finance, markets, and compliance  | Strengthen domestic business base and reduce informality                     |
+|                                   | Business Environment Reform            | Streamline licensing, reduce red tape, and improve regulatory transparency                     | Encourage entrepreneurship and attract productive investment                 |
+|                                   | Cluster & Network Development          | Facilitate inter-firm cooperation and linkages within industrial ecosystems                    | Build competitive advantages through agglomeration and collective efficiency |
+|                                   | Firm Capability Upgrading              | Promote quality standards, productivity benchmarking, and managerial training                  | Enhance firm-level competitiveness and resilience                            |
+| **Export Capacity & Trade**       | Export Promotion                       | Offer services to firms for market intelligence, certification, and logistics                  | Increase export diversification and market access                            |
+|                                   | Trade Facilitation                     | Simplify customs, ports, and trade-related infrastructure                                      | Reduce trade costs and enable integration into global value chains           |
+|                                   | Strategic Export Strategy              | Identify priority products and markets, align support tools accordingly                        | Target high-potential export sectors with coordinated state support          |
+|                                   | Foreign Market Development             | Support internationalization through diplomacy, diaspora networks, and promotional missions    | Expand firm presence abroad and strengthen national brand                    |
+| **Production Structure Upgrade**  | Industrial Policy                      | Target support to priority sectors with high potential for learning and spillovers             | Transform production structure toward higher value-added and complexity      |
+|                                   | Technology Extension Services          | Offer public or hybrid technical assistance to firms for technology adoption                   | Accelerate diffusion of best practices and process improvements              |
+|                                   | Supply Chain Deepening                 | Localize upstream and downstream linkages around key industries                                | Increase domestic value capture and reduce import dependence                 |
+| **Innovation & Technology**       | Applied R\&D Programs                  | Support firm-research partnerships and problem-solving research                                | Build innovation capacity tied to real economic needs                        |
+|                                   | Technology Transfer Platforms          | Use incubators, accelerators, licensing support, and tech parks                                | Facilitate knowledge flow and commercialization                              |
+|                                   | Digitalization Incentives              | Support digital tools adoption in traditional and new sectors                                  | Improve productivity and innovation in services and manufacturing            |
+| **Human Capital & Learning**      | Workforce Development                  | Align skills training with sectoral needs (STEM, technical, soft skills)                       | Create a labor force able to support complex, evolving production structures |
+|                                   | Management & Entrepreneurial Training  | Programs to improve strategic, operational, and innovation skills in firms                     | Professionalize enterprise leadership and decision-making                    |
+| **Finance for Development**       | Development Banking                    | Channel long-term finance to strategic sectors and infrastructure                              | Overcome capital market failures and support structural transformation       |
+|                                   | Export & Investment Credit Instruments | Provide insurance, guarantees, and financing for exporters and investors                       | Reduce risk and enable scaling of productive activities                      |
+|                                   | Venture Capital Ecosystem              | Foster innovation by supporting risk capital markets for startups and high-growth firms        | Accelerate entrepreneurship and breakthrough technologies                    |
+| **Territorial Development**       | Local Economic Development             | Empower subnational governments and local actors in economic planning                          | Reduce regional inequality and leverage localized strengths                  |
+|                                   | Strategic Urban Industrial Planning    | Develop productive cities with mixed-use zones and infrastructure                              | Foster urban-based productivity and innovation ecosystems                    |
+| **Environmental Transition**      | Green Export Development               | Support sectors with sustainable, low-carbon export potential                                  | Position the country in future-oriented global markets                       |
+|                                   | Eco-Industrial Parks                   | Combine industrial agglomeration with resource efficiency and sustainability standards         | Promote circular economy principles in industrial growth                     |
+| **Coordination & Strategy**       | Mission-Oriented Planning              | Define cross-sectoral missions (e.g., net-zero energy, health industry) and align institutions | Coordinate public and private actors around shared national goals            |
+|                                   | Strategic Foresight & Learning Systems | Build anticipatory capacity and reflexive evaluation mechanisms                                | Enable adaptive governance in a changing global context                      |
+
+
+### Organizational Architecture
+
+> ...
+
+#### Strategic Layer (Long-term vision & direction)
+
+> ...
+
+#### Programmatic Layer (Policy, planning, prioritization)
+
+> ...
+
+#### Tactical Layer (Execution & adjustment)
+
+> ...
+
+#### Reflective Layer (Monitoring, learning, adaptation)
+
+> ...
 
 ## Las Capacidades Tecno-Productivas y la Riqueza
 
