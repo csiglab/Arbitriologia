@@ -22,6 +22,7 @@
 
 - Development Problem Formulation
 - Wealth: Human Capital, Technology, Markets and  Production Systems
+  - Grand Production Paradigm
 - Measuring Development
 - Structure of the Development Process
 - **Development Environment & Constraints** (Cognitive, Structural, Institutional, Temporal)
@@ -110,9 +111,29 @@ Problem Definition:
 
 > **Note**: Technology should not be confused with technical objects themselves; rather, it encompasses the knowledge, methods, and processes behind their creation and use.
 
+#### Grand Production Paradigm
+
+> A Grand Production Paradigm is a broad, overarching framework or socio-economic system that shapes the fundamental ways in which production, distribution, and consumption are organized at a macro level over extended historical periods. It encompasses the dominant technological, institutional, cultural, and economic principles guiding how societies create value and structure their economies.
+
+| **Paradigm**           | **Period**                  | **Description**                                                                                                 |
+| ---------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Agrarian Economy**   | Pre-industrial era          | Economy based primarily on agriculture, artisanal production, and local exchange of goods.                      |
+| **Industrial Economy** | Late 18th – 20th century    | Mechanized mass production focused on factories, assembly lines, and wage labor.                                |
+| **Knowledge Economy**  | Late 20th century – present | Economy driven by knowledge, innovation, intellectual property, and intangible assets as primary value drivers. |
+| **Digital Economy**    | 21st century                | Value creation organized around digital platforms, big data, AI, cloud computing, and network effects.          |
+| **Green Economy**      | Emerging 21st century       | Economy focused on sustainable development, renewable energy, and reducing environmental impact.                |
+| **Circular Economy**   | Emerging 21st century       | Economic system prioritizing waste minimization and resource reuse through closed-loop processes.               |
+| **Creative Economy**   | Emerging 21st century       | Economic activities based on creativity, culture, arts, design, and intellectual property.                      |
+| **Experience Economy** | Emerging 21st century       | Economy where businesses sell memorable experiences rather than just products or services.                      |
+| **Blue Economy**       | Emerging 21st century       | Sustainable use of ocean and water resources to promote economic growth, ecosystem health, and livelihoods.     |
+| **Yellow Economy**     | Emerging 21st century       | Economy centered on cultural and creative industries, emphasizing intangible cultural assets and heritage.      |
+| **Sharing Economy**    | Emerging 21st century       | Peer-to-peer sharing of goods and services enabled by digital platforms, emphasizing access over ownership.     |
+
 #### Production System
 
 > A **Production System** refers to the interconnected set of processes, technologies, organizational arrangements, and institutional frameworks through which goods and services are designed, produced, and delivered. It encompasses the technical, social, and economic structures involved in transforming inputs (raw materials, labor, capital, knowledge) into outputs of value.
+
+> A Production Model is a more specific, meso- or micro-level configuration of technologies, organizational structures, labor practices, and processes used by firms or industries to create goods or services. It focuses on the operational and managerial aspects of how production is organized and executed within the broader paradigm.
 
 **Dimension of a Productive System**
 
