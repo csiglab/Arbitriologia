@@ -484,57 +484,54 @@ where:
 
 ## QA
 
-QA:
+**Wealth:**
 
-Riqueza:
+* What are the underlying structures of wealth?
+* What are complex productive networks and how do they emerge?
+* What is the nature of productive knowledge?
+* What is the nature of technology?
+* How is technology absorbed and produced, and what is its impact on the economy?
+* What are comparative advantages? Can they function as an organizing principle for investments in the productive apparatus?
+* What is the relationship between the emergence of productive networks and human capabilities?
+* What is a productive-structural transformation and how does it occur?
+* What is the relationship and dynamics between society, the economy, and development?
+* What is the relationship between techno-productive coevolution and social coevolution?
+* Are society and the economy complex and adaptive phenomena?
+* Should we focus on explaining **poverty** or **wealth**?
+* What are common ideas people have about development?
+* What is a productive network?
+* How do firms and productive sectors interact to form a productive network?
+* What is the relationship between economic activities and their distribution?
+* How do complex productive networks emerge?
+* What is the relationship between productive networks and value added?
+* What are comparative advantages? Can they function as an organizing principle for investments in the productive apparatus?
+* What is the relationship between the emergence of productive networks and human capabilities?
 
-- ¿Cuáles son las estructuras subyacentes de la riqueza?
-- ¿Qué son y cómo emergen las redes productivas complejas?
-- ¿Cuál es la naturaleza del conocimiento productivo?
-- ¿Cuál es la naturaleza de la tecnología?
-- ¿Cómo se lleva a cabo la absorción y producción de tecnologías, y cuál es su impacto en la economía?
-- ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
-- ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
-- ¿Qué es y cómo ocurre una transformación productiva-estructural?
-- ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?
-- ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
-- ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?
-- ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?
-- ¿Cuáles son las ideas comunes que se tienen sobre el desarrollo?
-- ¿Qué es una red productiva?
-- ¿Cómo interactúan las empresas y sectores productivos para formar una red productiva?
-- ¿Cuál es la relación entre las actividades económicas y su distribución?
-- ¿Cómo emergen las redes productivas complejas?
-- ¿Cuál es la relación entre las redes productivas y el valor agregado?
-- ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
-- ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
+**Development:**
 
-Desarollo:
+* What do we understand by development?
+* What are the most appropriate methods to measure it?
+* How does development relate to the transformation of a society’s productive capabilities?
 
-- ¿Qué entendemos por desarrollo?
-- ¿Cuáles son los métodos más adecuados para medirlo?
-- ¿Cómo se relaciona el desarrollo con la transformación de las capacidades productivas de la sociedad?
+**Frameworks of Thought:**
 
-Marcos de Pensamiento:
+* What conceptual models exist to reason about development (structuralism, institutionalism, evolutionism, complex systems, etc.)?
+* What role do ideas, institutions, technology, and knowledge play in development?
+* How can normative frameworks (what we should do) be articulated with explanatory frameworks (what is happening)?
+* What underpins the economic greatness and developmental ambitions of some nations (Brazil vs. Japan)?
+* Why did **nations** like **Spain**, with a hard 19th century, maintain and improve their **tech patriotism**?
+* What are the origins of the Japanese technology identity?
 
-- ¿Qué modelos conceptuales existen para razonar sobre el desarrollo (estructuralismo, institucionalismo, evolucionismo, sistemas complejos, etc.)?
-- ¿Qué papel juegan las ideas, las instituciones, la tecnología y el conocimiento en el desarrollo?
-- Cómo se pueden articular marcos normativos (qué deberíamos hacer) con marcos explicativos (qué está pasando)?
-- What underpins the economic greatness and developmental ambitions of some nations (Brazil vs Japan)?
-- Why **Nations** like **Spain** with a Hard XIX Centry did mantain and improve their **techpatriotism**?
+**Development Strategy:**
 
-- Which are the origins of the Japonese Technology Identity?
-
-Estrategia de Desarollo:
-
-- ¿Es necesaria una estrategia explícita de desarrollo o puede el mercado, con garantías mínimas, generar por sí solo un proceso sostenido de catch-up?
-- ¿Hasta qué punto puede el mercado por sí solo expandir de manera sustancial la frontera tecnológica y productiva de un país como la República Dominicana?
-- ¿Qué condiciones deben estar presentes para que el mercado funcione como motor de desarrollo, y cuáles requieren intervención deliberada del Estado o acción colectiva organizada?
-- ¿Qué instituciones son necesarias para inducir el desarrollo? ¿Cómo deben organizarse los sistemas público, privado y social?
-- ¿Qué papel juegan la planificación estratégica, la política industrial y la innovación organizacional en este proceso?
-- ¿Cómo se crean sinergias entre sectores productivos, sistemas de conocimiento y marcos regulatorios?
-- ¿Cómo se construyen ventajas competitivas dinámicas a partir de las condiciones locales?
-- ¿Cuáles son las instituciones clave para sostener un proceso de desarrollo?
+* Is an explicit development strategy necessary, or can the market, with minimal guarantees, generate a sustained catch-up process on its own?
+* To what extent can the market alone substantially expand the technological and productive frontier of a country like the Dominican Republic?
+* What conditions must be present for the market to function as a driver of development, and which require deliberate state intervention or organized collective action?
+* What institutions are necessary to induce development? How should the public, private, and social systems be organized?
+* What role do strategic planning, industrial policy, and organizational innovation play in this process?
+* How are synergies created between productive sectors, knowledge systems, and regulatory frameworks?
+* How are dynamic competitive advantages built from local conditions?
+* What are the key institutions to sustain a development process?
 
 ### What underpins the economic greatness and developmental ambitions of some nations (Brazil vs Japan)?
 
@@ -580,63 +577,6 @@ Key Elements:
 | **Historical Narratives of Greatness**   | Use of past imperial, industrial, or scientific achievements to justify **modern tech-driven revival**. | Spain’s imperial science legacy; UK’s naval power    |
 | **Geopolitical Competition**             | Technology framed as a **strategic domain** in international rivalry and survival.                      | Cold War (US vs USSR); US-China chip war             |
 
-## Strategists and Development Thinkers
-
-> **Note**: Thinkers operate within broader ecosystems of ideas. It is rare for radically different concepts to emerge in isolation. The smaller the intellectual or institutional environment, the lower the probability of divergence. Therefore, this list does not account for the intellectual history or context in which these ideas emerged.
-
-| 🌍 **Country**           |⏳ **Period** | 👤 **Thinker**                                 | 📘 **Contribution**                                               |
-| -------------------------| ------------ | ---------------------------------------------- | ----------------------------------------------------------------- |
-| 🇦🇷 Argentina             | 19th c.      | Carlos Enrique José Pellegrini                 | President; promoted industrial protection and infrastructure.     |
-| 🇦🇹 Austria               | 18th c.      | Joseph von Sonnenfels                          | Cameralist reformer advocating productive state development.      |
-|                          | 19th c.      | Eugen Böhm-Bawerk                              | Capital theory and industrial productivity analysis.              |
-| 🇧🇪 Belgium               | 19th c.      | Jean-Baptiste Nothomb                          | Promoted Belgian railway and steel industries.                    |
-|                          | 19th c.      | Léon Faucher                                   | Balanced industrial liberalism and public infrastructure.         |
-| 🇧🇷 Brazil                | 19th c.      | Irineu Evangelista de Sousa (Viscount of Mauá) | Industrial pioneer; built railroads, shipyards, banks.            |
-|                          | 20th c.      | Roberto Cochrane Simonsen                      | Industrial historian and strategist.                              |
-| 🇨🇿 Czechia               | 19th c.      | František Palacký                              | Czech national revival linked to industry.                        |
-|                          | 20th c.      | Tomáš Baťa                                     | Industrialist; systems innovator and factory town planner.        |
-| 🏴 England               | 15th c.      | Henry VII                                      | Supported textile industry and merchant fleet.                    |
-|                          | 17th c.      | Thomas Mun                                     | Mercantilist theorist of trade surpluses.                         |
-| 🇫🇷 France                | 17th c.      | Jean-Baptiste Colbert                          | Colbertism: state-directed manufacturing & protectionism.         |
-|                          | 17th c.      | Antoine de Montchrestien                       | *Traicté d’Économie Politique* (1615); proto-political economist. |
-|                          | 18th c.      | Jean-Baptiste Colbert (relisted)               | Seminal influence on European mercantilism.                       |
-| 🇩🇪 Germany               | 17th c.      | Philipp von Hörnigk                            | *Austria Over All If She Only Will*; 9 mercantilist principles.   |
-|                          | 19th c.      | Friedrich List                                 | *The National System of Political Economy* (1841).                |
-| 🇭🇺 Hungary               | 19th c.      | István Széchenyi                               | Industrialization, banking, transport reform.                     |
-|                          | 19th c.      | Károly Kautz                                   | National political economy and industrial development.            |
-| 🇮🇪 Ireland               | 18th c.      | Jonathan Swift                                 | *Drapier’s Letters*, *Modest Proposal*; economic autonomy satire. |
-|                          | 20th c.      | Arthur Griffith                                | Sinn Féin leader; economic nationalism.                           |
-|                          | 20th c.      | T. K. Whitaker                                 | *Economic Development* (1958); industrial strategy shift.         |
-| 🇮🇹 Italy                 | 17th c.      | Antonio Serra                                  | First treatise defending manufacturing for national wealth.       |
-|                          | 19th c.      | Camillo Benso di Cavour                        | Railways and modernization in Piedmont.                           |
-|                          | 20th c.      | Vilfredo Pareto                                | Theory of elites and industrial-capitalist transition.            |
-| 🇳🇱 Netherlands           | 17th c.      | Pieter de la Court                             | Republican industrial trade theorist.                             |
-|                          | 17th c.      | Johan de Witt                                  | Maritime-industrial power advocate.                               |
-| 🇳🇴 Norway                | 19th c.      | Anton Martin Schweigaard                       | Legal/economic modernizer; pro-industry.                          |
-|                          | 21st c.      | Erik S. Reinert                                | *How Rich Countries Got Rich…*; neo-Listian critique.             |
-| 🇵🇱 Poland                | 18th c.      | Stanisław Staszic                              | Mining, engineering, and education for development.               |
-|                          | 20th c.      | Eugeniusz Kwiatkowski                          | Central Industrial Region planner (1930s).                        |
-| 🇵🇹 Portugal              | 17th c.      | Duarte Ribeiro de Macedo                       | Proto-arbitrista for manufacturing.                               |
-|                          | 18th c.      | Marquês de Pombal                              | Bourbon-style state-led reformer.                                 |
-| 🇷🇺 Russia                | 19th c.      | Sergei Witte                                   | Railway industrialization and finance modernization.              |
-| 🏴 Scotland              | 18th c.      | James Steuart                                  | *Principles of Political Economy* (1767); pre-Smithian planner.   |
-|                          | 19th c.      | Patrick Geddes                                 | Regional planning and urban-industrial revitalization.            |
-| 🇰🇷 South Korea           | 21st c.      | Ha-Joon Chang                                  | *Kicking Away the Ladder*; critic of free-market dogma.           |
-| 🇪🇸 Spain                 | 16th c.      | Luis Ortiz                                     | *Memorial* (1558); import substitution and industry.              |
-|                          | 17th c.      | Sancho Moncada                                 | *Restablecimiento de España*; proto-industrial planning.          |
-|                          | 17th c.      | Pedro Fernández de Navarrete                   | *Conservación de Monarquías*; productivity via reform.            |
-|                          | 18th c.      | Gerónimo de Uztáriz                            | *Teórica y Práctica de Comercio y Marina*.                        |
-|                          | 18th c.      | José del Campillo y Cossío                     | Fiscal-industrial reform strategies.                              |
-| 🇸🇪 Sweden                | 18th c.      | Anders Chydenius                               | Early liberal; free trade and productivity advocate.              |
-| 🇺🇸 USA                   | 18th c.      | Alexander Hamilton                             | *Report on Manufactures*; infant industry protection.             |
-|                          | 19th c.      | Henry Carey                                    | Protectionist; national development theorist.                     |
-|                          | 20th c.      | Nathan Rosenberg                               | Innovation systems and industrial dynamics.                       |
-|                          | 21st c.      | César Hidalgo                                  | *The Atlas of Economic Complexity*.                               |
-|                          | 21st c.      | Ricardo Hausmann                               | Economic complexity and capabilities theory.                      |
-|                          | 21st c.      | Michael Porter                                 | *Competitive Advantage of Nations*.                               |
-|                          | 21st c.      | Paul Romer                                     | Endogenous growth theory.                                         |
-| 🇻🇪 / 🇬🇧 Venezuela / UK   | 21st c.      | Carlota Pérez                                  | *Technological Revolutions and Financial Capital*.                |
-
 ## Terminology
 
 - > La etimología de la palabra **"desarrollo"** proviene del latín **"dis-"** (que significa "desprender" o "separar") y **"rollare"** (que significa "enrollar" o "rodar"). Así, la palabra sugiere la idea de **"desenrollar"** o **"desplegar"** algo que estaba enroscado o limitado.
@@ -647,10 +587,9 @@ Key Elements:
 - Economic Convergence Problem
 - Global frontier Progress
 
-## Conclusión
+## Conclusion
 
-> En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de 
-investigación y desarrollo.
+> In this booklet, we have explored a series of ideas and frameworks to interpret and investigate development phenomena, essentially defined as improvements in techno-productive capabilities. We have analyzed the definition of development, as well as the concepts of technology and productive knowledge. We have also examined productive networks and the fundamental role of research and development laboratories.
 
 ## Credits
 
