@@ -99,6 +99,10 @@ Wealth can be achieved by three means:
 | | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
 | | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
 
+## On Goods
+
+> ...
+
 ## On the Market
 
 > ...
@@ -117,13 +121,15 @@ Wealth can be achieved by three means:
 
 ## Modelling The Dyanmics of Perception & Response of Progress Asymmetry
 
-> Model(We) vs Model (the Other)
-
-- How societies think and response to other societies progress?
+> ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
 
 > A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
 
 > `Observer/s ->  Perception ->  [Processing] ->  Response -> Feedback`.
+
+> How societies think and response to other societies progress?
+
+> Model(We) vs Model (the Other)
 
 - **Bourdieu**: The asymmetry is habituated into the collective doxa via symbolic capital.
 - **Social Comparison Theory (Festinger)**: Societies assess themselves through others, generating aspiration or resentment.
@@ -199,11 +205,6 @@ Para estructurar la exposición, nos proponemos responder un conjunto de pregunt
 5. ¿Cuál es la relación entre las redes productivas y el valor agregado?
 6. ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
 7. ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
-
-### On Roots & Drivers of the Development Strategy
-
-> ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
-
 
 ### La Institucionalidad del Desarollo
 
