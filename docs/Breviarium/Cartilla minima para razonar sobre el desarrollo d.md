@@ -15,7 +15,7 @@
 > The material structures and constraints that shape development possibilities.
 
 - Development Problem Formulation
-- Wealth: Technology and Production Structures
+- Wealth: Technology and Production Systems
 - Progress Metrics (Local & Frontier)
 - Constraints (Structural, Institutional, Temporal)
 
@@ -56,7 +56,7 @@ Problem Definition:
 
 - The **frontier progress problem** *(leapfrogging and innovation leadership)* consists in advancing beyond existing global capabilities by generating novel technologies, redefining product categories, and shaping new productive trajectories—often under uncertainty and structural inertia.
 
-### Wealth: Technology and Production Structures
+### Wealth: Technology and Production Systems
 
 > Understanding how societies generate and sustain wealth requires examining the complex interplay between goods, productive capabilities, and the structures that support economic activity. Wealth creation is not a singular process; it can emerge through various pathways—ranging from the adoption and innovation of productive technologies to the extraction and transformation of natural resources. This section explores these different modes of wealth generation, highlighting how the development of capabilities and the strategic management of resources underpin long-term economic progress and resilience.
 
