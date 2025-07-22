@@ -449,7 +449,8 @@ where:
 
 > ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?  ¿Combatir una **condición negativa** o crear una **condición positiva**?
 
-- Negative Policy: To Combat Poverty in Poor Countries: Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
+- Negative Policy: To Combat Poverty in Poor Countries:
+It is common for people, instead of analyzing the causes of wealth, to focus on explaining poverty. They superficially observe corruption, disorder, hunger, or the lack of civic behavior in society, and often attribute these problems and the absence of wealth to “the government” or poor administration. This approach is retrograde and unconstructive; it is a static and fatalistic analysis limited to listing symptoms, without addressing the other side of the coin — wealth and the dynamics for achieving it.
 - **Development is synonymous with achieving immediate improvements in quality of life**: A common misconception is to treat development simply as achieving certain welfare outcomes—such as higher income, better health, or education—without recognizing that development is fundamentally the *process* by which societies build productive capacities, institutions, and innovations needed to sustain those improvements. Put differently, development is often confused with its *end goals* rather than understood as the ongoing *dynamic transformation*—through advances in technology, skills, infrastructure, and governance—that enables societies to overcome material constraints and achieve lasting well-being. This misunderstanding can result in policies aimed at short-term relief or isolated metrics, neglecting the deeper structural changes required for sustained growth and resilience.
 - **Development is a linear or automatic process:** Many assume that economic growth naturally follows investment or aid, ignoring complex social, political, and institutional dynamics and path dependencies.
 - **There is not such a thing as a development model:**
@@ -579,13 +580,13 @@ Key Elements:
 
 ## Terminology
 
-- > La etimología de la palabra **"desarrollo"** proviene del latín **"dis-"** (que significa "desprender" o "separar") y **"rollare"** (que significa "enrollar" o "rodar"). Así, la palabra sugiere la idea de **"desenrollar"** o **"desplegar"** algo que estaba enroscado o limitado.
+- La etimología de la palabra **"desarrollo"** proviene del latín **"dis-"** (que significa "desprender" o "separar") y **"rollare"** (que significa "enrollar" o "rodar"). Así, la palabra sugiere la idea de **"desenrollar"** o **"desplegar"** algo que estaba enroscado o limitado.
 
-- **Technology**: ...
+- **Economic Development problems**: These refer to the challenges and obstacles that hinder sustained improvements in income, living standards, and economic structure in developing countries. Common problems include poverty, inequality, underemployment, poor infrastructure, weak institutions, low human capital, and limited technological capabilities.
 
-- Economic development problems
-- Economic Convergence Problem
-- Global frontier Progress
+- **Economic Convergence Problem**: This is the question of whether and how poorer economies catch up to richer ones in terms of income levels and productivity. The convergence problem examines the conditions under which less-developed countries can grow faster than developed countries and reduce income gaps over time, or whether persistent disparities remain due to structural barriers.
+
+- **Global Frontier Progress**: This refers to the ongoing advancement of technology and productivity at the global “frontier” — the highest level of innovation and efficiency achieved by leading economies or firms. Global frontier progress pushes the boundaries of what is economically and technologically possible, shaping the standards to which other countries aspire in their development efforts.
 
 ## Conclusion
 
