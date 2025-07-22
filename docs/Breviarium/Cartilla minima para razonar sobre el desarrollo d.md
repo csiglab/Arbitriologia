@@ -4,6 +4,8 @@
 
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
+![alt text](../../img/resized/abstract-society-observer_512x512.png)
+
 ## Abstract
 
 > In this document, we propose an **abstract framework** for thinking about wealth & **development (convergence and  progress)**. The framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraints that shape developmental possibilities. Between these lies the **intersection (operational interface)**, where cognition meets reality `thereby enabling` strategy, action, organization and feedback  in order to `transform reality` in a way that solves **economic development problems (convergence &  global frontier progress)**.
