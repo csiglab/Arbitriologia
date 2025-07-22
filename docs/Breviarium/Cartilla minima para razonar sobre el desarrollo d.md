@@ -1,6 +1,6 @@
 # Cartilla minima para razonar sobre  el desarrollo economico: marcos y modelos
 
-> We propose a **framework** to understand how societies **think** and **act** to transform their conditions and pursue development—both by **convergence** and **fronteir progress**. To do this, we take an abstract view of society and change, analyzing the **space of societies** and the dynamics of **economic transformation of a given society**.
+> We propose a **framework** to understand how societies **think** and **act** to transform their conditions and pursue development—both by **convergence** and **fronteir progress**. To do this, we take an abstract view of society and change, analyzing the **space of societies** and the dynamics of **economic transformation in a given society**.
 
 ## Abstract
 
