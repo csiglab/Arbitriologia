@@ -88,8 +88,54 @@ Problem Definition:
 
 ## 🧠 Cognitive Side
 
+> How societies think—about themselves, others, and development.
 
-## 🧠 Thinking Tools
+### Collective Self-Cognition & Otherness Model
+
+- Collective Self-Cognition Model
+- Collective Cognition of Others
+- Modelling The Dyanmics of Perception & Response of Progress Asymmetry
+
+> ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
+
+> A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
+
+> `Observer/s ->  Perception ->  [Processing] ->  Response -> Feedback`.
+
+> How societies think and response to other societies progress?
+
+> Model(We) vs Model (the Other)
+
+- **Bourdieu**: The asymmetry is habituated into the collective doxa via symbolic capital.
+- **Social Comparison Theory (Festinger)**: Societies assess themselves through others, generating aspiration or resentment.
+- **Mimetic Desire (Girard)**: Societies desire what others desire/have, leading to emulation or rivalry.
+- **Systems Theory**: Society B's reaction depends on internal feedback loops, stability, and identity.
+- **Developmental Ideology**: Societies with strong endogenous development ideologies are more likely to act.
+
+| **Stage**                | **Type**                   | **Description**                                                                                                                                          | **Sample Questions**                                                                                          |
+| ------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Contact Layer**     | *Perception*               | Initial sensory or symbolic exposure to Society A. May include material (technology), institutional (governance), or symbolic (language, media) signals. | How visible is A? Through what channels? What is emphasized—wealth, efficiency, values, aesthetics?           |
+| **Contrast Layer**    | *Perception*               | Recognition of qualitative difference or superiority. Salient differences framed cognitively as gaps, lacks, or impossibilities.                         | In what dimensions does B feel inferior? Is the gap material, moral, spiritual, aesthetic, or all?            |
+| **Causal Layer**      | *Cognitive Framing*        | Society B constructs theories of why the asymmetry exists. Includes internalist, externalist, structural, or divine/moral explanations.                  | Why is A ahead? Is it due to exploitation, better institutions, luck, or divine will?                         |
+| **Affective Layer**   | *Emotional Response*       | Affective orientation to asymmetry: admiration, humiliation, envy, indifference, resentment, prideful rejection.                                         | Is the feeling one of aspiration, defeat, anger, or determination? Is it elite-only or widespread?            |
+| **Ontological Layer** | *Identity Processing*      | Asymmetry is integrated into or rejected from B’s self-image. Identity either adapts to or resists the perceived status differential.                    | Does B internalize inferiority? Reframe development? See itself as destined to lag—or as uniquely valuable?   |
+| **Diagnostic Layer**  | *Problem Recognition*      | Recognition of B’s underdevelopment as a systemic condition. May involve technical, moral, or political diagnosis.                                       | Is backwardness seen as a problem? If so, what’s to blame: the system, the elites, the people, the culture?   |
+| **Strategic Layer**   | *Response Formation*       | Based on perception and diagnosis, B formulates strategies: mimicry, rejection, hybridization, indifference, or resistance.                              | Is there a desire to catch up or follow a different path? Are responses elite-led, bottom-up, or fragmented?  |
+| **Operational Layer** | *Execution & Mobilization* | Concrete implementation: reforms, institutions, educational changes, industrial policy, or rhetorical campaigns.                                         | Can the state or society act on this vision? Is it effective or performative? Is there elite and mass buy-in? |
+| **Feedback Layer**    | *Systemic Adaptation*      | Outcomes reinforce or challenge the original perception. Failure or success of response alters the next cycle of perception and strategy.                | Does action lead to pride, despair, anger? Is the asymmetry reaffirmed, reduced, or reframed?                 |
+
+Case Studies:
+
+| **Society B**       | **Society A** | **Response**                                          |
+| ------------------- | ------------- | ----------------------------------------------------- |
+| **Japan (1860s)**   | West          | Strategic mimicry (Meiji Restoration)                 |
+| **India (20th c.)** | Britain       | Mixed: Admiration, resistance, eventual hybridization |
+| **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus         |
+| **China (1978–)**   | U.S. / Japan  | Competitive mimicry + techno-nationalism              |
+| **Cuba (1959–)**    | U.S.          | Rejection + alternative ideology                      |
+
+
+### 🧠 Thinking Tools
 
 | **Category** | **Tool** | **Concise Description** |
 |--------------|----------|--------------------------|
@@ -137,46 +183,6 @@ Problem Definition:
 - ECI
 - Valor Agregado
 - Errosion del Valor Agregado
-
-## Modelling The Dyanmics of Perception & Response of Progress Asymmetry
-
-> ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
-
-> A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
-
-> `Observer/s ->  Perception ->  [Processing] ->  Response -> Feedback`.
-
-> How societies think and response to other societies progress?
-
-> Model(We) vs Model (the Other)
-
-- **Bourdieu**: The asymmetry is habituated into the collective doxa via symbolic capital.
-- **Social Comparison Theory (Festinger)**: Societies assess themselves through others, generating aspiration or resentment.
-- **Mimetic Desire (Girard)**: Societies desire what others desire/have, leading to emulation or rivalry.
-- **Systems Theory**: Society B's reaction depends on internal feedback loops, stability, and identity.
-- **Developmental Ideology**: Societies with strong endogenous development ideologies are more likely to act.
-
-| **Stage**                | **Type**                   | **Description**                                                                                                                                          | **Sample Questions**                                                                                          |
-| ------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Contact Layer**     | *Perception*               | Initial sensory or symbolic exposure to Society A. May include material (technology), institutional (governance), or symbolic (language, media) signals. | How visible is A? Through what channels? What is emphasized—wealth, efficiency, values, aesthetics?           |
-| **Contrast Layer**    | *Perception*               | Recognition of qualitative difference or superiority. Salient differences framed cognitively as gaps, lacks, or impossibilities.                         | In what dimensions does B feel inferior? Is the gap material, moral, spiritual, aesthetic, or all?            |
-| **Causal Layer**      | *Cognitive Framing*        | Society B constructs theories of why the asymmetry exists. Includes internalist, externalist, structural, or divine/moral explanations.                  | Why is A ahead? Is it due to exploitation, better institutions, luck, or divine will?                         |
-| **Affective Layer**   | *Emotional Response*       | Affective orientation to asymmetry: admiration, humiliation, envy, indifference, resentment, prideful rejection.                                         | Is the feeling one of aspiration, defeat, anger, or determination? Is it elite-only or widespread?            |
-| **Ontological Layer** | *Identity Processing*      | Asymmetry is integrated into or rejected from B’s self-image. Identity either adapts to or resists the perceived status differential.                    | Does B internalize inferiority? Reframe development? See itself as destined to lag—or as uniquely valuable?   |
-| **Diagnostic Layer**  | *Problem Recognition*      | Recognition of B’s underdevelopment as a systemic condition. May involve technical, moral, or political diagnosis.                                       | Is backwardness seen as a problem? If so, what’s to blame: the system, the elites, the people, the culture?   |
-| **Strategic Layer**   | *Response Formation*       | Based on perception and diagnosis, B formulates strategies: mimicry, rejection, hybridization, indifference, or resistance.                              | Is there a desire to catch up or follow a different path? Are responses elite-led, bottom-up, or fragmented?  |
-| **Operational Layer** | *Execution & Mobilization* | Concrete implementation: reforms, institutions, educational changes, industrial policy, or rhetorical campaigns.                                         | Can the state or society act on this vision? Is it effective or performative? Is there elite and mass buy-in? |
-| **Feedback Layer**    | *Systemic Adaptation*      | Outcomes reinforce or challenge the original perception. Failure or success of response alters the next cycle of perception and strategy.                | Does action lead to pride, despair, anger? Is the asymmetry reaffirmed, reduced, or reframed?                 |
-
-Case Studies:
-
-| **Society B**       | **Society A** | **Response**                                          |
-| ------------------- | ------------- | ----------------------------------------------------- |
-| **Japan (1860s)**   | West          | Strategic mimicry (Meiji Restoration)                 |
-| **India (20th c.)** | Britain       | Mixed: Admiration, resistance, eventual hybridization |
-| **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus         |
-| **China (1978–)**   | U.S. / Japan  | Competitive mimicry + techno-nationalism              |
-| **Cuba (1959–)**    | U.S.          | Rejection + alternative ideology                      |
 
 ## 🔄 Operational Intersection Layer
 
