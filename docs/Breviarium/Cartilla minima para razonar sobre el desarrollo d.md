@@ -24,7 +24,7 @@
 - Wealth: Human Capital, Technology, Markets and  Production Systems
 - Measuring Development
 - Structure of the Development Process
-- **Development Environment & Constraints** (Structural, Institutional, Temporal)
+- **Development Environment & Constraints** (Cognitive, Structural, Institutional, Temporal)
 
 #### 🧠 Cognitive Side
 
@@ -192,11 +192,22 @@ where:
 | **Co-evolution of Subsystems** | Economic, social, political, technological, and environmental subsystems evolve interdependently, requiring integrated policies. |
 | **Market Coordination Limits** | Markets alone often fail to coordinate complex development processes due to externalities and institutional voids, requiring governance. |
 
-### **Development Environment & Constraints** (Structural, Institutional, Temporal)
+### **Development Environment & Constraints** (Cognitive, Structural, Institutional, Temporal)
 
 > Constraints are not excuses; they are the design space within which a society can act.
 
 > Development does not unfold in a vacuum—it is shaped by a layered environment of **constraints** and **possibilities**. These constraints are not merely obstacles, but the structural contours that define the space within which a society imagines, plans, and enacts transformation. Understanding these dimensions—**structural**, **institutional**, and **temporal**—is key to designing viable pathways for progress.
+
+#### Cognitive Constrains
+
+| Constraint Type              | Diagnostic Question                                             | Observable Proxy (1 = low, 5 = high)                                         | Policy Lever                                                   |
+| ---------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Narrative Lock-in**        | Is national identity tied to being “perpetually catching up”?   | Frequency of press articles framing the country as “backwards” vs “emerging” | Deliberate storytelling campaigns + diaspora success showcases |
+| **Epistemic Bottleneck**     | Do we have < 5 independent think-tanks per 1 M population?      | # of research institutes with ≥ 10 FTE PhD economists                        | Competitive research grants + visiting scholar programs        |
+| **Risk Perception Bias**     | Are high-impact / low-probability reforms dismissed by default? | Share of policy briefs with expected-value calculations                      | Scenario-planning workshops with explicit probability ranges   |
+| **Temporal Myopia**          | Is electoral horizon (4–6 yrs) the de-facto discount rate?      | % of public investment projects with cost-benefit > 10 yrs sunset clause     | Independent fiscal councils + multi-year appropriations        |
+| **Symbolic Capital Deficit** | Is technical expertise publicly celebrated or derided?          | Media mentions of engineers vs celebrities per 1 000 articles                | Prize systems + public recognition rituals                     |
+| **Information Asymmetry**    | Do firms know global tech road-maps?                            | % of exporting SMEs that can name ≥ 3 frontier competitors                   | Tech-scouting missions + open-access market intel portals      |
 
 #### 🏗 Structural Constraints
 
@@ -357,13 +368,7 @@ where:
 
 ### Strategic Layer (Long-term vision & direction)
 
-Here’s a clear and precise definition for the:
-
-### Strategic Layer (Long-term vision & direction)
-
----
-
-The **Strategic Layer** represents the highest level of planning in development policy. It sets the **long-term vision, fundamental goals, and overarching direction** for national or regional development efforts. This layer defines **where the country or region aims to be** in the medium to long run (typically 10–30 years), articulating the desired structural transformation, economic diversification, social inclusion, and sustainability objectives.
+> The **Strategic Layer** represents the highest level of planning in development policy. It sets the **long-term vision, fundamental goals, and overarching direction** for national or regional development efforts. This layer defines **where the country or region aims to be** in the medium to long run (typically 10–30 years), articulating the desired structural transformation, economic diversification, social inclusion, and sustainability objectives.
 
 **Key features:**
 
@@ -401,7 +406,7 @@ The **Strategic Layer** represents the highest level of planning in development 
 
 ### Tactical Layer (Execution & adjustment)
 
-The **Tactical Layer** focuses on the **day-to-day implementation, management, and adaptive adjustment** of development policies and programs. Operating at the short-term and operational horizon (typically monthly to yearly), this layer ensures that plans and strategies translate into concrete actions, while remaining flexible to respond to emerging challenges and opportunities.
+> The **Tactical Layer** focuses on the **day-to-day implementation, management, and adaptive adjustment** of development policies and programs. Operating at the short-term and operational horizon (typically monthly to yearly), this layer ensures that plans and strategies translate into concrete actions, while remaining flexible to respond to emerging challenges and opportunities.
 
 **Key features:**
 
@@ -444,7 +449,7 @@ The **Tactical Layer** focuses on the **day-to-day implementation, management, a
 
 > ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?  ¿Combatir una **condición negativa** o crear una **condición positiva**?
 
-- Negative Policy: To Comact Povewrty in Poor Countrieas: Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
+- Negative Policy: To Combat Poverty in Poor Countries: Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
 - **Development is synonymous with achieving immediate improvements in quality of life**: A common misconception is to treat development simply as achieving certain welfare outcomes—such as higher income, better health, or education—without recognizing that development is fundamentally the *process* by which societies build productive capacities, institutions, and innovations needed to sustain those improvements. Put differently, development is often confused with its *end goals* rather than understood as the ongoing *dynamic transformation*—through advances in technology, skills, infrastructure, and governance—that enables societies to overcome material constraints and achieve lasting well-being. This misunderstanding can result in policies aimed at short-term relief or isolated metrics, neglecting the deeper structural changes required for sustained growth and resilience.
 - **Development is a linear or automatic process:** Many assume that economic growth naturally follows investment or aid, ignoring complex social, political, and institutional dynamics and path dependencies.
 - **There is not such a thing as a development model:**
@@ -453,43 +458,27 @@ The **Tactical Layer** focuses on the **day-to-day implementation, management, a
 - **Countries** should focus on what they do best (Static Comparative Advantage): ...
 - **Markets** alone can coordinate development, provided the necessary institutional and legal frameworks are in place.
 - **Education** is often positively correlated with development, but correlation alone is misleading. For education to drive economic transformation, it must be aligned with the productive structure—whether through technical, scientific, or industry-linked pathways. A system focused primarily on improving scores in international assessments like the PISA test may enhance cognitive metrics without necessarily building the capabilities required for innovation, industrial upgrading, or technological might.
+- 🌀 **Circular Reasoning**: Development is not inherited—it is built. Starting advantages do not guarantee progress, nor do initial handicaps doom a society to stagnation. The trap is to treat development as its own cause: “developed because it was already developed.” What counts is the **dynamic response** to inherited constraints—be they weak infrastructure, limited schooling, poor governance or technological backwardness. These are real obstacles, but not destiny. Stagnation results not from the weight of the past, but from the absence of institutional imagination, historical learning and the collective will to transform it.
 
-### Análisis y Explicación
+## Case Study
 
-> …
-
-## 🌀 Contra la “razón” circular: El Desarrollo No Se Hereda, Se Construye
-
-> Desarrollo → Desarrollo ≠ Condición inicial → Desarrollo
-
-> Dejar de Justificar el Estancamiento.
-
-> El desarrollo no es la prolongación automática de un punto de partida favorable, sino la superación activa de un punto de partida cualquiera —por adverso que sea.
-
-> No es la herencia lo que determina el desarrollo, sino la capacidad de transformarla.
-
-> El desarrollo no se frustra por las condiciones heredadas, sino por la inercia institucional, la falta de visión histórica, y la ausencia de voluntad transformadora para superar esas condiciones.
-
-> El punto de partida no se elige. Factores como infraestructura deficiente, escasa educación, débil gobernanza, rezago tecnológico o aislamiento internacional son obstáculos reales.  Pero no explican por sí mismos el estancamiento: lo decisivo es cómo se actúa frente a ellos.
-
-
-### Caso de Éxito: Escocia en el Siglo XVII
+### Success Case: Scotland in the XVII Century
 
 > …
 
-### Caso de Éxito: Finlandia en el Siglo XX
+### Success Case: Finland in the XX Century
 
 > …
 
-### Caso de Fracaso: Brasil en los Siglos XIX-XXI
+### Failure Case: Brazil in the XIX–XXI Centuries
 
 > …
 
-### Caso de Fracaso: España en los Siglos XXI-XVIII
+### Failure Case: Spain in the XXI–XVIII Centuries
 
 > …
 
-### Caso de Exito Parcial: España en los Siglos XIX-XX
+### Partial Success Case: Spain in the XIX–XX Centuries
 
 > …
 
