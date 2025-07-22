@@ -8,28 +8,30 @@
 
 ## Abstract
 
-> In this document, we propose an abstract framework for thinking about wealth, progress, and development. This framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraint that shape developmental possibilities.
+> In this document, we propose an **abstract framework** for thinking about wealth & **development (convergence and  progress)**. The framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraints that shape developmental possibilities. Between these lies the **intersection (operational interface)**, where cognition meets reality `thereby enabling` strategy, action, organization and feedback  in order to `transform reality` in a way that solves **economic development problems (convergence &  global frontier progress)**.
 
 ![Thinking Framework for Development – Cognitive and Reality Dimensions](../../img/resized/thinking-framework-for-development-cognitive-realiaty_512x512.png)
 
-Let me know if you'd like a more formal, academic, or metaphorical tone.
+Framework Architecture:
 
-
-> In this document we propose an abstract framework for thinking about wealth & progress & development: we organize this framework in two big refironcemcing  themes Cognitive Side (how societies think about wealth, development, and themselves) and Reality Site (Wealth, Production, Structure, Constraints).
-
-> Ideas about economic development are often disorganized and unstructured. Therefore, we aim to create a clear framework to organize our thinking about development: What exactly is it? How can it be achieved? What challenges must be overcome?
-
-Architecture of a Framework for Thinking About Development
-
-- Cognition [Collective Self Cognition Model] [Collective Cognition Other Model]
-  - [Problem Formulation]
-- [Structure of Development Process]
+- [🏗️] Reality Side
+  - Goods
+  - Wealth
+  - Progress
+  - Technology
+  - [Contraint] [Temporal Layer]
+  - Development Problem Formulation
+- [🧠] Cognition Side
+  - [Collective Self Cognition Model]
+  - [Collective Cognition Other Model]
+- [🔄] Intersection Operational Layer
+  - [Structure of Development Process]
   - [Action Space]
   - [Organizational Structure]
-    - [Programtic Layer]
+    - [Stratigical Layer]
+    - [Programmatic Layer]
     - [Tactical Layer]
     - [Self Reflection Layer]
-  - [Contraint] [Temporal Layer]
 
 QA:
 
