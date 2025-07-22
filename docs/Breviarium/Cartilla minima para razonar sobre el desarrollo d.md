@@ -74,6 +74,18 @@ Problem Definition:
 
 > **Note**: Technology should not be confused with technical objects themselves; rather, it encompasses the knowledge, methods, and processes behind their creation and use.
 
+### Measuring Development
+
+> ....
+
+### Structure of the Development Process
+
+> ....
+
+### **Development Constraints** (structural, institutional, temporal)
+
+> ....
+
 ## 🧠 Cognitive Side
 
 
