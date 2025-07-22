@@ -15,7 +15,7 @@
 > The material structures and constraints that shape development possibilities.
 
 - Development Problem Formulation
-- Wealth, Technology, and Production Systems
+- Wealth: Human Capital, Technology, Markets and  Production Systems
 - Measuring Development
 - Structure of the Development Process
 - **Development Constraints** (structural, institutional, temporal)
@@ -57,7 +57,7 @@ Problem Definition:
 
 - The **frontier progress problem** *(leapfrogging and innovation leadership)* consists in advancing beyond existing global capabilities by generating novel technologies, redefining product categories, and shaping new productive trajectories—often under uncertainty and structural inertia.
 
-### Wealth: Technology and Production Systems
+### Wealth: Human Capital, Technology, Markets and  Production Systems
 
 > Understanding how societies generate and sustain wealth requires examining the complex interplay between goods, productive capabilities, and the structures that support economic activity. Wealth creation is not a singular process; it can emerge through various pathways—ranging from the adoption and innovation of productive technologies to the extraction and transformation of natural resources. This section explores these different modes of wealth generation, highlighting how the development of capabilities and the strategic management of resources underpin long-term economic progress and resilience.
 
@@ -74,9 +74,14 @@ Problem Definition:
 
 > **Note**: Technology should not be confused with technical objects themselves; rather, it encompasses the knowledge, methods, and processes behind their creation and use.
 
+
 ### Measuring Development
 
 > ....
+
+- ECI
+- Valor Agregado
+- Errosion del Valor Agregado
 
 ### Structure of the Development Process
 
@@ -164,30 +169,10 @@ Case Studies:
 
 
 
-## On Goods
-
-> ...
-
-## On the Market
-
-> ...
-
-## On Human Capital
-
-> ...
-
-## Characterizing Type-1 Economies
-
-> ...
-
-- ECI
-- Valor Agregado
-- Errosion del Valor Agregado
 
 ## 🔄 Operational Intersection Layer
 
 >  Where cognition meets structure to produce action.
-
 
 ## On Economic Structural Transformation - Evolution - Critical Mass - Phase Transition
 
