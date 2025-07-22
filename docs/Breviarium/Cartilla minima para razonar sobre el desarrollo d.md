@@ -91,14 +91,7 @@ Problem Definition:
 
 > How does a phase transition occur in the development process? What should be the pace of changes in development? What characteristics make changes significant and how deep must they be to trigger a phase transition? How broad and deep should they be? Can the market alone **coordinate development?**
 
-
-Certainly! Here is a **highly technical definition** of the development process framed in systems theory, complexity science, and institutional economics terms:
-
----
-
-### Technical Definition of the Development Process
-
-The **development process** is a complex adaptive socio-technical system characterized by the dynamic interaction and co-evolution of heterogeneous agents, institutional arrangements, and technological subsystems within multiscalar temporal and spatial contexts. It encompasses the **continuous transformation of the system’s state vector**—representing economic, social, political, and infrastructural variables—through endogenous and exogenous inputs, governed by non-linear feedback loops and subject to path dependency and structural constraints.
+> The **development process** is a complex adaptive socio-technical system characterized by the dynamic interaction and co-evolution of heterogeneous agents, institutional arrangements, and technological subsystems within multiscalar temporal and spatial contexts. It encompasses the **continuous transformation of the system’s state vector**—representing economic, social, political, and infrastructural variables—through endogenous and exogenous inputs, governed by non-linear feedback loops and subject to path dependency and structural constraints.
 
 Formally:
 
