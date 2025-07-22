@@ -75,7 +75,6 @@
 | | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
 | | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
 
-
 ## 🏗️ Reality Side
 
 > The material structures and constraints that shape development possibilities.
@@ -110,6 +109,41 @@ Problem Definition:
 > Technology (from the Greek techne, meaning “art” or “craft”) forms the foundation of productive capabilities and drives the processes of production, generating both goods—technical objects or otherwise—and services.
 
 > **Note**: Technology should not be confused with technical objects themselves; rather, it encompasses the knowledge, methods, and processes behind their creation and use.
+
+#### Production System
+
+> A **Production System** refers to the interconnected set of processes, technologies, organizational arrangements, and institutional frameworks through which goods and services are designed, produced, and delivered. It encompasses the technical, social, and economic structures involved in transforming inputs (raw materials, labor, capital, knowledge) into outputs of value.
+
+**Dimension of a Productive System**
+
+| **Dimension**                    | **Description**                                                                                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Automation Level**             | Degree of mechanization and use of robotics/AI (Manual → Semi-automated → Fully automated)                                                         |
+| **Labor Skill Composition**      | Predominant type of labor involved (Artisanal skilled → Semi-skilled → Low-skilled repetitive → Multi-skilled teams)                               |
+| **Production Scale**             | Typical scale of production (Small-batch/custom → Mass production → Continuous flow)                                                               |
+| **Product Customization**        | Level of product variety and customer-specific adaptation (Standardized → Differentiated → Customized)                                             |
+| **Flexibility / Adaptability**   | Ability to rapidly change production volume, mix, or technology in response to demand or innovation                                                |
+| **Technology Intensity**         | Sophistication and capital intensity of production technology (Basic hand tools → Mechanization → Digital & Cyber-Physical Systems)                |
+| **Quality Control Approach**     | Methods used (Individual artisan control → Inspection-based → Statistical process control & continuous improvement)                                |
+| **Supply Chain Integration**     | Degree of vertical/horizontal coordination and network complexity (Loose merchant coordination → Vertical integration → Global, digital platforms) |
+| **Organizational Structure**     | Coordination model (Individual/household → Factory hierarchy → Team-based/lean → Digital platforms)                                                |
+| **Innovation Orientation**       | Emphasis on incremental vs radical innovation and learning mechanisms (Minimal → Continuous improvement → Digital innovation & AI-driven)          |
+
+**Production Model**
+
+| **Model**                             | **Period**                     | **Description**                                                                                                                                      | **Related Models**                               |
+| ------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Artisan / Craft**                   | Pre-industrial era             | Production by skilled individuals using hand tools; unique, low-scale output.                                                                        | Proto-industrialization                          |
+| **Proto-industrialization**           | 16th–18th centuries            | Decentralized rural manufacturing coordinated by merchants; early specialization.                                                                    | Artisan, Early Industrial                        |
+| **Early Industrial**                  | Late 18th – early 19th century | Mechanized factory production; centralization of labor; rise of wage work.                                                                           | American System of Manufactures, Fordism         |
+| **American System of Manufactures**   | Early–mid 19th century (USA)   | Use of interchangeable parts, machine tools, and semi-skilled labor to produce standardized goods at scale; foundational for modern mass production. | Early Industrial, Fordism                        |
+| **Fordism**                           | Early–mid 20th century         | Assembly line production; standardization; mass production and consumption.                                                                          | American System of Manufactures, Post-Fordism    |
+| **Post-Fordism** (Mass Customization) | Late 20th century              | Flexible, small-batch production; product differentiation; service integration.                                                                      | Fordism, Toyotism, Digital                       |
+| **Toyotism**                          | 1970s–present                  | Just-in-Time systems; waste reduction; continuous improvement and team work.                                                                         | Post-Fordism, Lean Production                    |
+| **Digital**                           | 21st century                   | Data-centric, modular, and platform-driven production; automation and networks.                                                                      | Post-Fordism, Smart Factory, Cloud Manufacturing |
+| **Lights-Out Manufacturing**          | 21st century                   | Fully automated factories operating with minimal or no human presence using robotics, AI, and IoT; highly efficient and self-regulating.             | Smart Factory, Industry 4.0                      |
+| **Cloud Manufacturing**               | 2020s–present                  | Distributed manufacturing resources and capabilities accessed as cloud services; enables flexible, on-demand production and design globally.         | Digital, Smart Factory                           |
+| **Smart Factory**                     | 2010s–present                  | Cyber-physical production systems integrating IoT, AI, and real-time data for adaptive, self-optimizing manufacturing environments.                  | Industry 4.0, Lights-Out Manufacturing, Digital  |
 
 
 ### Measuring Development
@@ -303,6 +337,10 @@ where:
 ### Strategic Action Space
 
 > **Note**: This is a preliminary sketch of the space; refinement and expansion are expected.
+
+> Supply Side Policy: A set of economic strategies aimed at increasing the productive capacity of the economy by enhancing the efficiency and incentives of producers. These policies focus on improving innovation, investment, labor productivity, and competitiveness through measures like tax cuts, deregulation, education, infrastructure investment, and labor market reforms. The goal is to shift the long-run aggregate supply (LRAS) curve outward, enabling sustainable, non-inflationary growth.
+
+> Demand-Side Policy: A set of macroeconomic tools designed to stimulate aggregate demand in order to boost output, employment, and income in the short run. Rooted in Keynesian economics, these policies include increased government spending, transfers, and monetary easing (e.g., interest rate cuts, quantitative easing). The aim is to manage business cycles by shifting the aggregate demand (AD) curve, especially during recessions or periods of underutilized capacity.
 
 | **Category**                      | **Action**                             | **Description**                                                                                | **Goal**                                                                     |
 | --------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -617,11 +655,10 @@ Key Elements:
 - César A. Hidalgo and Ricardo Hausmann (2009). The building blocks of economic complexity. National Academy of Sciences.
 - Tellaeche, R., Iza, B., & others. (2019). Estado desarrollador casos exitosos y lecciones para México.
 - Hausmann, R., Hidalgo, C. A., Jiménez, J., Lawrence, R., Yeyati, E. L., Sabel, C., & Schydlowsky, D. (2011). Construyendo un mejor futuro para la República Dominicana: herramientas para el desarrollo. Informe Técnico. Cambridge, MA: Center for International Development, Universidad de Harvard.
-- https://www.youtube.com/watch?v=t8iuwTF2GSs
-- https://www.youtube.com/watch?v=EMdKG81qkFc&
-- https://www.youtube.com/watch?v=pBXRWh2US84
-- https://www.youtube.com/watch?v=csmBSN-BBtY
-- https://www.youtube.com/watch?v=xnLVR9xFZaE
-- https://www.youtube.com/watch?v=7QC3Y_MhQ1w
-- https://www.youtube.com/watch?v=0bDs5VTafEA
-- https://www.youtube.com/watch?v=zyMa2y9dzBo
+- [¿Por qué hay tanta diferencia entre países ricos y pobres?](https://www.youtube.com/watch?v=t8iuwTF2GSs)
+- [Caminhos para o Desenvolvimento Econômico](https://www.youtube.com/watch?v=EMdKG81qkFc&)
+- [“A Nova Estratégia Nacional de Desenvolvimento” – Debate com o Ministro Mangabeira Unger](https://www.youtube.com/watch?v=csmBSN-BBtY)
+
+- [A decade of economic complexity](https://www.youtube.com/watch?v=GNTdw47HZbE)
+- [Paul Romer: Rules, Technology and Innovation](https://www.youtube.com/watch?v=0bDs5VTafEA)
+- [Technological paradigms, labour creation and destruction in a multi-sector agent- based model](https://www.youtube.com/watch?v=vuGliNvnfc4)
