@@ -1,10 +1,6 @@
 # Cartilla minima para razonar sobre  el desarrollo economico: marcos y modelos
 
-> **Guía**, **marcos** y **modelos** para **razonar** de manera holística sobre las dimensiones del desarrollo nacional.
-
-> How to architect such document? Account of Reality  (Wealth) + Cognition (How Socieity Thing About Wealth?)
-
-> Note: I Have Used LLM for  (Architecture of the Framework of Development); 
+> We propose a **framework** to understand how societies **think** and **act** to transform their conditions and pursue development—both by catching up and by advancing the global frontier. To do this, we take an abstract view of society and change, analyzing the **space of societies** and the dynamics of **economic transformation of a given society**.
 
 ## Abstract
 
@@ -415,9 +411,19 @@ Key Elements:
 
 - **Technology**: ...
 
+- Economic development problems
+- Economic Convergence Problem
+- Global frontier Progress
+
 ## Conclusión
 
 > En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de investigación y desarrollo.
+
+## Credits
+
+> Note: I Have Used LLM for  (Architecture of the Framework of Development).
+
+> Friends: That Test the Document.
 
 ## Referencias
 
