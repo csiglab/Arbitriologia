@@ -2,9 +2,7 @@
 
 > We propose a **framework** to understand how societies **think** and **act** to transform their conditions and pursue development—both by **convergence** and **fronteir progress**. To do this, we take an abstract view of society and change, analyzing the **space of societies** and the dynamics of **economic transformation in a given society**.
 
-
-
-
+> **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
 ## Abstract
 
@@ -176,13 +174,13 @@ where:
 
 > How societies think—about themselves, others, and development.
 
-### Collective Self-Cognition & Otherness Model
+> What is the relationship and dynamic between society, the economy, and development? Is society and the economy a complex and adaptive phenomenon? What is the role of institutions? What is the relationship between techno-productive and social coevolution?
 
 - Collective Self-Cognition Model
 - Collective Cognition of Others
 - Modelling The Dyanmics of Perception & Response of Progress Asymmetry
 
-> ¿Cuál es la relación y dinámica entre la sociedad, la economía y el desarrollo?  ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?  ¿Cuál es el rol de las instituciones?  ¿Cuál es la relación entre la coevolución tecno-productiva y la social?
+### Collective Self-Cognition & Otherness Model
 
 > A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
 
@@ -210,7 +208,7 @@ where:
 | **Operational Layer** | *Execution & Mobilization* | Concrete implementation: reforms, institutions, educational changes, industrial policy, or rhetorical campaigns.                                         | Can the state or society act on this vision? Is it effective or performative? Is there elite and mass buy-in? |
 | **Feedback Layer**    | *Systemic Adaptation*      | Outcomes reinforce or challenge the original perception. Failure or success of response alters the next cycle of perception and strategy.                | Does action lead to pride, despair, anger? Is the asymmetry reaffirmed, reduced, or reframed?                 |
 
-Case Studies:
+### Case Studies
 
 | **Society B**       | **Society A** | **Response**                                          |
 | ------------------- | ------------- | ----------------------------------------------------- |
@@ -219,37 +217,6 @@ Case Studies:
 | **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus         |
 | **China (1978–)**   | U.S. / Japan  | Competitive mimicry + techno-nationalism              |
 | **Cuba (1959–)**    | U.S.          | Rejection + alternative ideology                      |
-
-
-### 🧠 Thinking Tools
-
-| **Category** | **Tool** | **Concise Description** |
-|--------------|----------|--------------------------|
-| **Causal & Diagnostic Tools** | Feedback Loops | Mechanisms where outputs of a system influence its own inputs; can stabilize (negative) or amplify (positive) dynamics. |
-| | Capability Traps | Situations where weak institutions and low capabilities reinforce each other, making improvement difficult. |
-| | Bottlenecks & Constraints | Analytical approach to identify key limiting factors to growth or transformation. |
-| | Hysteresis | A situation where changes are not easily reversible—past states influence present outcomes. |
-| | Equilibrium / Disequilibrium | States where forces balance (or don’t); helps explain stability or instability of a system. |
-| | Structural Breaks | Discontinuous changes in systems or trends, often associated with crises or transformations. |
-| | Complexity & Emergence | Views systems as adaptive, non-linear, and path-dependent; outcomes emerge from interactions, not single causes. |
-| **Strategic & Decision Tools** | Theory of Change | A framework to model how specific actions are expected to produce desired changes across a system. |
-| | Strategy vs Tactics | Distinction between long-term objectives and short-term methods or maneuvers to achieve them. |
-| | Leverage Points | Places in a system where a small intervention can produce large and lasting change. |
-| | Windows of Opportunity | Periods of alignment (political, social, economic) that allow reforms or transformation to succeed. |
-| | Strategic Sequencing | The ordering of interventions to maximize impact or avoid backlash/failure. |
-| **Process Dynamics & Lock-in** | Path Dependency | Historical sequences that constrain or enable future options, making change harder over time. |
-| | Lock-in | Processes that reinforce the dominance of specific technologies, behaviors, or institutions. |
-| | Diffusion | How innovations, practices, or institutions spread across a system or between countries. |
-| | Adaptation | The capacity of actors or systems to adjust behavior in response to changes in environment or incentives. |
-| | Co-evolution | Mutually shaping evolution of institutions, technologies, and norms over time. |
-| **Institutional & Political Tools** | Institutional Isomorphism | Tendency of organizations or states to mimic others due to legitimacy, norms, or pressures, not effectiveness. |
-| | Political Settlements | Stable distributions of power that determine how institutions work and how resources are allocated. |
-| | Embeddedness | The degree to which institutions and actors are rooted in particular social or historical contexts. |
-| | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
-| | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
-
-
-
 
 ## 🔄 Operational Intersection Layer
 
@@ -516,7 +483,38 @@ Key Elements:
 
 ## Conclusión
 
-> En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de investigación y desarrollo.
+> En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de 
+investigación y desarrollo.
+
+## Appendix
+
+### 🧠 Thinking Tools
+
+| **Category** | **Tool** | **Concise Description** |
+|--------------|----------|--------------------------|
+| **Causal & Diagnostic Tools** | Feedback Loops | Mechanisms where outputs of a system influence its own inputs; can stabilize (negative) or amplify (positive) dynamics. |
+| | Capability Traps | Situations where weak institutions and low capabilities reinforce each other, making improvement difficult. |
+| | Bottlenecks & Constraints | Analytical approach to identify key limiting factors to growth or transformation. |
+| | Hysteresis | A situation where changes are not easily reversible—past states influence present outcomes. |
+| | Equilibrium / Disequilibrium | States where forces balance (or don’t); helps explain stability or instability of a system. |
+| | Structural Breaks | Discontinuous changes in systems or trends, often associated with crises or transformations. |
+| | Complexity & Emergence | Views systems as adaptive, non-linear, and path-dependent; outcomes emerge from interactions, not single causes. |
+| **Strategic & Decision Tools** | Theory of Change | A framework to model how specific actions are expected to produce desired changes across a system. |
+| | Strategy vs Tactics | Distinction between long-term objectives and short-term methods or maneuvers to achieve them. |
+| | Leverage Points | Places in a system where a small intervention can produce large and lasting change. |
+| | Windows of Opportunity | Periods of alignment (political, social, economic) that allow reforms or transformation to succeed. |
+| | Strategic Sequencing | The ordering of interventions to maximize impact or avoid backlash/failure. |
+| **Process Dynamics & Lock-in** | Path Dependency | Historical sequences that constrain or enable future options, making change harder over time. |
+| | Lock-in | Processes that reinforce the dominance of specific technologies, behaviors, or institutions. |
+| | Diffusion | How innovations, practices, or institutions spread across a system or between countries. |
+| | Adaptation | The capacity of actors or systems to adjust behavior in response to changes in environment or incentives. |
+| | Co-evolution | Mutually shaping evolution of institutions, technologies, and norms over time. |
+| **Institutional & Political Tools** | Institutional Isomorphism | Tendency of organizations or states to mimic others due to legitimacy, norms, or pressures, not effectiveness. |
+| | Political Settlements | Stable distributions of power that determine how institutions work and how resources are allocated. |
+| | Embeddedness | The degree to which institutions and actors are rooted in particular social or historical contexts. |
+| | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
+| | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
+
 
 ## Credits
 
