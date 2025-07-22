@@ -15,9 +15,10 @@
 > The material structures and constraints that shape development possibilities.
 
 - Development Problem Formulation
-- Wealth: Technology and Production Systems
-- Progress Metrics (Local & Frontier)
-- Constraints (Structural, Institutional, Temporal)
+- Wealth, Technology, and Production Systems
+- Measuring Development
+- Structure of the Development Process
+- **Development Constraints** (structural, institutional, temporal)
 
 #### 🧠 Cognitive Side
 
@@ -30,7 +31,7 @@
 
 > Where cognition meets structure to produce action.
 
-- Structure of the Development Process
+
 - Strategic Action Space
 - Organizational Architecture
   - **Strategic Layer** (Long-term vision & direction)
