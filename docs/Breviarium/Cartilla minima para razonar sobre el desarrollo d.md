@@ -329,6 +329,38 @@ where:
 | **Operational Layer** | *Execution & Mobilization* | Concrete implementation: reforms, institutions, educational changes, industrial policy, or rhetorical campaigns.                                         | Can the state or society act on this vision? Is it effective or performative? Is there elite and mass buy-in? |
 | **Feedback Layer**    | *Systemic Adaptation*      | Outcomes reinforce or challenge the original perception. Failure or success of response alters the next cycle of perception and strategy.                | Does action lead to pride, despair, anger? Is the asymmetry reaffirmed, reduced, or reframed?                 |
 
+
+### Development Thinking Pitfalls
+
+| **Pitfall**                                      | **Description**                                                                                                                                        |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Focus on Poverty Instead of Wealth**           | Concentrating on explaining poverty causes rather than understanding what creates wealth.                                                              |
+| **Negative Policy Orientation**                  | Designing policies aimed only at fixing problems instead of promoting positive development conditions.                                                 |
+| **Ignoring Institutional Role**                  | Underestimating how institutions shape economic behavior and development trajectories.                                                                 |
+| **Overlooking Path Dependence**                  | Neglecting historical legacies and how past choices limit future options.                                                                              |
+| **Assuming Market Self-Coherence**               | Believing markets alone can efficiently coordinate all aspects of development.                                                                         |
+| **Short-Term Focus**                             | Prioritizing immediate results over sustainable, long-term development.                                                                                |
+| **One-Size-Fits-All Solutions**                  | Applying uniform policies across diverse countries or regions, ignoring unique contexts.                                                               |
+| **Ignoring Capability Building**                 | Neglecting skills development, technology transfer, and innovation capabilities in development strategies.                                             |
+| **Underestimating Complexity and Feedbacks**     | Oversimplifying development processes by ignoring multi-level feedback loops and adaptive learning.                                                    |
+| **Surface-Level Analysis**                       | Treating complex socio-technical systems superficially; ignoring the need for both bottom-up and top-down investigation.                               |
+| **Circular Reasoning**                           | Treating development as inherited rather than built; ignoring that dynamic responses to constraints, not initial conditions alone, determine progress. |
+| **Complexity of Development Models**             | Development models must evolve dynamically; rigid or static frameworks fail to capture the continuous organizational change needed.                    |
+| **Misuse of Education Metrics (e.g., PISA)**     | Assuming education quality based solely on international test scores correlates directly with development outcomes.                                    |
+| **Static Comparative Advantage Focus**           | Overemphasizing existing economic strengths without fostering capability upgrading and transformation over time.                                       |
+| **Assuming Development Is Linear or Automatic**  | Ignoring that growth depends on complex social, political, and institutional dynamics rather than automatic returns on investment.                     |
+| **Development as Immediate Welfare Improvement** | Confusing development with short-term welfare gains instead of seeing it as a long-term capacity-building process.                                     |
+| **Markets Alone Cannot Coordinate Development**  | Recognizing that markets require complementary public governance and strategic intervention to drive development effectively.                          |
+| **Insufficient Early-Stage Investment in R\&D**  | Failing to support research and development during early industrial or technological stages undermines long-term innovation capacity.                  |
+| **Lack of Competitive Markets**                  | Allowing monopolies, oligopolies, or rent-seeking behavior to persist, which stifles innovation and productivity improvements.                         |
+| **Neglecting Export Orientation**                | Failing to integrate with global markets reduces opportunities for scale, knowledge transfer, and competitive pressures.                               |
+| **Ignoring Infrastructure Development**          | Overlooking the foundational role of transport, energy, and communications infrastructure in enabling productive activity.                             |
+| **No Generating  High Institutional Capacity**                  | Lack of effective public institutions hampers regulation, enforcement, and support for economic actors.                                                |
+| **Allowing Poor Governance and Corruption**               | Corruption and weak governance distort incentives and reduce investment and innovation.                                                                |
+
+
+
+
 ### Case Studies
 
 | **Society B**       | **Society A** | **Response**                                          |
@@ -503,35 +535,6 @@ where:
 * Policy briefs and recommendation documents
 * Learning workshops and feedback sessions
 * Revised strategies and updated plans based on evidence
-
-## Development Thinking Pitfalls
-
-| **Pitfall**                                      | **Description**                                                                                                                                        |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Focus on Poverty Instead of Wealth**           | Concentrating on explaining poverty causes rather than understanding what creates wealth.                                                              |
-| **Negative Policy Orientation**                  | Designing policies aimed only at fixing problems instead of promoting positive development conditions.                                                 |
-| **Ignoring Institutional Role**                  | Underestimating how institutions shape economic behavior and development trajectories.                                                                 |
-| **Overlooking Path Dependence**                  | Neglecting historical legacies and how past choices limit future options.                                                                              |
-| **Assuming Market Self-Coherence**               | Believing markets alone can efficiently coordinate all aspects of development.                                                                         |
-| **Short-Term Focus**                             | Prioritizing immediate results over sustainable, long-term development.                                                                                |
-| **One-Size-Fits-All Solutions**                  | Applying uniform policies across diverse countries or regions, ignoring unique contexts.                                                               |
-| **Ignoring Capability Building**                 | Neglecting skills development, technology transfer, and innovation capabilities in development strategies.                                             |
-| **Underestimating Complexity and Feedbacks**     | Oversimplifying development processes by ignoring multi-level feedback loops and adaptive learning.                                                    |
-| **Surface-Level Analysis**                       | Treating complex socio-technical systems superficially; ignoring the need for both bottom-up and top-down investigation.                               |
-| **Circular Reasoning**                           | Treating development as inherited rather than built; ignoring that dynamic responses to constraints, not initial conditions alone, determine progress. |
-| **Complexity of Development Models**             | Development models must evolve dynamically; rigid or static frameworks fail to capture the continuous organizational change needed.                    |
-| **Misuse of Education Metrics (e.g., PISA)**     | Assuming education quality based solely on international test scores correlates directly with development outcomes.                                    |
-| **Static Comparative Advantage Focus**           | Overemphasizing existing economic strengths without fostering capability upgrading and transformation over time.                                       |
-| **Assuming Development Is Linear or Automatic**  | Ignoring that growth depends on complex social, political, and institutional dynamics rather than automatic returns on investment.                     |
-| **Development as Immediate Welfare Improvement** | Confusing development with short-term welfare gains instead of seeing it as a long-term capacity-building process.                                     |
-| **Markets Alone Cannot Coordinate Development**  | Recognizing that markets require complementary public governance and strategic intervention to drive development effectively.                          |
-| **Insufficient Early-Stage Investment in R\&D**  | Failing to support research and development during early industrial or technological stages undermines long-term innovation capacity.                  |
-| **Lack of Competitive Markets**                  | Allowing monopolies, oligopolies, or rent-seeking behavior to persist, which stifles innovation and productivity improvements.                         |
-| **Neglecting Export Orientation**                | Failing to integrate with global markets reduces opportunities for scale, knowledge transfer, and competitive pressures.                               |
-| **Ignoring Infrastructure Development**          | Overlooking the foundational role of transport, energy, and communications infrastructure in enabling productive activity.                             |
-| **No Generating High Institutional Capacity**                  | Lack of effective public institutions hampers regulation, enforcement, and support for economic actors.                                                |
-| **Allowing Poor Governance and Corruption**               | Corruption and weak governance distort incentives and reduce investment and innovation.                                                                |
-
 
 ## Case Study
 
