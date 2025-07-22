@@ -4,8 +4,6 @@
 
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
-![abstract-society-observer](../../img/resized/abstract-society-observer_512x512.png)
-
 ## Abstract
 
 > In this document, we propose an **abstract framework** for thinking about wealth & **development (convergence and  progress)**. The framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraints that shape developmental possibilities. Between these lies the **intersection (operational interface)**, where cognition meets reality `thereby enabling` strategy, action, organization and feedback  in order to `transform reality` in a way that solves **economic development problems (convergence &  global frontier progress)**.
@@ -13,6 +11,10 @@
 ![Thinking Framework for Development – Cognitive and Reality Dimensions](../../img/resized/thinking-framework-for-development-cognitive-realiaty_512x512.png)
 
 ### Framework Architecture
+
+#### 👁️ Observing Society
+
+> This section focuses on understanding the structural, cultural, institutional, and historical dimensions of societies as a foundation for reasoning about development. Observing society involves analyzing how people organize themselves, how institutions emerge and evolve, and how values, norms, and power relations shape collective behavior. It is the first step in identifying the constraints, opportunities, and trajectories available to a given society.
 
 #### 🏗️ Reality Side
 
@@ -35,13 +37,44 @@
 
 > Where cognition meets structure to produce action.
 
-
 - Strategic Action Space
 - Organizational Architecture
-  - **Strategic Layer** (Long-term vision & direction)
-  - **Programmatic Layer** (Policy, planning, prioritization)
-  - **Tactical Layer** (Execution & adjustment)
-  - **Reflective Layer** (Monitoring, learning, adaptation)
+- **Strategic Layer** (Principles, Long-term vision & direction)
+- **Programmatic Layer** (Policy, planning, prioritization)
+- **Tactical Layer** (Execution & adjustment)
+- **Reflective Layer** (Monitoring, learning, adaptation)
+
+## 👁️ Observing Society
+
+> To construct a framework for reasoning about development, we begin by examining society and change—analyzing the space of societies and the dynamics of economic transformation within a given society.
+
+![abstract-society-observer](../../img/resized/abstract-society-observer_512x512.png)
+
+| **Category** | **Tool** | **Concise Description** |
+|--------------|----------|--------------------------|
+| **Causal & Diagnostic Tools** | Feedback Loops | Mechanisms where outputs of a system influence its own inputs; can stabilize (negative) or amplify (positive) dynamics. |
+| | Capability Traps | Situations where weak institutions and low capabilities reinforce each other, making improvement difficult. |
+| | Bottlenecks & Constraints | Analytical approach to identify key limiting factors to growth or transformation. |
+| | Hysteresis | A situation where changes are not easily reversible—past states influence present outcomes. |
+| | Equilibrium / Disequilibrium | States where forces balance (or don’t); helps explain stability or instability of a system. |
+| | Structural Breaks | Discontinuous changes in systems or trends, often associated with crises or transformations. |
+| | Complexity & Emergence | Views systems as adaptive, non-linear, and path-dependent; outcomes emerge from interactions, not single causes. |
+| **Strategic & Decision Tools** | Theory of Change | A framework to model how specific actions are expected to produce desired changes across a system. |
+| | Strategy vs Tactics | Distinction between long-term objectives and short-term methods or maneuvers to achieve them. |
+| | Leverage Points | Places in a system where a small intervention can produce large and lasting change. |
+| | Windows of Opportunity | Periods of alignment (political, social, economic) that allow reforms or transformation to succeed. |
+| | Strategic Sequencing | The ordering of interventions to maximize impact or avoid backlash/failure. |
+| **Process Dynamics & Lock-in** | Path Dependency | Historical sequences that constrain or enable future options, making change harder over time. |
+| | Lock-in | Processes that reinforce the dominance of specific technologies, behaviors, or institutions. |
+| | Diffusion | How innovations, practices, or institutions spread across a system or between countries. |
+| | Adaptation | The capacity of actors or systems to adjust behavior in response to changes in environment or incentives. |
+| | Co-evolution | Mutually shaping evolution of institutions, technologies, and norms over time. |
+| **Institutional & Political Tools** | Institutional Isomorphism | Tendency of organizations or states to mimic others due to legitimacy, norms, or pressures, not effectiveness. |
+| | Political Settlements | Stable distributions of power that determine how institutions work and how resources are allocated. |
+| | Embeddedness | The degree to which institutions and actors are rooted in particular social or historical contexts. |
+| | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
+| | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
+
 
 ## 🏗️ Reality Side
 
@@ -222,7 +255,19 @@ where:
 
 ## 🔄 Operational Intersection Layer
 
->  Where cognition meets reality to produce action.
+> Where cognition meets reality to produce action.
+
+> **Policy** sets the vision and goals.
+
+> **Strategy** frames how to achieve the vision.
+
+> **Tools** are policy categories (the “what”).
+
+> **Mechanisms** are institutional arrangements and processes (“how”).
+
+> **Tactics** are on-the-ground actions.
+
+> **M&E** informs all levels by providing feedback and enabling course correction.
 
 ### Strategic Action Space
 
@@ -258,79 +303,136 @@ where:
 | **Coordination & Strategy**       | Mission-Oriented Planning              | Define cross-sectoral missions (e.g., net-zero energy, health industry) and align institutions | Coordinate public and private actors around shared national goals            |
 |                                   | Strategic Foresight & Learning Systems | Build anticipatory capacity and reflexive evaluation mechanisms                                | Enable adaptive governance in a changing global context                      |
 
+### Tool & Mechanism Space
+
+> How to implement reality?
+
+| **Strategic Objective**                         | **Policy Tool**                       | **Mechanism / Operational Levers**                                                                                                                                           | **Implementation Notes / Success Conditions**                                                                           |
+| ----------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Maximize Developmental Impact of FDI**        | **FDI Management & Conditionality**   | - Screening and approval systems  <br> - Local content requirements  <br> - Technology transfer clauses  <br> - Joint venture incentives                                     | Requires strong administrative capacity and sector-specific knowledge; may conflict with WTO rules if not well-designed |
+| **Build Domestic Industrial Champions**         | **State-Owned Enterprises (SOEs)**    | - Direct state ownership in strategic sectors  <br> - Performance contracts  <br> - Public-private partnerships                                                              | Effective if embedded in competitive markets, subject to performance oversight, and not politicized                     |
+| **Leverage State Buying Power for Development** | **Public Procurement Systems**        | - Local supplier preference laws  <br> - Innovation procurement  <br> - Pre-commercial procurement platforms                                                                 | Must be transparent, rule-based, and protected against capture or corruption                                            |
+| **Channel Finance into Productive Sectors**     | **Development Banks & Fiscal Policy** | - Long-term sectoral loans  <br> - Credit guarantees  <br> - Countercyclical investment stimulus  <br> - Tax expenditure for innovation                                      | Requires risk management tools, clear mandates, and alignment with industrial strategy                                  |
+| **Shape Markets & Incentives**                  | **Regulatory Design and Reform**      | - Strategic deregulation (e.g. SME formalization) <br> - Performance-based standards  <br> - Sandbox regulation for tech  <br> - Sectoral regulators with technical autonomy | Impact depends on regulatory quality, institutional coordination, and enforcement mechanisms                            |
+
 
 ### Organizational Architecture
 
-> ...
-
-#### Strategic Layer (Long-term vision & direction)
-
-> ...
-
-#### Programmatic Layer (Policy, planning, prioritization)
-
-> ...
-
-#### Tactical Layer (Execution & adjustment)
-
-> ...
-
-#### Reflective Layer (Monitoring, learning, adaptation)
-
-> ...
-
-## Las Capacidades Tecno-Productivas y la Riqueza
-
-> En esta sección, introduciremos una de las ideas fundamentales que estructuran los razonamientos sobre la economía y el desarrollo: las capacidades **tecno-productivas.** 
-
-Para estructurar la exposición, nos proponemos responder un conjunto de preguntas clave:
-
-1. ¿Cuál es la naturaleza del conocimiento productivo?
-2. ¿Cuál es la naturaleza de la tecnología?
-
-## La Investigación y Desarrollo: Motor de Absorción y Producción de Conocimiento Productivo
-
-> ¿Cómo se lleva a cabo la absorción y producción de tecnologías, y cuál es su impacto en la economía?
-
-## Las Redes Productivas y el Cambio Estructural
-
-> En esta session, introducimos un concepto util para rozonar sobre actividades economicas y du distribucion en un conjunto de actores.
-
-Para estructurar la exposición, nos proponemos responder un conjunto de preguntas clave:
-
-1. ¿Qué es una red productiva?
-2. ¿Cómo interactúan las empresas y sectores productivos para formar una red productiva?
-3. ¿Cuál es la relación entre las actividades económicas y su distribución?
-4. ¿Cómo emergen las redes productivas complejas?
-5. ¿Cuál es la relación entre las redes productivas y el valor agregado?
-6. ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
-7. ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
-
-## La Institucionalidad del Desarollo
-
-> ¿Cuáles son las instituciones clave para sostener un proceso de desarrollo?
-> 
-
-### Lista de Barreras al Desarrollo
-
-> …
-> 
-
-## Errores Habituales en el Razonamiento sobre el Desarrollo
-
-> …
-> 
+| **Category**                 | **Institution**                             | **Description**                                                                                  | **Goal**                                                        |
+| ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Government Agencies**      | Ministry of Economy / Planning              | Central bodies responsible for formulating economic policy, strategies, and coordinating sectors | Design coherent development plans and policy alignment          |
+|                              | Ministry of Finance                         | Manages public finances, budgeting, and fiscal policy                                            | Ensure sustainable financing and macroeconomic stability        |
+|                              | Ministry of Trade & Industry                | Regulates trade policy, industrial promotion, and investment climate                             | Promote competitive industries and favorable trade conditions   |
+|                              | Development Banks                           | State-owned or semi-autonomous banks providing long-term finance and credit guarantees           | Mobilize finance for strategic sectors and infrastructure       |
+|                              | Regulatory Authorities                      | Independent or semi-independent agencies regulating competition, sector standards, licenses      | Ensure fair markets, consumer protection, and sector efficiency |
+| **Public Enterprises**       | State-Owned Enterprises (SOEs)              | Government-owned companies active in strategic sectors like energy, transport, or telecom        | Drive industrial policy objectives and fill market gaps         |
+| **Research & Innovation**    | National Research Councils / Institutes     | Public research bodies supporting R\&D, technology development, and innovation policy            | Generate knowledge and promote technology diffusion             |
+|                              | Innovation Agencies                         | Agencies managing grants, incubators, and technology parks                                       | Facilitate firm upgrading and entrepreneurship                  |
+| **Trade & Export Support**   | Export Promotion Agencies                   | Institutions that support exporters with market intelligence, certification, and logistics       | Expand export capacity and diversification                      |
+| **Social Institutions**      | Labor Ministries / Employment Agencies      | Manage labor market regulations, workforce training, and employment services                     | Improve workforce skills and labor market functioning           |
+|                              | Social Protection Agencies                  | Provide safety nets, welfare programs, and poverty alleviation                                   | Promote social inclusion and reduce vulnerability               |
+| **Coordination Platforms**   | Economic Development Councils / Commissions | Multi-stakeholder bodies coordinating public-private cooperation and strategic planning          | Align stakeholders and enhance policy coherence                 |
+| **Judiciary & Legal System** | Courts and Arbitration Bodies               | Institutions responsible for contract enforcement, dispute resolution, and rule of law           | Provide legal certainty and enforce property rights             |
 
 
-### Combatir la Pobreza y/o Promover las Estructuras que Generan Riqueza
+### Strategic Layer (Long-term vision & direction)
+
+Here’s a clear and precise definition for the:
+
+### Strategic Layer (Long-term vision & direction)
+
+---
+
+The **Strategic Layer** represents the highest level of planning in development policy. It sets the **long-term vision, fundamental goals, and overarching direction** for national or regional development efforts. This layer defines **where the country or region aims to be** in the medium to long run (typically 10–30 years), articulating the desired structural transformation, economic diversification, social inclusion, and sustainability objectives.
+
+**Key features:**
+
+* **Vision-setting:** Establishes aspirational and normative goals aligned with national values and global commitments (e.g., sustainable development, industrial modernization).
+* **Priority Framework:** Identifies priority sectors, capabilities, and cross-cutting challenges to focus resources and efforts.
+* **Guiding Principles:** Frames policy coherence and alignment across ministries, agencies, and stakeholders.
+* **Adaptive Orientation:** Recognizes uncertainties and fosters flexibility to adjust pathways as new information and conditions arise.
+* **Coordination & Leadership:** Provides a mandate for coordinated multi-sectoral planning and investment, involving public and private actors.
+
+**Outputs at this layer typically include:**
+
+* National development plans and visions
+* Long-term sectoral strategies
+* Strategic frameworks for innovation, industrialization, or green transition
+* Institutional mandates for cross-cutting coordination bodies
+
+### Programmatic Layer (Policy, planning, prioritization)
+
+> The **Programmatic Layer** translates the long-term strategic vision into **concrete policy frameworks, detailed planning, and prioritized action areas**. This layer operates at the medium-term horizon (typically 3–7 years) and provides the **roadmap for achieving strategic goals** by specifying which sectors, programs, and initiatives will receive focus and resources.
+
+**Key features:**
+
+* **Policy Formulation:** Develops detailed policies aligned with the strategic vision, specifying objectives, targets, and instruments.
+* **Sectoral & Thematic Planning:** Breaks down strategy into sector-specific plans (e.g., manufacturing, agriculture, digital economy) and cross-cutting themes (e.g., skills development, climate resilience).
+* **Resource Prioritization:** Allocates budgets and mobilizes financing to priority programs and projects with expected high impact.
+* **Coordination Mechanisms:** Defines roles, responsibilities, and governance structures to ensure coherent implementation across agencies.
+* **Monitoring Frameworks:** Establishes indicators and milestones to track progress and adjust plans as needed.
+
+**Outputs at this layer typically include:**
+
+* National and sectoral development policies
+* Medium-term development plans and investment programs
+* Policy frameworks for innovation, trade, infrastructure, social inclusion
+* Coordination platforms and governance guidelines
+
+### Tactical Layer (Execution & adjustment)
+
+The **Tactical Layer** focuses on the **day-to-day implementation, management, and adaptive adjustment** of development policies and programs. Operating at the short-term and operational horizon (typically monthly to yearly), this layer ensures that plans and strategies translate into concrete actions, while remaining flexible to respond to emerging challenges and opportunities.
+
+**Key features:**
+
+* **Program Implementation:** Carries out projects, initiatives, and interventions as defined by programmatic plans.
+* **Resource Management:** Oversees budgeting, procurement, staffing, and logistics needed for effective delivery.
+* **Monitoring & Feedback:** Collects real-time data on progress, outputs, and outcomes to inform timely adjustments.
+* **Problem Solving & Adaptation:** Identifies bottlenecks, risks, and changing conditions, enabling responsive course corrections.
+* **Stakeholder Engagement:** Coordinates with beneficiaries, private sector, local governments, and civil society to ensure relevance and impact.
+
+**Outputs at this layer typically include:**
+
+* Project execution reports and operational dashboards
+* Adaptive management decisions and revised workplans
+* Field-level coordination meetings and stakeholder consultations
+* Capacity-building activities and troubleshooting documentation
+
+
+### Reflective Layer (Monitoring, learning, adaptation)
+
+> The **Reflective Layer** focuses on the continuous **monitoring, evaluation, learning, and adaptive management** of development policies and programs. It ensures that development efforts remain effective, relevant, and responsive by providing evidence-based feedback loops that inform decision-making at all other layers.
+
+**Key features:**
+
+* **Data Collection & Analysis:** Systematic gathering and analysis of quantitative and qualitative data on policy implementation and outcomes.
+* **Performance Monitoring:** Tracking progress against targets, milestones, and indicators defined in the programmatic and strategic layers.
+* **Impact Evaluation:** Assessing the effectiveness, efficiency, and equity of policies and programs.
+* **Learning & Knowledge Management:** Capturing lessons learned, best practices, and innovations to improve future actions.
+* **Adaptive Governance:** Facilitating timely course corrections and policy adjustments in response to feedback and changing contexts.
+* **Stakeholder Engagement:** Involving beneficiaries, civil society, and partners in evaluation and feedback processes.
+
+**Outputs at this layer typically include:**
+
+* Monitoring dashboards and progress reports
+* Evaluation studies and impact assessments
+* Policy briefs and recommendation documents
+* Learning workshops and feedback sessions
+* Revised strategies and updated plans based on evidence
+
+## Development Thinking Pitfalls
 
 > ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?  ¿Combatir una **condición negativa** o crear una **condición positiva**?
 
-Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
-
-## Herramientas para estudiar y analizar los ‘procesos’ y ‘no procesos’ de desarrollo.
-
-¿Cómo estudiar y explicar los procesos de desarrollo?
+- Negative Policy: To Comact Povewrty in Poor Countrieas: Es común que las personas**, en lugar de analizar las causas de la riqueza**, se enfoquen en **explicar la pobreza**. Superficialmente observan la corrupción, el descontrol, el hambre, o la falta de civismo en la sociedad, y suelen atribuir estos problemas y la ausencia de riqueza al "gobierno" o a una mala administración. Este enfoque es retrógrado y poco constructivo; se trata de un **análisis estático** y **fatalista** limitado a la enumeracion de sintomas, no abordando la otra cara de la moneda - riqueza y las **`dinamicas`** para llegar a ella.
+- **Development is synonymous with achieving immediate improvements in quality of life**: A common misconception is to treat development simply as achieving certain welfare outcomes—such as higher income, better health, or education—without recognizing that development is fundamentally the *process* by which societies build productive capacities, institutions, and innovations needed to sustain those improvements. Put differently, development is often confused with its *end goals* rather than understood as the ongoing *dynamic transformation*—through advances in technology, skills, infrastructure, and governance—that enables societies to overcome material constraints and achieve lasting well-being. This misunderstanding can result in policies aimed at short-term relief or isolated metrics, neglecting the deeper structural changes required for sustained growth and resilience.
+- **Development is a linear or automatic process:** Many assume that economic growth naturally follows investment or aid, ignoring complex social, political, and institutional dynamics and path dependencies.
+- **There is not such a thing as a development model:**
+  - In fact, ***development models*** are widely recognized in policy and academic discourse as structured configurations of a society’s institutional arrangements, legal systems, and governance mechanisms. These frameworks establish the enabling conditions for productive investment, enterprise development, and innovation.
+  - Nonetheless, such models should not be miscbonstrued as rigid or universally applicable templates. Development unfolds within dynamic and uncertain environments, and effective models must exhibit adaptive capacity. A useful analogy is that of traveling with a lightweight backpack: policymakers must carry only essential instruments and be prepared to revise, replace, or augment them in response to changing terrain—be it economic shocks, institutional bottlenecks, or technological shifts. Adaptive governance, contextual sensitivity, and iterative learning are thus central to any viable development strategy.
+- **Countries** should focus on what they do best (Static Comparative Advantage): ...
+- **Markets** alone can coordinate development, provided the necessary institutional and legal frameworks are in place.
+- **Education** is often positively correlated with development, but correlation alone is misleading. For education to drive economic transformation, it must be aligned with the productive structure—whether through technical, scientific, or industry-linked pathways. A system focused primarily on improving scores in international assessments like the PISA test may enhance cognitive metrics without necessarily building the capabilities required for innovation, industrial upgrading, or technological might.
 
 ### Análisis y Explicación
 
@@ -350,16 +452,6 @@ Es común que las personas**, en lugar de analizar las causas de la riqueza**, s
 
 > El punto de partida no se elige. Factores como infraestructura deficiente, escasa educación, débil gobernanza, rezago tecnológico o aislamiento internacional son obstáculos reales.  Pero no explican por sí mismos el estancamiento: lo decisivo es cómo se actúa frente a ellos.
 
-## Common Misunderstandings
-
-- **Development is synonymous with achieving immediate improvements in quality of life**: A common misconception is to treat development simply as achieving certain welfare outcomes—such as higher income, better health, or education—without recognizing that development is fundamentally the *process* by which societies build productive capacities, institutions, and innovations needed to sustain those improvements. Put differently, development is often confused with its *end goals* rather than understood as the ongoing *dynamic transformation*—through advances in technology, skills, infrastructure, and governance—that enables societies to overcome material constraints and achieve lasting well-being. This misunderstanding can result in policies aimed at short-term relief or isolated metrics, neglecting the deeper structural changes required for sustained growth and resilience.
-- **Development is a linear or automatic process:** Many assume that economic growth naturally follows investment or aid, ignoring complex social, political, and institutional dynamics and path dependencies.
-- **There is not such a thing as a development model:**
-  - In fact, ***development models*** are widely recognized in policy and academic discourse as structured configurations of a society’s institutional arrangements, legal systems, and governance mechanisms. These frameworks establish the enabling conditions for productive investment, enterprise development, and innovation.
-  - Nonetheless, such models should not be miscbonstrued as rigid or universally applicable templates. Development unfolds within dynamic and uncertain environments, and effective models must exhibit adaptive capacity. A useful analogy is that of traveling with a lightweight backpack: policymakers must carry only essential instruments and be prepared to revise, replace, or augment them in response to changing terrain—be it economic shocks, institutional bottlenecks, or technological shifts. Adaptive governance, contextual sensitivity, and iterative learning are thus central to any viable development strategy.
-- **Countries** should focus on what they do best (Static Comparative Advantage): ...
-- **Markets** alone can coordinate development, provided the necessary institutional and legal frameworks are in place.
-- **Education** is often positively correlated with development, but correlation alone is misleading. For education to drive economic transformation, it must be aligned with the productive structure—whether through technical, scientific, or industry-linked pathways. A system focused primarily on improving scores in international assessments like the PISA test may enhance cognitive metrics without necessarily building the capabilities required for innovation, industrial upgrading, or technological might.
 
 ### Caso de Éxito: Escocia en el Siglo XVII
 
@@ -400,6 +492,13 @@ Riqueza:
 - ¿Es la sociedad y la economía un fenómeno complejo y adaptativo?
 - ¿Deberíamos centrarnos en explicar la **pobreza** o la **riqueza**?
 - ¿Cuáles son las ideas comunes que se tienen sobre el desarrollo?
+- ¿Qué es una red productiva?
+- ¿Cómo interactúan las empresas y sectores productivos para formar una red productiva?
+- ¿Cuál es la relación entre las actividades económicas y su distribución?
+- ¿Cómo emergen las redes productivas complejas?
+- ¿Cuál es la relación entre las redes productivas y el valor agregado?
+- ¿Qué son las ventajas comparativas? ¿Pueden funcionar como un principio organizador para las inversiones en el aparato productivo?
+- ¿Cuál es la relación entre la emergencia de redes productivas y las capacidades humanas?
 
 Desarollo:
 
@@ -426,6 +525,7 @@ Estrategia de Desarollo:
 - ¿Qué papel juegan la planificación estratégica, la política industrial y la innovación organizacional en este proceso?
 - ¿Cómo se crean sinergias entre sectores productivos, sistemas de conocimiento y marcos regulatorios?
 - ¿Cómo se construyen ventajas competitivas dinámicas a partir de las condiciones locales?
+- ¿Cuáles son las instituciones clave para sostener un proceso de desarrollo?
 
 ### What underpins the economic greatness and developmental ambitions of some nations (Brazil vs Japan)?
 
@@ -542,36 +642,6 @@ Key Elements:
 
 > En esta cartilla, hemos explorado una serie de ideas y marcos para interpretar e investigar los fenómenos del desarrollo, definidos esencialmente como mejoras en las capacidades tecno-productivas. Se ha analizado la definición de desarrollo, así como los conceptos de tecnología y conocimiento productivo. También hemos examinado las redes productivas y el papel fundamental de los laboratorios de 
 investigación y desarrollo.
-
-## Appendix
-
-### 🧠 Thinking Tools
-
-| **Category** | **Tool** | **Concise Description** |
-|--------------|----------|--------------------------|
-| **Causal & Diagnostic Tools** | Feedback Loops | Mechanisms where outputs of a system influence its own inputs; can stabilize (negative) or amplify (positive) dynamics. |
-| | Capability Traps | Situations where weak institutions and low capabilities reinforce each other, making improvement difficult. |
-| | Bottlenecks & Constraints | Analytical approach to identify key limiting factors to growth or transformation. |
-| | Hysteresis | A situation where changes are not easily reversible—past states influence present outcomes. |
-| | Equilibrium / Disequilibrium | States where forces balance (or don’t); helps explain stability or instability of a system. |
-| | Structural Breaks | Discontinuous changes in systems or trends, often associated with crises or transformations. |
-| | Complexity & Emergence | Views systems as adaptive, non-linear, and path-dependent; outcomes emerge from interactions, not single causes. |
-| **Strategic & Decision Tools** | Theory of Change | A framework to model how specific actions are expected to produce desired changes across a system. |
-| | Strategy vs Tactics | Distinction between long-term objectives and short-term methods or maneuvers to achieve them. |
-| | Leverage Points | Places in a system where a small intervention can produce large and lasting change. |
-| | Windows of Opportunity | Periods of alignment (political, social, economic) that allow reforms or transformation to succeed. |
-| | Strategic Sequencing | The ordering of interventions to maximize impact or avoid backlash/failure. |
-| **Process Dynamics & Lock-in** | Path Dependency | Historical sequences that constrain or enable future options, making change harder over time. |
-| | Lock-in | Processes that reinforce the dominance of specific technologies, behaviors, or institutions. |
-| | Diffusion | How innovations, practices, or institutions spread across a system or between countries. |
-| | Adaptation | The capacity of actors or systems to adjust behavior in response to changes in environment or incentives. |
-| | Co-evolution | Mutually shaping evolution of institutions, technologies, and norms over time. |
-| **Institutional & Political Tools** | Institutional Isomorphism | Tendency of organizations or states to mimic others due to legitimacy, norms, or pressures, not effectiveness. |
-| | Political Settlements | Stable distributions of power that determine how institutions work and how resources are allocated. |
-| | Embeddedness | The degree to which institutions and actors are rooted in particular social or historical contexts. |
-| | Institutional Inertia | The resistance of institutions to change due to habits, norms, routines, or interests. |
-| | Informal Institutions | Rules and practices not codified but still powerful in shaping outcomes. |
-
 
 ## Credits
 
