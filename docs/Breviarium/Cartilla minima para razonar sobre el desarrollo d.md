@@ -141,7 +141,36 @@ where:
 
 ### **Development Environment & Constraints** (Structural, Institutional, Temporal)
 
-> ....
+> Constraints are not excuses; they are the design space within which a society can act.
+
+> Development does not unfold in a vacuum—it is shaped by a layered environment of **constraints** and **possibilities**. These constraints are not merely obstacles, but the structural contours that define the space within which a society imagines, plans, and enacts transformation. Understanding these dimensions—**structural**, **institutional**, and **temporal**—is key to designing viable pathways for progress.
+
+#### 🏗 Structural Constraints
+
+| **Dimension**                   | **Observable Examples**                                                            | **Quick Indicators**                                                        |
+| ------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Physical Geography**          | Distance from markets, landlocked/island with no deepwater port, altitude, climate | Weighted distance to large consumer markets (CEPII), % of land above 2,000m |
+| **Resource Endowment**          | Oil, lithium, volcanic soils, constant coastal winds                               | Share of commodities in exports (UN-COMTRADE), export concentration index   |
+| **Demography**                  | Demographic window, urban density, skilled diaspora                                | Dependency ratio < 0.5, % of population aged 25–34 with tertiary education  |
+| **Position in Global Networks** | Air hubs, submarine cables, IP treaties                                            | Number of direct container routes, firms in TRIPS-Plus agreements           |
+
+#### 🏛 Institutional Constraints
+
+| **Type**                  | **Examples**                                                                         | **Diagnostic Tool**                                              |
+| ------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **Formal Institutions**   | Constitution, antitrust laws, fiscal rules, intellectual property regimes            | Regulatory Quality Index (ICRG)                                  |
+| **Informal Institutions** | Clientelist networks, norms of cooperation, defeatist narratives ("we’re not Japan") | Ethnographic Policy Mapping (EPM) – 6 semi-structured interviews |
+| **State Capacity**        | Critical mass of analysts, staff turnover, open data infrastructure                  | # of public officials with STEM PhDs per 100,000 inhabitants     |
+| **Political Settlement**  | *Political settlement* – distribution of power among elites                          | Veto player matrix (World Bank PEFA)                             |
+
+#### ⏳ Temporal Constraints
+
+| **Phenomenon**                       | **Typical Duration** | **Example of Strategic Use**                                           |
+| ------------------------------------ | -------------------- | ---------------------------------------------------------------------- |
+| **Demographic Window**               | 25–30 years          | South Korea (1965–1990): scaled labor-intensive manufacturing          |
+| **Commodity Cycle**                  | 7–10 years           | Chile (2003–2013): mining royalty → innovation fund (CORFO)            |
+| **Global Technology Adoption Cycle** | 15–20 years          | 4G mobile Internet penetration (2008–2023)                             |
+| **Electoral Horizon**                | 4–6 years            | Uruguay: 2009 party law locked in R\&D targets across political cycles |
 
 ## 🧠 Cognitive Side
 
