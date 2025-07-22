@@ -114,11 +114,31 @@ Problem Definition:
 
 ### Measuring Development
 
-> ....
+> To understand and guide development effectively, it is essential to measure its multiple dimensions. Development is not a single indicator but a complex, evolving process involving economic transformation, social progress, institutional quality, technological advancement, environmental sustainability, and human agency. This section outlines a comprehensive set of metrics used to assess the structure, depth, and trajectory of development in a society. These indicators help identify strengths, bottlenecks, and strategic opportunities for long-term progress.
 
-- ECI
-- Valor Agregado
-- Errosion del Valor Agregado
+| **Category**                     | **Metric**                            | **Description**                                                                | **Goal**                                                    |
+| -------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Economic Structure**           | GDP per Capita                        | Total economic output divided by population.                                   | Assess overall income and productivity levels.              |
+|                                  | Economic Complexity Index (ECI)       | Captures the diversity and sophistication of a country's productive structure. | Identify structural transformation and knowledge intensity. |
+|                                  | Export Diversification Index          | Measures the variety and concentration of exports.                             | Evaluate resilience and structural upgrading of trade.      |
+|                                  | Domestic Value Added in Exports       | Share of exports produced locally (vs. imported inputs).                       | Measure local integration and industrial depth.             |
+|                                  | Sectoral Value-Added Share            | GDP share from agriculture, industry, and services.                            | Understand structural composition of the economy.           |
+| **Social Wellbeing**             | Human Development Index (HDI)         | Composite of life expectancy, education, and income.                           | Assess overall human development progress.                  |
+|                                  | Multidimensional Poverty Index (MPI)  | Accounts for health, education, and standard of living deprivations.           | Identify deep and layered poverty beyond income.            |
+|                                  | Gini Coefficient                      | Measures income inequality.                                                    | Track distributive equity.                                  |
+|                                  | Social Mobility Index                 | Measures access to opportunity over time and generations.                      | Evaluate inclusiveness and fairness of development.         |
+| **Institutional Quality**        | Government Effectiveness              | Perceived quality of public services and civil service.                        | Assess state capacity to implement policy.                  |
+|                                  | Rule of Law                           | Measures legal predictability, contract enforcement, and property rights.      | Gauge institutional trust and stability.                    |
+|                                  | Corruption Perception Index (CPI)     | Survey-based corruption perception.                                            | Assess integrity and transparency in institutions.          |
+| **Technological Progress**       | R\&D Expenditure (% of GDP)           | National spending on research and development.                                 | Measure innovation potential.                               |
+|                                  | Patents per Capita                    | New patents granted relative to population.                                    | Track knowledge generation and tech activity.               |
+|                                  | Digital Infrastructure Index          | Availability and use of digital technology.                                    | Assess digital readiness and inclusion.                     |
+| **Environmental Sustainability** | CO₂ Emissions per Capita              | Carbon footprint per person.                                                   | Measure environmental cost of development.                  |
+|                                  | Renewable Energy Share                | % of total energy from renewable sources.                                      | Evaluate green transition and resilience.                   |
+|                                  | Environmental Performance Index (EPI) | Composite index on air, water, biodiversity, etc.                              | Assess environmental governance and outcomes.               |
+| **Capability & Agency**          | Education Attainment Index            | Average years of schooling and expected years.                                 | Track human capital formation.                              |
+|                                  | Labor Force Participation Rate        | Share of working-age population employed or seeking employment.                | Evaluate access to economic agency.                         |
+|                                  | Civic Participation Index             | Measures political engagement and civil society activity.                      | Assess societal agency and democratic depth.                |
 
 ### Structure of the Development Process
 
