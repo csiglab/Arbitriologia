@@ -2,11 +2,34 @@
 
 > **Guía**, **marcos** y **modelos** para **razonar** de manera holística sobre las dimensiones del desarrollo nacional.
 
-> How to architect such document?
+> How to architect such document? Account of Reality  (Wealth) + Cognition (How Socieity Thing About Wealth?)
+
+> Note: I Have Used LLM for  (Architecture of the Framework of Development); 
 
 ## Abstract
 
+> In this document, we propose an abstract framework for thinking about wealth, progress, and development. This framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraint that shape developmental possibilities.
+
+![alt text](image.png)
+
+Let me know if you'd like a more formal, academic, or metaphorical tone.
+
+
+> In this document we propose an abstract framework for thinking about wealth & progress & development: we organize this framework in two big refironcemcing  themes Cognitive Side (how societies think about wealth, development, and themselves) and Reality Site (Wealth, Production, Structure, Constraints).
+
 > Ideas about economic development are often disorganized and unstructured. Therefore, we aim to create a clear framework to organize our thinking about development: What exactly is it? How can it be achieved? What challenges must be overcome?
+
+Architecture of a Framework for Thinking About Development
+
+- Cognition [Collective Self Cognition Model] [Collective Cognition Other Model]
+  - [Problem Formulation]
+- [Structure of Development Process]
+  - [Action Space]
+  - [Organizational Structure]
+    - [Programtic Layer]
+    - [Tactical Layer]
+    - [Self Reflection Layer]
+  - [Contraint] [Temporal Layer]
 
 QA:
 
