@@ -18,7 +18,7 @@
 - Wealth: Human Capital, Technology, Markets and  Production Systems
 - Measuring Development
 - Structure of the Development Process
-- **Development Constraints** (structural, institutional, temporal)
+- **Development Environment & Constraints** (Structural, Institutional, Temporal)
 
 #### 🧠 Cognitive Side
 
@@ -87,7 +87,7 @@ Problem Definition:
 
 > ....
 
-### **Development Constraints** (structural, institutional, temporal)
+### **Development Environment & Constraints** (Structural, Institutional, Temporal)
 
 > ....
 
