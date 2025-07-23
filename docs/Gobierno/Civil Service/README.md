@@ -1,4 +1,4 @@
-# ...
+# Civil Service
 
 - Constitutional/Legal Mandate: Ensure the civil service is protected and guided by law.
 - Independent Oversight Bodies: Establish commissions (e.g., civil service commissions, ombudsman) to enforce neutrality and fairness.

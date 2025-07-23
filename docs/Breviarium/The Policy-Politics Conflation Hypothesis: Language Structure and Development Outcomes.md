@@ -23,11 +23,12 @@ QA:
 > Policy refers to the purposeful, coordinated, and evidence-based set of decisions and actions taken by a public or private actor to address specific problems, achieve defined objectives, or guide systemic outcomes.
 
 It is characterized by:
-– Instrumentality: oriented toward solving concrete problems
-– Intentional design: often involves planning, modeling, and evaluation
-– Strategic neutrality: ideally autonomous from partisan or ideological bias
-– Temporal projection: focused on medium- and long-term implementation
-– Technical justification: supported by data, analysis, or expert knowledge
+
+- Instrumentality: oriented toward solving concrete problems
+- Intentional design: often involves planning, modeling, and evaluation
+- Strategic neutrality: ideally autonomous from partisan or ideological bias
+- Temporal projection: focused on medium- and long-term implementation
+- Technical justification: supported by data, analysis, or expert knowledge
 
 See:
 
@@ -42,11 +43,12 @@ See:
 > Collective Desigion Making Proceess & Framework.
 
 It is characterized by:
-– Power negotiation: who decides, who benefits, who pays
-– Ideological alignment: shaped by worldviews, identities, coalitions
-– Conflict and consensus: involves persuasion, debate, and compromise
-– Symbolic action: mobilization through language, imagery, and narratives
-– Institutional mediation: expressed through parties, parliaments, elections
+
+- Power negotiation: who decides, who benefits, who pays
+- Ideological alignment: shaped by worldviews, identities, coalitions
+- Conflict and consensus: involves persuasion, debate, and compromise
+- Symbolic action: mobilization through language, imagery, and narratives
+- Institutional mediation: expressed through parties, parliaments, elections
 
 ## Data
 

@@ -1,5 +1,7 @@
 # Market
 
+: 6
+
 > What are the long-term effects of automation on the labor market?
 > 
 
@@ -120,3 +122,4 @@ The four main types of market structures are:
 - “The Theory of Capital” by Friedrich Hayek (1941): In this book, Hayek developed a capital theory and argued that the market process is the most efficient way to allocate resources.
 - Stiglitz, Joseph E., and Andrew Weiss. "Credit rationing in markets with imperfect information." The American economic review 71.3 (1981): 393-410.
 - Armstrong, Mark. "Competition in two‐sided markets." The RAND journal of economics 37.3 (2006): 668-691.
+- [Produceologia/Market](https://github.com/csiglab/Produceologia/tree/main/docs/Market).
