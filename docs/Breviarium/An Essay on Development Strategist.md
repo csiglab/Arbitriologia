@@ -57,4 +57,4 @@
 
 ## References
 
-- ...
+- [Fernando Fajnzylber Waissbluth](https://es.wikipedia.org/wiki/Fernando_Fajnzylber)
