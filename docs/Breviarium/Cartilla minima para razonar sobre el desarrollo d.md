@@ -411,6 +411,26 @@ A **development constraint** is a systemic barrier that:
 
 > **M&E** informs all levels by providing feedback and enabling course correction.
 
+### Taxonomy of Social Systems Development
+
+| **Type**                           | **Core Dynamic**                                                          | **Typical Mechanisms / Features**                                       | **Case Study**                  |
+| ---------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
+| **Developmental States**           | Coordinated industrial upgrading through strong bureaucratic institutions | Export-led growth, industrial policy, state-business collaboration      | South Korea, Japan            |
+| **Rentier States**                 | Resource rents substitute for diversified production                      | Oil/gas income, patronage networks, weak taxation & accountability      | Saudi Arabia, Venezuela       |
+| **Dependent Industrializers**      | Industrial base subordinated to foreign capital and markets               | FDI-led manufacturing, limited tech spillovers, maquiladora zones       | Mexico, Brazil, Thailand      |
+| **Post-Industrial Exporters**      | Knowledge & services exported via global networks                         | Tech services, pharma, FDI hubs, favorable tax regimes                  | Ireland, Singapore            |
+| **Trapped Economies**              | Low complexity, high informality, minimal structural transformation       | Low-productivity services, commodity exports, institutional fragility   | Honduras, Chad, DRC           |
+| **Extractive Oligarchies**         | Elite control limits institutional development and innovation             | Concentrated land/asset ownership, political capture                    | Guatemala, El Salvador        |
+| **Late Socialist/State-Planned**   | State control of production and limited private sector                    | Central planning, public ownership, gradual transition to markets       | Cuba, North Korea, Eritrea    |
+| **Populist Redistribution States** | Short-term redistribution without structural upgrading                    | Cash transfers, subsidies, extractive boom cycles, anti-market rhetoric | Argentina, Bolivia (varied)   |
+| **Transitioning Economies**        | From planned to market economies with fragile institutions                | Privatization shocks, institutional vacuum, unstable investment climate | Ukraine (post-1990s), Albania |
+| **Middle-Income Trap States**      | Growth stagnates after initial industrialization                          | Wage pressures, innovation deficits, low institutional reform           | Malaysia, South Africa        |
+| **Diaspora-Financed Economies**    | Consumption-led growth driven by remittances                              | Informal services, weak tradable sector, high emigration                | Nepal, El Salvador, Lebanon   |
+| **Neo-Colonial Extractors**        | Enclaved export sectors controlled by foreign firms                       | Mining, plantations, logistics without local integration                | Mozambique, Papua New Guinea  |
+| **Sovereign Tech Accelerators**    | Strategic state investment in frontier sectors                            | Sovereign wealth funds, tech hubs, state-led innovation                 | UAE, Israel                   |
+
+
+
 ### Strategic Action Space
 
 > **Note**: This is a preliminary sketch of the space; refinement and expansion are expected.
