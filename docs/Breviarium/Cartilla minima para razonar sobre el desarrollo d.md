@@ -304,7 +304,7 @@ A **development constraint** is a systemic barrier that:
 | **Geopolitical Coercion**   | Are national policies shaped by threat of sanctions, aid conditionality, etc.? | # of IMF programs with structural conditionality; frequency of trade-based threats | Regional alliances + strategic diversification of trade/technology |
 | **Extractive Institutions** | Are political and economic institutions designed to exclude the majority?      | Composite index of inclusiveness in political and economic rights                  | Institutional reform + constitution-level guarantees of inclusion  |
 
-## External Constraints
+### External Constraints
 
 | **Constraint Type**                       | **Description**                                                                | **Case Study**                                                      |
 | ----------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
