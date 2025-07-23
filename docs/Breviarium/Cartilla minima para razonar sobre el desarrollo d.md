@@ -413,7 +413,7 @@ A **development constraint** is a systemic barrier that:
 
 ### Taxonomy of Social Systems Development
 
-| **Type**                           | **Core Dynamic**                                                          | **Typical Mechanisms / Features**                                       | **Case Study**                  |
+| **Type**                           | **Core Dynamic**                                                          | **Typical Mechanisms**                                       | **Case Study**                  |
 | ---------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
 | **Developmental States**           | Coordinated industrial upgrading through strong bureaucratic institutions | Export-led growth, industrial policy, state-business collaboration      | South Korea, Japan            |
 | **Rentier States**                 | Resource rents substitute for diversified production                      | Oil/gas income, patronage networks, weak taxation & accountability      | Saudi Arabia, Venezuela       |
