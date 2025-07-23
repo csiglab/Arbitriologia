@@ -304,6 +304,20 @@ A **development constraint** is a systemic barrier that:
 | **Geopolitical Coercion**   | Are national policies shaped by threat of sanctions, aid conditionality, etc.? | # of IMF programs with structural conditionality; frequency of trade-based threats | Regional alliances + strategic diversification of trade/technology |
 | **Extractive Institutions** | Are political and economic institutions designed to exclude the majority?      | Composite index of inclusiveness in political and economic rights                  | Institutional reform + constitution-level guarantees of inclusion  |
 
+## External Constraints
+
+| **Constraint Type**                       | **Description**                                                                | **Case Study**                                                      |
+| ----------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| **Unfavorable Trade Terms**               | Dependence on low-value exports; deteriorating terms of trade                  | Coffee vs. electronics trade; price volatility of commodities     |
+| **Geopolitical Pressures**                | Strategic subordination, military threats, or diplomatic isolation             | Sanctions on Iran; U.S.-China tech rivalry                        |
+| **Financial Dependency**                  | Reliance on foreign capital, debt, and conditionality                          | IMF structural adjustment programs; dollar-denominated debt       |
+| **Technological Exclusion**               | Limited access to critical technologies or innovation systems                  | Export controls; IP barriers on semiconductors or pharmaceuticals |
+| **Global Value Chain Position**           | Stuck in low-value segments of GVCs; lack of upgrading pathways                | Assembly-only economies; contract manufacturing traps             |
+| **Climate & Environmental Vulnerability** | Exposure to climate change and ecological degradation imposed externally       | Rising sea levels; deforestation for foreign agri-export          |
+| **Tax Avoidance by Multinationals**       | Profit shifting reduces national revenue base                                  | Transfer pricing; offshore tax havens                             |
+| **FDI Conditionality**                    | Foreign investors demand favorable legal/tax conditions, limiting policy space | Investor–state dispute settlements (ISDS); tax holidays           |
+| **Global Governance Asymmetries**         | Weak voice in setting global rules or institutions                             | WTO disputes; IMF voting power imbalance                          |
+| **Capital Flight & Illicit Flows**        | Loss of domestic capital through legal and illegal channels                    | Offshoring by elites; trade misinvoicing                          |
 
 
 #### ⏳ Temporal Constraints
