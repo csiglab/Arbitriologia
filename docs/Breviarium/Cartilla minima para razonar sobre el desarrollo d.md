@@ -252,11 +252,17 @@ where:
 | **Co-evolution of Subsystems** | Economic, social, political, technological, and environmental subsystems evolve interdependently, requiring integrated policies. |
 | **Market Coordination Limits** | Markets alone often fail to coordinate complex development processes due to externalities and institutional voids, requiring governance. |
 
-### **Development Environment & Constraints** (Cognitive, Structural, Institutional, Temporal)
+### Development Environment & Constraints
 
 > Constraints are not excuses; they are the design space within which a society can act.
 
 > Development does not unfold in a vacuum—it is shaped by a layered environment of **constraints** and **possibilities**. These constraints are not merely obstacles, but the structural contours that define the space within which a society imagines, plans, and enacts transformation. Understanding these dimensions—**structural**, **institutional**, and **temporal**—is key to designing viable pathways for progress.
+
+A **development constraint** is a systemic barrier that:
+
+- Prevents the mobilization, accumulation, or efficient allocation of resources (human, financial, natural, institutional).
+- Limits the capacity of a society to adapt, learn, and transform its economic and social systems.
+- Interferes with the coordination, innovation, or long-term planning necessary for development.
 
 #### Cognitive Constrains
 
@@ -286,6 +292,17 @@ where:
 | **Informal Institutions** | Clientelist networks, norms of cooperation, defeatist narratives ("we’re not Japan") | Ethnographic Policy Mapping (EPM) – 6 semi-structured interviews |
 | **State Capacity**        | Critical mass of analysts, staff turnover, open data infrastructure                  | # of public officials with STEM PhDs per 100,000 inhabitants     |
 | **Political Settlement**  | *Political settlement* – distribution of power among elites                          | Veto player matrix (World Bank PEFA)                             |
+
+#### 🧭 Power & Political Economy Constraints
+
+| **Constraint Type**         | **Diagnostic Question**                                                        | **Observable Proxy**                                                               | **Policy Lever**                                                   |
+| --------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Elite Capture**           | Do a small number of actors control access to critical development levers?     | Gini index of asset ownership among political elites; % of SOEs run by dynasties   | Asset registry transparency + competition authority reform         |
+| **Class Conflict**          | Are pro-poor policies consistently diluted or blocked by elite veto players?   | # of redistributive bills vetoed vs passed; wealth tax implementation success rate | Progressive coalitions + participatory budgeting                   |
+| **Geopolitical Coercion**   | Are national policies shaped by threat of sanctions, aid conditionality, etc.? | # of IMF programs with structural conditionality; frequency of trade-based threats | Regional alliances + strategic diversification of trade/technology |
+| **Extractive Institutions** | Are political and economic institutions designed to exclude the majority?      | Composite index of inclusiveness in political and economic rights                  | Institutional reform + constitution-level guarantees of inclusion  |
+
+
 
 #### ⏳ Temporal Constraints
 
