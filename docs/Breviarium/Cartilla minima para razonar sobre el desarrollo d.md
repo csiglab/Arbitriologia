@@ -258,6 +258,8 @@ where:
 
 > Development does not unfold in a vacuum—it is shaped by a layered environment of **constraints** and **possibilities**. These constraints are not merely obstacles, but the structural contours that define the space within which a society imagines, plans, and enacts transformation. Understanding these dimensions—**structural**, **institutional**, and **temporal**—is key to designing viable pathways for progress.
 
+> Note: Only the most fundamental and deep-rooted constraints are listed here. Other issues—such as technology gaps, limited human capital, etc.—are considered manifestations of these deeper problems or targets of development, not root constraints themselves.
+
 A **development constraint** is a systemic barrier that:
 
 - Prevents the mobilization, accumulation, or efficient allocation of resources (human, financial, natural, institutional).
