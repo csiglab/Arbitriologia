@@ -338,6 +338,7 @@ A **development constraint** is a systemic barrier that:
 - Collective Self-Cognition Model
 - Collective Cognition of Others
 - Modelling The Dyanmics of Perception & Response of Progress Asymmetry
+- A Theory of Collective Action
 
 ### Collective Self-Cognition & Otherness Model
 
@@ -354,6 +355,9 @@ A **development constraint** is a systemic barrier that:
 - **Mimetic Desire (Girard)**: Societies desire what others desire/have, leading to emulation or rivalry.
 - **Systems Theory**: Society B's reaction depends on internal feedback loops, stability, and identity.
 - **Developmental Ideology**: Societies with strong endogenous development ideologies are more likely to act.
+- **Social construction of problems (Spector & Kitsuse)**
+- **Collective action theory (Olson, Mancur)**
+- **Cultural cognition and framing (Lakoff, Kahneman)**
 
 | **Stage**                | **Type**                   | **Description**                                                                                                                                          | **Sample Questions**                                                                                          |
 | ------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -403,9 +407,9 @@ A **development constraint** is a systemic barrier that:
 
 | **Society B**       | **Society A** | **Response**                                          |
 | ------------------- | ------------- | ----------------------------------------------------- |
-| **Japan (1860s)**   | West          | Strategic mimicry (Meiji Restoration)                 |
+| **Japan (1860s)**   | West          | Strategic mimicry (Meiji Restoration)  (Crisis after defeat → elites & intellectuals reframe problems → collective vision of modernization → massive reform.)                |
 | **India (20th c.)** | Britain       | Mixed: Admiration, resistance, eventual hybridization |
-| **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus         |
+| **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus ( Chronic inequality + elite fragmentation → weak problem recognition → delayed industrial agency.)        |
 | **China (1978–)**   | U.S. / Japan  | Competitive mimicry + techno-nationalism              |
 | **Cuba (1959–)**    | U.S.          | Rejection + alternative ideology                      |
 
