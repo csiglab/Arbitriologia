@@ -464,7 +464,13 @@ A **development constraint** is a systemic barrier that:
 
 ### Organizational Architecture
 
->  How are the social systems and actors as a whole integrated into the transformational agenda?
+> How are the social systems and actors as a whole integrated into the transformational agenda?
+
+Colaboration Models:
+- **Vertical**: Firm–Government Collaboration
+- **Horizontal**: Firm–Firm Collaborative Competition
+
+> Firm Horizont Compeition-C
 
 | **Category**                 | **Actor**                                   | **Description**                                                                                  | **Role**                                                        |
 | ---------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
