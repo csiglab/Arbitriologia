@@ -1,6 +1,6 @@
 site_name: Arbitreria
 
-docs_dir: /home/dvictoriano/Code/Laboratorium/Arbitriologia/docs
+docs_dir: ../docs
 
 theme:
   name: material
