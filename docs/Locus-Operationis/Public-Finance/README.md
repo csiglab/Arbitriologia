@@ -18,8 +18,6 @@ Public finance is the study of how governments manage income (revenues) and expe
 
 Let me know if you want an overview, study materials, case studies, or a specific concept explained.
 
-
-
 ### **Key Components of Public Finance:**
 1. **Public Revenue**  
    - **Taxation**: Income tax, corporate tax, sales tax (VAT/GST), property tax, excise duties, etc.  

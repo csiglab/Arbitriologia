@@ -1,8 +1,10 @@
-# Policy
+# Policy  (Gubernata)
 
 > Government actions.
 
 > The INVEST AMERICA ACT. Passed July 4, 2025. Accounts established & funded July 4, 2026. Because every child deserves to share in the upside of America.
+
+> **Public Finance** is the branch of economics that studies how governments raise, allocate, and manage public resources—primarily through **taxation, government spending, borrowing, and debt management**—to influence the economy efficiently and equitably.
 
 
 # Policy
@@ -19,6 +21,8 @@ TODO:
 - What is a policy program?
 
 ## Policy Life Cycle
+
+> Diagnosis, Design, Implementation, Evaluation, and Improvement.
 
 The **policy life cycle** refers to the stages through which a policy moves from its initial conception to its eventual evaluation or termination. These stages help guide the development and implementation of policies in various sectors, such as government, organizations, and corporations. Here are the common stages of the policy life cycle:
 
@@ -57,3 +61,5 @@ The **policy life cycle** refers to the stages through which a policy moves from
 ## References
 
 - [Policy](https://en.wikipedia.org/wiki/Policy)
+
+- [Public Finance](https://en.wikipedia.org/wiki/Public_finance)

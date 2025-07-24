@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>D3 v7 Collapsible Vertical Tree</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .node circle {
+      fill: black;
+      cursor: pointer;
+      stroke: black;
+      stroke-width: 1.5px;
+    }
+    .node text {
+      font: 16px sans-serif;
+    }
+    .link {
+      fill: none;
+      stroke: #555;
+      stroke-opacity: 0.6;
+      stroke-width: 1.5px;
+    }
+  </style>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+  let i = 0;
+
+  const treeData = {
+    "name": "/",
+    "children": [
+      {
+        "name": "home",
+        "children": [
+          { "name": "user", "children": [
+              { "name": "documents" },
+              { "name": "pictures" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "etc",
+        "children": [
+          { "name": "nginx" },
+          { "name": "systemd" }
+        ]
+      }
+    ]
+  };
+
+  const width = 800;
+  const height = 600;
+
+  const svg = d3.select("body")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .style("font", "10px sans-serif")
+    .style("user-select", "none");
+
+  const g = svg.append("g").attr("transform", "translate(40,40)");
+
+  const treeLayout = d3.tree().size([width - 80, height - 100]);
+
+  let root = d3.hierarchy(treeData);
+
+  root.x0 = width / 2;
+  root.y0 = 0;
+
+  update(root);
+
+  function update(source) {
+    const treeData = treeLayout(root);
+
+    const nodes = treeData.descendants();
+    const links = treeData.links();
+
+    // For vertical tree:
+    nodes.forEach(d => {
+      // swap x and y: x is horizontal position, y is vertical position
+      d.x = d.x;  // x stays as horizontal position
+      d.y = d.depth * 100; // vertical spacing between levels
+    });
+
+    // Nodes
+    const node = g.selectAll('g.node')
+      .data(nodes, d => d.id || (d.id = ++i));
+
+    const nodeEnter = node.enter()
+      .append('g')
+      .attr('class', 'node')
+      .attr('transform', d => `translate(${source.x0},${source.y0})`)
+      .on('click', (event, d) => {
+        if (d.children) {
+          d._children = d.children;
+          d.children = null;
+        } else {
+          d.children = d._children;
+          d._children = null;
+        }
+        update(d);
+      });
+
+    nodeEnter.append('circle')
+      .attr('r', 1e-6);
+
+    nodeEnter.append('text')
+      .attr('dy', '0.31em')
+      .attr('x', d => d.children || d._children ? -10 : 10)
+      .attr('text-anchor', d => d.children || d._children ? 'end' : 'start')
+      .text(d => d.data.name);
+
+    // UPDATE
+    const nodeUpdate = nodeEnter.merge(node);
+
+    nodeUpdate.transition()
+      .duration(300)
+      .attr('transform', d => `translate(${d.x},${d.y})`);
+
+    nodeUpdate.select('circle')
+      .attr('r', 6)
+      .attr('fill', d => d._children ? "#555" : "#69b3a2");
+
+    nodeUpdate.select('text')
+      .style('fill-opacity', 1);
+
+    // EXIT
+    const nodeExit = node.exit().transition()
+      .duration(300)
+      .attr('transform', d => `translate(${source.x},${source.y})`)
+      .remove();
+
+    nodeExit.select('circle')
+      .attr('r', 1e-6);
+
+    nodeExit.select('text')
+      .style('fill-opacity', 1e-6);
+
+    // Links
+    const link = g.selectAll('path.link')
+      .data(links, d => d.target.id);
+
+    const linkEnter = link.enter().insert('path', "g")
+      .attr('class', 'link')
+      .attr('d', d => {
+        const o = {x: source.x0, y: source.y0};
+        return diagonal(o, o);
+      });
+
+    const linkUpdate = linkEnter.merge(link);
+
+    linkUpdate.transition()
+      .duration(300)
+      .attr('d', d => diagonal(d.source, d.target));
+
+    const linkExit = link.exit().transition()
+      .duration(300)
+      .attr('d', d => {
+        const o = {x: source.x, y: source.y};
+        return diagonal(o, o);
+      })
+      .remove();
+
+    nodes.forEach(d => {
+      d.x0 = d.x;
+      d.y0 = d.y;
+    });
+
+    // Use a vertical diagonal: from top to bottom
+    function diagonal(s, d) {
+      return `M${s.x},${s.y}
+              C${s.x},${(s.y + d.y) / 2}
+               ${d.x},${(s.y + d.y) / 2}
+               ${d.x},${d.y}`;
+    }
+  }
+</script>
+</body>
+</html>
+
+
