@@ -38,7 +38,20 @@ A graph showing that "nations with higher tariffs grow slower" **does not prove*
     "Tariff level" is very crude — different industries, different sectors, different moments in development need different levels of protection. A single number like "average tariff" misses the detail.
     
 
-References:
 
+### Causality
+
+- **Key idea**: Understanding and identifying cause-and-effect relationships between economic variables rather than mere correlations.
+- **Modeling focus**: Establishing the direction and magnitude of causal impacts for policy evaluation, forecasting, and theory testing.
+- **Tools and methods**:
+  - **Econometric techniques**: Instrumental  variables (IV), difference-in-differences (DiD), regression discontinuity design (RDD), propensity score matching.
+  - **Structural causal models**: Directed acyclic graphs (DAGs), potential outcomes framework.
+  - **Natural experiments**: Exploit exogenous variation to infer causality.
+  - **Counterfactual analysis**: Assessing what would happen under alternative scenarios.
+- **Importance**: Crucial for credible policy analysis and understanding mechanisms behind economic phenomena.
+- **Applications**: Evaluating the effect of education on earnings, tax policy impacts, labor market interventions, health economics.
+
+
+## References
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC7255316/
 - …

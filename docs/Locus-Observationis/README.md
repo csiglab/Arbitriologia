@@ -52,7 +52,7 @@
 
 > Note:  Agency-Structure Duality: Social reality is shaped by the dynamic interplay between **agents** (Interaction Units) who exercise agency—the capacity to act, make choices, and influence—and the **structures**—norms, rules, institutions—that both constrain and enable those actions. This duality means that while agents produce and reproduce social structures through their interactions, those structures simultaneously shape agents’ possibilities and behaviors, creating a continuous recursive loop central to social dynamics.
 
-### Epistemic Properties of Reality
+### Epistemic Properties of Social Reality
 
 | Property                    | Description                                                                                    | Case Study                                  |
 | --------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -83,7 +83,7 @@
 | **Selective Attention**  | Highlighting data that fit the chosen lens while ignoring disconfirming evidence.                          | Smooth theoretical curves drawn through noisy or contradictory field data.                                           | Pre-register analytical focus; use **triangulation** (quantitative, qualitative, participatory).                          |
 | **Reflexive Blind Spot** | Failure to account for the analyst’s own influence on the system (especially in participatory settings).   | Subjects alter behavior because observation is known; findings portray “natural” behavior.                           | Integrate **second-order observation** (observe the observation process itself) and log feedback loops.                   |
 
-### Ontological Primitives Structure of Reality
+### Ontological Primitives of Social Reality
 
 > Note: Regulation as a shared protocol between Interaction Units;it can be consider emergent; and not really a primitive buildign block; but this is a fronteir; so lets treated like a bulding block.
 
@@ -96,7 +96,7 @@
 | **Regulation**              | Share behavioral protocols  by interactoni units                               |
 | **State**                   | Representation of the system’s condition or status                             |
 | **Tagging System**          | Semantic or interpretive labeling of the state                                 |
-| **State Change (Dynamics)** | Phenomena representing observable events and transformations within the system |
+| **Dynamical**               | Phenomena representing observable events and transformations within the system |
 | **Environment**             | External context or conditions influencing the system                          |
 
 ### Interaction Unit
@@ -179,7 +179,7 @@ In this framework, regulation is thus both a foundational ontological element pr
 |                           | Polycentric Order                         | Overlapping but functioning centers of governance      |
 
 
-## Intermediate Analytical & Organizatioal Abstraction
+## Intermediate Ontological &  Analytical Abstraction
 
 > **Secondary Conceptual Scaffolding**: These are mid-level frameworks and categories that organize and structure social phenomena for research and analysis. They build upon foundational concepts by grouping and relating elements like social groups, systems, and environments into coherent layers. This scaffolding supports clearer understanding, comparison, and integration across different scales and domains within the social sciences.
 
@@ -187,22 +187,22 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 > **Culture** is a complex adaptive system comprising interconnected symbols, norms, values, beliefs, and practices that collectively constitute a shared framework of meaning within a social system. It emerges dynamically from the repeated interactions of Interaction Units, who negotiate, reproduce, and modify cultural patterns through social processes. As an emergent phenomenon, culture transcends individual actions yet shapes and constrains them by embedding shared meanings into actors’ cognition and behavior. This reflexive feedback loop enables culture’s persistence, evolution, and its role as both product and producer of social reality.
 
-> **Funcion - Role**: A **function** refers to the systemic contribution of a component (e.g., actor, institution, norm) to the coherence, reproduction, or transformation of a social system. A **role**, by contrast, is the normatively and relationally defined position an actor occupies within a patterned interaction context. While **functions** describe what something does in the system, roles describe how an actor is expected to behave based on shared understandings, institutional constraints, and relational positioning. Together, they provide a dual lens: function explains systemic necessity or effect; role explains social position and behavioral orientation.
-
 | **Category**                     | **Description**                                                 | **Case Study / Example**                                                                                 | **Function in Analysis**                                           |
-| -------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+|----------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | **Relational Fields**            | Contexts defined by social relationships and roles              | Social networks, interaction fields, role systems, **MMORPG guilds**, **Discord server hierarchies**     | Define interaction spaces and relational configurations            |
 | **Social Groups**                | Collectives with shared identity, interest, or solidarity       | Families, classes, fandoms, religious groups, **Reddit communities**, **diasporic movements**            | Identify collective actors and units of agency                     |
-| **Social Systems**               | Structured sets of interdependent actors and rules              | Markets, bureaucracies, educational systems, **algorithmic governance systems**, **online platforms**    | Model organized, rule-based social functioning                     |
+| **Social Systems**               | Structured sets of interdependent actors and rules              | Markets, bureaucracies, educational systems, **algorithmic governance**, **online platforms**             | Model organized, rule-based social functioning                     |
 | **Micro-Level Systems**          | Interpersonal or small-scale interaction systems                | Friendships, therapy dyads, work teams, **gaming squads**, **study groups**                              | Analyze direct human interactions and small-group dynamics         |
-| **Meso-Level Systems**           | Mid-range structures connecting individuals and institutions    | Organizations, schools, associations, **fandom infrastructures**, **transnational advocacy networks**    | Bridge micro and macro analysis, analyze structured coordination   |
+| **Meso-Level Systems**           | Mid-range structures connecting individuals and institutions    | Organizations, schools, associations, **fandom infrastructures**, **transnational advocacy networks**    | Bridge micro and macro analysis through structured coordination    |
 | **Macro-Level Systems**          | Large-scale institutional formations                            | States, economic regimes, global religions, **international NGOs**, **corporate conglomerates**          | Capture systemic organization and long-term social structuring     |
 | **Supra-System Environments**    | Contexts that host or influence multiple social systems         | Political-economic regions, sectoral ecosystems, **urban systems**, **criminal economies**               | Understand cross-system dependencies and environmental constraints |
-| **Meta-Systems**                 | Frameworks or rule-sets governing multiple systems              | Global governance networks, transnational norms, world-system theory, **ISO**, **ICANN**, **Unicode**    | Examine meta-regulation and coordination between systems           |
-| **Meta-Social Systems**          | Symbolic or conceptual architectures shaping many social layers | World-society, civilizational paradigms, cosmopolitan law, **epistemic cultures**, **memetic systems**   | Analyze meaning-making and integration at the highest abstraction  |
-| **Interaction Network**          | Web of interactions among actors                                | Kinship networks, political mobilizations, **climate coalitions**, **black markets**, **Reddit threads** | Track patterns of influence, exchange, and relational density      |
-| **Interaction Network Topology** | Structural shape of social relations                            | Centralized vs decentralized networks, small-world networks, **guild networks**, **follower graphs**     | Examine robustness, diffusion, and clustering in social processes  |
-| **Function**                     | Role played by the unit within the broader system               | Governance, reproduction, innovation, exchange, **content moderation**, **resource distribution**        | Link unit to systemic functionality                                |
+| **Meta-Systems**                 | Frameworks or rule-sets governing multiple systems              | Global governance networks, transnational norms, **world-system theory**, **ISO**, **ICANN**, **Unicode**| Examine meta-regulation and coordination between systems           |
+| **Meta-Social Systems**          | Symbolic or conceptual architectures shaping many social layers | World-society, civilizational paradigms, cosmopolitan law, **epistemic cultures**, **memetic systems**   | Analyze meaning-making and symbolic integration at high abstraction|
+| **Interaction Network**          | Web of interactions among actors                                | Kinship ties, political mobilizations, **climate coalitions**, **black markets**, **Reddit threads**     | Track influence patterns, exchange dynamics, and relational density|
+| **Interaction Network Topology** | Structural shape of social relations                            | Centralized vs decentralized networks, small-world networks, **guild networks**, **follower graphs**     | Examine robustness, diffusion potential, and clustering patterns   |
+| **Function**                     | Systemic role played by the unit                                | Governance, reproduction, innovation, exchange, **content moderation**, **resource distribution**        | Link components to systemic contributions and operational effects  |
+| **Role**                         | Normatively defined position within a relational structure       | Teacher, influencer, moderator, healer, **squad leader**, **system admin**                              | Analyze expected behavior, authority, and identity in interaction  |
+| **Structure**                    | Stable configuration of roles, norms, and relationships         | Patriarchy, class stratification, modular bureaucracy, **rank hierarchies**, **platform architectures**  | Identify persistent patterns that shape possibilities of interaction|
 
 ## References
 
