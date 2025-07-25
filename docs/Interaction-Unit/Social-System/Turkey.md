@@ -6,9 +6,6 @@ L: 6
 Status: Not started
 
 > …
-> 
-
-![Untitled](Turkey%20133956e8f40e8121a97dc87a15b001a6/Untitled.png)
 
 [https://www.imf.org/external/datamapper/profile/TUR](https://www.imf.org/external/datamapper/profile/TUR)
 
@@ -59,8 +56,5 @@ Status: Not started
 
 ## References
 
-- ‣
-- ‣
 - [Turkish Aerospace Industries](https://en.wikipedia.org/wiki/Turkish_Aerospace_Industries)
-
-[Ottoman Empire](Turkey%20133956e8f40e8121a97dc87a15b001a6/Ottoman%20Empire%20133956e8f40e81d2ae28d58e4183784b.md)
+- Ottoman Empire

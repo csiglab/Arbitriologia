@@ -1,10 +1,5 @@
 # Singapore
 
-Tags: Observatorio
-ID: PRO-1332
-L: 9
-Status: Not started
-
 e trading activities and improving logistics infrastructure​
 
 [AB Magazine](https://abmagazine.accaglobal.com/global/articles/2022/jul/business/singapore-s-bold-economic-vision.html)

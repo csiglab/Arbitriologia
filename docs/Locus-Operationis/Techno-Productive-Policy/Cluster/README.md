@@ -55,9 +55,6 @@ industrial district, an agglomeration of small businesses in the same locality.
 - ¿What’s is the relation of **development blocks** and **clusters**?
 - How to model critical mass and phase changes in the productive ecosystem? I want to understand productive development?
 
-## Index
-
-![Untitled](Cluster%20133956e8f40e81d393abc43aef6c805f/Untitled.png)
 
 ## Why do cluster policy?
 
@@ -352,7 +349,7 @@ industry clusters: Resources, networks, and regional advantages." *Growth and Ch
 - Ville, Simon, and Olav Wicken. "The dynamics of resource-based economic development: evidence from Australia and Norway." Industrial and Corporate change 22.5 (2013): 1341-1371.
 - Dahmén, Erik. "‘Development blocks’ in industrial economics." Scandinavian Economic History Review 36.1 (1988): 3-14.
 - ‣
-- [An Essay on Designing a Private R&D Services Market](../../../../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/An%20Essay%20on%20Designing%20a%20Private%20R&D%20Services%20Marke%2010a956e8f40e80418e97d13beaeb256a.md)
+- An Essay on Designing a Private R&D Services Market
 - Baptista, Rui, and Peter Swann. "Do firms in clusters innovate more?." Research policy 27.5 (1998): 525-540.
 - ‣
 - Zhao, Lyuhang, Jianqing Ruan, and Xinjie Shi. "Local industrial policies and development of agricultural clusters: a case study based on a tea cluster in China." International Food and Agribusiness Management Review 24.2 (2021): 267-288.

@@ -1,20 +1,12 @@
 # Society
 
-: 7
-tags: Social System
-
-> ….
-> 
-
 > Politics: How power is ditributed? How do we govern the commons? What are the commons? What are the collective responasbilities
-> 
 
 ## Index
 
 ## Characterization
 
 > …
-> 
 
 ### Breviarium
 
@@ -66,24 +58,13 @@ tags: Social System
 - **Technological Stage**: Hunter-gatherer → agrarian → industrial → digital.
 - **Sustainability**: Eco-centric (Bhutan) vs. extractive (19th-century Britain).
 
-## Social Theory
-
-> See more in [Social Theory](../../Social%20Theory%201d9c0f5171ec809ea656cbe6af7007cd.md).
-> 
-
 ## Social Dynamics
 
-> …
-> 
-
 > Does economy (Marx) or culture (Weber) drive societal structure?
-> 
 
 > Are societies converging (McDonaldization) or diversifying?
-> 
 
 > Are there "essential" features of all societies? Or is each unique?
-> 
 
 ### **Drivers of Change**
 
@@ -100,7 +81,6 @@ tags: Social System
 ## Social Structures
 
 > What to model social structures; well, these are the inductive biases.
-> 
 
 | **Category** | **Name** | **Description** |
 | --- | --- | --- |
@@ -138,10 +118,8 @@ tags: Social System
 ## Social Typology
 
 > A **typology** that characterizes societies by their structure & organization (justice, political,  division of labor).
-> 
 
 > In **modern times**; the territory constraint is not necessary for interaction; so the territorial constraint; can be drop out of the definition.
-> 
 
 | **Level** | **Type of Society** | **Main Features** |
 | --- | --- | --- |
@@ -156,12 +134,10 @@ tags: Social System
 ## Social Group
 
 > …
-> 
 
 ## Metric
 
 > Framework to compare stages (stages) in social groups.
-> 
 
 | **Category** | **Name** | **Description** |
 | --- | --- | --- |

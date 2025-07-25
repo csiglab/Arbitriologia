@@ -1,10 +1,6 @@
 # Local Content Requirement
 
-Tags: Policy Tool
-: 25
-
 > Local Content Requirement refers to a policy that mandates a specific proportion of goods, services, or resources used in a project or industry to be sourced domestically, aiming to promote local industries, create jobs, and stimulate economic growth.
-> 
 
 - Which policies did **Singapore** used to increase the **value added** of exports goods?
 
@@ -17,5 +13,4 @@ Tags: Policy Tool
 - Lahiri, Sajal, and Yoshiyasu Ono. "Export–oriented foreign direct investment and local content requirement." Pacific Economic Review 8.1 (2003): 1-14.
 - Case  Studies:
     - Banet, Catherine. "Local Content and Sustainable Development in Norway." (2021): 245-263.
-- [Singapore](../../../../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/Singapore%20133956e8f40e81d2849fe20bb4d74fb9.md)
-- …
+- Singapore

@@ -110,9 +110,7 @@ What is the relation of **firm characteristic** → **cost**?
 
 # Enterprise
 
-: 10
-Related Conceptual Model: Enterprise: Corporate Strategy (Corporate%20Strategy%2017bc0f5171ec80409f75d42b8dbbac8b.md), Strategy (Strategy%20179c0f5171ec81eaaa53f4c209043d09.md)
-Tags: Business
+
 
 > **Firm (Technology, Knowledge,  Physical Assets, Humans)** : Inputs(Buy)  → Outputs (Sells).
 > 
@@ -553,10 +551,10 @@ A productive system includes:
 - [Dream Teams: Working Together Without Falling Apart](https://www.amazon.com/Dream-Teams-Working-Together-Without/dp/0735217793)
 - Patterson, Jeffrey L. "THE DEVELOPMENT OF THE CONCEPT OF CORPORATlON FROM EARLlEST ROMAN TIMES TO AD 476." *Accounting Historians Journal* 10.1 (1983): 87-98.
 
-- [Competitiveness](Competitiveness%2017ac0f5171ec81808c32d8f8026a26ea.md)
-- [Economic of Scale](Economic%20of%20Scale%2017ac0f5171ec81378f36e248a4accfe4.md)
-- [Absorptive Capacity](Absorptive%20Capacity%2017ac0f5171ec811bb176e04cec32f64e.md)
-- [Economies of Density](Economies%20of%20Density%2017ac0f5171ec81bf87f7def519d2ce89.md)
+- Competitiveness
+- Economic of Scale
+- Absorptive Capacity
+- Economies of Density
 
 - "Government Grants and Their Impact on Innovation and Productivity: Do Subsidies to Private and Public Firms Differ?" by Aghion, P., Van Reenen, J., & Zingales, L. (2013).
 - "Financing Constraints and Entrepreneurship" by Fisman, R., & Love, I. (2003).
@@ -573,4 +571,4 @@ A productive system includes:
 - Proximity relations and the fate of VC-backed startups: Evidence from a global 33-year-long dataset
 [https://link.springer.com/article/10.1007/s00191-024-00860-y](https://link.springer.com/article/10.1007/s00191-024-00860-y)
 
-[Firm Innovation](../../../../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Firm%20Innovation%20133956e8f40e81788a49f897a4cb05fe.md)
+- Firm Innovation

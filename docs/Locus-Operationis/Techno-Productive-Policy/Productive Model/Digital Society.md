@@ -136,13 +136,6 @@ References:
 - [Odoo Partner en República Doiminicana](https://www.odoo.com/es/partners/country/republica-doiminicana-60)
 - Facturación Electrónica en Rep. Dominicana
 
-## Conceptual Model
-
-> ..
-> 
-
-[Conceptual Model: Digital Society](Digital%20Society%20107956e8f40e80be86e0ea51abffc8a9/Conceptual%20Model%20Digital%20Society%20133956e8f40e80baa2c2fa49bad8b6bf.csv)
-
 ## References
 
 - [Digital Transformation](https://en.wikipedia.org/wiki/Digital_transformation)

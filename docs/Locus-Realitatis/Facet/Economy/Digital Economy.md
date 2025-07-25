@@ -8,5 +8,4 @@
 ## References
 
 - Calvo, Patrici. "Metaverso: desafíos éticos de la tokenización de la economía." Filosofia Unisinos 24 (2023): e24106.
-
-[Digital Society](Digital%20Society%2017ac0f5171ec8105b267c715cad32477.md)
+- Digital Society

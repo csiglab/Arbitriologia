@@ -1,18 +1,10 @@
 # Industry Mapping
 
-Tags: Lab. Teoría Métodos y Herramientas Arbitristas
-ID: PRO-1603
-L: 16
-Status: Done
-
 > Industry, Sector, Cluster, Productive Ecosystem Mapping.
-> 
 
 > **Industry Mapping** is the process of identifying, analyzing, and visually representing the key components, players, trends, and relationships within a specific industry or sector.
-> 
 
 > A **productive ecosystem** is a network of interconnected entities, including producers, suppliers, consumers, and supporting institutions, that collaborate and exchange resources, knowledge, and value to generate goods, services, and innovations within a specific economic, social, or technological context.
-> 
 
 - …
 - How to determine clusters in an economy?
@@ -33,4 +25,4 @@ Parts:
 ## Cluster Mining / Mapping / Analysis
 
 - Ketels, Christian. "Cluster mapping as a tool for development." *Institute for Strategy and Competitiveness-Harvard Business School: Boston, MA, USA* 52 (2017).
-- [Cluster](../Coordinacio%CC%81n%20y%20Operaciones%20d7ce1a547c804607b236ac122e678fd1/Observatio%20d13995ec576c4d489e4bbe2d2e64d450/Maestroindustria%20Mayor%20136956e8f40e80c8bb48cb50cf661c2a/Techno-Productive%20Policy%20Matrix%20136956e8f40e80dfa88cc645766b98d2/Techno-Productive%20Policy%20Matrix%20133956e8f40e80429350c2be9eafca06/Cluster%20133956e8f40e81d393abc43aef6c805f.md)
+- Cluster

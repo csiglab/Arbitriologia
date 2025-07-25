@@ -21,11 +21,11 @@
 
 ## Conceptual Model:  Infraestructura
 
-[Conceptual Model:  Infraestructura](Laboratorio%20de%20Infraestructura,%20Energia%20y%20Urbanism%20133956e8f40e80819cf8f163cc951c4f/Conceptual%20Model%20Infraestructura%20136956e8f40e8067967ff3edaa6767a9.csv)
 
-# References
 
-- [An Essay on the Effects of Co-location on Work, Innovation, and Training Spaces](../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/An%20Essay%20on%20the%20Effects%20of%20Co-location%20on%20Work,%20In%20131956e8f40e8073aaa7ce56b5c85d14.md)
+
+
+- An Essay on the Effects of Co-location on Work, Innovation, and Training Spaces
 
 > **Transport technology** encompasses a wide range of innovations and systems designed to facilitate the movement of people and goods.
 > 
@@ -59,5 +59,3 @@
 - …
 
 ## Conceptual Model: Políticas Urbanas
-
-[Conceptual Model: Políticas Urbanas](Laboratorio%20de%20Infraestructura,%20Energia%20y%20Urbanism%20133956e8f40e80819cf8f163cc951c4f/Conceptual%20Model%20Poli%CC%81ticas%20Urbanas%20136956e8f40e8040b4c4f64ea04a79e7.csv)

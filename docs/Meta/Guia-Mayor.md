@@ -64,4 +64,4 @@ Specific jobs and responsibilities include:
 ## References
 
 * [Designing a Study Blueprint for National Economic Strategy](https://windy-parent-de9.notion.site/Designing-a-Study-Blueprint-for-National-Economic-Strategy-1eed38c7497c802ba7c9c6fa671f0210)
-- [The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes](Breviarium/The Policy-Politics Conflation Hypothesis%3A Language Structure and Development Outcomes.md)
+- The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes

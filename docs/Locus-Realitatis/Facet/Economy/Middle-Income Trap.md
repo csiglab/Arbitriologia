@@ -31,6 +31,4 @@ Scholars, economists, and policymakers analyze the **Middle Income Trap** to ide
 - Lee, Keun, et al. "Is the Fourth Industrial Revolution a Window of 
 Opportunity for Upgrading or Reinforcing the Middle-Income Trap?." *Work in Progress* (2018).
 - Felipe, J., Abdon, A., and Kumar, U. (2012) “Tracking the Middle-income trap: What Is It, Who Is in It, and Why, Levy Economics Institute of Bard College”, Working Paper No.175, Annandale-on-Hudson, NY, USA. Accessed October 30th, 2014, available at [http://www.levyinstitute.org/pubs/wp_715.pdf](http://www.levyinstitute.org/pubs/wp_715.pdf).
-- …
-
-[Development Traps](Middle-Income%20Trap%2017ac0f5171ec8112b447dda12180e0b3/Development%20Traps%2017ac0f5171ec819e8664d489b8c88c2e.md)
+Development Traps

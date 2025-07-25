@@ -21,9 +21,6 @@
 > 
 
 > **Early Bolsheviks** were absolutely fascinated by America and its industrial power. The last movie Vladimir Lenin watched before his death was the video recording from the Ford assembly lines in Detroit. They dreamed of emulating the American industrialism.
-> 
-
-[Soviet Union: Conceptual Model](Soviet%20Union%2017ac0f5171ec819282ede78012e32da7/Soviet%20Union%20Conceptual%20Model%2017ac0f5171ec81f4b05aedeb2f3219c2.csv)
 
 **References**
 

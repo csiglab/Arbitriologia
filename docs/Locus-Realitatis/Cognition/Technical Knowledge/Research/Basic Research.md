@@ -61,4 +61,4 @@ Each of these organizational models has its advantages and challenges, and the c
 - Hudson, J., & Khazragui, H. F. (2013). Into the valley of death: research to innovation. Drug discovery today, 18(13-14), 610-613.
 - Ellwood, P., Williams, C., & Egan, J. (2022). Crossing the valley of death: Five underlying innovation processes. *Technovation*, *109*, 102162.
 
-[Valley of Death](Basic%20Research%2017ac0f5171ec81a79fb6e12012500544/Valley%20of%20Death%2017ac0f5171ec81b7b0a8c790ebcf35ea.md)
+- Valley of Death

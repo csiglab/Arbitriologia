@@ -28,7 +28,7 @@ Status: Not started
 ## Economic Statecraft Institutions
 
 > Here's a detailed table summarizing key economic statecraft institutions in Sweden, including their roles and contributions:
-> 
+>
 
 | Institution | Established | Defunct Date | Parent Organization | Key Roles and Functions |
 | --- | --- | --- | --- | --- |
@@ -115,30 +115,15 @@ Status: Not started
 
 ## Enterprises
 
-- [AB Motala Verkstad ](AB%20Motala%20Verkstad%2014f956e8f40e802f8d4dc737f3f675c5.md)
+- AB Motala Verkstad
 
 ## Economic Statesman
 
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
 - …
 
 ## R&D Manpower
 
-- ‣
-- ‣
-- ‣
-
+- ...
 
 ### Sweden SOU Model
 
@@ -282,6 +267,3 @@ Would you like details on a specific STU-funded project or how it compares to mo
 - [List of companies of Sweden](https://en.wikipedia.org/wiki/List_of_companies_of_Sweden)
 - https://en.wikipedia.org/wiki/Wallenberg_family
 - https://en.wikipedia.org/wiki/Privy_Council_of_Sweden
-- ‣
-- ‣
-- ‣

@@ -77,7 +77,7 @@ First Exhibition (1760)
 
 ‣ 
 
-[**Scotland**](UK%20133956e8f40e81e89aeae88c5ce055d6/Scotland%20133956e8f40e8166a368c463aeb0f56e.md)
+- **Scotland**
 
 - https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston
 - Plan to Study the English Industry & Commerce → **John Wyatt.**

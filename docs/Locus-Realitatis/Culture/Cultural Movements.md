@@ -4,4 +4,5 @@
 
 ## References
 
-- [Cultural Movement](Cultural%20Movements%2017ac0f5171ec816a9706d40525038867.md)
+- Cultural Movement
+

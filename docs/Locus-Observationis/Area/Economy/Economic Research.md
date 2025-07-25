@@ -27,7 +27,7 @@
 > 
 
 > **Economic phenomena** encompass the observable and measurable events, patterns, and behaviors in a society related to the production, distribution, and consumption of goods and services, as well as the allocation of resources and the impact of various factors on overall economic activity.
-> 
+>
 
 > Positive Economics:  …
 > 
@@ -36,9 +36,7 @@
 > 
 
 > A [**security**](https://en.wikipedia.org/wiki/Security_(finance)) is a tradable [financial asset](https://en.wikipedia.org/wiki/Financial_asset).
-> 
-
-![Untitled](Economic%20Research%2017ac0f5171ec814eb1c4daefca49b3d1/Untitled.png)
+>
 
 ## Index
 
@@ -392,7 +390,7 @@ References:
 - https://en.wikipedia.org/wiki/International_economics
 - Edwards, Sebastian. "Is the US current account deficit sustainable? And if not, how costly is adjustment likely to be?." (2005).
 
-[Economic Cycle](Economic%20Cycle%2017ac0f5171ec81b78615f706aa46b160.md)
+- Economic Cycle
 
 - Helmer, Olaf. "GEM: An interactive simulation model of the global economy." World Futures: Journal of General Evolution 17.1-2 (1981): 63-90.
 - [Mundell–Fleming Model](https://en.wikipedia.org/wiki/Mundell%E2%80%93Fleming_model)

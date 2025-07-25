@@ -1,12 +1,6 @@
 # South Korea
 
-Tags: Observatorio
-ID: PRO-1335
-L: 11
-Status: Not started
-
 > …
-> 
 
 ## Economic History
 
@@ -128,10 +122,4 @@ Here is a table of key R&D actors in South Korea, ordered by their establishment
 - [List of companies of South Korea](https://en.wikipedia.org/wiki/List_of_companies_of_South_Korea)
 - [¿Cómo se desarrolló Corea del Sur?](https://cenital.com/como-se-desarrollo-corea-del-sur/)
 - Kim, Kwan S. *The Korean miracle (1962-1980) revisited: myths and realities in strategy and development*. Notre Dame, IN: Helen Kellogg Institute for International Studies, University of Notre Dame, 1991.
-- ‣
-- ‣
-- ‣
-- ‣
-- ‣
-- [Korea Export-Import Bank (KEXIM)](Korea%20Export-Import%20Bank%20(KEXIM)%2015d956e8f40e80bea6e9d8fdf5674de7.md)
-- ‣
+- Korea Export-Import Bank (KEXIM)

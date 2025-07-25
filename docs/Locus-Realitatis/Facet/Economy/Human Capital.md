@@ -1,14 +1,10 @@
 # Human Capital
 
-: 13
+> ...
 
 ## Social Capital
 
 > Social Capital is a form of energy that gives rise to a society.
-> 
-
-> 
-> 
 
 **Social Capital** refers to the value derived from individuals' social networks and connections. It encompasses the relationships, trust, and social norms between people and within communities.
 
@@ -27,6 +23,5 @@ Some benefits of **social capital** include access to information and resources,
 - [Dynamics of Human Behavior](https://www.santafe.edu/research/results/working-papers/dynamics-of-human-behavior)
 - …
 - Nested Skills in Labor Ecosystems: A Hidden Dimension of Human Capital
-[https://arxiv.org/pdf/2303.15629](https://arxiv.org/pdf/2303.15629)
-
-[Skills Development Policy](Human%20Capital%2017ac0f5171ec81d58185d253d32e6968/Skills%20Development%20Policy%2017ac0f5171ec81f9a9dbd1871ef7e208.md)
+- [https://arxiv.org/pdf/2303.15629](https://arxiv.org/pdf/2303.15629)
+- Skills Development Policy

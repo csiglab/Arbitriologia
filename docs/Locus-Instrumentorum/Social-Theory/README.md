@@ -209,12 +209,11 @@ transcending the limits imposed by current circumstances. To live is to live in 
 
 ## Theories of Justice
 
-> See more in [Justice](Social%20Theory%201d9c0f5171ec809ea656cbe6af7007cd/Conceptual%20Model%20Social%20Theory%201dac0f5171ec800ba5b5cd5dbe5702c7/Justice%201dac0f5171ec801a8d38ddae339cea02.md).
-> 
+> See more in Justice
 
 ## Conceptual Model
 
-[Conceptual Model: Social Theory](Social%20Theory%201d9c0f5171ec809ea656cbe6af7007cd/Conceptual%20Model%20Social%20Theory%201dac0f5171ec800ba5b5cd5dbe5702c7.csv)
+...
 
 ## References
 

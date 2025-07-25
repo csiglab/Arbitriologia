@@ -19,7 +19,7 @@ Status: Not started
 
 ## References
 
-- [Singapore](Singapore%20133956e8f40e81d2849fe20bb4d74fb9.md)
+- Singapore
 - [List of companies of Singapore](https://en.wikipedia.org/wiki/List_of_companies_of_Singapore)
 - [Singapore: 50 years of science and technology](https://lkyspp.nus.edu.sg/gia/article/singapore-50-years-of-science-and-technology)
 - [Poh Kam Wong](https://bizfaculty.nus.edu.sg/faculty-details/?profId=104)

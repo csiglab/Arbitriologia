@@ -30,10 +30,9 @@ Status: Not started
 
 ## References
 
-- [Textile Technology](../Coordinacio%CC%81n%20y%20Operaciones%20d7ce1a547c804607b236ac122e678fd1/Observatio%20d13995ec576c4d489e4bbe2d2e64d450/Tecnocienti%CC%81fico%20Mayor%20136956e8f40e80f99a37f86213c954e3/Cata%CC%81logo%20de%20Tecnologi%CC%81as%20149956e8f40e8091b1a8df453e3bef25/Textile%20Technology%20149956e8f40e81c5b352eeb79d920fd0.md)
-- ‣
-- [Textile Productive Ecosystem](../Coordinacio%CC%81n%20y%20Operaciones%20d7ce1a547c804607b236ac122e678fd1/Observatio%20d13995ec576c4d489e4bbe2d2e64d450/Maestroindustria%20Mayor%20136956e8f40e80c8bb48cb50cf661c2a/Cata%CC%81logo%20de%20Ecosistemas%20de%20Produccio%CC%81n%20133956e8f40e81979daae76770433db9/Textile%20Productive%20Ecosystem%20133956e8f40e816e982ad0e55071a264.md)
-- [On the Emergence and Convergence of Complex Productive Ecosystems](On%20the%20Emergence%20and%20Convergence%20of%20Complex%20Produc%2013e956e8f40e80288a8df61a50d863b6.md)
+- Textile Technology
+- Textile Productive Ecosystem
+- On the Emergence and Convergence of Complex Productive Ecosystems
 - Papers
     - Gullstrand, J. (2005). Industry dynamics in the Swedish textile and wearing apparel sector. Review of Industrial Organization, 26, 349-370.
     - Alänge, S., & Jacobsson, S. (1994). Evaluation of industrial policy—The case of the Swedish textile and clothing industry. Small Business Economics, 6, 465-475.

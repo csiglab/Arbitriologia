@@ -57,7 +57,6 @@ How do we measure the impact of technology on productivity and economic growth?
 
 ¿How does path dependency affect diversification? ¿Why do some different paths (create new capabilities)  accelerate and converge with the technological frontier?
 
-![Untitled](Productive%20Policy%2017ac0f5171ec819f8b92d2f042368775/Untitled.png)
 
 Some elements are ‘cluster policy’ / more dynamic R&D Model, quality control (Metrology), and Applying Research.
 

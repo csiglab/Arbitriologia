@@ -121,6 +121,5 @@ Catch-Up:
 
 - Blomstrom, M., and A. Kokko. “Foreign Investment as a Vehicle for International Technology Transfer.” *Creation and Transfer of Knowledge*: *Institutions and Incentives.* Edited by G. Barba Navaretti, et. al. 1998.
 
-[Joint Ventures](Economic%20Diversification%2017ac0f5171ec81729b55ef13c74d0cf6/Joint%20Ventures%2017ac0f5171ec819dab7bd092f4f38354.md)
-
-[Foreign Firm Acquisition](Economic%20Diversification%2017ac0f5171ec81729b55ef13c74d0cf6/Foreign%20Firm%20Acquisition%2017ac0f5171ec81fda9add611b95ff543.md)
+- Joint Ventures
+- Foreign Firm Acquisition

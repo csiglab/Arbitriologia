@@ -609,20 +609,12 @@ Would you like help reformulating a specific system or phenomenon using this mod
 - [Cultura Etimiologia](https://etimologias.dechile.net/?cultura)
 - El concepto de “Cultura” en el siglo XVIII Nombre.i
 
-[Trompenaars's Model of National Culture Differences](Culture%2017ac0f5171ec81e9911ffd7fe8d2faa2/Trompenaars's%20Model%20of%20National%20Culture%20Difference%2017ac0f5171ec817abe4bdec28c2dfeae.md)
-
-[On Cultural Software](Culture%2017ac0f5171ec81e9911ffd7fe8d2faa2/On%20Cultural%20Software%2017ac0f5171ec8146afded2c99c501902.md)
-
-[[On Cultures That Build](https://scholars-stage.org/on-cultures-that-build/)](Culture%2017ac0f5171ec81e9911ffd7fe8d2faa2/On%20Cultures%20That%20Build%2017ac0f5171ec8106b75ffcbca35c4047.md)
-
-[Models of Cultural Evolution](Culture%2017ac0f5171ec81e9911ffd7fe8d2faa2/Models%20of%20Cultural%20Evolution%2017ac0f5171ec816c97a5f79121d6f661.md)
-
-[Cultural Movements](Culture%2017ac0f5171ec81e9911ffd7fe8d2faa2/Cultural%20Movements%2017ac0f5171ec816a9706d40525038867.md)
-
+- Trompenaars's Model of National Culture Differences
+- On Cultural Software
+- [On Cultures That Build](https://scholars-stage.org/on-cultures-that-build/)
+- Models of Cultural Evolution
+- Cultural Movements
 - Niklas Luhmann's Social Systems (he explicitly avoids reifying “culture”)
-
 - Margaret Archer (on morphogenesis vs. morphostasis)
-
 - Manuel DeLanda (assemblage theory as non-reified view of culture)
-
 - Bruno Latour (actor-network theory: blurs boundary between system and actor)

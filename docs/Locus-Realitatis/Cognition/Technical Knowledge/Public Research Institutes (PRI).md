@@ -121,6 +121,5 @@ institutes in national innovation systems in industrialized countries:
 The cases of Fraunhofer, NIST, CSIRO, AIST, and ITRI." *Research Policy* 47.7 (2018): 1309-1320.
 - Kelley, Robert, and Janet Caplan. "How Bell Labs creates star performers." *Harvard business review* 71.4 (1993): 128-139.
 
-[Interaction Models](Public%20Research%20Institutes%20(PRI)%20133956e8f40e81f0a045ce075fbee5db/Interaction%20Models%20133956e8f40e814cb978c69c759d8b5a.md)
-
-[PRI Management  Models](Public%20Research%20Institutes%20(PRI)%20133956e8f40e81f0a045ce075fbee5db/PRI%20Management%20Models%20133956e8f40e81fd90a4f8553757747b.md)
+- Interaction Models
+- PRI Management  Models

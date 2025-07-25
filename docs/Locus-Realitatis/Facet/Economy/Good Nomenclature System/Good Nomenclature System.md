@@ -18,4 +18,4 @@
 
 ## References
 
-- [HS Code (Harmonized System Code)](Good%20Nomenclature%20System%2017ac0f5171ec81e0980ae55c6b76bb86/HS%20Code%20(Harmonized%20System%20Code)%2017ac0f5171ec812aa77df7196b587135.md)
+- HS Code (Harmonized System Code)

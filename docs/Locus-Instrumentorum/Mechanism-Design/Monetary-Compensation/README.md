@@ -30,6 +30,5 @@ Here are some standard monetary compensation models and strategies used in HR:
 
 These models and strategies can be used individually or in combination, depending on organizational goals, industry norms, and the specific needs and preferences of the workforce. A thoughtful and well-designed compensation strategy is essential for attracting, retaining, and motivating employees.
 
-[Taxonomy](Monetary%20Compensation%2017ac0f5171ec811088ded2a0627bb5a5/Taxonomy%2017ac0f5171ec81ab9cc1d667fe6a23c4.md)
-
-[Tools](Monetary%20Compensation%2017ac0f5171ec811088ded2a0627bb5a5/Tools%2017ac0f5171ec813bb0eafd774d0c5dd5.md)
+- Taxonomy
+- Tools

@@ -43,4 +43,4 @@ Additionally, financing exports can help businesses provide the capital they nee
 
 In summary, financing exports is a crucial part of a country’s economic strategy, helping to drive growth, diversify the economy, and support businesses in pursuing new opportunities.
 
-[External Trade](Finance%20133956e8f40e812d89cbf4821af90f09/External%20Trade%20133956e8f40e8124a92cf7ff3d0c98ba.md)
+- External Trade

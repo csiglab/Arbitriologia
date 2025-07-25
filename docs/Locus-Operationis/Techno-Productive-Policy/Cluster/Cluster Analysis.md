@@ -17,8 +17,7 @@ Michael Porter's cluster analysis, as outlined in his seminal work on competitiv
 
 ## References
 
-- [Cluster](../Coordinacio%CC%81n%20y%20Operaciones%20d7ce1a547c804607b236ac122e678fd1/Observatio%20d13995ec576c4d489e4bbe2d2e64d450/Maestroindustria%20Mayor%20136956e8f40e80c8bb48cb50cf661c2a/Techno-Productive%20Policy%20Matrix%20136956e8f40e80dfa88cc645766b98d2/Techno-Productive%20Policy%20Matrix%20133956e8f40e80429350c2be9eafca06/Cluster%20133956e8f40e81d393abc43aef6c805f.md)
+- Cluster
 - Feser, E. J., & Bergman, E. M. (2000). National industry cluster templates: A framework for applied regional cluster analysis. Regional studies, 34(1), 1-19.
 - Padmore, T., & Gibson, H. (1998). Modelling systems of innovation:: II. A framework for industrial cluster analysis in regions. Research policy, 26(6), 625-641.
 - Benito, G. R., Berger, E., De la Forest, M., & Shum, J. (2003). A cluster analysis of the maritime sector in Norway. International Journal of Transport Management, 1(4), 203-215.
-- ‣

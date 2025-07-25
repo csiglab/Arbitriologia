@@ -16,4 +16,4 @@ agro-pastoralists form and use accidental social ties in East Africa." *Ecology 
 - Anchorena, José, and Fernando Anjos. "Social ties and economic development." Journal of Macroeconomics 45 (2015): 63-84.
 - ..
 
-[Social Ties Formation](Social%20Ties%2017ac0f5171ec81b892b8ca33d11d4843/Social%20Ties%20Formation%2017ac0f5171ec8156afcfc8b082bdfb04.md)
+- Social Ties Formation

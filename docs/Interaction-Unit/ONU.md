@@ -6,9 +6,6 @@ L: 3
 Status: Not started
 
 > …
-> 
-
-![Untitled](ONU%20133956e8f40e819bb5d7fdc1953e7c26/Untitled.png)
 
 Here's a table of central United Nations (UN) organizations, along with their primary functions:
 

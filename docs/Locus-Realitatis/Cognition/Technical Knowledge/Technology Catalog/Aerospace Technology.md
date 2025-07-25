@@ -29,8 +29,7 @@ Tags: Technology
 
 ## References
 
-- [Engine Technology](Engine%20Technology%20149956e8f40e810594f5c23fe95d3f8c.md)
+- Engine Technology
 - https://en.wikipedia.org/wiki/Aerospace
 - https://en.wikipedia.org/wiki/Airbreathing_jet_engine
 - https://en.wikipedia.org/wiki/Aerospace_engineering
-- ‣

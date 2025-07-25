@@ -190,14 +190,10 @@ SMITH, Clifford W.; STULZ, Rene M. The determinants of firms' hedging policies.
 - [Stanford CS007: Personal Finance For Engineers (cs007.blog)](https://news.ycombinator.com/item?id=15786703)
 - [Quantitative Finance](https://brilliant.org/quantitative-finance/)
 - [Analytics of Finance](https://ocw.mit.edu/courses/15-450-analytics-of-finance-fall-2010/)
-- ‣
-- ‣
-- ‣
-- ‣
-- [Monetary System](Monetary%20System%2017ac0f5171ec812fa0c0fe963ce9665b.md)
-- [**Fiscal Policy**](Fiscal%20Policy%2017ac0f5171ec814bbdf5cdedad11427e.md)
+
+- Monetary System
+- **Fiscal Policy**
 - [Financial Economics](https://en.wikipedia.org/wiki/Financial_economics)
 - [International Finance](https://en.wikipedia.org/wiki/International_finance)
 - [Capital Account](https://en.wikipedia.org/wiki/Capital_account)
 - [Robert Wade Analysis](https://www.youtube.com/watch?v=9kgoPECn4cs&t=676s)
-- …

@@ -19,4 +19,4 @@ Another reason why **increasing returns** may occur is due to network effects. F
 - Arthur, W.B. (1989). Competing technologies, increasing returns, and lock-in by historical events. The Economic Journal, 99(394), 116-131.
 - Benhabib, J., & Farmer, R. E. (1994). Indeterminacy and increasing returns. Journal of economic theory, 63(1), 19-41.
 - ‣
-- [Economies of Scope](Economies%20of%20Scope%2017ac0f5171ec81acb64de2119943d8fc.md)
+- Economies of Scope

@@ -40,6 +40,4 @@ Functions:
 - https://www.readwriteinvest.com/p/what-is-the-intrinsic-value-of-fiat
 - https://en.wikipedia.org/wiki/Coin
 - https://en.wikipedia.org/wiki/Money
-- ‣
-- ‣
-- [International Economy](Economic%20Research%2017ac0f5171ec814eb1c4daefca49b3d1.md)
+- International Economy

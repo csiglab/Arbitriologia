@@ -50,5 +50,4 @@
 
 ## References
 
-- [**National Innovation System (NIS)**](../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055.md)
-- …
+- **National Innovation System (NIS)**

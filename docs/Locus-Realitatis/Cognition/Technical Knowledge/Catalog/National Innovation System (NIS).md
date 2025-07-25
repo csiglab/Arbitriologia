@@ -63,7 +63,7 @@ Status: Not started
 > 
 
 > **Collaborative R&D**	Involves partnerships between different organizations, such as universities, government agencies, and private companies.
-> 
+>
 
 How to build an R&D system?
 
@@ -72,10 +72,6 @@ What’s the role of universities?
 Design Cooperative R&D Schemes?
 
 How can we make the **research problem** open and cheaper to experiment with?
-
-## Índice
-
-![Untitled](National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Untitled.png)
 
 > **Innovation**: From the Latin Innovatio, it means 'the action and effect of creating something new.
 > 
@@ -90,9 +86,6 @@ How can we make the **research problem** open and cheaper to experiment with?
 > 
 
 > **Knowledge** is the **foundation** of economic growth, and **innovation** is its **engine**. - Cesar Hidalgo
-> 
-
-![Untitled](National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Untitled%201.png)
 
 > **Innovation** is not a solo sport. It requires collaboration, openness, and a willingness to share ideas. - Cesar Hidalgo
 > 
@@ -359,7 +352,6 @@ of DEA technique." *2010 IEEE International Conference on Industrial Engineering
  the Thai automotive industry and impacts from changing patent regimes."
  *TRIPS Compliance, National Patent Regimes and Innovation: Evidence and Experience from Developing Countries*. Vol. 2013. Edward Elgar Publishing Massachusetts, 2013. 113-171.
 
-[Conceptual Model](National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Conceptual%20Model%20133956e8f40e80ba86f1c1ce3e988328.csv)
 
 ## Índice
 
@@ -505,7 +497,8 @@ R&D Grants
 > 
 
 > **Breakthrough R&D**	Focuses on making significant, revolutionary advancements that can create new markets or disrupt existing ones.
-> 
+> -
+
 
 > **Industrial R&D**	Conducted by companies to develop new products, improve existing ones, or enhance production processes.
 > 
@@ -661,9 +654,6 @@ Elgar (2007).
 - Alcorta, L., and W. Peres. “Innovation Systems and Technological Specialization in Latin America and the Caribbean.” Research Policy 26 (1998).
 - [Service Innovation](https://en.wikipedia.org/wiki/Service_innovation)
 - The labor effects of R&D tax incentives: evidence from VC-backed startups
-[https://academic.oup.com/rof/article-abstract/28/5/1451/7730581](https://academic.oup.com/rof/article-abstract/28/5/1451/7730581)
-- 
-
-[Firm Innovation](National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Firm%20Innovation%20133956e8f40e81788a49f897a4cb05fe.md)
-
-[**Innovation Economics**](National%20Innovation%20System%20(NIS)%20136956e8f40e80cbafd0fb0bfe684055/Innovation%20Economics%2010e956e8f40e816b9c9dd2f9280f27e6.md)
+- [https://academic.oup.com/rof/article-abstract/28/5/1451/7730581](https://academic.oup.com/rof/article-abstract/28/5/1451/7730581)
+- Firm Innovation
+- **Innovation Economics**

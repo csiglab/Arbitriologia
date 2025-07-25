@@ -57,12 +57,8 @@ These papers contribute to various aspects of mechanism design, from theoretical
 - Hurwicz, Leonid; Reiter, Stanley (2008). Designing economic mechanisms. New York: Cambridge University Press. ISBN 9780521724104.
 - Hurwicz, Leonid (May 1973). "The design of mechanisms for resource allocation". The American Economic Review: Papers and Proceedings. 63 (2). American Economic Association via JSTOR: 1–30. JSTOR 1817047.
 
-[Modelling](Mechanism%20Design%2017ac0f5171ec811e84d2ec7382769b17/Modelling%2017ac0f5171ec81feb1e7cad486afe402.md)
-
-[Economics of Incentives](Mechanism%20Design%2017ac0f5171ec811e84d2ec7382769b17/Economics%20of%20Incentives%2017ac0f5171ec81fda90ac14cbb99f7e6.md)
-
-[Monetary Compensation](Mechanism%20Design%2017ac0f5171ec811e84d2ec7382769b17/Monetary%20Compensation%2017ac0f5171ec811088ded2a0627bb5a5.md)
-
-[Social Recognition-Based Systems](Mechanism%20Design%2017ac0f5171ec811e84d2ec7382769b17/Social%20Recognition-Based%20Systems%2017ac0f5171ec812fbc12f0460068afa9.md)
-
-[An Essay on Incentive System Metrics Dynamics: The Rise of Utility and the Fall of Integrity](Mechanism%20Design%2017ac0f5171ec811e84d2ec7382769b17/An%20Essay%20on%20Incentive%20System%20Metrics%20Dynamics%20The%20%2017ac0f5171ec8183bd0af891162375b4.md)
+- Modelling
+- Economics of Incentives
+- Monetary Compensation
+- Social Recognition-Based Systems
+- An Essay on Incentive System Metrics Dynamics: The Rise of Utility and the Fall of Integrity

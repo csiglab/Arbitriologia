@@ -50,17 +50,10 @@
 
 ## Regional Economies
 
-> …
-> 
-
-## Conceptual Model
-
-[Conceptual Model: Society](Society%20190c0f5171ec80aebc6ed25eabdd0730/Conceptual%20Model%20Society%2017ac0f5171ec8029be90c0e6bc9ca044.csv)
-
 ## References
 
-- [Price System](Society%20190c0f5171ec80aebc6ed25eabdd0730/Conceptual%20Model%20Society%2017ac0f5171ec8029be90c0e6bc9ca044/Price%20System%2017ac0f5171ec81498873df42c99b52a1.md)
-- [Economic Research](Society%20190c0f5171ec80aebc6ed25eabdd0730/Conceptual%20Model%20Society%2017ac0f5171ec8029be90c0e6bc9ca044/Economic%20Research%2017ac0f5171ec814eb1c4daefca49b3d1.md)
+- Price System
+- Economic Research
 - ‣
 - [Models for Building Regional Manufacturing Economies - From "Home Alone" to "Regional Ecosystems"](https://ipc.mit.edu/wp-content/uploads/2023/10/Regional-Manufacturing-1-Nov.pdf)
 

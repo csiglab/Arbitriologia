@@ -187,7 +187,7 @@ Pero de nuevo, esto **ocurría en paralelo a los colegios tradicionales**, que l
 
 ## References
 
-- [ACCIÓ - Agencia para la Competitividad de la Empresa](ACCIO%CC%81%20-%20Agencia%20para%20la%20Competitividad%20de%20la%20Empr%2015d956e8f40e80d7a75ac6beed3bb5d5.md)
-- [Agencia Vasca de Desarrollo Empresarial (Grupo Spri)](Agencia%20Vasca%20de%20Desarrollo%20Empresarial%20(Grupo%20Spr%20133956e8f40e81a4ad5ce6d18d521b9f.md)
+- ACCIÓ - Agencia para la Competitividad de la Empresa
+- Agencia Vasca de Desarrollo Empresarial (Grupo Spri)
 - https://es.wikipedia.org/wiki/Junta_para_Ampliaci%C3%B3n_de_Estudios_e_Investigaciones_Cient%C3%ADficas https://boe.es/datos/pdfs/BOE//1907/015/A00165-00167.pdf → Gaceta de Madrid
 - https://ahus.us.es/index.php/escuela-de-artes-y-oficios-artisticos-de-sevilla?sf_culture=es

@@ -152,24 +152,23 @@ Technology Map:
 
 ## References
 
-- https://www.kaggle.com/datasets/arjunprasadsarkhel/forbes-top-200020172021
-- https://www.forbes.com/lists/global2000/
-[**Techno-Productive Policy Matrix**](Maestroindustria%20Mayor%20136956e8f40e80c8bb48cb50cf661c2a/Techno-Productive%20Policy%20Matrix%20136956e8f40e80dfa88cc645766b98d2.md)
+https://www.kaggle.com/datasets/arjunprasadsarkhel/forbes-top-200020172021
 
-[Catálogo de Ecosistemas de Producción](Maestroindustria%20Mayor%20136956e8f40e80c8bb48cb50cf661c2a/Cata%CC%81logo%20de%20Ecosistemas%20de%20Produccio%CC%81n%20133956e8f40e81979daae76770433db9.csv)
+https://www.forbes.com/lists/global2000/
 
+**Techno-Productive Policy Matrix**
 
-- ‣
-- ‣
+Catálogo de Ecosistemas de Producción
+
 - https://www.mapa.gob.es/es/alimentacion/temas/control-calidad/
-- ‣
+
 - https://en.wikipedia.org/wiki/Phytosanitary_certification
 - https://cropnuts.com/overview-of-food-safety-standards/
 - https://kamilkazani.substack.com/p/why-the-ussr-failed [Or How to build an industrial society]
-- [An Essay on the Service Industry](../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/An%20Essay%20on%20the%20Service%20Industry%2014a956e8f40e807fbaa9f010f3febddc.md)
-- [An Essay On the Virtual Economy](../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/An%20Essay%20On%20the%20Virtual%20Economy%20162956e8f40e808bbcfac60f8f4d0b3c.md)
+- An Essay on the Service Industry
+- An Essay On the Virtual Economy
 
-[Catálogo de Tecnologías](Tecnocienti%CC%81fico%20Mayor%20136956e8f40e80f99a37f86213c954e3/Cata%CC%81logo%20de%20Tecnologi%CC%81as%20149956e8f40e8091b1a8df453e3bef25.csv)
+Catálogo de Tecnologías
 
 
 
@@ -191,6 +190,4 @@ Technology Map:
 - https://en.wikipedia.org/wiki/High_tech
 - https://en.wikipedia.org/wiki/Deep_tech
 - https://en.wikipedia.org/wiki/Low_technology
-- [**A Design Proposal for Techno-industrial Intelligence System**](../../Proiectarium%20112956e8f40e802bbf0ee8b46860003f/A%20Design%20Proposal%20for%20Techno-industrial%20Intelligen%20133956e8f40e818d8f05fb9a88a4eb57.md)
-- https://es.wikipedia.org/wiki/Cosm%C3%B3grafo_Mayor_del_Virreinato_del_Per%C3%BA
-- https://merics.org/en/china-tech-observatory
+- **A Design Proposal for Techno-industrial Intelligence System**

@@ -45,6 +45,6 @@ Spain." *Industry and Innovation* 21.5 (2014): 359-379.
 - Del Monte, Alfredo, and Erasmo Papagni. "R&D and the growth of firms: empirical analysis of a panel of Italian firms." Research Policy 32.6 (2003): 1003-1014.
 - Cohen, Jon S. "Financing industrialization in Italy, 1894–1914: The partial transformation of a late-comer." The Journal of Economic History 27.3 (1967): 363-382.
 
-[Venice](Italy%20133956e8f40e819ca0abe1018200d227/Venice%20133956e8f40e81329231e8381e3b0902.md)
+Venice
 
 - …
