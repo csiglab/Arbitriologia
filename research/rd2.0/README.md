@@ -142,9 +142,6 @@ Process:
 ## Listado de Publicaciones
 
 > …
-> 
-
-[Untitled](RD%202%200%20A%20Blueprint%20for%20State%20Transformation%20559c9d9bbb49420987e10e212febb61e/Untitled%20146956e8f40e8043920bc68a60bf172a.csv)
 
 ## References
 
