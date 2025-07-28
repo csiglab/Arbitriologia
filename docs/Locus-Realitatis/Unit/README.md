@@ -1,7 +1,3 @@
 # Interaction Unit
 
-> ...
-
-## References
-
-- []()
+> Ontological element that represents Actors (individuals, groups, basic or compound).

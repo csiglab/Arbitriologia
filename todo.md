@@ -1,3 +1,5 @@
+- Deeply Study 'Simula Group' Operation Model
+
 - [ ]  https://en.wikipedia.org/wiki/Contract_of_sale
 - [ ]  https://www.argentina.gob.ar/inta
 - [ ]  https://elnuevodiario.com.do/el-reto-de-exportar-servicios-modernos/

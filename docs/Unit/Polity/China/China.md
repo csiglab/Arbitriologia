@@ -25,3 +25,8 @@ Truffle pigs in China can fine truffles in mountains faster than specially train
 - https://semianalysis.com/2025/04/16/huawei-ai-cloudmatrix-384-chinas-answer-to-nvidia-gb200-nvl72/
 - https://www.project-syndicate.org/commentary/how-china-should-respond-to-trumps-tariffs-by-shang-jin-wei-2025-04
 - https://library.oapen.org/bitstream/handle/20.500.12657/63653/9781000936131.pdf?sequence=1&isAllowed=y
+
+- [ ]  https://www.eastisread.com/
+- [ ]  https://www.fredgao.com/
+- [ ]  https://www.fredgao.com/p/how-the-hefei-model-work-in-chinese
+- [ ]  https://www.pekingnology.com/

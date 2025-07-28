@@ -1,6 +1,8 @@
 # Innovation Economics
 
-> Innovation Economics is a branch of economic thought that emphasizes the central role of innovation, technological change, and knowledge creation as primary drivers of economic growth, competitiveness, and structural transformation.
+> **Innovation Economics** is a branch of economic thought that emphasizes the central role of innovation, technological change, and knowledge creation as primary drivers of economic growth, competitiveness, and structural transformation.
+
+> **Innovation economics** examines the role of technological advancements, entrepreneurship, and knowledge creation in driving economic growth and prosperity.
 
 ## Domain
 
@@ -78,3 +80,6 @@
 - [ ]  https://arxiv.org/abs/2203.14479
 - [ ]  https://www.sciencedirect.com/science/article/pii/S0172219018300103
 - [ ]  https://towardsdatascience.com/effectively-exploiting-the-real-value-of-patent-data-990fbb3d0a43
+- [Innovation Economics](https://en.wikipedia.org/wiki/Innovation_economics)
+- Gopalakrishnan, Shanti, and Fariborz Damanpour. "A review of innovation research in economics, sociology and technology management." Omega 25.1 (1997): 15-28.
+- …
