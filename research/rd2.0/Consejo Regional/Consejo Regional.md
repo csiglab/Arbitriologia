@@ -8,7 +8,10 @@ Tags: Consejo, Consilium Magnum
 - ¿How to make sure that cities are well manage?
 
 - Consejo Municipal X
-- …
+- Consejo Menor Region X1
+- Consejo Menor Region X2
+- Consejo Menor Region X3
+- Consejo Menor Region X4
 
 ## References
 
