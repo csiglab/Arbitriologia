@@ -1,14 +1,14 @@
 # Japan
 
-Tags: Observatorio
-Extra: Reseña
-ID: PRO-1320
-L: 5
-Status: Not started
-
-> …
-
 How japan master the internal combustion engine?
+
+> El sistema de ahorro postal (郵便貯金制度, Yūbin chokin seido) fue uno de los instrumentos más importantes en la estrategia de desarrollo económico del Japón moderno, particularmente durante el período Meiji y el auge industrial del siglo XX.
+
+> **Sistema FILP (Fiscal Investment and Loan Program)**: ...
+
+> **Fondo Fiduciario del Gobierno (Trust Fund Bureau)**: ...
+
+> **Fondo Fiduciario del Gobierno (Trust Fund Bureau)** Canalizaba los depósitos postales hacia proyectos de infraestructura y financiamiento de bancos estatales (como Japan Development Bank o Japan Highway Public Corporation).
 
 ## R&D Actors
 

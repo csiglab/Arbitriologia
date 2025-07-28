@@ -5,11 +5,22 @@
 
 > The **Locus Instrumentorum** constitutes the space of tools—conceptual, methodological, and technical—used to observe, model, and interpret social systems. These instruments facilitate the structuring of inquiry, collection of data, systematization of phenomena, and construction of formal representations. The goal is not only empirical description but also generative understanding, diagnosis, and recursive transformation.
 
+> The **Locus Instrumentorum** constitutes the domain of instruments employed in diagnosing and designing policy sets aimed at transforming aspects of social reality.
+
 ## 📌 Principles
 
 > To **understand society** is not to describe its surface, but to trace the hidden structures that shape human possibility. A good social model doesn’t reduce complexity — it reveals its structure.
 
 > **Perception over Reality**: Decisions made by agents in social systems are not necessarily based on objective reality, but rather on their **perceptions and interpretations** of that reality. These subjective constructions shape behavior and systemic outcomes.
+
+## Terminology
+
+| **Term**      | **Definition**                                                                                                                                          | **Key Characteristics**                           | **Typical Owner**                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------- |
+| **Policy**    | A **high-level authoritative decision** that defines the **goals, intentions, and direction** of a government or institution in a specific domain.      | Strategic, goal-oriented, long-term, normative    | Politicians, Ministries          |
+| **Program**   | A **coordinated set of actions or projects** designed to implement one or more aspects of a policy, usually with defined timelines and budgets.         | Operational, organized, time-bounded, evaluated   | Government agencies, departments |
+| **Scheme**    | A **structured plan or offering**, typically involving **financial support or regulatory arrangements**, to deliver specific benefits to target groups. | Procedural, rule-based, targeted, financial/legal | Agencies, funds, authorities     |
+| **Mechanism** | The **instrument, tool, or process** by which a scheme or program is delivered. It refers to **how** implementation happens.                            | Technical, enabling, transactional                | Implementing institutions        |
 
 ## Modelling
 

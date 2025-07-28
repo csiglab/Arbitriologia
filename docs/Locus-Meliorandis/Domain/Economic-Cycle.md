@@ -1,0 +1,25 @@
+# Economic Cycle
+
+> The economic cycle—also known as the business cycle—refers to the recurring pattern of expansion and contraction in overall economic activity over time. It typically includes four phases: expansion, peak, contraction (or recession), and trough. These cycles are influenced by various factors such as consumer behavior, investment trends, fiscal and monetary policy, and external shocks (war, pandemies, etc).
+
+## Keynesian
+
+> Keynesian economic policies, which advocate for counter-cyclical government spending during periods of economic decline, aim to prevent deeper recessions by sustaining aggregate demand. While formalized in the 20th century, similar approaches have been employed in various forms throughout history.
+
+### Case Study
+
+| **Case Study**                                                           | **Time Period**                  | **Location**              | **Description of Intervention**                                                                                                                | **Outcome / Notes**                                                                         |
+| ------------------------------------------------------------------------ | -------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Roman Grain Dole (Cura Annonae)**                                      | 2nd century BCE – 3rd century CE | Roman Empire              | State-subsidized grain distributions to keep food prices stable and prevent unrest during shortages or crises.                                 | Helped maintain social stability and urban demand in Rome.                                  |
+| **Song Dynasty Tax Relief & Public Works**                               | 10th–13th centuries              | China                     | Tax reductions during famines or economic distress; government investment in large public works projects.                                      | Supported agricultural productivity and local economies.                                    |
+| **Medieval European Famine Relief**                                      | Various (14th–15th centuries)    | Various European kingdoms | Rulers provided food aid and relief efforts during famines and plagues to reduce social unrest.                                                | Limited economic stimulus but helped prevent social collapse.                               |
+| **Elizabethan Poor Laws**                                                | Late 16th century                | England                   | Local taxes used to fund relief for the poor, including work programs to maintain social order and economic stability.                         | Early form of government social support, stabilizing labor supply.                          |
+| **Dutch Public Works during the Tulip Mania Crash**                      | 1637                             | Dutch Republic            | Local authorities invested in infrastructure to offset economic downturn after financial bubble burst.                                         | Helped to cushion economic impacts locally.                                                 |
+| **French Revolutionary Price Controls and Grain Stocks**                 | Late 18th century                | France                    | Government controls on grain prices and stockpiling to prevent famine and social unrest during revolutionary chaos.                            | Had mixed success; often politically driven but aimed at stability.                         |
+| **Japan’s Counter-Cyclical Fiscal Policies During the Great Depression** | Early 1930s                      | Japan                     | Government increased public spending on infrastructure and industry; implemented monetary easing to combat deflation and economic contraction. | Helped Japan recover more quickly from global depression impacts than many other countries. |
+| **U.S. New Deal Programs**                                               | 1933–1939                        | United States             | Massive federal spending on infrastructure, employment programs, and social safety nets during the Great Depression.                           | Classic Keynesian approach; helped reduce unemployment and revive demand.                   |
+| **Post-WWII Reconstruction (Marshall Plan)**                             | Late 1940s                       | Western Europe            | U.S. aid and government spending on rebuilding infrastructure and economies devastated by war.                                                 | Stimulated demand and helped jump-start European recovery.                                  |
+
+## References
+
+- [Theory  of the Economic Cycle](../Locus-Realitatis/Facet/Economy/Change/Economic-Cycle/)

@@ -1,5 +1,7 @@
 # Interaction Unit
 
+> **Note:** Every interaction unit is, by default, an internal observer within the system.
+
 
 > **Retailer: …**
 > 

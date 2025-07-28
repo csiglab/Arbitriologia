@@ -7,7 +7,6 @@ L: 65
 Status: Not started
 
 > …
-> 
 
 - Data Analysis of Diversification Path:  Years / Country.
 - Specific In Death Case Studies / Industry Case Study
@@ -44,7 +43,6 @@ Status: Not started
 ## **Economical Productive Configuration**
 
 > …
-> 
 
 ```python
 # Re-import necessary libraries after execution environment reset
