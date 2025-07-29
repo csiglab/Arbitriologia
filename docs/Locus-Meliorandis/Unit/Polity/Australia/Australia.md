@@ -96,3 +96,5 @@ Here is a table summarizing some notable industrial companies in Australia, incl
 - [Innovation makes Australian mining safer, more productive and sustainable](https://minerals.org.au/resources/innovation-makes-australian-mining-safer-more-productive-and-sustainable/)
 - [Economy of Australia](https://en.wikipedia.org/wiki/Economy_of_Australia)
 - [Why Australia Isn’t a Complete Failure | Economics Explained](https://www.youtube.com/watch?v=QByN_XJIn8s)
+- [OEC: Australia](https://oec.world/en/profile/country/aus)
+- [Value of Australia Mineral Exports](https://www.ga.gov.au/digital-publication/aimr2020/value-of-australian-mineral-exports)

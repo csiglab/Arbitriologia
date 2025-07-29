@@ -1,4 +1,4 @@
-# ACCIÓ - Agencia para la Competitividad de la Empresa
+# Agencia para la Competitividad de la Empresa (ACCIÓ)
 
 Tags: Observatorio
 ID: PRO-1159
