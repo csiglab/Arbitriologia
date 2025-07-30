@@ -49,52 +49,80 @@ It observes the world in a certain way — and by doing so, it helps create inst
 | **Existential Presuppositions** | - Polity is a **modifiable system**, not fixed.<br>- Development is **desirable and achievable**.<br>- Economic and political structures can be **purposely shaped**.                                                                                                    |
 | **Ontological Status**          | - A *meta-level interpretive framework* influencing policy and institutions.<br>- Both descriptive and prescriptive.                                                                                                                                                     |
 
-## Observer Faulty Path: Mediocre Comparison
+## Economic Cognitive Schema
 
-> A nice try at rationalizing the present—without realizing that it is not a given, but a contingent outcome—instead of adopting an operational, anti-necessitarian approach that seeks to understand and actively drive transformation.
+> Modeling the dynamics of the operative cognitive schemas used by at least part of the elite.
 
-A recurring idea in certain discourses on Latin American underdevelopment goes something like this: “We are part of Latin America; therefore, we are underdeveloped.” Rather than providing an actual explanation, this kind of claim acts as a rhetorical shortcut that masks the complexity of the problem.
-
-Comparisons between countries at similar development levels in the region are often deployed more as excuses than as analytical tools. The logic typically follows this pattern: “We belong to a group of countries with similar characteristics, and all of us perform poorly—therefore our situation is understandable.” This reasoning implicitly treats membership in a regional cluster as a justification for stagnation. It is fundamentally flawed.
-
-First, it reduces diagnosis to a kind of collective consolation: “We’re not doing so badly because everyone else is doing just as poorly.” But this comparison explains nothing. It is circular reasoning that evades the real question: Why does this group—or many of its members—tend toward persistent mediocrity on key development indicators?
-
-Rather than illuminating underlying causes, this framing obscures the need for deeper structural, institutional, or historical analysis. It normalizes inertia. Underperformance becomes an assumed condition of group identity rather than a challenge to be interrogated. The result is a form of intellectual and political surrender, one that fosters a race to the middle: if everyone is stuck, there is little incentive to stand out, reform, or innovate. The implicit goal becomes not falling below the average, rather than breaking from it.
-
-**Consequences of this Thinking and Framing:**
-
-* Normalization of Stagnation: Mediocre outcomes are perceived as natural, reducing motivation to question or disrupt the status quo.
-* Erosion of Strategic Imagination: Long-term planning and transformational ambition are replaced with reactive policy and low benchmarks.
-* Suppression of Accountability: Structural failures are blamed on regional identity or “shared fate” rather than on actionable domestic choices.
-* Distorted Policy Benchmarking: Instead of comparing with successful transformations (e.g., South Korea, Taiwan), observers limit comparisons to similarly stagnant cases, reinforcing low expectations.
-* Institutional Drift: Without external pressure or internal ambition, institutions adapt to survive within mediocrity rather than evolve to lead.
-* Resignation over Reform: Reformist momentum weakens under the belief that “this is just how things are here.”
-
-## QA
-
-### What explains the emergence of a developmentalist (techno-productivist) cognitive schema among political and social actors in some societies, while it fails to take root in others?
+> In this section, we will investigate the dynamics of societies’ observer cognitive schemas—their distribution, path dependencies, and, in particular, reason about the emergence of the appropriate one: the techno-productive schema.
 
 > Note: When we refer to schema adoption, we are not speaking of society as a whole, but rather of a critical mass of relatively influential observers within the system.
 
-> How can we detect if a segment of society is operating under the 'developmentalist (techno-productivist) cognitive schema'?
+> Note: The emergence of such schemas is basically **computationally irreducible**:  highly sensitive to historical contingencies, path-dependent dynamics, and complex interactions. Still, we can identify enabling conditions, structural pressures, cognitive thresholds, and propagation mechanisms that make the emergence of these schemas more likely.
 
-> Which computational or theoretical frameworks best capture the emergence of cognitive schemas like techno-productivism, and how can we validate these models using historical, experimental, or large-scale textual data? Is the target process even predictable or computable reducable?
 
-> How can an explanatory theory be constructed to account for the emergence and diffusion of developmentalist cognitive schemas?
+QA:
 
-#### Problem Setting
+- What explains the emergence of an economic-related cognitive schema among a group within a society?
+- How can we detect the cognitive schema under which a society (or at least its elite groups) is operating?
+- How can such a schema become the dominant paradigm among elites?
+- Which types of paradigms tend to emerge?
+- Why does the 'techno-productivist' paradigm not always emerge, even when it may be more developmentally effective?
+- Which computational or theoretical frameworks best capture the emergence of cognitive schemas, and how can we validate these models using historical, experimental, or large-scale textual data? Is the target process even predictable or computable reducable? How can we determine whether the prevailing schema is the techno-productivist schema?
+- How can an explanatory theory be constructed to account for the emergence and diffusion of developmentalist cognitive schemas?
+
+### Terminology
+
+> Note: For simplicity, I will refer to all of this as the "Cognitive Schema." The diffusion and adoption of the schema will be considered separately from the concept itself.
+
+| **Label**              | **Description**                                                                                                                                                |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Cognitive Schema*     | Mental models or interpretive frameworks held by individual actors (e.g., policymakers, intellectuals, technocrats). Guides perception, reasoning, and action. |
+| *Operational Paradigm* | Shared frameworks embedded in organizational, bureaucratic, or epistemic communities. Shapes collective interpretation and coordinated behavior.               |
+| *Ideological Schema*   | Society-wide or elite-dominant cognitive logics that structure institutions, discourse, and developmental priorities across sectors and decades.               |
+
+### Problem Setting
 
 **Consider a society, denoted as S1, for which we collect longitudinal data on the following dimensions:**
 
-* The society's complex state at each time point `t` (e.g., socio-economic indicators, institutional configurations, technological capabilities),
-* Internal observer perceptions (e.g., survey data, political discourse, elite narratives),
-* Cross-societal observations (e.g., benchmarking against peer societies or global indices).
+- The society's complex state at each time point `t` (e.g., socio-economic indicators, institutional configurations, technological capabilities),
+- Internal observer perceptions (e.g., survey data, political discourse, elite narratives),
+- Cross-societal observations (e.g., benchmarking against peer societies or global indices).
 
-**The central question is:**
+**Objective:**
 
-> *What modeling approaches can be used to predict the emergence of a developmentalist (techno-productivist) cognitive schema in society S1, and what types of empirical evidence would constitute valid confirmation of such a model?*
+- Model the temporal dynamics of the cognitive schema employed by internal observers (particularly elites) to interpret, evaluate, and act upon the perceived state of the society.
 
-#### Modelling
+### Cognitive Schema
+
+> A **cognitive schema (cognitive framework)** is a relatively stable, structured set of mental representations that guide information processing, interpretation, and behavioral response, enabling agents to make sense of complex or ambiguous environments by drawing on prior knowledge, expectations, and values.
+
+> In this section, we will analyze the emergence of the cognitive schema in at least one actor, and then examine how it can diffuse to others.
+
+#### Adoption Level
+
+| **Level** | **Label**                       | **Description**                                                                                     |
+| --------- | ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 0         | **Non-Exposure**                | Actor has not encountered the schema; no conceptual access.                                         |
+| 1         | **Exposure / Recognition**      | Actor is aware of the schema's existence, but has not engaged deeply.                               |
+| 2         | **Evaluation / Appraisal**      | Actor reflects on the schema’s relevance or coherence in relation to their worldview or incentives. |
+| 3         | **Initial Adoption**            | Actor tentatively integrates parts of the schema in thought or discourse.                           |
+| 4         | **Operational Internalization** | Schema guides interpretation, reasoning, and decision-making consistently in actor’s practice.      |
+| 5         | **Advocacy / Diffusion Role**   | Actor actively promotes or teaches the schema to others (acts as a schema carrier or entrepreneur). |
+
+#### Level of Analysis
+
+> aka: Granularity, Scale, Level of Aggregation, Unit of Analysis.
+
+> In this section, we begin by analyzing the emergence of the cognitive schema in different actors, and how that schema can diffuse across others.
+
+
+| **Level**       | **Description**                                                                                                                                                | **Case Study**                                                                                               |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Micro-Level** | Mental models or interpretive frameworks held by individual actors (e.g., policymakers, intellectuals, technocrats). Guides perception, reasoning, and action. | **Park Chung-hee** (South Korea): His personal schema of state-led export industrialization shaped national policy.  |
+| **Meso-Level**  | Shared frameworks embedded in organizational, bureaucratic, or epistemic communities. Shapes collective interpretation and coordinated behavior.               | **MITI (Japan)**: Ministry’s paradigm of industrial targeting, tech transfer, and export-oriented growth.            |
+| **Macro-Level** | Society-wide or elite-dominant cognitive logics that structure institutions, discourse, and developmental priorities across sectors and decades.               | **China post-1978**: The “Socialism with Chinese Characteristics” schema, blending market logic with state planning. |
+
+### Modelling
 
 - Hidden Markov Models
 - Agent-Based Modeling
@@ -103,44 +131,35 @@ Rather than illuminating underlying causes, this framing obscures the need for d
 - Causal Inference Frameworks
 - Natural Language Processing & Discourse Analysis
 
-#### Model Validation
+### Model Validation
 
-1. Predictive Accuracy: Models should accurately predict emergence of developmentalist schemas in historical cases Out-of-sample testing on data from other societies would validate generalizability
-
+1. Predictive Accuracy: Models should accurately predict emergence of certain schemas in historical cases Out-of-sample testing on data from other societies would validate generalizability
 
 2. Process Tracing:  Detailed case studies of societies that have undergone similar cognitive shifts
 Evidence that the causal mechanisms identified by models actually operated in these cases
 
-
 3. Counterfactual Validation: Testing whether models correctly predict what would have happened in the absence of certain conditions This could involve natural experiments or synthetic controls
-
 
 4. Convergent Validation: Multiple modeling approaches pointing to similar predictors and mechanisms
 Triangulation across different data sources and methodological approaches
 
-
 5. Theoretical Coherence: Models should align with established theories from sociology, political economy, and cognitive science They should offer plausible explanations of how cognitive schemas emerge and spread
-
 
 6. Longitudinal Consistency : Models should remain consistent as more longitudinal data becomes available Predictions should not be falsified by subsequent data collection
 
-#### Empirical Confirmation
+### Empirical Confirmation
 
-| Type                          | Evidence                                                   | Example                                                           |
-| ----------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Discourse Shift**           | NLP-based discourse shift detected in parliament/media     | From moral/political topics to growth, tech, and industry         |
-| **Policy Alignment**          | Rise in development-oriented industrial policies           | Export upgrading, value chain policies, infrastructure investment |
-| **Institutional Reforms**     | Creation or empowerment of productivity-oriented agencies  | Productivity Commission, Tech Innovation Ministry                 |
-| **Survey Attitudes**          | Populace increasingly supports investment in tech/industry | "We should become more like Germany/Korea" sentiments             |
-| **Cross-Society Positioning** | Explicit adoption of role models in national plans         | “We aim to be the next Singapore”                                 |
+| **Type**                     | **Description**                                                                    |
+|------------------------------|---------------------------------------------------------------------------------   |
+| **Discourse Shift**          | Changes in dominant narratives or public language regarding key societal issues.   |
+| **Policy Alignment**         | Synchronization of public policies with long-term strategic goals or values.       |
+| **Institutional Reforms**    | Structural or procedural changes in organizations to improve effectiveness.        |
+| **Survey Attitudes**         | Trends in public opinion as measured through surveys and questionnaires.           |
+| **Cross-Society Positioning**| Relative stance or alignment of a group/nation within a global or regional context.|
 
-#### What conditions underlie the emergence of operational-conceptual economic cognitive schemas—such as the Techno-Productivist Cognitive Schema—as opposed to surface-level reformist frameworks or other shallow **developmental cognitive framework**?
+### What conditions underlie the emergence of operational-conceptual economic cognitive schemas—such as the Techno-Productivist Cognitive Schema—as opposed to surface-level reformist frameworks or other shallow **developmental cognitive framework**?
 
 > Many societies adopt surface-level development strategies—such as tourism promotion, FDI liberalization, or basic infrastructure expansion—that improve immediate outcomes without altering the fundamental architecture of economic logic. In contrast, a smaller set of nations articulate and institutionalize deep operational-conceptual schemas—coherent systems of developmental reasoning, institutional coordination, and cultural-economic norms. One such schema is the Techno-Productivist Cognitive Schema (TPCS), characterized by long-term productive orientation, systems-level policy intelligence, and organizational architectures designed for structural transformation.
-
-
-> The emergence of such schemas is basically **computationally irreducible**:  highly sensitive to historical contingencies, path-dependent dynamics, and complex interactions. Still, we can identify enabling conditions, structural pressures, cognitive thresholds, and propagation mechanisms that make the emergence of these schemas more likely.
-
 
 | **Category**                 | **Factor**                                | **Description**                                                                             | **Mechanism**                                                                                                 |
 | ---------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -160,7 +179,7 @@ Triangulation across different data sources and methodological approaches
 |                              | **Epistemic Rigor**                       | Preference for systemic, engineering-like approaches over ideological simplicity.           | Societies with scientific or engineering culture prefer feedback-driven planning (e.g., Germany, Taiwan).     |
 |                              | **Autochthonous Schemas**                 | Indigenous conceptual traditions provide compatible scaffolding.                            | Chinese Legalism or Confucian meritocratic ethos align with state-led techno-governance.                      |
 
-#### Case Studies
+### Case Studies
 
 > **Note:** These case studies illustrate conditions under which developmentalist (techno-productivist) schemas emerged, stabilized, or failed to take root. “Schema” refers to the dominant operational-conceptual orientation among a critical mass of elite observers—not the entire society.
 
@@ -198,8 +217,30 @@ Triangulation across different data sources and methodological approaches
 | **2000s–present**  | Bolivia                | Resource nationalism with rhetorical developmentalism, but limited schema shift | Populist orientation, extractive lock-in, weak technical bureaucracy.         | Neo-Extractivist      | a → a (Surface change only)     |
 | **2000s–present**  | Dominican Republic     | Growth via tourism, remittances, and light services; no deep schema formation.  | Political clientelism, short-termism, low industrial capabilities.            | Service-rentier       | a → a (Schema absent)           |
 
+## Observer Faulty Path: Mediocre Comparison
+
+> A nice try at rationalizing the present—without realizing that it is not a given, but a contingent outcome—instead of adopting an operational, anti-necessitarian approach that seeks to understand and actively drive transformation.
+
+A recurring idea in certain discourses on Latin American underdevelopment goes something like this: “We are part of Latin America; therefore, we are underdeveloped.” Rather than providing an actual explanation, this kind of claim acts as a rhetorical shortcut that masks the complexity of the problem.
+
+Comparisons between countries at similar development levels in the region are often deployed more as excuses than as analytical tools. The logic typically follows this pattern: “We belong to a group of countries with similar characteristics, and all of us perform poorly—therefore our situation is understandable.” This reasoning implicitly treats membership in a regional cluster as a justification for stagnation. It is fundamentally flawed.
+
+First, it reduces diagnosis to a kind of collective consolation: “We’re not doing so badly because everyone else is doing just as poorly.” But this comparison explains nothing. It is circular reasoning that evades the real question: Why does this group—or many of its members—tend toward persistent mediocrity on key development indicators?
+
+Rather than illuminating underlying causes, this framing obscures the need for deeper structural, institutional, or historical analysis. It normalizes inertia. Underperformance becomes an assumed condition of group identity rather than a challenge to be interrogated. The result is a form of intellectual and political surrender, one that fosters a race to the middle: if everyone is stuck, there is little incentive to stand out, reform, or innovate. The implicit goal becomes not falling below the average, rather than breaking from it.
+
+**Consequences of this Thinking and Framing:**
+
+* Normalization of Stagnation: Mediocre outcomes are perceived as natural, reducing motivation to question or disrupt the status quo.
+* Erosion of Strategic Imagination: Long-term planning and transformational ambition are replaced with reactive policy and low benchmarks.
+* Suppression of Accountability: Structural failures are blamed on regional identity or “shared fate” rather than on actionable domestic choices.
+* Distorted Policy Benchmarking: Instead of comparing with successful transformations (e.g., South Korea, Taiwan), observers limit comparisons to similarly stagnant cases, reinforcing low expectations.
+* Institutional Drift: Without external pressure or internal ambition, institutions adapt to survive within mediocrity rather than evolve to lead.
+* Resignation over Reform: Reformist momentum weakens under the belief that “this is just how things are here.”
+
 ## References
 
 - [Developmentalism](https://en.wikipedia.org/wiki/Developmentalism)  (This entry makes a concretization of a very abstract cognitive schema and gives it a concrete specification. This makes it possible to discredit the entire abstract schema just by criticizing one of its specific instantiations.)
 - Gullo, Marcelo. La insubordinación fundante: Breve historia de la construcción del poder de las naciones. Editorial Biblos, 2013.
 - Reinert, E. S. (2008). How Rich Countries Got Rich... and Why Poor Countries Stay Poor. Hachette UK.
+- [Level of Analysis](https://en.wikipedia.org/wiki/Level_of_analysis)
