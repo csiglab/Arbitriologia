@@ -13,6 +13,8 @@ It observes the world in a certain way — and by doing so, it helps create inst
 
 > **Development** is the dialectical process through which a system (society, polity, or economy) realizes its inherent potential by navigating and resolving internal contradictions. It unfolds as a negation of negation — overcoming previous states (thesis and antithesis) to reach higher levels of complexity and self-awareness. Development is thus not linear or static, but a dynamic movement of becoming, where each stage preserves and transcends what came before, manifesting the system’s self-realization and actualization over time. - [Check This]
 
+> Other Names:  Generacionismo -  Convergencismo -  Tecnocismo - Productivosmo - Integracionismo.
+
 ## Epistemological Signature
 
 > Developmentalism is a framework of observation and interpretation — a way of seeing and making sense of national and economic progress.
@@ -244,3 +246,4 @@ Rather than illuminating underlying causes, this framing obscures the need for d
 - Gullo, Marcelo. La insubordinación fundante: Breve historia de la construcción del poder de las naciones. Editorial Biblos, 2013.
 - Reinert, E. S. (2008). How Rich Countries Got Rich... and Why Poor Countries Stay Poor. Hachette UK.
 - [Level of Analysis](https://en.wikipedia.org/wiki/Level_of_analysis)
+- [Regenerationism](https://en.wikipedia.org/wiki/Regenerationism)

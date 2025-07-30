@@ -1,6 +1,6 @@
 # Finance
 
-> ...
+> “Finance is like water: it flows to where the channels already exist. It rarely digs the channels itself.”
 
 - How to finance the productive structure?
 - How to think about domestic finance vs foreign finance in the National Economy?

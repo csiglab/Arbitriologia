@@ -15,3 +15,7 @@
 - Production Development System
 
 - Industrial development System
+
+
+- Production Path Dependency - and Diversification
+

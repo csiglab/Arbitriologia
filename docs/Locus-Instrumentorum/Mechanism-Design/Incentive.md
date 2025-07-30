@@ -1,4 +1,4 @@
-# Economics of Incentives
+# Incentive
 
 "Economics of incentives" refers to studying how incentives, such as rewards or penalties, influence human behavior and decision-making within economic systems. This field examines how individuals, firms, and governments respond to incentives, whether they are financial, social, or regulatory.
 
@@ -13,7 +13,19 @@ Economists analyze the effectiveness and efficiency of incentives in achieving d
 5. **Behavioral Economics** is an interdisciplinary field that combines insights from psychology and economics to study how cognitive biases and heuristics influence decision-making. Behavioral economists examine how incentives interact with psychological factors to shape behavior.
 6. **Information Asymmetry**: In situations where one party has more information than another, incentives can mitigate adverse selection and moral hazard problems. Mechanisms such as signaling, screening, and disclosure are employed to address information asymmetry.
 
-Understanding the economics of incentives is essential for policymakers, businesses, and individuals seeking to design effective incentive schemes, regulate markets, and promote desirable economic outcomes.
+## Incentive Structure
+
+- [ ]  **Incentive Alignment as a Framework**
+- Incentives are assumed not discovered?
+- Incentives are static; not dynamic !!!
+- Is "incentive alignment" the right abstraction to solve this?
+- Potential strengths:
+   - Clarifies trade-offs between individual/collective goals.
+   - Forces explicit design of rewards/punishments.
+- Potential gaps:
+   - Overlooks intrinsic motivation or cultural factors.
+   - Assumes rational actors (may not account for behavioral biases).
+- Alternatives: "Goal congruence," "systems alignment," or "value coherence."
 
 ## References
 

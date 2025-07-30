@@ -317,4 +317,5 @@ During the Meiji period (1868–1912), the Japanese government established numer
 - https://en.wikipedia.org/wiki/Taish%C5%8D_era
 - https://en.wikipedia.org/wiki/Japan_Industrial_Partners
 - https://en.wikipedia.org/wiki/National_Research_and_Development_Agency_(Japan)
-- ...
+- [Sogo shosha](https://en.wikipedia.org/wiki/Sogo_shosha). Trading Companies ; Tool used by Japan to Increase Exports.
+-

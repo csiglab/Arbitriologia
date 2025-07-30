@@ -5,6 +5,7 @@
 > General tools to model and analyze in [Locus Instrumentorum](../Locus-Instrumentorum/).
 
 - Thinking: How to improve the national capacity for policy thinking to reduce mere imitation?
+- Is the idea of a grand strategy useful? What exactly is a grand strategy, and does anyone truly have one?
 
 ## Problem Space
 

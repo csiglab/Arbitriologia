@@ -47,3 +47,5 @@
 ## References
 
 - [Knowledge System](../../Locus-Realitatis/Intersection/Knowledge-System/)
+- [Colegio de España en París](https://es.wikipedia.org/wiki/Colegio_de_Espa%C3%B1a_en_Par%C3%ADs)
+- [List of Vocational Colleges in the United States](https://en.wikipedia.org/wiki/List_of_vocational_colleges_in_the_United_States)
