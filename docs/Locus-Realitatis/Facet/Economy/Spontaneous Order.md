@@ -2,6 +2,10 @@
 
 > …
 
+QA:
+
+- Can a complex industry in which there is external competition be develop without any policy intervention?
+
 ## References
 
 - [Spontaneous order](https://en.wikipedia.org/wiki/Spontaneous_order)

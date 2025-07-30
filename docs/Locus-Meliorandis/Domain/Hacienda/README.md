@@ -1,7 +1,5 @@
 # Fiscal Policy
 
-: 13
-
 > **Fiscal Policy**: Fiscal policy involves using government spending, taxation, and borrowing to influence the economy. The aim is to control inflation, promote economic growth, and address social and economic issues such as unemployment and income inequality.
 > 
 

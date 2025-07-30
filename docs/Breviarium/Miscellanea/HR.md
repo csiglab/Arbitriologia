@@ -1,9 +1,6 @@
 # Human Resources (HR)
 
-: 20
-
 > Human resources (HR) management involves various models and frameworks that organizations use to understand and manage their workforce effectively.
-> 
 
 Here are some commonly recognized **HR Models**:
 
