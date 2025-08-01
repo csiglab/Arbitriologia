@@ -8,7 +8,7 @@
 
 > This framework approaches the regime as a multi-level complex system comprising interrelated subsystems: the party-state organizational structure, decision-making processes, ideological narratives, social constituencies, and the external environment. Modeling these elements requires integrating methodologies such as agent-based modeling, systems dynamics, game theory, and control theory to capture emergent properties such as elite circulation, power redistribution, and regime metastability.
 
-> The foundational assumptions underpinning the model are derived from historical materialism, elite theory, and complex systems science, emphasizing causal relations without normative prescriptions. The model seeks to reproduce key historical patterns—including centralized authority, factionalism, purges, and adaptation to crises—and to provide a platform for simulation and analysis of regime evolution under varied scenarios.
+> The foundational assumptions underpinning the model are derived from historical materialism, elite theory, and complex systems science, emphasizing causal relations without normative prespcriptions. The model seeks to reproduce key historical patterns—including centralized authority, factionalism, purges, and adaptation to crises—and to provide a platform for simulation and analysis of regime evolution under varied scenarios.
 
 > Ultimately, this framework aims to provide a systematic, empirically grounded, and analytically tractable tool for understanding the internal logic and resilience of Marxist-Leninist political regimes, offering insights relevant to political scientists, historians, and computational modelers.
 

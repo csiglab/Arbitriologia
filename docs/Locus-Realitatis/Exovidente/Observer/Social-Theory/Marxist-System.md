@@ -1,9 +1,8 @@
 # Marx System
 
-: 11
-
 > The **Marx System**, in a technical and rigorous sense, refers to the **political-economic framework** articulated by Karl Marx, primarily in *Das Kapital* and related works, for analyzing the dynamics of **capitalist modes of production**.
-> 
+
+> A religion (Ideology Masquerading as Science) born from a rigid cognitive framework, and an inability to imagine worlds beyond one’s own conception of "communist societies" — marked by a lack of self-criticism and ideological inflexibility.
 
 ## Index
 
