@@ -18,13 +18,105 @@
 
 > “In the short run, the market is a voting machine but in the long run it is a weighing machine.” — Ben Graham.
 
-## Índice
+## Breviarum
 
-## Goals or Side-Effects of the Market System
+A market is a social coordination system in which actors exchange goods, services, or rights through structured interactions governed by explicit and implicit rules.
 
-The market system, often associated with market economies, serves various functions that contribute to the allocation of resources, distribution of goods and services, and overall economic coordination. 
+- Purpose: Efficient allocation of resources, information, and effort.
+- Mechanism: Price signals, institutional rules, and behavioral incentives.
 
-Here is a table summarizing the functions of the market system:
+Lenses:
+
+| **Lens**             | **Key Focus**                                                 |
+| -------------------- | ------------------------------------------------------------- |
+| **Microeconomic**    | Supply, demand, pricing, firm behavior                        |
+| **Institutional**    | Rules of the game: contracts, enforcement, policy             |
+| **Behavioral**       | Irrationality, heuristics, bounded rationality                |
+| **Network/Systemic** | Emergent properties, contagion, robustness, feedback loops    |
+| **Historical**       | Evolution of markets, path dependency, state-market interplay |
+| **Sociological**     | Trust, reputation, norms, power asymmetries                   |
+
+What a market is not:
+
+| **Misconception**        | **Why It’s Limited**                                         |
+| ------------------------ | ------------------------------------------------------------ |
+| “Just supply and demand” | Ignores institutions, power, and real-world frictions        |
+| “A place”                | It’s a process and structure, not necessarily a location     |
+| “Natural”                | Markets are designed, regulated, and historically contingent |
+| “Efficient by default”   | Many markets fail due to asymmetries, monopolies, or crises  |
+
+
+## Ontology
+
+> A structured conceptualization of markets as emergent economic coordination systems composed of actors, institutions, rules, interactions, and artifacts.
+
+| **Ontological Element**   | **Description**                                                               | **Instance(s)**                                                    | **Decomposition**                                              |
+| ------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
+| **Interaction Unit**      | Basic unit capable of making decisions and engaging in market interactions    | A consumer; a firm; a trading algorithm                            | N/A                                                            |
+| **Interaction**           | Event or process of economic exchange or coordination between units           | A purchase; a contract negotiation; an auction                     | N/A                                                            |
+| **Regulation**            | Norms, rules, and institutions governing market behavior                      | Contract law; trade tariffs; SEC regulations                       | N/A                                                            |
+| **State**                 | Structural configuration of market elements at a given time                   | Monopoly; competitive market; two-sided platform market            | N/A                                                            |
+| **Tagging System**        | Mechanisms for assigning identities, roles, or values (e.g., price, brand)    | Barcodes; price labels; user ratings                               | N/A                                                            |
+| **Dynamics**              | Temporal patterns, feedback mechanisms, and change processes in markets       | Price adjustments; entry-exit of firms; speculative bubbles, External Shock, Information Flow, Strategic Behavior, Adaptation  | N/A                                                            |
+| **Environment**           | External social, technical, or institutional context embedding the market     | Digital infrastructure; political regime; cultural norms           | N/A                                                            |
+| **Offer**                 | Proposal by an actor to exchange a good/service under certain terms           | An Amazon listing; a seller’s ad; a labor contract proposal        | → Interaction Unit + Interaction + Tagging System              |
+| **Demand**                | Expressed desire for a good/service under certain conditions                  | Consumers wanting smartphones; demand for EVs                      | → Interaction Unit + Tagging System + Environment              |
+| **Supply**                | Aggregate of goods/services offered under given conditions                    | Inventory of rice; oil production in OPEC countries                | → Offer + State + Dynamics                                     |
+| **Preference**            | Internal ordering of options or outcomes by an actor                          | A consumer preferring Coke over Pepsi                              | → Interaction Unit + Tagging System + Environment              |
+| **Valuation**             | Assignment of subjective or systemic value to an object                       | An investor’s valuation of a startup; an appraiser's housing price | → Tagging System + Environment + Interaction Unit              |
+| **Price**                 | Agreed or posted numerical value representing exchange terms                  | \$19.99 price tag; spot price of gold                              | → Tagging System + Regulation + Interaction                    |
+| **Bidding**               | Structured offer in competitive or negotiated exchange                        | eBay auction; IPO share bids                                       | → Offer + Regulation + Dynamics                                |
+| **Negotiation**           | Iterative communication aimed at agreement on exchange terms                  | Union contract talks; supplier pricing negotiations                | → Interaction + Regulation + Dynamics                          |
+| **Market Actor**          | Entity participating in market activity (e.g., consumer, firm, broker)        | Apple Inc.; Uber driver; mutual fund                               | → Interaction Unit + Tagging System + State                    |
+| **Market Institution**    | Formal or informal structure that shapes repeated interactions                | NYSE; World Trade Organization; farmer’s cooperative               | → Regulation + State + Environment                             |
+| **Market Mechanism**      | Structured procedure or rule set for coordinating offers and bids             | Double auction; fixed-price sale; matching algorithm               | → Regulation + Interaction + Tagging System                    |
+| **Transaction**           | Exchange of goods/services for compensation between actors                    | Buying coffee; paying for a Netflix subscription                   | → Interaction Unit + Interaction + Tagging System              |
+| **Price System**          | A tagging and signaling system for valuation and allocation                   | Commodity markets; carbon pricing mechanisms                       | → Tagging System + Interaction + Dynamics                      |
+| **Competition**           | Dynamic interaction where multiple actors strive for favorable positions      | Rivalry between airlines; price wars                               | → Dynamics + Interaction + State                               |
+| **Market Structure**      | Pattern of actor types, interaction forms, and distribution of roles          | Oligopoly; platform economy                                        | → State + Tagging System + Regulation                          |
+| **Information Asymmetry** | Unequal distribution of relevant market knowledge between actors              | Insider trading; used car market                                   | → Tagging System + Environment + Regulation                    |
+| **Trust**                 | Expectation of consistent, rule-abiding behavior in transactions              | Trusted seller on Amazon; brand reputation                         | → Regulation + Tagging System + Environment                    |
+| **Market Failure**        | Condition where allocation via market is suboptimal or breaks down            | Pollution externality; health insurance adverse selection          | → Dynamics + State + Environment + Regulation                  |
+| **Market Design**         | Deliberate shaping of rules and mechanisms to achieve desired market outcomes | FCC spectrum auctions; kidney exchange market                      | → Regulation + Market Mechanism + Environment + Tagging System |
+|**Market Saturation**|A condition in which existing supply meets or exceeds potential demand, limiting growth|Smartphone market in developed countries; soda market in the U.S.|→ Demand + Supply + Dynamics + State|
+
+## Market Space
+
+> The **Market Space** is the set of all possible market configurations—that is, all empirically or theoretically conceivable systems of structured economic coordination among interaction units through regulated interactions, institutions, mechanisms, and signaling systems within specific environments.
+
+### Dimension
+
+| **Dimension**              | **Description**                                                                                        | **Instance(s)**                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **Interaction Unit Type**  | Types of autonomous agents capable of participating in market activity and making economic decisions   | Consumers, firms, cooperatives, state agencies, algorithms       |
+| **Interaction Form**       | Modalities through which agents engage in economic exchange or coordination                            | Spot trades, auctions, negotiations, bartering, contracts        |
+| **Regulatory Structure**   | Institutional, legal, normative, or algorithmic frameworks constraining and shaping behavior           | Free markets, centralized planning, platform governance          |
+| **State Configuration**    | Structural organization and distribution of roles and positions within the market                      | Monopoly, oligopoly, perfect competition, two-sided platforms    |
+| **Tagging System**         | Systems used to label, value, or classify agents, goods, or services                                   | Prices, brand names, certification marks, user ratings           |
+| **Dynamics**               | Processes of adaptation, feedback, learning, and transformation over time within the market            | Boom-bust cycles, innovation diffusion, price equilibration      |
+| **Environment**            | External context embedding the market, including technological, institutional, and cultural conditions | Digital ecosystems, regulatory regimes, informal economies       |
+| **Coordination Mechanism** | Mechanisms—formal or emergent—that organize and align offers and demands                               | Price systems, matching algorithms, queuing, rationing           |
+| **Information Regime**     | Distribution, accessibility, and quality of information available to market participants               | Transparent markets, insider trading, signal distortion          |
+| **Mechanism**              | Concrete institutional or algorithmic process that operationalizes coordination and exchange           | Continuous double auction, Vickrey auction, posted-offer pricing |
+| **Traded Object**          | The good, service, right, or abstract entity that is being exchanged                                   | Commodities, labor, financial derivatives, personal data         |
+| **Scope**                  | The geographical, temporal, or sectoral boundaries within which the market operates                    | Global grain market, local housing market, short-term rentals    |
+
+### Typology
+
+| **Type**                    | **Core Features**                                                         | **Instance(s)**                                      |
+| --------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Commodities Market**      | Homogeneous goods; price-based competition; low transaction customization | Oil, gold, wheat                                 |
+| **Financial Market**        | Intertemporal value exchange; speculative dynamics; high velocity         | Stock markets, bond markets, derivatives         |
+| **Labor Market**            | Matching of work supply and demand; contracts; human capital signaling    | Hiring platforms, unionized industries           |
+| **Digital Platform Market** | Two-sided or multi-sided interaction; data-driven coordination            | Uber, Amazon Marketplace, Google Ads             |
+| **Informal Market**         | Weak regulation, trust- or reputation-based enforcement                   | Street vendors, local barter systems             |
+| **Planned Market**          | Centralized resource allocation and control; regulated pricing mechanisms | Public healthcare procurement, wartime rationing |
+
+## Function
+
+> What 'problems' does the market solves?'
+
+> The market system, often associated with market economies, serves various functions that contribute to the allocation of resources, distribution of goods and services, and overall economic coordination.
 
 | **Function** | **Description** |
 | --- | --- |
@@ -43,12 +135,9 @@ Here is a table summarizing the functions of the market system:
 | Income Distribution | Determines income distribution based on skills, education, and contribution to production, reflecting a meritocratic principle. |
 | Economic Growth | Fosters competition, innovation, and efficient resource allocation, contributing to overall economic growth and development. |
 
-## Information and Markets
+## Information Flow
 
 > The role of markets in efficiently distributing information about goods, services, and resources to economic agents, including buyers, sellers,  and investors. In this context, the market acts as a mechanism that  conveys valuable information in a decentralized manner.
-> 
-
-Here is a table summarizing the roles of markets in efficiently distributing information:
 
 | **Role** | **Description** |
 | --- | --- |
@@ -65,10 +154,20 @@ Here is a table summarizing the roles of markets in efficiently distributing inf
 
 This table captures the various roles that markets play in efficiently distributing information to economic agents, highlighting both market mechanisms' benefits and potential limitations.
 
+## Market Form
+
+| **Market Form**          | **Description**                                            |
+| ------------------------ | ---------------------------------------------------------- |
+| **Spot Market**          | Immediate transactions at current price                    |
+| **Auction Market**       | Prices formed through competitive bidding                  |
+| **Bilateral Bargaining** | Negotiated deals between two parties                       |
+| **Matching Market**      | Allocation via centralized or decentralized matching rules |
+| **Commanded Market**     | Resource allocation with strong state presence or rules    |
+
+
 ## Market Structure
 
 > Market structure refers to the characteristics of a market that determine the level of competition and the behavior of firms operating in the market.
-> 
 
 The four main types of market structures are:
 
@@ -79,6 +178,14 @@ The four main types of market structures are:
 | Oligopoly | A few large firms produce homogeneous or differentiated products with high barriers to entry and exit. Firms have significant market power and can influence prices through strategic behavior. | Few | Homogeneous/Differentiated | High | Significant |
 | Monopoly | A single firm produces a unique product or service with high barriers to entry and exit. The monopolist has complete market power and can set the price of its product or service. | One | Unique | High | Complete |
 
+## Market Saturation
+
+> Excessive capacity for production or services in relation to demand.
+
+> **Industrial competition** refers to the rivalry or competition between companies or firms within a particular industry.
+
+> "**Excessive competition**" refers to a situation where the intensity or aggressiveness of rivalry among competitors surpasses healthy or sustainable levels, potentially leading to negative consequences such as market inefficiency or harm to participants.
+>
 ## References
 
 - Simon, Herbert A. 1991. “Organizations and Markets.” Journal of Economic Perspectives 5:25–44.
@@ -109,3 +216,4 @@ The four main types of market structures are:
 - Stiglitz, Joseph E., and Andrew Weiss. "Credit rationing in markets with imperfect information." The American economic review 71.3 (1981): 393-410.
 - Armstrong, Mark. "Competition in two‐sided markets." The RAND journal of economics 37.3 (2006): 668-691.
 - [Produceologia/Market](https://github.com/csiglab/Produceologia/tree/main/docs/Market).
+- Cao, Jianhai. "Is Competition Always Effective?: The Theoretical Basis of Excessive Competition." Chinese economy 41.4 (2008): 77-104.

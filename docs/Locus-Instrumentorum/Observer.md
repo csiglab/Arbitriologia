@@ -1,4 +1,4 @@
-# Exovidente
+# External Observer
 
 > Exovidente - exo- (fuera) + vidente - Neologismo.
 
@@ -39,6 +39,41 @@
 |                          | Rural Development                | Livelihoods, infrastructure, and services in rural areas                         | Agricultural and territorial policy                                                         |
 | 🛰️ Strategic & Security  | Strategic Studies                | National security, defense, geopolitics, and conflict                            | Defense policy, cybersecurity, sovereignty                                                   |
 |                          | Migration Studies                | Population movement, integration, and demographic change                         | Immigration, labor market, urban and social policy                                          |
+
+## Meta Ontological Framework
+
+> An **ontology** is a formal and systematic representation of concepts, categories, and relationships within a particular domain of knowledge.
+
+> aka. Second Order Ontology.
+
+> Remember: The position of a researcher is that of an external observer. Be explicit about the observer’s position to properly localize reflexivity.
+
+> A Meta-Ontological Framework is a structured system for defining, organizing, and relating the fundamental building blocks of social reality. It operates at a higher level of abstraction than domain ontologies, providing the rules, categories, and compositional logic through which social entities and processes are identified, classified, and constructed.
+
+> This framework serves as a meta-structural foundation for modeling, simulating, and analyzing complex social systems — such as institutions, cities, power structures, roles, norms, and identities — in a rigorous and composable way.
+
+> This enables rigorous modeling, comparison, and reasoning about social phenomena at multiple levels of abstraction.
+
+| **Component**                  | **Aspect**             | **Description / Options**                                                                                                  |
+| ------------------------------ | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **🏷️ Ontological Type**        | 🏛️ Type                | \[e.g., Derivative Abstraction (...), Basic Primitive (...)                                    ]                           |
+|                                | 📝 Description         | \[E.g., human settlement with boundaries and governance; biological ecosystem with species interactions; corporate entity] |
+| **🧩 Ontological Composition** | 🏗️ Basic Composition   | \[E.g., Interaction Units + Organizational Units + Regulation + State + Symbolic System; Components + Agents + Processes]  |
+| **🎯 Functional Role**         | ⚙️ Functions           | \[E.g., Economic hub, cultural center, transportation node, governance unit; Resource processor; Decision-making unit]     |
+| **🔍 Epistemic Layer**         | 👁️ External Observer   | \[E.g., Urban planners, researchers, government agencies, citizens; Scientists, sensors, data analytics systems]           |
+|                                | 🔄 Entity Reflexivity  | \[E.g., Self-governance mechanisms, community feedback loops, participatory planning; Homeostasis, adaptive feedback]      |
+
+### Case Study City
+
+| **Component**                  | **Aspect**             | **Description**                                                                                               |
+| ------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **🏷️ Ontological Type**        | 🏛️ Type                | *Derivative Structured Entity*                                                                                |
+|                                | 📝 Description         | A human settlement characterized by defined boundaries, governance structures, infrastructure, and population |
+| **🧩 Ontological Composition** | 🏗️ Basic Composition   | Interaction Units + Organizational Units + Regulation + State + Symbolic System                               |
+| **🎯 Functional Role**         | ⚙️ Functions           | Economic hub, social organization, cultural center, transportation node, governance unit                      |
+| **🔍 Epistemic Layer**         | 👁️ External Observer   | Urban planners, researchers, government agencies, citizens                                                    |
+|                                | 🔄 Entity Reflexivity  | Self-governance mechanisms, community feedback loops, participatory planning processes                        |
+
 
 ## Conceptual Framework
 
@@ -95,17 +130,16 @@
 
 > Note: A **social process** is a sequence or pattern of relational events and interactions among Interaction Units that collectively produce, reproduce, or transform social structures and realities over time. Social processes encompass communication, cooperation, conflict, adaptation, and other dynamic activities through which social order emerges and evolves.
 
-> TODO Need to Add Objects
-
 | Ontological Element         | Description                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------ |
 | **Interaction Unit**        | Actors (individuals, groups, basic or compound)                                |
 | **Interaction**             | Relational events/processes between Interaction Units                          |
-| **Regulation**              | Share behavioral protocols  by interactoni units                               |
+| **Regulatory**              | Share behavioral protocols  by interactoni units                               |
 | **State**                   | Representation of the system’s condition or status                             |
 | **Tagging System**          | Semantic or interpretive labeling of the state                                 |
-| **Dynamical**               | Phenomena representing observable events and transformations within the system |
+| **Dynamics**               | Phenomena representing observable events and transformations within the system |
 | **Environment**             | External context or conditions influencing the system                          |
+| **Object**                  | Persistent entities (material or symbolic) that can be referenced, manipulated, or interpreted by interaction units, often mediating or stabilizing social practices (e.g., contracts, tools, texts, money, buildings).|
 
 ### Interaction Unit
 
@@ -251,3 +285,4 @@ In this framework, regulation is thus both a foundational ontological element pr
 - [Economics](https://en.wikipedia.org/wiki/Economics)
 - [Locus Instrumentorum](/Locus-Instrumentorum)
 - [Observer](https://righteous-guardian-68f.notion.site/Observer-1b1c0f5171ec80148f4df70414144ed3)
+- [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723)

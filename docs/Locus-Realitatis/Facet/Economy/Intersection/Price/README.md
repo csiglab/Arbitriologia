@@ -1,11 +1,8 @@
-# Price System
+# Price
 
-: 12
+> . ...
 
-> …
-> 
-
-## Prices
+## Price
 
 **Prices** play several essential functions in an **economy**. Here are some of the main ones:
 
@@ -18,7 +15,7 @@ Here’s a table summarizing the essential functions of prices in an economy:
 | **Encourage Innovation and Efficiency** | High prices incentivize producers to innovate and improve efficiency, driving the development of new products and cost-effective production methods. |
 | **Stabilize Markets** | Prices help stabilize markets by adjusting to excess supply or demand. They encourage consumers and producers to alter their behavior, thus balancing the market. |
 
-## Theory of Prices
+## Theory of Price
 
 Certainly! Here's a table outlining various theories of prices of goods and services, along with a brief description of each:
 
@@ -41,6 +38,10 @@ Certainly! Here's a table outlining various theories of prices of goods and serv
 
 This table summarizes various theories explaining how prices of goods and services are determined in different economic frameworks. Feel free to ask if you need further details on any specific theory!
 
+## Price System
+
+## Price Discovery
+
 ## References
 
 - Heal, G. M. (1969). Planning Without Prices. *The Review of Economic Studies*, *36*(3), 347–362.
@@ -50,4 +51,3 @@ This table summarizes various theories explaining how prices of goods and servic
 [https://www.jstor.org/stable/2527170](https://www.jstor.org/stable/2527170)
 - https://en.wikipedia.org/wiki/Price_stability
 - https://en.wikipedia.org/wiki/Relative_price
-- ‣

@@ -53,6 +53,17 @@ proto-credit systems
 
 > A **liquidity trap** occurs when **interest rates** are very low, and monetary policy becomes ineffective because people prefer holding cash over investing or spending, leading to stagnated economic growth despite increases in the money supply.
 
+## Reserve Currency
+
+> ...
+
+## Fiscal Dominance
+
+Fiscal dominance is when a government's budgetary policy dominates a central bank's monetary policy in a country. This means that the government’s spending and taxation decisions significantly impact the country’s economy and can even override the central bank’s monetary policy decisions.
+
+In a fiscally dominant situation, the central bank may not have the independence to control inflation and interest rates as it would like to because it must coordinate with the government’s fiscal policy. This can lead to macroeconomic imbalances and instability, as the central bank may have to pursue policies that are not optimal for the economy to maintain harmony with the government’s fiscal objectives.
+
+Fiscal dominance is generally considered undesirable, as it can lead to inflationary pressures, high levels of public debt, and economic instability. Central banks typically aim to maintain their independence from fiscal policy to pursue their monetary policy objectives effectively.
 
 ## References
 
@@ -69,3 +80,4 @@ proto-credit systems
 [https://academic.oup.com/restud/article/87/6/2754/5834728?searchresult=1](https://academic.oup.com/restud/article/87/6/2754/5834728?searchresult=1)
 - [Liquidity Trap](https://en.wikipedia.org/wiki/Liquidity_trap)
 - [Monetary System](https://en.wikipedia.org/wiki/Monetary_system)
+- [Fiscal Dominance: How Worried Should We Be?](https://www.mercatus.org/research/policy-briefs/fiscal-dominance-how-worried-should-we-be)

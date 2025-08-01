@@ -54,6 +54,10 @@ Functions:
 | **Mobility & Transferability** | Must be transferable across agents, institutions, and spaces.                                                                                    |
 | **Trust Dependence**           | Operates only when agents trust its value will be accepted by others in the future.                                                              |
 
+## Currancy
+
+-
+
 
 ## References
 
@@ -68,3 +72,5 @@ Functions:
 - https://en.wikipedia.org/wiki/Coin
 - https://en.wikipedia.org/wiki/Money
 - International Economy
+- Naked Money.
+- [Digital Currency](https://en.wikipedia.org/wiki/Digital_currency)

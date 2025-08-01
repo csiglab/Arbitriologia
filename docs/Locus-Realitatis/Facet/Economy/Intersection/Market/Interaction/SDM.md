@@ -1,8 +1,5 @@
 # Supply/Demand Model
 
-: 19
-Tags: Economics
-
 > **The Supply/Demand toy model** a theory of **economic exchange;** production and consumption.
 > 
 
@@ -13,7 +10,7 @@ Tags: Economics
 > 
 
 > Supply creates it’s on demand - Say Law (It’s not a lot but is something that happens in many cases; when we need to find better ways to produce; make the supply happens; meaning this is new demand  to be used in the supply process).
-> 
+>
 
 QA:
 
@@ -48,6 +45,36 @@ Here are the critical aspects of demand elasticity:
 1. **Price Elasticity of Demand** measures how much the quantity demanded of a product changes in response to a change in its price. If the quantity demanded changes significantly with a slight price change, the demand is considered "elastic." If the quantity demanded changes little despite price changes, it is considered "inelastic."
 2. **Income Elasticity of Demand**: This describes how the quantity demanded of a good changes as consumer income changes. Goods for which demand increases more proportionately as income increases are called "normal goods," and have a positive income elasticity. Those for which demand decreases as income increases are termed "inferior goods," and have a negative income elasticity.
 3. **Cross Elasticity of Demand**: This measures how the quantity demanded of one good changes in response to a change in the price of another good. It helps identify the relationships between products, distinguishing between substitutes and complements. For substitutes, the cross elasticity is positive (as the price of one increases, the demand for the other also increases). For complements, it is negative (as the price of one increases, the demand for the other decreases).
+
+## Breviarium
+
+- Supply/Demand is a coordination model or exchange mechanism model.
+- It represents how Interaction Units (buyers and sellers) adjust behavior based on price signals under constraints (budget, production capacity).
+- It requires supporting institutions (markets), artifacts (prices, contracts), and regulations.
+
+| **Short Name**        | **Ontological Framing**                                 |
+| --------------------- | ------------------------------------------------------- |
+| **Exchange Function** | Emphasizes functional relation between actors and price |
+| **Market Matching**   | Suggests dynamic matching of offers and wants           |
+| **Flow Equilibrium**  | Abstracts to flows of goods/services                    |
+| **Offer-Seek Model**  | Neutral naming of agent interaction                     |
+
+## Model Card
+
+| **Type**                          | **Explanation**                                                                    |
+| --------------------------------- | ---------------------------------------------------------------------------------- |
+| **Economic Model**                | It simplifies reality to explain how buyers and sellers interact.                  |
+| **Equilibrium Model**             | It assumes a point where supply equals demand — the "market-clearing" price.       |
+| **Microeconomic Model**           | Applies to individual markets (e.g. apples, labor, housing).                       |
+| **Static (in basic form)**        | Basic versions don't account for time or dynamics (though dynamic versions exist). |
+| **Deterministic (in basic form)** | It assumes outcomes are fully determined by the model's parameters.                |
+
+## Model Structure
+
+- Demand Curve: Shows how quantity demanded changes with price (usually downward sloping).
+- Supply Curve: Shows how quantity supplied changes with price (usually upward sloping).
+- Equilibrium: Where the two curves intersect — determines market price and quantity.
+- Shocks: External changes (e.g. taxes, technology, preferences) can shift supply/demand.
 
 ## Demand
 
