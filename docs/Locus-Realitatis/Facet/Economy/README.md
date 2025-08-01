@@ -1,7 +1,5 @@
 # Economic Reality
 
-> Ontology; Epistemology; Causality; Modality; ...
-
 > An **economy** is a network of interacting agents: individuals, firms, gov agencies and R & D agents that engage in performing action from their action space using a set of public goods  enablers.
 
 > **"Economy"** is a troublesome word because we use it colloquially to refer to the market economy we're familiar with today, and its various studied trappings - rational actors, market equilibrium, macroeconomic policies, etc. But so much of it consists of socially constructed elements - ownership, dealmaking, invention, regulation, taxation, etc. - that an economic model is always a form of interpretation, an attempt to confine a
