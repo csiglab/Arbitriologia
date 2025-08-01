@@ -86,6 +86,8 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 
 > See more in [Exovidente](./../../Exovidente/).
 
+> Note: Epistemological entries will be classified under the category `Observer`.
+
 > Internal Observer: First-person perspective monitoring one's own mental processes and experiences.
 
 > External Observer: Third-person perspective examining cognitive processes from outside the system.

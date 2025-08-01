@@ -2,7 +2,7 @@
 
 > The domain of material and structural reality—the interplay between the social system and its surrounding environment.
 
-## Ontological Framework
+## Ontology (The Observed)
 
 > This **framework** is **applied recursively** to the lowest levels of social reality, as well as to more **derivative elements such as cultural, economic, political, and other domains**.
 
@@ -28,6 +28,8 @@
 |                   | Organizational Unit 🏢       | Structured actor with internal rules and identity                       | Interaction Unit + Regulation + State              |
 |                   | Systemic Transformation 🔄   | Structural change in system state via interactions                      | Phenomena (Change) + State + Interaction           |
 |                   | Symbolic System 🔣           | Full set of labels and interpretive frames used                         | Tagging System + Interaction Unit                  |
+
+## Epistemology (Observer)
 
 ## References
 

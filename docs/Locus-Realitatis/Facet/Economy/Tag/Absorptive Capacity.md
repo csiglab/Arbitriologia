@@ -1,17 +1,12 @@
 # Absorptive Capacity
 
-: 19
-
 > How to bring foreign knowledge (technology) to the local economy?
-> 
-
-> Capacity Building.
-> 
 
 > **Absorptive capacity** refers to an organization's ability to acquire, assimilate, and apply new knowledge effectively.
-> 
 
-¿Is firm **x** capable of adopting technology or process **y**?
+> ¿Is firm **x** capable of adopting technology or process **y**?
+
+> Capacity Building.
 
 ## References
 

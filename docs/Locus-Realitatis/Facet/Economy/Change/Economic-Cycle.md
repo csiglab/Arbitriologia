@@ -75,3 +75,4 @@ Overall, the origins of the economic cycle are deeply rooted in historical patte
     - https://es.wikipedia.org/wiki/Carlota_Pérez (Reelaboracion de la Honda de Kondratiev)
 - https://www.newyorkfed.org/research/staff_reports/sr554.html
 - https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium
+- https://en.wikipedia.org/wiki/Real_business-cycle_theory

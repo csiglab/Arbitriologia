@@ -4,11 +4,17 @@
 
 > How to make the civil service as smaller as possible? How to move as much worker as possible to private law?
 
+- Training
+- State HR
+- Selection
+- Devinculacion
+- Work Though the State
+- Promotion and Carrier Path
+
 State HR:
 
 - Civil Service → What is the Civil Service?
 - …
-
 - Constitutional/Legal Mandate: Ensure the civil service is protected and guided by law.
 - Independent Oversight Bodies: Establish commissions (e.g., civil service commissions, ombudsman) to enforce neutrality and fairness.
 - Merit-Based Recruitment and Promotion
@@ -56,7 +62,51 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 4. **Profesionales en el ámbito educativo**: Como los **profesores** o **catedráticos universitarios**, quienes deben aprobar oposiciones para acceder a cargos permanentes en instituciones educativas públicas.
 5. **Otros cargos especializados**: Dependiendo del país y la estructura administrativa, también pueden existir tribunales de oposición para seleccionar **técnicos especializados**, como economistas, ingenieros o científicos en organismos públicos.
 
+
+
 ## References
 
+- https://muse.jhu.edu/article/640275
+- Institut National du Service Public
+- [Australia and New Zealand School of Government](https://en.wikipedia.org/wiki/Australia_and_New_Zealand_School_of_Government)
+- [State Capacity](https://en.wikipedia.org/wiki/State_capacity)
+- [European Institute of Public Administration](https://www.eipa.eu/)
+- https://en.wikipedia.org/wiki/Vestiarion
+- https://en.wikipedia.org/wiki/Merit_pay
+- https://en.wikipedia.org/wiki/Logothete
+- https://www.gov.uk/government/organisations/civil-service
+- https://www.psd.gov.sg/
+- https://en.wikipedia.org/wiki/Civil_service
+- https://en.wikipedia.org/wiki/Spoils_system
+- https://en.wikipedia.org/wiki/Civic_technology
+- https://en.wikipedia.org/wiki/Cursus_honorum
+- https://en.wikipedia.org/wiki/Indian_Civil_Service
+- https://en.wikipedia.org/wiki/Westminster_system
+- https://en.wikipedia.org/wiki/French_Civil_Service
+- https://en.wikipedia.org/wiki/Imperial_examination
+- https://en.wikipedia.org/wiki/Civil_service_of_Japan
+- https://en.wikipedia.org/wiki/Vizier_(Ancient_Egypt)
+- https://en.wikipedia.org/wiki/Singapore_Civil_Service
+- https://en.wikipedia.org/wiki/Hong_Kong_Civil_Service
+- https://en.wikipedia.org/wiki/Public_Service_of_Canada
+- https://en.wikipedia.org/wiki/Permanent_secretary_(UK)
+- https://en.wikipedia.org/wiki/East_India_Company_College
+- https://en.wikipedia.org/wiki/Civil_Service_(United_Kingdom)
+- https://www.mspb.gov/msp/meritsystemsprinciples.htm
+- https://en.wikipedia.org/wiki/Civil_service_entrance_examination
+- https://en.wikipedia.org/wiki/Pendleton_Civil_Service_Reform_Act
+- https://en.wikipedia.org/wiki/Byzantine_bureaucracy_and_aristocracy
+- [Civil Service Reform Building a Government that Works](https://www.brookings.edu/books/civil-service-reform/)
+- https://en.wikipedia.org/wiki/Pay-for-Performance_(Federal_Government)
+- https://funcionpublica.digital.gob.es/index.html
+- https://www.instituteforgovernment.org.uk/explainer/permanent-secretaries
+- https://www.argentina.gob.ar/sistema-de-evaluacion-publica
 - Bagües, M. F. (2007). Las oposiciones: análisis estadístico. *Jueces para la democracia*, *59*, 25-35.
 - https://es.wikipedia.org/wiki/Oposici%C3%B3n_(examen)
+- https://en.wikipedia.org/wiki/French_civil_service
+- https://en.wikipedia.org/wiki/%C3%89cole_nationale_d%27administration
+- https://en.wikipedia.org/wiki/The_Study_of_Administration
+- Wright, V. (1976). L'École nationale d'administration de 1848-1849: un échec révélateur. Revue historique, 255(Fasc. 1 (517), 21-42.
+- Dorn, W. L. (1931). The Prussian bureaucracy in the eighteenth century. Political Science Quarterly, 46(3), 403-423.
+- Henry, N. (2017). Paradigms of public administration. In Public Administration and Public Affairs (pp. 35-53). Routledge.
+- Xu, R., Sun, Q., & Si, W. (2015). The third wave of public administration: The new public governance. Canadian Social Science, 11(7), 11-21.

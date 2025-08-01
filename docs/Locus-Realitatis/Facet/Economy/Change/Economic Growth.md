@@ -56,6 +56,10 @@
 | **Institutional and Political Economy Perspectives** | Highlights the influence of institutions, governance, and political structures in shaping economic growth and development. |
 | **AK Model** | Combines elements of endogenous growth with a focus on the role of knowledge, technology, and capital accumulation as central to growth. |
 
+## Thirlwall's Law
+
+> ...
+
 ## References
 
 - **Nelson, R. R., & Winter, S. G. (1974).** Neoclassical versus evolutionary theories of economic growth: Critique and prospectus. *Economic Journal, 84 (336), 886–905*.
@@ -77,3 +81,4 @@
 - **Why Development Levels Differ:** The Sources of Differential Economic Growth in a Panel of High and Low-Income Countries.
 - **Goodwin, R. M. (1967).** A Growth Cycle. In C. H. Feinstein (Ed.), *Socialism, Capitalism and Economic Growth*, Cambridge.
 - **Wang, C., & Wan, Y. (2013).** Explaining the Acceleration in Economic Growth in China: A Structural Change Approach.
+- https://en.wikipedia.org/wiki/Thirlwall%27s_Law
