@@ -1,4 +1,4 @@
-# Modelling The  Marxist Lenin Political Regime
+# A Guide to Modeling a Communist Regime
 
 > **Note**: This document is currently a work in progress.
 

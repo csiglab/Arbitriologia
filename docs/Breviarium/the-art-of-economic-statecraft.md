@@ -1,10 +1,8 @@
 # The Art of Economic Statecraft
 
-Tags: Lab. Políticas de Crecimiento
-ID: PRO-68
-L: 30
-Status: Not started
-
+TODO
+- Connectic with with the problem of the observer.
+-= 
 
 ## Schools of Economic **Statecraft**
 
