@@ -1,3 +1,0 @@
-# Money Supply
-
-: 12

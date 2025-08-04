@@ -1,4 +1,4 @@
-# Economic Reality
+# Economic
 
 > An **economy** is a network of interacting agents: individuals, firms, gov agencies and R & D agents that engage in performing action from their action space using a set of public goods  enablers.
 

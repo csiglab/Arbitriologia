@@ -1,3 +1,0 @@
-# Retail Sales
-
-: 12

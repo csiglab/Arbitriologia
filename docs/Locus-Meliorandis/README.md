@@ -64,5 +64,5 @@ Case Study:
 
 ## References
 
-- [On the Emergence and Convergence of Complex Productive Ecosystems](Breviarium/on-the-emergence-and-convergence-of-complex-productive-ecosystems/)
+- [A Defense of Industrial Policy](../Breviarium/a-defense-of-industrial-policy)
 - [Locus Instrumentorum](../Locus-Instrumentorum/)

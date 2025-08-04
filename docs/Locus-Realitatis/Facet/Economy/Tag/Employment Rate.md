@@ -1,3 +1,0 @@
-# Employment Rate
-
-: 15

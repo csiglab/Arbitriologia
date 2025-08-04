@@ -1,3 +1,0 @@
-# Unemployment Rate
-
-: 17

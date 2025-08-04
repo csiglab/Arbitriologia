@@ -147,7 +147,7 @@ What is the relation of **firm characteristic** → **cost**?
 > 
 
 > How much does it cost me to solve this problem? How much the customers are willing to pay? How much value to I generated for the customers?
-> 
+>
 
 > **Business Model Canvas**: Provides a visual framework to describe, design, challenge, and pivot a business model.
 > 
@@ -446,6 +446,9 @@ A productive system includes:
 | **Industrial Policy**                  | EU-aligned innovation and SME programs            | Fragmented, politically unstable programs      |
 | **Workforce Institutions**             | Apprenticeships, retraining, unions present       | Weak links between training and production     |
 
+## Catalog
+
+> Firms; Type of Firms; ... See more in [Produceologia](https://github.com/csiglab/Produceologia/tree/main/docs/Catalog).
 
 ## References
 

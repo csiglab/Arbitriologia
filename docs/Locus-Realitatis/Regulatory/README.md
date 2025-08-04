@@ -5,3 +5,7 @@
 QA:
 
 - Does information is part of the regulatory layer?
+
+## References
+
+- [Locus -Instrumentorum/External Observer](../../Locus-Instrumentorum/Observer.md)

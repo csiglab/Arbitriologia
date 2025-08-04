@@ -1,3 +1,0 @@
-# Industrial Production
-
-: 21
