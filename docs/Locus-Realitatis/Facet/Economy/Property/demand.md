@@ -1,6 +1,38 @@
 # Demand
 
->
+**Economic demand** refers to the **willingness and ability of consumers to purchase a good or service at various prices over a given period of time**.
+
+> **Demand** is a dispositional relational property instantiated in interaction units (e.g., agents, consumers) toward economic objects (goods/services), modulated by contextual variables.
+
+## Key Components
+
+1. **Willingness** – The consumer *wants* the good or service.
+2. **Ability to pay** – The consumer has the *financial means* to make the purchase.
+3. **Price sensitivity** – Demand depends on the *price*: usually, as price falls, demand rises (all else equal).
+4. **Time frame** – Demand is always considered over a *specific time period* (e.g., per day, per year).
+5. **Ceteris paribus** – The standard analysis assumes *other factors remain constant* (e.g., income, tastes, prices of substitutes).
+
+## Formulation
+
+$$
+Q_d = f(P, I, P_s, T, E, ...)
+$$
+
+Where:
+
+* $Q_d$ = quantity demanded (demand function)
+* $P$ = price of the good
+* $I$ = income
+* $P_s$ = price of substitutes or complements
+* $T$ = tastes/preferences
+* $E$ = expectations about future prices
+
+## Types of Demand
+
+* **Individual Demand**: Demand of a single consumer.
+* **Market Demand**: Aggregate demand from all consumers in a market.
+* **Effective Demand**: Demand backed by actual purchasing power.
+* **Latent Demand**: A want or need not backed by purchasing power.
 
 ## **Conceptual Taxonomy of Demand Analysis**
 
@@ -33,15 +65,11 @@
 
 ## Aggregate Demand
 
-: 16
-
 > Aggregate demand (AD) is an **economic measure** representing the total demand for goods and services in an economy at a given overall price level and in a given period.
-> 
 
 ### Components of Aggregate Demand
 
 > The aggregate demand formula is typically represented as:  $AD = C + I + G + (X - M)$
-> 
 
 Aggregate demand is composed of the following components:
 

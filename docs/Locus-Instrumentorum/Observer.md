@@ -130,6 +130,8 @@
 
 > Note: A **social process** is a sequence or pattern of relational events and interactions among Interaction Units that collectively produce, reproduce, or transform social structures and realities over time. Social processes encompass communication, cooperation, conflict, adaptation, and other dynamic activities through which social order emerges and evolves.
 
+> Note (Property): This is basically a tag.
+
 | Ontological Element         | Description                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------ |
 | **Interaction Unit**        | Actors (individuals, groups, basic or compound)                                |
@@ -140,6 +142,7 @@
 | **Dynamics**               | Phenomena representing observable events and transformations within the system |
 | **Environment**             | External context or conditions influencing the system                          |
 | **Object**                  | Persistent entities (material or symbolic) that can be referenced, manipulated, or interpreted by interaction units, often mediating or stabilizing social practices (e.g., contracts, tools, texts, money, buildings).|
+| **Property**   | Attributes or qualities that characterize Objects, Interaction Units, or States, enabling differentiation, classification, and interpretation within the social system.|
 
 ### Interaction Unit
 
@@ -220,6 +223,16 @@ In this framework, regulation is thus both a foundational ontological element pr
 | **Emergent Coordination** | Self-Governance Formation                 | Informal coordination without central authority        |
 |                           | Polycentric Order                         | Overlapping but functioning centers of governance      |
 
+### Property
+
+> In ontology, a property is a feature, quality, attribute, or characteristic that entities—such as objects, processes, events, or states—can instantiate or possess.
+
+> Most ontological elements can have properties, making them a fundamental means of differentiating, describing, or relating entities within an ontological framework.
+
+### Metaontology
+
+> Metaontology is the study of the nature, purpose, and structure of ontology itself. It addresses foundational questions such as:
+What is ontology for? What kinds of things does it postulate? How should we construct or evaluate an ontology?
 
 ## Intermediate Ontological &  Analytical Abstraction
 
@@ -282,7 +295,5 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 ## References
 
-- [Economics](https://en.wikipedia.org/wiki/Economics)
-- [Locus Instrumentorum](/Locus-Instrumentorum)
 - [Observer](https://righteous-guardian-68f.notion.site/Observer-1b1c0f5171ec80148f4df70414144ed3)
 - [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723)
