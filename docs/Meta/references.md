@@ -37,6 +37,20 @@ Political Economy:
 
 Finance:
 
+
+- [Econometrics](https://ocw.mit.edu/courses/14-32-econometrics-spring-2007/)
+- [Game Theory](https://ocw.mit.edu/courses/14-126-game-theory-spring-2016/)
+- [Introduction to Statistical Methods in Economics](https://ocw.mit.edu/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/)
+- [Statistical Method in Economics](https://ocw.mit.edu/courses/14-381-statistical-method-in-economics-fall-2018/)
+- [Nonlinear Econometric Analysis](https://ocw.mit.edu/courses/14-385-nonlinear-econometric-analysis-fall-2007/)
+- [Psychology and Economics](https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/)
+- [Economic Applications of Game Theory](https://ocw.mit.edu/courses/14-12-economic-applications-of-game-theory-fall-2012/)
+- [Dynamic Optimization & Economic Applications (Recursive Methods)](https://ocw.mit.edu/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/)
+- [Dynamic Optimization Methods with Applications](https://ocw.mit.edu/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/)
+- [Econometrics](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/)
+- [Introduction to Statistical Method in Economics](https://ocw.mit.edu/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/)
+- [Time Series Analysis](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/)
+
 - [Economic Crises](https://ocw.mit.edu/courses/14-454-economic-crises-spring-2011/)
 - [Economic History of Financial Crises](https://ocw.mit.edu/courses/14-71-economic-history-of-financial-crises-fall-2009/)
 

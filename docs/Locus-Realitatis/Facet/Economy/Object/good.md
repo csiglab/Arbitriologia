@@ -46,6 +46,11 @@ Here's a table that summarizes the different types of goods based on various cla
 | **Use** | Intermediate Goods | Used as inputs in the production of other goods | Steel, Components |
 |  | Final Goods | Consumed by the end-user | Finished Products, Books |
 
+## Complementary Goods
+
+> ...
+
+
 ## References
 
 - [Service](https://www.notion.so/Service-17ac0f5171ec81d4af7fc9c0103606a3?pvs=21)

@@ -80,6 +80,10 @@ What a market is not:
 | **Market Design**         | Deliberate shaping of rules and mechanisms to achieve desired market outcomes | FCC spectrum auctions; kidney exchange market                      | → Regulation + Market Mechanism + Environment + Tagging System |
 |**Market Saturation**|A condition in which existing supply meets or exceeds potential demand, limiting growth|Smartphone market in developed countries; soda market in the U.S.|→ Demand + Supply + Dynamics + State|
 
+## Interaction
+
+> ...
+
 ## Market Space
 
 > The **Market Space** is the set of all possible market configurations—that is, all empirically or theoretically conceivable systems of structured economic coordination among interaction units through regulated interactions, institutions, mechanisms, and signaling systems within specific environments.

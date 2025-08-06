@@ -1,12 +1,7 @@
 # Trade
 
-: 5
-
 > Trade is the exchange of **goods and services** between individuals or entities, typically involving buying and selling to meet mutual needs or desires.
 
-## Trade
-
-- https://www.nber.org/papers/w24886
 
 ### Trade Accountings
 
@@ -86,3 +81,5 @@
 - Dutch Disease Model (Corden-Neary, 1982)
 
 ## References
+
+- https://www.nber.org/papers/w24886

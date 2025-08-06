@@ -1,9 +1,6 @@
 # Synergy
 
-: 7
-
 > Synergy, in the context of industrial ecosystems, refers to the cooperative interactions and mutual benefits that arise when different elements within the ecosystem collaborate and work together more effectively than they would individually.
-> 
 
 ## Modeling Synergies
 
