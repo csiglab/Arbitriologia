@@ -1,4 +1,4 @@
-### Game Theory
+# Game Theory
 
 - Key idea: Study of strategic interaction among rational decision-makers.
 

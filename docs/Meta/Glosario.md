@@ -23,6 +23,13 @@
 | **Representation**   | The activity of making citizens' voices, opinions, and perspectives present in the political process.       | Key to modern democracies.                                                    |
 | **Accountability**   | The obligation of political actors to explain and justify their actions to the public or institutions.      | Mechanisms: elections, audits, checks and balances.                           |
 
+| **Term**      | **Definition**                                                                                                                                          | **Key Characteristics**                           | **Typical Owner**                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------- |
+| **Policy**    | A **high-level authoritative decision** that defines the **goals, intentions, and direction** of a government or institution in a specific domain.      | Strategic, goal-oriented, long-term, normative    | Politicians, Ministries          |
+| **Program**   | A **coordinated set of actions or projects** designed to implement one or more aspects of a policy, usually with defined timelines and budgets.         | Operational, organized, time-bounded, evaluated   | Government agencies, departments |
+| **Scheme**    | A **structured plan or offering**, typically involving **financial support or regulatory arrangements**, to deliver specific benefits to target groups. | Procedural, rule-based, targeted, financial/legal | Agencies, funds, authorities     |
+| **Mechanism** | The **instrument, tool, or process** by which a scheme or program is delivered. It refers to **how** implementation happens.                            | Technical, enabling, transactional                | Implementing institutions        |
+
 ## References
 
 - [Glossary of key terms](https://www.cambridge.org/us/files/7313/6690/0749/2521_Glossary_of_key_terms.pdf)

@@ -1,4 +1,8 @@
-# Factor Price Equalization
+# Trade Models
+
+> ...
+
+## Factor Price Equalization
 
 
 > The **Factor Price Equalization** theorem states that free trade of goods between countries will lead to the equalization of the prices of production factors (like wages and rents) across those countries, assuming certain conditions such as identical production technologies and factor mobility within but not between countries.

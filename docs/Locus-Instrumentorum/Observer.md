@@ -267,6 +267,23 @@ What is ontology for? What kinds of things does it postulate? How should we cons
 
 > **Note**: Consider the cognitive state of an observer as the state of their brain at a given time t. This cognitive state can itself be regarded as an ontological element, as it exists in reality and interacts with it. The observer’s epistemic state and the ontological reality it perceives are therefore deeply intertwined, forming a unity often described as the mind-body or episteme-ontology relationship.
 
+### 🧱 Model Structure
+
+| **Component**                | **Description**                                                                                                                                   | **Instance(s)**                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Ontology**                 | Defines the fundamental entities, categories, and relationships in the system (e.g., agents, institutions, artifacts, values).                    | Agents, organizations, norms, technologies                       |
+| **Interaction & Feedback**   | Describes how entities influence one another—including communication, coordination, conflict, and power dynamics—resulting in feedback processes. | Market dynamics, social pressure, signaling, conflict resolution |
+| **Adaptation & Learning**    | Captures how entities or the system evolve in response to internal or external pressures through feedback, reform, or learning mechanisms.        | Policy adaptation, identity change, norm evolution               |
+| **Structure & Constraint**   | Formal or informal stabilizing forces that regulate behavior—such as institutions, hierarchies, or resource access.                               | Legal systems, infrastructure, social stratification             |
+| **Power Dynamics**           | Specifies how asymmetries in power shape interactions, constrain agency, and influence systemic outcomes.                                         | Elite control, labor exploitation, political resistance          |
+| **Temporality & History**    | Incorporates historical context, memory, and path-dependence to account for accumulation, cycles, and long-term effects.                          | Institutional inertia, historical trauma, legacy technologies    |
+| **Boundary & Environment**   | Defines how the system interacts with external systems and environments, including ecological, technological, or geopolitical contexts.           | Climate systems, technological platforms, regional trade zones   |
+| **Multi-level Architecture** | Accounts for interactions across levels of analysis: micro (individual), meso (groups/orgs), and macro (institutions/systems).                    | Household behavior, organizational routines, state policies      |
+| **Heterogeneity**            | Allows for variation among agents, structures, norms, and geographies—essential for modeling diverse realities.                                   | Cultural diversity, institutional forms, spatial inequality      |
+
+
+### ⚙️ Tooling
+
 | Epistemological Element | Description | Cognitive Role(s) |
 |------------------------|-------------|-------------------|
 | Sensory Input | Raw data received from the environment through senses | Foundation for all perception and knowledge acquisition |
@@ -293,7 +310,73 @@ What is ontology for? What kinds of things does it postulate? How should we cons
 | Cognitive Tool | Specific method or strategy employed to enhance cognitive performance | Optimizes information processing; enables efficient problem-solving and knowledge application |
 | Metacognition| Awareness and regulation of one's own cognitive processes | Enables self-monitoring, strategic learning, and adaptive control of cognition |
 
+### 📌 Principle
+
+| **Principle**                                | **Description**                                                                                       | **Implications for Modeling**                                                                                     |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Constructivism**                           | Knowledge is constructed by observers, not passively received from reality.                           | Models must account for observer perspective and cognitive frames.                                                |
+| **Contextuality**                            | Truth and meaning are context-dependent, especially in social domains.                                | Models must be sensitive to cultural, historical, institutional, and linguistic contexts.                         |
+| **Reflexivity**                              | Observers and agents are embedded in, and influenced by, the systems they model.                      | Models must incorporate feedback loops between theory, observer, and system behavior, including agent perception. |
+| **Inter-subjectivity**                       | Knowledge arises from shared meanings and social interaction.                                         | Modeling must account for communication, norms, and consensus-building mechanisms.                                |
+| **Fallibilism**                              | All knowledge is provisional and subject to revision.                                                 | Models should be open-ended, revisable, and explicitly state their limits of validity.                            |
+| **Pluralism**                                | Multiple perspectives may coexist and be valid.                                                       | Modeling benefits from multi-paradigm or multi-model approaches.                                                  |
+| **Agency and Intentionality**                | Social actors have goals, beliefs, and autonomy.                                                      | Models must reflect purposeful behavior and internal state dynamics.                                              |
+| **Emergence**                                | Social phenomena arise from interactions among lower-level agents.                                    | Use bottom-up modeling approaches (e.g. agent-based, cellular automata).                                          |
+| **Non-linearity**                            | Cause and effect are not proportional.                                                                | Models must allow for tipping points, thresholds, and feedback-driven dynamics.                                   |
+| **Ethical Situatedness / Value-Sensitivity** | Modeling choices embed values and have normative and ethical impacts.                                 | Require explicit value judgments, stakeholder reflection, and ethical considerations in model design and use.     |
+| **Operationalization**                       | Concepts must be translated into measurable and observable elements.                                  | Requires mapping abstract theoretical terms into concrete variables or proxies.                                   |
+| **Theory-ladenness**                         | Observations are shaped by prior theoretical assumptions.                                             | Models are not “theory-neutral”; conceptual structures influence data and interpretation.                         |
+| **Holism vs. Reductionism**                  | Social systems can be approached as wholes or decomposed into parts.                                  | Modeling must justify and clarify the level of abstraction (macro, meso, micro).                                  |
+| **Complexity and Uncertainty**               | Social systems are adaptive, nonlinear, and indeterminate.                                            | Models must include mechanisms for uncertainty, unpredictability, and structural change.                          |
+| **Historicity / Temporality**                | Social systems evolve through time and history.                                                       | Models must include memory, path-dependence, and evolving trajectories.                                           |
+| **Symbolic Mediation**                       | Social life is mediated by symbolic systems (language, money, laws).                                  | Models must account for the construction, transmission, and interpretation of meaning.                            |
+| **Multi-level Structure**                    | Systems operate at micro (individual), meso (group), and macro (systemic) levels.                     | Models should represent interactions across these analytical levels.                                              |
+| **Representation Fidelity**                  | Models should accurately depict relevant actors, norms, structures, and technologies.                 | Prioritize capturing the system's most salient and influential components.                                        |
+| **Dynamic Interaction**                      | Feedback loops and emergent properties arise from agent-structure interplay.                          | Emphasize dynamic relations, causality, and change.                                                               |
+| **Adaptation and Learning**                  | Agents and systems evolve through learning and self-organization.                                     | Incorporate mechanisms for updating behavior, adaptation, and evolution.                                          |
+| **Embeddedness**                             | Social systems are situated within broader ecological, technological, and institutional environments. | Account for external influences and layered system contexts.                                                      |
+| **Openness & Boundary Clarity**              | Systems exchange resources and information with their environment but still require boundaries.       | Define system-environment boundaries explicitly while allowing for interaction.                                   |
+| **Heterogeneity**                            | Social systems include diverse agents with varying goals, constraints, and behaviors.                 | Avoid overly uniform or average-agent assumptions.                                                                |
+| **Anti-reification**                         | Models should not treat dynamic social constructs as fixed or natural.                                | Emphasize the constructed and changeable nature of social categories and institutions.                            |
+
+### ⚠️ Modelling Pitfalls
+
+| **Pitfall**                           | **Description**                                                                                 | **Impact**                                                            | **Mitigation Strategies**                                   |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Visibility vs. Intelligibility**    | Mistaking observable phenomena for true understanding of system dynamics                        | Overconfidence; oversimplification of complex systems                 | Recognize emergent behavior; use multi-level analysis       |
+| **Reductionism**                      | Breaking down systems into parts assuming full understanding can be reassembled from components | Loss of emergent properties and system-level behavior                 | Incorporate holistic, network, and systemic approaches      |
+| **Static Modeling**                   | Ignoring system dynamics, adaptation, and time evolution                                        | Models become quickly outdated or irrelevant                          | Use dynamic, time-dependent models; simulate feedback loops |
+| **Ignoring Feedback Loops**           | Overlooking circular causality and recursive influences                                         | Misses key drivers of behavior and system stability                   | Identify and model feedback loops explicitly                |
+| **Overfitting**                       | Tailoring model too closely to historical data without generalizing                             | Poor predictive power; fragile models                                 | Regularize models; validate with out-of-sample data         |
+| **Underfitting**                      | Oversimplifying, missing important variables or relationships                                   | Model fails to capture essential system behavior                      | Include key variables and validate model assumptions        |
+| **Data Quality Issues**               | Using incomplete, biased, or noisy data                                                         | Distorted insights and flawed conclusions                             | Perform data cleaning; use multiple data sources            |
+| **Ignoring Human Agency**             | Treating agents as passive or purely mechanistic                                                | Missing strategic behavior, learning, and adaptation                  | Model agents as adaptive, learning, or strategic            |
+| **Overconfidence in Predictions**     | Assuming precise forecasts in inherently uncertain, complex systems                             | Misleading decisions based on false certainty                         | Use scenario analysis; communicate uncertainty explicitly   |
+| **Misinterpretation of Emergence**    | Attributing observed patterns to simple causes or ignoring multi-level interactions             | Wrong causal assumptions; policy failures                             | Study multiple scales; embrace complexity and nonlinearity  |
+| **Lack of Interdisciplinary Insight** | Modeling from a narrow disciplinary lens                                                        | Missing important factors from economics, sociology, psychology, etc. | Integrate cross-disciplinary knowledge                      |
+| **Ignoring Model Purpose**            | Using models without clarifying their scope or intended use                                     | Misapplication of results; loss of trust                              | Define clear objectives and limitations upfront             |
+
+### 🧠 Modeling Paradox: Visiviliby - Intelligibility
+
+> aka. Emergence Beyond the Obvious.
+
+> Because social systems are directly observable to the human eye—unlike, for example, molecular systems—this immediacy of observation often leads to a false sense of intelligibility. Yet, at this level of organization, social systems are among the most complex phenomena in existence, due to the presence of adaptation, learning, strategic interaction, and the fact that nearly all meaningful patterns are emergent rather than reducible to simple components.
+
+> Social systems may appear intelligible because they’re visible, but they are fundamentally complex and opaque due to emergent behavior and dynamic learning.
+
 ## References
 
 - [Observer](https://righteous-guardian-68f.notion.site/Observer-1b1c0f5171ec80148f4df70414144ed3)
 - [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723)
+- [Model](https://righteous-guardian-68f.notion.site/Model-1b1c0f5171ec807192cad4c8bdbc9b88?pvs=4)
+- [Social System](https://en.wikipedia.org/wiki/Social_system)
+- [Level of Organization](https://righteous-guardian-68f.notion.site/Level-of-Organization-1ebc0f5171ec80dd9100ec305664c2d3?pvs=4)
+- [Expected-utility maximizers don’t maximize utility](https://ergodicityeconomics.com/2025/05/28/expected-utility-maximizers-dont-maximize-utility/)
+- [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
+- [Seminario Latinoamericano de Filosofía de la Administración](https://www.youtube.com/watch?v=W0RQPGgti5c)
+- [System](https://righteous-guardian-68f.notion.site/System-1dac0f5171ec80c38c08f74d095235a9?pvs=4)
+- [Modelado](https://righteous-guardian-68f.notion.site/Modelado-a6727ea210124fb9a00ff6bb5bcf7cd5?pvs=4)
+- [Complexity](https://righteous-guardian-68f.notion.site/Complexity-2633ab7c5d5a46519593153880c13e57?pvs=4)
+- [Natural Computing](https://righteous-guardian-68f.notion.site/Natural-Computing-111c0f5171ec804196f2e48b5ee1afb5?pvs=4)
+- [Complexity Science](https://righteous-guardian-68f.notion.site/Complexity-Science-171c0f5171ec80c18335cdf06a024db6?pvs=4)
+- [Dynamical Intelligence](https://righteous-guardian-68f.notion.site/Dynamical-Intelligence-a41fde247c384e3bb5e561bf55c70f33?pvs=4)

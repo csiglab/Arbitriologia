@@ -1,4 +1,4 @@
-### Network Economics
+# Network Science
 
 - Key idea: Economic interactions take place over networks (social, trade, financial).
 

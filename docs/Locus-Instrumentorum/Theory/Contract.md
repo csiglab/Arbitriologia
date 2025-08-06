@@ -1,12 +1,8 @@
 # Contract Theory
 
-: 16
-
 > **Contract Theory** is a comprehensive field within economics that studies how economic actors construct contractual arrangements, generally in the context of asymmetric information.
-> 
 
 > Here's a **table of some of the key papers** in contract theory, highlighting their contributions and authors.
-> 
 
 | **Year** | **Authors** | **Title** | **Contribution** |
 | --- | --- | --- | --- |
