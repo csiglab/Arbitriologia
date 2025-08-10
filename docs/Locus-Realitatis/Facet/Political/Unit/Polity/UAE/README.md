@@ -112,3 +112,9 @@ These tables provide a detailed breakdown of the various systems and subsystems 
 - [An Introduction To Dubai’s Industrial Development Strategy](https://www.middleeastbriefing.com/news/an-introduction-to-dubais-industrial-development-strategy/)
 - [Abu Dhabi](https://www.abudhabi.gov.ae/en/about-the-government/government-entities)
 - [Abu Dhabi Industrial Strategy](https://www.abudhabi.gov.ae/en/programmes/abu-dhabi-industrial-strategy)
+- https://www.uaelegislation.gov.ae/en/policy/details/the-research-and-development-governance-policy
+- https://uaestat.fcsc.gov.ae/en
+- https://uaeresearchmap.ae/
+- https://www.atrc.gov.ae/
+- https://researchhub.ae/
+- https://researcher.ae/
