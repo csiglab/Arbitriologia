@@ -1,4 +1,4 @@
-# Consejo Menor Seminario Tecnocientífico
+# Consejo Menor Seminario Humanistico y Social
 
 > Teach, Think, Ask, Research, Share, Refine, Apply !!!
 

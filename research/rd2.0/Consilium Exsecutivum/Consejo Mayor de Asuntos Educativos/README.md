@@ -39,6 +39,7 @@ Model:
 - [Consejo Menor **Studia Complementaria**](Consejo%20Menor%20Studia%20Complementaria%20159956e8f40e80bea069f4c82f3b249b.md)
 - [Consejo Menor **Academia Preparatoria**](Consejo%20Menor%20Academia%20Preparatoria%20159956e8f40e8058aa8ae4b58bd0dd14.md)
 - [Consejo Menor Estudios Mayores Tecnocientíficos](Consejo%20Menor%20Estudios%20Mayores%20Tecnocienti%CC%81ficos%20c6d3a40684d544bcb1d6d51c0b784429.md)
+- Consemo Menor de Estudio Tecnicos
 
 ## References
 
