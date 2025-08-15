@@ -4,7 +4,7 @@ Tags: Consejo Menor, Educativo
 : 47
 
 > Provide technical people to the job market.
-> 
+>
 
 ## Goals
 

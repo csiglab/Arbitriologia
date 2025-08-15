@@ -7,16 +7,14 @@ Tags: Agencia, Capital Humano y Oficios
 > 
 
 > Offer masters, and phd’s !!!
-> 
+>
 
 > Produce Professors  With PHD For The Seminars
-> 
 
 > Create the Standards for the seminarium tutors y teachers
-> 
 
 > Auxiliarse con los demas colegios - para las diplomas.
-> 
+
 
 ## References
 
