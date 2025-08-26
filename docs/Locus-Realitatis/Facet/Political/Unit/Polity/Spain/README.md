@@ -191,3 +191,9 @@ Pero de nuevo, esto **ocurría en paralelo a los colegios tradicionales**, que l
 - Agencia Vasca de Desarrollo Empresarial (Grupo Spri)
 - https://es.wikipedia.org/wiki/Junta_para_Ampliaci%C3%B3n_de_Estudios_e_Investigaciones_Cient%C3%ADficas https://boe.es/datos/pdfs/BOE//1907/015/A00165-00167.pdf → Gaceta de Madrid
 - https://ahus.us.es/index.php/escuela-de-artes-y-oficios-artisticos-de-sevilla?sf_culture=es
+- Universidad Politécnica de Madrid (UPM)
+- Escuela de Ingenieros de Caminos, Canales y Puertos
+- Escuela de Ingenieros de Minas
+- Escuela de Ingenieros Industriales
+- Escuela de Arquitectura Técnica
+- Escuela de Maestros de Obras
