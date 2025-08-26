@@ -194,6 +194,6 @@ Pero de nuevo, esto **ocurría en paralelo a los colegios tradicionales**, que l
 - Universidad Politécnica de Madrid (UPM)
 - Escuela de Ingenieros de Caminos, Canales y Puertos
 - Escuela de Ingenieros de Minas
-- Escuela de Ingenieros Industriales
+- Escuela de Ingenieros Industriales - Escuela Técnica Superior de Ingenieros Industriales
 - Escuela de Arquitectura Técnica
 - Escuela de Maestros de Obras
