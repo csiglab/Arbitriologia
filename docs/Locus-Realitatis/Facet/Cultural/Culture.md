@@ -2,6 +2,8 @@
 
 > Culture is a relatively **stable system of patterns of behavior**, meaning, and expectation, distributed across **actors**, environmental elements, and the **interactions between them**.
 
+> **Note:** The concept of culture does not directly depend on a society's technical capacity. Two societies with vastly different technological capabilities can share the same cultural patterns—for example, different regions within the same country.
+
 ## Universe of Discourse
 
 > When we speak about culture, what aspects of the world are we referring to?
@@ -197,7 +199,6 @@ List of factors of change:
 | **Mixed-Methods Modeling**                | Integration of qualitative and quantitative approaches for a comprehensive understanding.         | Combine depth of ethnography with breadth of surveys, simulations, or network analysis.       | Mixed / Integrative                |
 | **Machine Learning & NLP**                | Computational extraction of patterns from text, speech, or image data.                            | Detect latent cultural trends, semantic structures, or sentiment patterns.                    | Computational / Data-Driven        |
 
-
 ### Common Pitfalls
 
 1. Culture Is Not a Unified Object
@@ -264,6 +265,11 @@ A **cultural system** and a **social system** are deeply interconnected, but the
 - Not all stable behaviors qualify as culture. Culture specifically involves shared meanings, norms, or patterns that are socially transmitted.
 - Individual habits or rigid behaviors that lack social or symbolic significance may be stable but are not cultural.
 - Similarly, collective behaviors driven purely by external constraints or coercion may not reflect culture—they only become cultural when they carry shared meaning or are voluntarily followed.
+
+### To what extent do pre-existing cultural traits enable sustained economic growth, versus economic development fostering cultural transformation? Are there identifiable conditions under which one precedes the other, or do they co-evolve in mutually reinforcing cycles?
+
+- No single direction universally dominates. Evidence suggests a dynamic interplay, with contextual contingencies: geography, institutions, initial cultural capital, and external shocks.
+- A practical heuristic: culture sets the initial conditions, economic development provides feedback loops, and over decades or centuries, they co-evolve in mutually reinforcing cycles.
 
 ## References
 
