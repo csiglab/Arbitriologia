@@ -289,3 +289,5 @@ A **cultural system** and a **social system** are deeply interconnected, but the
 - Margaret Archer (on morphogenesis vs. morphostasis)
 - Manuel DeLanda (assemblage theory as non-reified view of culture)
 - Bruno Latour (actor-network theory: blurs boundary between system and actor)
+- [Cultural Analysis](https://www.ocf.berkeley.edu/~culturalanalysis/)
+- [Cultural analytics](https://en.wikipedia.org/wiki/Cultural_analytics)
