@@ -40,6 +40,10 @@ To address these limitations, introducing coordination brokers can be a solution
 
 > Simulating social dynamics reveals how complex structures can arise endogenously from decentralized interaction, but their persistence, coherence, and institutionalization often depend on additional mechanisms such as formalization, power dynamics, and reflexive design. Understanding these dynamics requires integrating computational simulation with sociological theory, network science, and complexity analysis.
 
+## Limits
+
+> ...
+
 ## References
 
 - Schelling (1971): Emergence of segregation from simple local rules.

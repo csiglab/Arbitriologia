@@ -26,6 +26,7 @@
 - [The Art of Economic Statecraft](./Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
 - [The Observer Problem](Breviarium/the-internal-observer-problem)
+- [A Theory of Government](Breviarium/a-theory-of-goverment)
 
 ## 📚 Most Read
 

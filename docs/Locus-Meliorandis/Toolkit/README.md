@@ -1,5 +1,7 @@
 # Policy Toolkit
 
+> Note: This is not a policy toolkit; this is our management toolkit; and the system or rather the ecosystem to be managed is called a **nation state**.
+
 > Tools to Change Reality.
 
 > General tools to model and analyze in [Locus Instrumentorum](../Locus-Instrumentorum/).
@@ -9,9 +11,30 @@
 
 ## Problem Space
 
+> aka Domain Space.
+
 - Techcnology Deapth & Density
 - Firm Death & Density
 - ...
+
+## Tool Space
+
+> Category; Tool; Instance(s).
+
+### Category
+
+- Meta Stregy
+- Strategy
+- Policy Framework
+- Policy
+- Tactic
+- Program
+- Scheme
+- ...
+
+### Tool
+
+- Tool - Description- Tags (Categories)
 
 ## Policy Space
 
@@ -103,4 +126,6 @@
 
 ## References
 
-- ...
+- a-theory-of-goverment.md
+
+- [Management](https://righteous-guardian-68f.notion.site/Management-267c0f5171ec80188029f61e9154ccc1?source=copy_link)
