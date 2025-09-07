@@ -39,7 +39,7 @@ List of Definitions:
 
 - ✔️ Culture is a relatively stable system of patterns of behavior, meaning, and expectation, distributed across actors, environmental elements, and the interactions between them.
 
-- Culture systems aer self-systaining processes in 'behavior space'.
+- Culture systems are self-systaining processes in 'behavior space'.
 
 - Culture is not a system but an emergent pattern produced by interacting agents operating under structured conditions (institutions, norms, incentives, technologies). It persists through feedback loops, but is not reducible to any of its parts or stable over time. The term “cultural system” should only be used with caution—and only when these emergent patterns show self-stabilization and structural feedback.
 
@@ -205,7 +205,7 @@ List of factors of change:
 
 ## QA
 
-### What is the relation between Cultural System and Social Sysetm?
+### What is the relation between Cultural System and Social System?
 
 > In short, cultural systems shape **why** people act the way they do, while social systems shape **how** those actions are organized and coordinated.
 
