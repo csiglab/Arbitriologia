@@ -178,6 +178,26 @@ List of factors of change:
 | Affective Regulation    | Emotional dynamics in groups                | Affect modeling, social simulation        |
 | Memory and Transmission | How practices persist over time             | Cultural evolution models, meme theory    |
 
+### Method
+
+| **Method**                                | **Description**                                                                                   | **Purpose**                                                                                   | **Tag**                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Ethnography (Participant Observation)** | Immersive qualitative research observing people in their natural cultural context.                | Capture real behaviors, practices, norms, and interactions.                                   | Qualitative / Field Method         |
+| **Surveys & Questionnaires**              | Structured instruments to collect data on beliefs, values, attitudes, and behaviors.              | Measure cultural variables quantitatively; compare across groups or time.                     | Quantitative / Empirical           |
+| **Content Analysis**                      | Systematic coding and analysis of texts, media, artifacts, and symbols.                           | Identify shared meanings, recurring motifs, and symbolic structures in culture.               | Qualitative / Mixed Methods        |
+| **Social Network Analysis (SNA)**         | Mapping and analyzing relationships and interactions among individuals or groups.                 | Understand patterns of communication, influence, and diffusion of norms.                      | Quantitative / Systems Method      |
+| **Agent-Based Modeling (ABM)**            | Computational simulation of autonomous agents interacting under defined rules and environments.   | Model emergence, diffusion, and evolution of cultural patterns; test interventions virtually. | Computational / Systems Simulation |
+| **Game-Theoretic Modeling**               | Formal modeling of strategic interactions among agents based on preferences, payoffs, and rules.  | Understand coordination, cooperation, conflict, and norm enforcement in cultural contexts.    | Computational / Analytical         |
+| **Cultural Evolution Models**             | Modeling cultural change using analogs of biological evolution (variation, selection, retention). | Simulate the spread, adaptation, and persistence of cultural traits over time.                | Computational / Evolutionary       |
+| **Semiotic / Discourse Analysis**         | Analysis of signs, language, and symbols to interpret meaning-making processes.                   | Understand symbolic mediation, ideologies, and narrative structures in culture.               | Qualitative / Interpretive         |
+| **Practice Theory Analysis**              | Focuses on recurring micro-level behaviors and interactions that reproduce cultural norms.        | Link individual actions to systemic cultural patterns; analyze emergent behaviors.            | Qualitative / Micro-Macro Link     |
+| **Institutional / Normative Analysis**    | Examination of formal and informal rules, governance structures, and enforcement mechanisms.      | Understand stability, adaptation, and regulation of cultural practices.                       | Analytical / Institutional         |
+| **Cognitive & Schema Mapping**            | Mapping shared beliefs, mental models, and knowledge structures within a culture.                 | Model distributed cognition, interpretive frames, and coordination mechanisms.                | Analytical / Cognitive             |
+| **Historical & Comparative Analysis**     | Study of past events, practices, and cross-cultural comparisons.                                  | Identify trajectories, transformations, and structural patterns over time.                    | Historical / Comparative           |
+| **Mixed-Methods Modeling**                | Integration of qualitative and quantitative approaches for a comprehensive understanding.         | Combine depth of ethnography with breadth of surveys, simulations, or network analysis.       | Mixed / Integrative                |
+| **Machine Learning & NLP**                | Computational extraction of patterns from text, speech, or image data.                            | Detect latent cultural trends, semantic structures, or sentiment patterns.                    | Computational / Data-Driven        |
+
+
 ### Common Pitfalls
 
 1. Culture Is Not a Unified Object
