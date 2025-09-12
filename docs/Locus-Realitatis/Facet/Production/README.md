@@ -56,3 +56,32 @@ Placeholder page for the [Produceologia/Market](https://github.com/csiglab/Produ
             - Domestic and international players.
             - Market shares, strategic capabilities.
     - Regulation (Quality → Industrial Consolidation)
+
+
+## A Theory of Production Networks
+
+>  aka. Clusters.
+
+>  Take a compnay to be a node; and take an edge; to be a relation or interaction type between firms.
+
+> What's the tructural typology of the network?  - Which are the functions  space implemented by the firms? How is that function space map to the typology?
+
+> Which are the functioal role in the network?
+
+> How do we structure production?
+
+> ...
+
+Principles for Structuring Production Networks:
+
+- Division of Labor: Assign firms to functions that maximize specialization and minimize redundancy.
+- Connectivity Optimization: Balance network density—too sparse → fragile supply chain; too dense → coordination overhead.
+- Modularity: Encourage clusters by function; modular clusters facilitate scalability, knowledge transfer, and innovation.
+- Redundancy / Resilience: Ensure alternative pathways exist for critical inputs; prevents systemic failures.
+- Aggregator Nodes: Lower barriers for small firms; accelerate innovation adoption and market reach.
+- Knowledge Flows: Explicitly structure links for R&D spillovers, not just material supply.
+
+- https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2021.666712/full
+- https://www.tandfonline.com/doi/full/10.1080/09537287.2024.2387299
+- https://arxiv.org/abs/1706.00203
+- 
