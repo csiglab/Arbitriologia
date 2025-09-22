@@ -23,13 +23,16 @@
 
 ### Category
 
-- Meta Stregy
-- Strategy
-- Policy Framework
-- Policy
-- Tactic
-- Program
-- Scheme
+> Agency Hierarchy.
+
+- **Meta Strategy** → overarching vision or philosophy guiding multiple strategies.
+- **Strategy** → coordinated plan to achieve long-term objectives.
+- **Policy Framework** → organizing structure for policies; sets principles and priorities.
+- **Policy** → formalized rules or guidelines derived from strategy.
+- **Tactic** → specific method or approach to implement policy or strategy.
+- **Program** → coordinated set of projects or initiatives.
+- **Scheme** → structured plan or design for a particular purpose.
+- **Action** → concrete steps executed by agents.
 - ...
 
 ### Tool
