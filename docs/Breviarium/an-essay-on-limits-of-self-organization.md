@@ -85,3 +85,5 @@ Key Questions:
 - Giddens’ Structuration Theory: Structure is both the medium and outcome of social practices.
 - Luhmann’s Social Systems Theory: Structures emerge as recursive communicative processes.
 - Viable System Model (Beer): Recursive organization of complex adaptive systems.
+- [Controlling Complex Systems](https://arxiv.org/abs/2504.07579v1)
+- 
