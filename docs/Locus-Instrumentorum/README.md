@@ -6,11 +6,11 @@
 
 ## Tooling
 
-- Scientia:  The set of doamins that study aspects of social reality.
+- Field:  The set of doamins that study aspects of social reality.
 - Nomenclature: A set of naming and classification schemes.
-- Observation: Guides on observation, data collection of social reality.
-- Theorosocium: A comprehensive entry on Social Theory.
-- Observer: A general guide on the role and perspective of an external observer in social systems.
+- Social Theory: A comprehensive entry on Social Theory.
+- Legal: Normation of Human Interactions & Actions.
+- Observer: Guides on observation, data collection of social reality.
   - Tool: A collection of tools for modeling social systems.
   - Cases: A guide to modeling specific types of systems or general aspects such as behavior.
 
