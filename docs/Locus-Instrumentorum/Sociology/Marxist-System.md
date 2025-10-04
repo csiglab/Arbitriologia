@@ -213,3 +213,4 @@
 - [Hegel’s Method](https://www.notion.so/Hegel-s-Method-1dac0f5171ec803fa4a7d4cb14e0b52d?pvs=21)
 - [Marxism](https://www.reddit.com/r/Marxism/)
 - [Marxism](https://www.marxists.org/reference/subject/philosophy/help/marxism.htm)
+- [Karl Marx](https://equable-twister-380.notion.site/Karl-Marx-10e598edb79081399b11fe938892075b?source=copy_link)
