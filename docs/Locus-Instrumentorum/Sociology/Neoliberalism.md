@@ -1,6 +1,4 @@
-# Washington Consensus
-
-: 20
+# Neoliberalism
 
 > The "Washington Consensus" refers to a set of ten economic policy prescriptions considered to be the standard reform package promoted for crisis-wracked developing countries by Washington, D.C.-based institutions like the International Monetary Fund (IMF), World Bank, and the US Treasury Department during the 1980s and 1990s.
 > 

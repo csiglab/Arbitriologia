@@ -1,6 +1,26 @@
 # Human
 
-> ...
+> A human is a member of the species Homo sapiens, a highly evolved primate distinguished by advanced cognitive abilities, upright posture, complex language, and the capacity for abstract thought, culture, and technology. Humans are social beings, capable of forming complex societies, creating institutions, and influencing their environment through tools and collective action.
+
+> When born, one exists as a proto-human being—a repository of potentialities and developmental paths. One is not yet a “fully human” agent in terms of capacities, understanding, or self-realization. Thought, action, and social interaction gradually shape which potentials are realized, guiding the emergence of distinct modes of human existence. Over time, however, one can become locked into a particular mode of being, often reinforced by material constraints such as money. To explore different modes of human existence, one needs the courage to experiment and the ability to break free from limiting structures, pursuing a fuller range of human possibilities, so as to live one complete life rather than experiencing many small deaths along the way.
+
+QA:
+
+- What are the different modes of human being? What are the degrees of freedom of development?
+
+- Is conceptualization necessary to distinguish specific modes of human existence, rather than merely acknowledging humanity in general?
+
+## Definition
+
+| Area                   | Definition                                                                                                                                                                           |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Biology   | Humans are complex multicellular organisms of the species *Homo sapiens*, characterized by advanced brain development, upright posture, and complex organ systems that sustain life. |
+| Cognition (Psychology) | Humans possess advanced cognitive capacities, including reasoning, memory, learning, problem-solving, language, and self-awareness.                                                  |
+| Behavior       | Humans engage in purposeful actions guided by goals, emotions, habits, and social norms, influencing both individual and collective outcomes.                                        |
+| Society       | Humans exist within structured social and cultural systems, creating institutions, norms, beliefs, and practices that shape interactions and collective life.                        |
+| Health     | Humans require physical, mental, and social well-being to function optimally, including nutrition, exercise, mental health, and social support.                                      |
+| Morality      | Humans are capable of moral reasoning, evaluating actions as right or wrong, and creating ethical frameworks that guide behavior.                                                    |
+
 
 ## Social Capital
 

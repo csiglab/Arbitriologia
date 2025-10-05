@@ -1,104 +1,195 @@
 # Social Theory
 
-> A set of ontological and epistemological frameworks designed to analyze, interpret, and transform society.
+> **Social theory** is both a set of methods for studying social reality and a framework for normation.
 
-> A note that **dives deep** into social structures; underlying ideas systems; normative frameworks (personal & collective).
+QA:
 
-> Authentic existence arises when we use our present to shape the future ✨,
-transcending the limits imposed by current circumstances. To live is to live in the future. 🚀
-
-> A **Philosophical Account** of the Foundational Aspects of Human Existence and Practice.
-> 
-
-> **Social theory** often investigates how **idea systems** (also referred to as **ideologies**, **belief systems**, **cultural frameworks**, or **worldviews**) shape and influence **social structures**.
-> 
-
-> **Social Theory**: Analyze the relationship between **idea systems** and **social structures** by **reverse-engineering social structures** (or society itself). This involves examining how social structures and practices inform and shape the underlying idea systems, values, and ideologies that support them.
-> 
-
-> **Collective Frameworks**: Structured sets of shared norms, values, beliefs, and goals that regulate, guide, and stabilize the behavior of groups or entire societies. They define "what matters" and "what is right" at the level of the collective.
-> 
-
-> **Personal Frameworks**:	Internalized systems of meaning, value, and behavioral rules that an individual uses to interpret the world, regulate action, and orient life goals. They operate at the level of the self.
-> 
-
-> **Human**:  A biological organism of species Homo sapiens, characterized by self-consciousness, symbolic reasoning, sociality, and the capacity to generate and be governed by frameworks of meaning and normativity.
-> 
-
-> **Sociology**: The scientific study of social behavior, institutions, structures, and collective frameworks. Sociology seeks to understand how societies are organized, maintained, and transformed over time.
-> 
-
-> **Anthropology**:  The holistic study of humans across time and space, encompassing biological, cultural, linguistic, and archaeological perspectives. In relation to frameworks, anthropology examines both collective and personal systems of meaning across diverse cultures.
-> 
-
-> **Legal Theory**: …
-> 
-
-> **Economy**: …
-> 
-
-> **Culture**: …
-> 
-
-> **Progress**: …
-> 
-
-> **Society**: 	A structured, organized network of human relations, institutions, and cultural systems, bound together by shared frameworks, practices, and modes of cooperation or conflict. Society is the medium in which collective frameworks are instantiated.
-> 
-
-## Index
-
-## Study Guide
-
+- What are the target of study of social theory?
 - Do we have some biological principles that ground this high level phenomena?
 
-## Social Theory
+## Terminology
 
-> Note:  Collective Theories + Individual Theories.
-> 
+> **Human**:  A biological organism of species Homo sapiens, characterized by self-consciousness, symbolic reasoning, sociality, and the capacity to generate and be governed by frameworks of meaning and normativity. See more in [Human](../../Locus-Realitatis/Unit/Human.md)
+
+> **Humanism**: An intellectual and ethical stance that emphasizes the value, dignity, and agency of human beings, often prioritizing reason, education, and moral development.
+
+> **Humanity**: The collective condition, experience, and qualities of being human, encompassing compassion, social responsibility, and shared existence.
+
+> **Sociology**: The scientific study of social behavior, institutions, structures, and collective frameworks. Sociology seeks to understand how societies are organized, maintained, and transformed over time.
+
+> **Anthropology**:  The holistic study of humans across time and space, encompassing biological, cultural, linguistic, and archaeological perspectives. In relation to frameworks, anthropology examines both collective and personal systems of meaning across diverse cultures.
+
+> **Legal Theory**: A systematic framework for understanding the nature, purpose, and application of law in society.
+
+> **Economy**: The study and organization of production, distribution, and consumption of resources, including institutions, policies, and behaviors that shape economic outcomes.
+
+> **Culture**: The set of shared practices, beliefs, norms, and symbolic systems that structure social life and collective meaning.
+
+> **Progress**: The processes and measures by which societies advance materially, socially, and institutionally over time.
+
+> **Society**: A structured, organized network of human relations, institutions, and cultural systems, bound together by shared frameworks, practices, and modes of cooperation or conflict. Society is the medium in which collective frameworks are instantiated.
+
+>  **Civilization:** A comparative criterion for evaluating societies, referring to the complex social, cultural, political, and technological organization of human groups, characterized by institutions, cities, shared norms, and accumulated knowledge.
+
+## Problem Space
+
+> What questions are asked in social theory?
+
+| **Category**                  | **Research Problem**               | **Description**                                                                                |
+| ----------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Social Structure**          | Organization of Institutions       | How political, economic, and social institutions are structured, interrelated, and maintained. |
+|                               | Social Hierarchies                 | How class, caste, gender, and other hierarchies emerge and persist.                            |
+|                               | Network Formation                  | How interpersonal, organizational, and societal networks are created and function.             |
+| **Social Change**             | Drivers of Societal Transformation | Historical, technological, and cultural forces that trigger social change.                     |
+|                               | Diffusion of Innovation            | How new ideas, technologies, and practices spread across societies.                            |
+| **Norms and Values**          | Creation of Norms                  | How behavioral expectations are codified within society.                                       |
+|                               | Transmission of Values             | Mechanisms of socialization, education, and cultural reproduction.                             |
+|                               | Contestation of Norms              | How norms are challenged, resisted, or transformed.                                            |
+| **Power and Inequality**      | Resource Distribution              | How wealth, power, and opportunities are allocated across groups.                              |
+|                               | Mechanisms of Domination           | How elites maintain control over political and economic resources.                             |
+|                               | Social Mobility                    | Factors affecting upward and downward mobility across generations.                             |
+| **Culture and Meaning**       | Cultural Shaping of Behavior       | How beliefs, symbols, and rituals guide daily life.                                            |
+|                               | Identity Formation                 | How cultural, religious, and national identities are constructed.                              |
+|                               | Ideology and Discourse             | How ideas shape perceptions, norms, and institutional legitimacy.                              |
+| **Collective Action**         | Cooperation and Coordination       | How groups organize to pursue collective goals.                                                |
+|                               | Social Movements                   | Causes, dynamics, and impacts of organized social movements.                                   |
+|                               | Political Participation            | Patterns of civic engagement, voting, and activism.                                            |
+| **Institutions & Governance** | Policy-making Processes            | How laws, policies, and regulations are formulated and implemented.                            |
+|                               | Bureaucracy & Administration       | How administrative structures affect social outcomes.                                          |
+|                               | Corruption & Accountability        | How oversight or its absence influences governance quality.                                    |
+| **Economy & Labor**           | Labor Relations                    | Dynamics between employers, workers, unions, and labor policies.                               |
+|                               | Market Regulation                  | How policies shape production, consumption, and trade.                                         |
+|                               | Poverty & Inequality               | Structural causes and solutions to socioeconomic disparities.                                  |
+| **Technology & Society**      | Technological Adoption             | How societies integrate and adapt to new technologies.                                         |
+|                               | Digital Divide                     | Patterns of access, exclusion, and impact of digital technologies.                             |
+| **Demography & Population**   | Population Dynamics                | Fertility, mortality, migration, and population structure effects.                             |
+|                               | Urbanization                       | How cities grow, evolve, and shape social interactions.                                        |
+|                               | Aging & Generational Change        | Impacts of aging populations and intergenerational dynamics.                                   |
+| **Education & Knowledge**     | Education Systems                  | How schooling and training shape skills, socialization, and inequality.                        |
+|                               | Knowledge Production               | How research, innovation, and learning systems influence society.                              |
+|                               | Literacy & Critical Thinking       | How access to education shapes social participation and empowerment.                           |
+| **Health & Well-being**       | Public Health Outcomes             | How social, economic, and environmental factors affect health.                                 |
+|                               | Health Inequality                  | Disparities in healthcare access and outcomes across social groups.                            |
+| **Environment & Society**     | Resource Management                | How societies manage natural resources sustainably or exploitatively.                          |
+|                               | Environmental Justice              | How environmental burdens and benefits are distributed across populations.                     |
+| **Conflict & Security**       | Social Conflict                    | Causes and dynamics of riots, civil wars, and interpersonal violence.                          |
+|                               | Crime & Deviance                   | How societies define and respond to criminal or deviant behavior.                              |
+|                               | Peacebuilding & Reconciliation     | Processes for resolving conflicts and restoring social cohesion.                               |
+| **Migration & Mobility**      | Internal Migration                 | Movement of people within a country and its social/economic consequences.                      |
+|                               | International Migration            | Migration patterns, integration, and transnational effects.                                    |
+|                               | Refugee Crises                     | Social, political, and humanitarian dimensions of forced migration.                            |
+| **Media & Communication**     | Information Dissemination          | How media shapes public opinion, knowledge, and social norms.                                  |
+|                               | Propaganda & Persuasion            | Techniques for influencing beliefs and behavior in populations.                                |
+|                               | Social Media Dynamics              | Impacts of digital platforms on social interaction, identity, and mobilization.                |
+
+
+## Technique Space
+
+> Which techniques are used to answer such questions?
+
+| **Category**          | **Technique**                   | **Description**                                                       | **Use**                                                            |
+| --------------------- | ------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Qualitative Research  | Ethnography                     | In-depth study of social groups through observation and participation | Understanding lived experiences, cultural practices                |
+| Qualitative Research  | Interviews                      | Structured or semi-structured questioning of individuals              | Exploring perceptions, motivations, and experiences                |
+| Quantitative Analysis | Surveys                         | Systematic collection of standardized responses                       | Measuring patterns, correlations, and trends                       |
+| Quantitative Analysis | Statistical Modeling            | Using mathematical models to analyze social data                      | Testing hypotheses about social behavior and structure             |
+| Comparative Methods   | Historical/Comparative Analysis | Comparison across societies or time periods                           | Identifying patterns, causes, and consequences of social phenomena |
+| Formal Modeling       | Agent-Based/Network Models      | Simulating individual interactions to observe emergent patterns       | Studying dynamics of social networks, cooperation, or diffusion    |
+| Critical Approaches   | Discourse/Content Analysis      | Examining texts, media, and communication for meaning and bias        | Understanding ideology, power structures, and societal narratives  |
+
+## Meta
+
+> Foundational orientations and commitments in social theory that shape how theories interpret society, history, and human action.
+
+- Anti-necessitarian social theory → Rejects deterministic or “necessary” laws of social development. Affirms the contingency of institutions, the plasticity of structures, and the possibility of alternative futures. Highlights agency, creativity, and historical openness rather than inevitability.
+- Necessitarian social theory → Posits that social structures and historical outcomes follow necessary laws or stages (e.g., classical Marxism’s progression of modes of production). Emphasizes structural constraints and inevitability in development.
+- Structuralist orientation → Focuses on deep, enduring social structures (economic, linguistic, cultural) that organize human life and constrain agency. Change occurs through shifts in these structures.
+- Voluntarist orientation → Emphasizes human will, intentionality, and choice as primary drivers of social reality, sometimes downplaying structural limits.
+- Functionalist orientation → Views social institutions in terms of their functions for maintaining order, stability, and systemic reproduction.
+- Critical orientation → Sees social theory as inherently evaluative, oriented toward critique of domination, inequality, and ideology, with an implicit or explicit emancipatory goal.
+- Pragmatist orientation → Treats social theory as a tool for problem-solving in concrete contexts, emphasizing experimentation, adaptation, and practical consequences.
+
+## Theory
 
 > **Social Theory** is the systematic framework for analyzing, modeling, and explaining the structures, processes, and dynamics of social life. It seeks to abstract key principles governing the formation, maintenance, and transformation of social relations, institutions, and collective behaviors, often employing conceptual, logical, and empirical methodologies. Social theory can be formal or critical, descriptive or normative, and may integrate models from philosophy, economics, political science, anthropology, and sociology.
-> 
 
 | **Category** | **Theory** | **Description** |
 | --- | --- | --- |
-| **Individualist Theories** | Rational Choice Theory | Explains social behavior as the outcome of individual rational decisions aimed at maximizing personal benefit. |
+| **Individualist** | Rational Choice Theory | Explains social behavior as the outcome of individual rational decisions aimed at maximizing personal benefit. |
 |  | Methodological Individualism | Asserts that social phenomena must be explained by reference to individual actions and motivations. |
 |  | Social Darwinism | … |
-| **Collectivist Theories** | Structuralism | Emphasizes the role of overarching social structures in shaping human behavior and culture. |
+| **Collectivist** | Structuralism | Emphasizes the role of overarching social structures in shaping human behavior and culture. |
 |  | Functionalism | Views society as a complex system whose parts work together to promote stability and order. |
 |  | Marxist Historical Materialism | Analyzes societal development through class struggle and economic conditions. |
-| **Positivist Theories** | Structural Functionalism (Parsons) | Examines how social institutions function to maintain societal equilibrium. |
+| **Positivist** | Structural Functionalism (Parsons) | Examines how social institutions function to maintain societal equilibrium. |
 |  | Systems Theory (Luhmann) | Studies society as a self-regulating system composed of interconnected subsystems. |
-| **Interpretivist Theories** | Symbolic Interactionism | Focuses on how individuals create meaning through social interaction and symbols. |
+| **Interpretivist** | Symbolic Interactionism | Focuses on how individuals create meaning through social interaction and symbols. |
 |  | Phenomenology (Schutz) | Studies the structures of subjective experience and consciousness in social life. |
-| **Critical Theories** | Frankfurt School | Critiques ideology, culture, and power structures in capitalist societies. |
+| **Critical** | Frankfurt School | Critiques ideology, culture, and power structures in capitalist societies. |
 |  | Feminist Theory | Examines gender inequalities and patriarchal structures in society. |
 |  | Postcolonial Theory | Analyzes the cultural and political legacies of colonialism and imperialism. |
-| **Micro-level Theories** | Symbolic Interactionism | Studies small-scale interactions and the meanings individuals attach to them. |
+| **Micro-level** | Symbolic Interactionism | Studies small-scale interactions and the meanings individuals attach to them. |
 |  | Ethnomethodology | Investigates how people make sense of their everyday social order. |
-| **Meso-level Theories** | Organizational Theory | Explores how organizations function, change, and influence society. |
+| **Meso-level** | Organizational Theory | Explores how organizations function, change, and influence society. |
 |  | Network Theory | Analyzes social relationships as networks of nodes (individuals/groups) and ties (connections). |
-| **Macro-level Theories** | Structural Functionalism | Examines large-scale social structures and their functions in maintaining society. |
+| **Macro-level** | Structural Functionalism | Examines large-scale social structures and their functions in maintaining society. |
 |  | World-Systems Theory | Views global inequality as a product of historical capitalism and core-periphery dynamics. |
-| **Classical Theories** | Marx’s Conflict Theory | Focuses on class struggle and economic determinism in shaping history. |
+| **Classical** | Marx’s Conflict Theory | Focuses on class struggle and economic determinism in shaping history. |
 |  | Weber’s Verstehen Sociology | Emphasizes interpretive understanding of social action and cultural influences. |
 |  | Durkheim’s Social Facts | Studies external social forces that shape individual behavior (e.g., norms, institutions). |
-| **Modern Theories** | Structural Functionalism | Analyzes society as a system of interdependent parts promoting stability. |
+| **Modern** | Structural Functionalism | Analyzes society as a system of interdependent parts promoting stability. |
 |  | Conflict Theory | Highlights power struggles and inequalities as drivers of social change. |
-| **Postmodern/Poststructural Theories** | Foucault’s Power/Knowledge | Examines how power operates through discourse and institutions. |
+| **Poststructural** | Foucault’s Power/Knowledge | Examines how power operates through discourse and institutions. |
 |  | Lyotard’s Postmodernism | Critiques grand narratives and emphasizes fragmented, localized knowledge. |
 |  | Bourdieu’s Habitus & Field | Explores how cultural capital and social structures reproduce inequality. |
-| **Descriptive Theories** | Weber’s Verstehen Sociology | Seeks to interpret and describe social action from the actor’s subjective perspective. |
-| **Normative Theories** | Critical Theory | Aims to critique and transform oppressive social structures. |
+| **Descriptive** | Weber’s Verstehen Sociology | Seeks to interpret and describe social action from the actor’s subjective perspective. |
+| **Normative** | Critical Theory | Aims to critique and transform oppressive social structures. |
 |  | Feminist Theories | Advocate for gender equality and challenge patriarchal norms. |
-| **Predictive Theories** | Evolutionary Sociology | Applies Darwinian principles to explain societal development. |
+| **Predictive** | Evolutionary Sociology | Applies Darwinian principles to explain societal development. |
 |  | Rational Choice Institutionalism | Uses rational actor models to predict institutional behavior. |
 
-## Normative Social  Frameworks
+## Political Theory
 
-> …
-> 
+> The systematic study of power, authority, governance, and political behavior, including the principles, institutions, and practices that shape societies and guide collective decision-making.
+
+| **Category** | **Key Concepts** | **Philosophers/Thinkers** | **Key Works** |
+| --- | --- | --- | --- |
+| **Classical Political Theory** | The state, justice, virtue, the ideal city-state | Plato, Aristotle | *Republic* (Plato), *Nicomachean Ethics* (Aristotle) |
+| **Social Contract Theory** | The origins of the state, legitimacy, individual rights, consent | Hobbes, Locke, Rousseau | *Leviathan* (Hobbes), *Second Treatise of Government* (Locke), *The Social Contract* (Rousseau) |
+| **Liberalism** | Individual rights, equality, democracy, freedom of the market, limited government | John Stuart Mill, Immanuel Kant | *On Liberty* (Mill), *Groundwork for the Metaphysics of Morals* (Kant) |
+| **Marxism** | Class struggle, alienation, revolution, communism | Karl Marx, Friedrich Engels | *The Communist Manifesto* (Marx & Engels), *Das Kapital* (Marx) |
+| **Conservatism** | Tradition, authority, skepticism about radical change, organic society | Edmund Burke, Michael Oakeshott | *Reflections on the Revolution in France* (Burke), *Rationalism in Politics* (Oakeshott) |
+| **Feminist Political Theory** | Gender, power dynamics, the role of women in society, equality | Simone de Beauvoir, Judith Butler | *The Second Sex* (Beauvoir), *Gender Trouble* (Butler) |
+| **Post-Colonial Theory** | Colonialism, imperialism, identity, race, decolonization | Frantz Fanon, Edward Said | *The Wretched of the Earth* (Fanon), *Orientalism* (Said) |
+| **Anarchism** | Rejection of the state, voluntary cooperation, freedom from coercion | Peter Kropotkin, Mikhail Bakunin | *The Conquest of Bread* (Kropotkin), *God and the State* (Bakunin) |
+| **Critical Theory** | Ideology, culture, authority, the critique of modernity | The Frankfurt School (Adorno, Horkheimer, Marcuse) | *Dialectic of Enlightenment* (Adorno & Horkheimer), *One-Dimensional Man* (Marcuse) |
+| **Republicanism** | Civic virtue, mixed government, the common good | Niccolò Machiavelli, Montesquieu | *The Prince* (Machiavelli), *The Spirit of the Laws* (Montesquieu) |
+| **Utilitarianism** | The greatest happiness principle, cost-benefit analysis | Jeremy Bentham, John Stuart Mill | *An Introduction to the Principles of Morals and Legislation* (Bentham), *Utilitarianism* (Mill) |
+
+## Economic Theory
+
+> A systematic framework for understanding the production, distribution, and consumption of resources, analyzing how economic agents behave, markets function, and policies shape societal outcomes.
+
+> Note: Many of these so-called “theories” are often just labels with political or ideological motivations, such as “Capitalism.”
+
+> Note: This table presents common conceptions or definitions of economic systems. For example, Mercantilism was not a formal theory but a practical strategy aimed at making a nation wealthy. It lacked a shared methodology or systematic framework, so characterizing Mercantilism merely as a theory of trade is misleading.
+
+| **Theory**                  | **Description**                                                                                                         | **Normation**                                                                                |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Austrian System**         | Emphasizes individual choice, market processes, and spontaneous order; skeptical of central planning.                   | Advocates minimal government intervention, private property, and entrepreneurial freedom.    |
+| **Marxist System**          | Focuses on material conditions, class struggle, and modes of production; sees capitalism as historically contingent.    | Advocates collective ownership, social equality, and redistribution of resources.            |
+| **Keynesian Economics**     | Highlights the role of government in managing aggregate demand to stabilize economic cycles.                            | Supports active fiscal and monetary policies to mitigate unemployment and inequality.        |
+| **Classical Economics**     | Based on the idea that free markets naturally allocate resources efficiently through supply and demand.                 | Emphasizes minimal interference, competition, and self-regulating markets.                   |
+| **Neoclassical Economics**  | Builds on classical ideas with formal models of utility, production, and equilibrium.                                   | Supports market efficiency, rational choice, and price-based coordination.                   |
+| **Institutional Economics** | Focuses on the role of institutions, rules, and social norms in shaping economic behavior.                              | Advocates designing institutions to reduce transaction costs and promote fairness.           |
+| **Behavioral Economics**    | Integrates psychology into economics to explain deviations from rational choice.                                        | Suggests policies that nudge behavior toward socially desirable outcomes.                    |
+| **Capitalism**              | Economic system organized around private ownership, profit motives, and market competition.                             | Normatively values individual initiative, wealth accumulation, and private enterprise.       |
+| **Mercantilism**            | Pre-modern economic doctrine emphasizing state control, trade surpluses, and accumulation of wealth for national power. | Advocates strong state intervention, protectionism, and strategic accumulation of resources. |
+
+## Normative Social Framework
+
+> A structured set of principles, norms, and values that guide behavior, shape institutions, and regulate social interactions within a society.
+
 
 | **Category** | **Name** | **Description** | **Grounding** |
 | --- | --- | --- | --- |
@@ -132,8 +223,7 @@ transcending the limits imposed by current circumstances. To live is to live in 
 
 ## Individual Behavioral Framework
 
-> …
-> 
+> A conceptual model that explains and predicts human actions, decisions, and interactions based on cognitive, emotional, social, and contextual factors.
 
 | **Category** | Name | **Core Principles** |
 | --- | --- | --- |
@@ -155,68 +245,6 @@ transcending the limits imposed by current circumstances. To live is to live in 
 |  | Buddhism (Zen/Tibetan) | Enlightenment, impermanence, compassion |
 |  | Christian Mysticism | Union with God, divine contemplation |
 
-## Methods
-
-### Anthropology
-
-- **Participant Observation** (Malinowski): The idea that anthropologists must immerse themselves in the life of the community.
-- **Thick Description** (Geertz): Analyzing not just behavior but the layered meanings behind behavior.
-- **Cultural Relativism** (Boas, Benedict): Cultures must be understood on their own terms, not judged by external standards.
-
-### Sociology
-
-- https://en.wikipedia.org/wiki/Deconstruction
-- https://en.wikipedia.org/wiki/Analytical_sociology
-- https://en.wikipedia.org/wiki/Discourse_analysis
-- https://en.wikipedia.org/wiki/Middle-range_theory_(sociology)
-
-## Thinkers
-
-- https://scholar.google.com/citations?user=0A5Gnc0AAAAJ&hl=en
-- https://en.wikipedia.org/wiki/Harold_Garfinkel
-
-### Justice & Legal Theory
-
-> …
-> 
-
-### Social Theory
-
-> …
-> 
-
-### Economic Theory
-
-> …
-> 
-
-## Political Theory
-
-> …
-> 
-
-| **Category** | **Key Concepts** | **Philosophers/Thinkers** | **Key Works** |
-| --- | --- | --- | --- |
-| **Classical Political Theory** | The state, justice, virtue, the ideal city-state | Plato, Aristotle | *Republic* (Plato), *Nicomachean Ethics* (Aristotle) |
-| **Social Contract Theory** | The origins of the state, legitimacy, individual rights, consent | Hobbes, Locke, Rousseau | *Leviathan* (Hobbes), *Second Treatise of Government* (Locke), *The Social Contract* (Rousseau) |
-| **Liberalism** | Individual rights, equality, democracy, freedom of the market, limited government | John Stuart Mill, Immanuel Kant | *On Liberty* (Mill), *Groundwork for the Metaphysics of Morals* (Kant) |
-| **Marxism** | Class struggle, alienation, revolution, communism | Karl Marx, Friedrich Engels | *The Communist Manifesto* (Marx & Engels), *Das Kapital* (Marx) |
-| **Conservatism** | Tradition, authority, skepticism about radical change, organic society | Edmund Burke, Michael Oakeshott | *Reflections on the Revolution in France* (Burke), *Rationalism in Politics* (Oakeshott) |
-| **Feminist Political Theory** | Gender, power dynamics, the role of women in society, equality | Simone de Beauvoir, Judith Butler | *The Second Sex* (Beauvoir), *Gender Trouble* (Butler) |
-| **Post-Colonial Theory** | Colonialism, imperialism, identity, race, decolonization | Frantz Fanon, Edward Said | *The Wretched of the Earth* (Fanon), *Orientalism* (Said) |
-| **Anarchism** | Rejection of the state, voluntary cooperation, freedom from coercion | Peter Kropotkin, Mikhail Bakunin | *The Conquest of Bread* (Kropotkin), *God and the State* (Bakunin) |
-| **Critical Theory** | Ideology, culture, authority, the critique of modernity | The Frankfurt School (Adorno, Horkheimer, Marcuse) | *Dialectic of Enlightenment* (Adorno & Horkheimer), *One-Dimensional Man* (Marcuse) |
-| **Republicanism** | Civic virtue, mixed government, the common good | Niccolò Machiavelli, Montesquieu | *The Prince* (Machiavelli), *The Spirit of the Laws* (Montesquieu) |
-| **Utilitarianism** | The greatest happiness principle, cost-benefit analysis | Jeremy Bentham, John Stuart Mill | *An Introduction to the Principles of Morals and Legislation* (Bentham), *Utilitarianism* (Mill) |
-
-## Theories of Justice
-
-> See more in Justice
-
-## Conceptual Model
-
-...
-
 ## References
 
 - [Literatura](https://www.notion.so/Literatura-258d610507c742ceaf2b544b2e99b4c1?pvs=21)
@@ -225,31 +253,30 @@ transcending the limits imposed by current circumstances. To live is to live in 
 - [Philosophy](https://www.notion.so/Philosophy-1dac0f5171ec80c58c7cc458bfbcef78?pvs=21)
 - [Epistemology](https://www.notion.so/Epistemology-0e47f3d857c544c6b08bc991c24c8891?pvs=21)
 - https://en.wikipedia.org/wiki/Frankfurt_School
-- [] Books [] → …
-    - The Interpretation of Cultures (1973)
-    - Outline of a Theory of Practice (1972)
-    - Stone Age Economics (1972)
-    - Debt: The First 5000 Years (2011)
-    - The Elementary Structures of Kinship (1949)
-    - Patterns of Culture (1934)
-    - The Gift (1925)
-    - Argonauts of the Western Pacific (1922)
-    - Argonauts of the Western Pacific (1922)
-    - Ancient Society (1877)
-    - Primitive Culture (1871)
-    - Purity and Danger (1966)
-    - H.L.A. Hart – The Concept of Law (1961)
-    - Ronald Dworkin – *Law’s Empire* (1986)
-    - Hans Kelsen – *Pure Theory of Law* (1934, 1960)
-    - https://www.amazon.com/New-Institutionalism-Organizational-Analysis/dp/0226677095
-    - https://www.amazon.com/Social-Theory-Structure-Robert-Merton/dp/0029211301
-    - https://www.amazon.com/Interpretation-Cultures-Basic-Books-Classics/dp/0465097197
-    - https://www.amazon.com/-/es/Patterns-Culture-Ruth-Benedict/dp/0618619550/146-9073955-0494202?psc=1
-    - https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290
-    - https://www.amazon.com/-/es/Think-Like-Anthropologist-Matthew-Engelke/dp/0691193134/146-9073955-0494202?psc=1
-    - https://www.amazon.com/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604/
-    - https://www.amazon.com/Rival-Market-Society-Recent-Essays/dp/0674773039/
-    - https://www.amazon.com/Albert-Hirschman-ebook/dp/B00F8MIJ0S/
+- The Interpretation of Cultures (1973)
+- Outline of a Theory of Practice (1972)
+- Stone Age Economics (1972)
+- Debt: The First 5000 Years (2011)
+- The Elementary Structures of Kinship (1949)
+- Patterns of Culture (1934)
+- The Gift (1925)
+- Argonauts of the Western Pacific (1922)
+- Argonauts of the Western Pacific (1922)
+- Ancient Society (1877)
+- Primitive Culture (1871)
+- Purity and Danger (1966)
+- H.L.A. Hart – The Concept of Law (1961)
+- Ronald Dworkin – *Law’s Empire* (1986)
+- Hans Kelsen – *Pure Theory of Law* (1934, 1960)
+- https://www.amazon.com/New-Institutionalism-Organizational-Analysis/dp/0226677095
+- https://www.amazon.com/Social-Theory-Structure-Robert-Merton/dp/0029211301
+- https://www.amazon.com/Interpretation-Cultures-Basic-Books-Classics/dp/0465097197
+- https://www.amazon.com/-/es/Patterns-Culture-Ruth-Benedict/dp/0618619550/146-9073955-0494202?psc=1
+- https://www.amazon.com/Debt-First-5-000-Years/dp/1612191290
+- https://www.amazon.com/-/es/Think-Like-Anthropologist-Matthew-Engelke/dp/0691193134/146-9073955-0494202?psc=1
+- https://www.amazon.com/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604/
+- https://www.amazon.com/Rival-Market-Society-Recent-Essays/dp/0674773039/
+- https://www.amazon.com/Albert-Hirschman-ebook/dp/B00F8MIJ0S/
 - [Belief](https://en.wikipedia.org/wiki/Belief)
 - [Ideology](https://en.wikipedia.org/wiki/Ideology)
 - [Doctrina](https://es.wikipedia.org/wiki/Doctrina)
@@ -276,3 +303,14 @@ transcending the limits imposed by current circumstances. To live is to live in 
 - Schommer-Aikins, M. (2012). An evolving theoretical framework for an epistemological belief system. In Personal epistemology (pp. 103-118). Routledge.
 - Barton, A. H., & Parsons, R. W. (1977). Measuring belief system structure. Public Opinion Quarterly, 41(2), 159-180.
 - Bluhm, W. T., Anagnoson, J. T., Hofstetter, V., & Mitra, S. K. (1979). Models and methods in the empirical study of ideology: A philosophical analysis. The Indian Journal of Political Science, 40(2), 1-58.
+- https://en.wikipedia.org/wiki/Deconstruction
+- https://en.wikipedia.org/wiki/Analytical_sociology
+- https://en.wikipedia.org/wiki/Discourse_analysis
+- https://en.wikipedia.org/wiki/Middle-range_theory_(sociology)
+- [Anti-Necessitarian Social Theory](https://en.wikipedia.org/wiki/False_necessity)
+- Unger, Robero Mangabeira, False necessity: anti-necessitarian social theory in the service of radical democracy: from Politics, a work in constructive social theory (London: Verso, 2004), xvii.
+- Karofsky, Amy. A case for necessitarianism. Routledge, 2021.
+- [The Frankfurt School](https://www.youtube.com/watch?v=xX9EI8wEyuY)
+- [Critical Theory](https://en.wikipedia.org/wiki/Critical_theory)
+- Horkheimer, Max. "Traditional and critical theory." Critical theory: Selected essays 188.243 (1972): 1-11.
+- …
