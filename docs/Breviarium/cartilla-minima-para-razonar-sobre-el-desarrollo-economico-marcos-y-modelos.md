@@ -343,7 +343,7 @@ A **development constraint** is a systemic barrier that:
 - Modelling The Dyanmics of Perception & Response of Progress Asymmetry
 - A Theory of Collective Action
 
-### Agent Perception–Action Hierarchy
+### Agent
 
 > An agent is a recursive perception–action system capable of maintaining coherence between environmental sensing, internal modeling, and goal-directed action across multiple levels of abstraction.
 
@@ -830,3 +830,5 @@ Key Elements:
 - [A decade of economic complexity](https://www.youtube.com/watch?v=GNTdw47HZbE)
 - [Paul Romer: Rules, Technology and Innovation](https://www.youtube.com/watch?v=0bDs5VTafEA)
 - [Technological paradigms, labour creation and destruction in a multi-sector agent- based model](https://www.youtube.com/watch?v=vuGliNvnfc4)
+- [Developmentalism](../Locus-Instrumentorum/Sociology/Developmentalism.md)
+- [An Essay on the Notion of Agency](an-essay-on-the-notion-of-agency.md)

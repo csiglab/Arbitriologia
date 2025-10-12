@@ -17,7 +17,9 @@
 - Firm Death & Density
 - ...
 
-## Agent Perception–Action Hierarchy
+## Agential Governance Hierarchy
+
+> or Hierarchy of Action.
 
 > An agent is a recursive perception–action system capable of maintaining coherence between environmental sensing, internal modeling, and goal-directed action across multiple levels of abstraction.
 
@@ -62,7 +64,7 @@
 
 - Antincesity Reality Framework
 - Capability Escalation Framework (CEF)
-- Techno-Productivist Cognitive Schema (TPCS)
+- Techno-Productivist Cognitive Scheme (TPCS)
 
 ## Program
 

@@ -21,8 +21,10 @@
 - [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem)
 - [The Collective Action Problem](Breviarium/collective-action-problem)
 - [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos)
-- [An Essay on Limits  Self Organization in Social Systems](Breviarium/an-essay-on-limits-of-self-organization.md)
+- [Techno-Productivist Agential Principle Set (T-PAPS)](Breviarium/techno-productivist-agential-principle-set.md)
 
+- [An Essay on the Notion of Agency](Breviarium/an-essay-on-the-notion-of-agency.md)
+- [An Essay on Limits  Self Organization in Social Systems](Breviarium/an-essay-on-limits-of-self-organization.md)
 - [A Theory of Government](Breviarium/a-theory-of-goverment)
 - [A Defense of Industrial Policy - or The Limits of Self Organization](Breviarium/a-defense-of-industrial-policy)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality)
