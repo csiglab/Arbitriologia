@@ -19,6 +19,33 @@ In order to proceed with the formulation of this notion, we will first present t
 
 We coined the term -- **Agent–Social-Reality Hard Coupling Problem** to denote a systemic phenomenon in which agents within a social sphere are tightly coupled to the current state of reality, constraining their ability to fully reflect, interpret, and generate alternative actions. This coupling creates stable patterns—attractors—toward which agents’ perceptions and behaviors converge, limiting transformative agency while establishing a baseline (“mediocracy minimum”) of collective action and interpretation. The concept highlights both structural and cognitive constraints, framing the interaction between agents and social reality as a dynamic yet bounded system.
 
+## Formalization
+
+To express the **Agent–Social-Reality Hard Coupling Problem** in dynamical terms, consider a minimal model of recursive interaction between **agential configurations** and the **state of social reality**:
+
+[
+R_{t+1} = f(A_t, S_t)
+]
+
+where:
+
+- ( A_t ) denotes the collective agential configuration at time ( t ) — encompassing the distribution of beliefs, interpretations, and behavioral dispositions among agents;
+- ( S_t ) represents the prevailing state of social reality — including institutional structures, norms, and material conditions;
+- ( R_{t+1} ) captures the next-stage configuration of reality as shaped by agential activity.
+
+The **reflexive coupling coefficient** ( k ) quantifies the sensitivity of agents to the current state of social reality:
+
+[
+\frac{\partial A_{t+1}}{\partial S_t} = k
+]
+
+This parameter ( k ) expresses how strongly agents’ future configurations are determined by the existing social state.
+
+- When ( k ) is **high** (*hard coupling*), agents’ cognition and behavior are tightly constrained by prevailing structures and interpretations, leading to **low generativity** and **stagnant trajectories** near existing attractors.
+- When ( k ) is **low** (*soft coupling*), agents exhibit greater **reflexive autonomy**, enabling the exploration of alternative trajectories and the possibility of **transformative change**.
+
+In this sense, development can be formalized as the **progressive reduction of coupling strength**, expanding the system’s accessible state-space of possible futures.
+
 ## On Development
 
 Development, by definition, requires the ability to envision alternatives—divergences from the current trajectory. If a society or group of agents is unable to reflect critically and devise alternatives, it becomes trapped in its existing state of development, constrained by whatever path it is currently following.
