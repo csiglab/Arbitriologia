@@ -21,28 +21,22 @@ We coined the term -- **Agent–Social-Reality Hard Coupling Problem** to denote
 
 ## Formalization
 
-To express the **Agent–Social-Reality Hard Coupling Problem** in dynamical terms, consider a minimal model of recursive interaction between **agential configurations** and the **state of social reality**:
-
-[
-R_{t+1} = f(A_t, S_t)
-]
+To express the **Agent–Social-Reality Hard Coupling Problem** in dynamical terms, consider a minimal model of recursive interaction between **agential configurations** and the **state of social reality**: $R_{t+1} = f(A_t, S_t)$
 
 where:
 
-- ( A_t ) denotes the collective agential configuration at time ( t ) — encompassing the distribution of beliefs, interpretations, and behavioral dispositions among agents;
-- ( S_t ) represents the prevailing state of social reality — including institutional structures, norms, and material conditions;
-- ( R_{t+1} ) captures the next-stage configuration of reality as shaped by agential activity.
+- $A_t$ denotes the collective agential configuration at time $t$ — encompassing the distribution of beliefs, interpretations, and behavioral dispositions among agents;
+- $S_t$ represents the prevailing state of social reality — including institutional structures, norms, and material conditions;
+- $R_{t+1}$ captures the next-stage configuration of reality as shaped by agential activity.
 
-The **reflexive coupling coefficient** ( k ) quantifies the sensitivity of agents to the current state of social reality:
+The **reflexive coupling coefficient**  $k$ quantifies the sensitivity of agents to the current state of social reality:
 
-[
-\frac{\partial A_{t+1}}{\partial S_t} = k
-]
+$\frac{\partial A_{t+1}}{\partial S_t} = k$
 
-This parameter ( k ) expresses how strongly agents’ future configurations are determined by the existing social state.
+This parameter $k$ expresses how strongly agents’ future configurations are determined by the existing social state.
 
-- When ( k ) is **high** (*hard coupling*), agents’ cognition and behavior are tightly constrained by prevailing structures and interpretations, leading to **low generativity** and **stagnant trajectories** near existing attractors.
-- When ( k ) is **low** (*soft coupling*), agents exhibit greater **reflexive autonomy**, enabling the exploration of alternative trajectories and the possibility of **transformative change**.
+- When $k$ is **high** (*hard coupling*), agents’ cognition and behavior are tightly constrained by prevailing structures and interpretations, leading to **low generativity** and **stagnant trajectories** near existing attractors.
+- When $k$ is **low** (*soft coupling*), agents exhibit greater **reflexive autonomy**, enabling the exploration of alternative trajectories and the possibility of **transformative change**.
 
 In this sense, development can be formalized as the **progressive reduction of coupling strength**, expanding the system’s accessible state-space of possible futures.
 
