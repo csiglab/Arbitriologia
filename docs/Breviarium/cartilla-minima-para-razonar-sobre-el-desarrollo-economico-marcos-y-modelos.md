@@ -49,6 +49,15 @@
 - **Tactical Layer** (Execution & adjustment)
 - **Reflective Layer** (Monitoring, learning, adaptation)
 
+
+#### The Agent–Social-Reality Hard Coupling Problem
+
+#### Collective Action
+
+#### Developmentalism
+
+#### Techno-Productivist Agential Principle Set (T-PAPS)
+
 ## 👁️ Observing Society
 
 > To construct a framework for reasoning about development, we begin by examining society and change—analyzing the space of societies and the dynamics of economic transformation within a given society.
