@@ -18,5 +18,5 @@ QA:
 
 - [A Defense of Industrial Policy](../Breviarium/a-defense-of-industrial-policy)
 - [Locus Instrumentorum](../Locus-Instrumentorum/)
-- [The Observer Problem](../Breviarium/the-internal-observer-problem.md)
-- [An Essay on Self Organization in Social Systems](../Breviarium/an-essay-on-self-organization.md)
+- [The Agent–Social-Reality Hard Coupling Problem](../Breviarium/agent-social-reality-hard-coupling-problem)
+- [An Essay on Self Organization in Social Systems](../Breviarium/an-essay-on-self-organization)

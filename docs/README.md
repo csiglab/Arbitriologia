@@ -14,19 +14,23 @@
 - Locus Meliorandis: Engineering change in social reality.
 - Locus Realitatis: Investigating the structure and dynamics of social reality.
 
+> The entire corpus of ideas can be reduced to two fundamental systemic problems: the «Agent–Social-Reality Hard Coupling Problem» and its twin, the «Collective Action Problem».
+
 ## 📌 Personal Recomendations
 
+- [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem)
+- [The Collective Action Problem](Breviarium/collective-action-problem)
+- [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos)
+
+- [A Theory of Government](Breviarium/a-theory-of-goverment)
 - [A Defense of Industrial Policy - or The Limits of Self Organization](Breviarium/a-defense-of-industrial-policy)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality)
-- [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos)
 - [Cartilla Guía de Estudios y Organización del Conocimiento Relacionado con los Sistemas Sociales](Breviarium/cartilla-guia-de-estudios-y-organización-del-conocimiento-relacionado-con-los-sistemas-sociales)
 - [Cartilla Mínima sobre el Diseño de Mercados: ¿Qué es el mercado? Soluciones de mercado vs. no mercado](Breviarium/an-essay-of-public-services-marketization)
 - [In Support of Policy Experimentation](Breviarium/in-support-of-policy-experimentation)
 - [The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes](Breviarium/the-policy-politics-conflation-hypothesis-language-structure-and-development-outcomes)
 - [The Art of Economic Statecraft](./Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
-- [The Observer Problem](Breviarium/the-internal-observer-problem)
-- [A Theory of Government](Breviarium/a-theory-of-goverment)
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft)
 
 ## 📚 Most Read
