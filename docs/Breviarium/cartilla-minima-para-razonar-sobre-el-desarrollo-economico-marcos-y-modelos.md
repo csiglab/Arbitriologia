@@ -1,12 +1,13 @@
 # Cartilla minima para razonar sobre  el desarrollo economico: marcos y modelos
 
-> We propose a **framework** to understand how societies **think** and **act** to transform their conditions and pursue development—both by **convergence** and **fronteir progress**. To do this, we take an abstract view of society and change, analyzing the **space of societies** and the dynamics of **economic transformation in a given society**.
+> In this document, we explore how societies think, reflect, and act—how shared visions emerge—especially developmental visions characterized by technical and productive convergence, aiming to surpass the leading models.
 
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
 ## Abstract
 
-> In this document, we propose an **abstract framework** for thinking about wealth & **development (convergence and  progress)**. The framework is organized around two deeply interconnected themes: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of wealth, production, and constraints that shape developmental possibilities. Between these lies the **intersection (operational interface)**, where cognition meets reality `thereby enabling` strategy, action, organization and feedback  in order to `transform reality` in a way that solves **economic development problems (convergence &  global frontier progress)**.
+> **In this document, we propose an abstract framework for modeling societal agency and the processes related to collective visions of wealth and development (convergence and progress).** The framework is organized around two deeply interconnected dimensions: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of production, resources, and constraints that shape developmental possibilities. Connecting these dimensions is the **intersection (operational interface)**, where cognition meets reality, enabling strategy, action, organization, and feedback to transform conditions in ways that address economic development challenges, foster convergence, and advance toward the global frontier of progress.
+
 
 ![Thinking Framework for Development – Cognitive and Reality Dimensions](../../img/resized/thinking-framework-for-development-cognitive-realiaty_512x512.png)
 
@@ -340,6 +341,45 @@ A **development constraint** is a systemic barrier that:
 - Modelling The Dyanmics of Perception & Response of Progress Asymmetry
 - A Theory of Collective Action
 
+### Agent Perception–Action Hierarchy
+
+> An agent is a recursive perception–action system capable of maintaining coherence between environmental sensing, internal modeling, and goal-directed action across multiple levels of abstraction.
+
+> Higher levels stabilize, contextualize, and reinterpret lower ones; lower levels ground and actualize higher intentions.
+
+- **Principle**: ...
+- **Meta Strategy** → overarching vision or philosophy guiding multiple strategies.
+- **Strategy** → coordinated plan to achieve long-term objectives.
+- **Policy Framework** → organizing structure for policies; sets principles and priorities.
+- **Policy** → formalized rules or guidelines derived from strategy.
+- **Tactic** → specific method or approach to implement policy or strategy.
+- **Program** → coordinated set of projects or initiatives.
+- **Scheme** → structured plan or design for a particular purpose.
+- **Action** → concrete steps executed by agents.
+- ...
+
+### Principle
+
+> Which principles should guide our Agency?
+
+| **Principle**                                   | **Core Idea**                                                                                                                           | **Implication for National Transformation**                                                                                         |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Principle of Antinecessity**                  | Nothing about a nation’s trajectory is inevitable; structures and outcomes are contingent and transformable.                            | Reject deterministic narratives; redesign institutions, technologies, and norms consciously through deliberate agency.              |
+| **Principle of Intelligibility** 🜛             | The world — and social order — must be made intelligible to reason; transformation requires understanding its structure and mechanisms. | Develop intelligible models of society, economy, and governance so that reform is guided by comprehension, not opacity or ideology. |
+| **Principle of Sufficient Reason (Leibnizian)** | Nothing exists or persists without a reason; every structure and institution must justify its existence and coherence.                  | Subject all systems and policies to rational scrutiny — eliminate inertia and arbitrariness in national organization.               |
+| **Principle of Recursive Cognition**            | An agent must model itself modeling the world (and others doing the same).                                                              | Embed reflexivity: monitor and improve how national cognition, perception, and coordination evolve.                                 |
+| **Principle of Coevolution**                    | Technological, economic, and social systems evolve together, not in isolation or sequence.                                              | Foster mutual development of productive, institutional, and cultural capabilities to sustain balanced transformation.               |
+| **Principle of Constructed Possibility**        | The horizon of the possible expands through intentional experimentation and learning.                                                   | Treat national development as *possibility engineering*—actively constructing new economic, scientific, and social configurations.  |
+| **Principle of Cognitive Integration**          | Align perception, evaluation, and action systems across all organizational levels.                                                      | Create coherence between knowledge production, decision-making, and social values to enhance national adaptiveness.                 |
+| **Principle of Adaptive Coherence**             | Balance structural stability with feedback, variation, and innovation.                                                                  | Design governance as a *learning architecture* capable of reform without collapse.                                                  |
+| **Principle of Strategic Plasticity**           | Maintain flexibility at higher cognitive levels (strategy, ideology) while stabilizing the operational base.                            | Enable paradigmatic and narrative renewal without undermining functional continuity.                                                |
+| **Principle of Distributed Intelligence**       | National cognition emerges from coordination among diverse sub-agents and institutions.                                                 | Build *epistemic infrastructure*: data systems, deliberative forums, and cooperative research and innovation networks.              |
+| **Principle of Temporal Depth**                 | True transformation requires aligning short-, medium-, and long-term reasoning.                                                         | Integrate immediate actions with structural and generational goals through temporal coordination mechanisms.                        |
+| **Principle of Epistemic Sovereignty**          | A transformative nation must produce its own categories of knowledge, theory, and evaluation.                                           | Cultivate autonomous scientific, philosophical, and technical capacity — conceptual self-determination.                             |
+| **Principle of Reflexive Evaluation**           | The agent must evaluate not only outcomes but also its own ways of perceiving and reasoning.                                            | Institutionalize second-order learning — reform the evaluative and feedback architectures themselves.                               |
+| **Principle of Systemic Solidarity**            | Transformation depends on the alignment of diverse actors around shared models and purposes.                                            | Build meta-coordination mechanisms linking state, academia, industry, and civil society around collective intelligibility.          |
+
+
 ### Collective Self-Cognition & Otherness Model
 
 > A unified framework to understand how Society B perceives its developmental inferiority relative to Society A, processes that perception through cultural and cognitive filters, and generates systemic responses—strategic, emotional, or ideological.
@@ -400,18 +440,28 @@ A **development constraint** is a systemic barrier that:
 | **No Generating  High Institutional Capacity**                  | Lack of effective public institutions hampers regulation, enforcement, and support for economic actors.                                                |
 | **Allowing Poor Governance and Corruption**               | Corruption and weak governance distort incentives and reduce investment and innovation.                                                                |
 
-
-
-
 ### Case Studies
 
-| **Society B**       | **Society A** | **Response**                                          |
-| ------------------- | ------------- | ----------------------------------------------------- |
-| **Japan (1860s)**   | West          | Strategic mimicry (Meiji Restoration)  (Crisis after defeat → elites & intellectuals reframe problems → collective vision of modernization → massive reform.)                |
-| **India (20th c.)** | Britain       | Mixed: Admiration, resistance, eventual hybridization |
-| **Brazil (today)**  | OECD nations  | Often passive mimicry, low national consensus ( Chronic inequality + elite fragmentation → weak problem recognition → delayed industrial agency.)        |
-| **China (1978–)**   | U.S. / Japan  | Competitive mimicry + techno-nationalism              |
-| **Cuba (1959–)**    | U.S.          | Rejection + alternative ideology                      |
+> How can we describe the patterns of agency exhibited by different societies over time, especially when influenced by external stimuli or pressures?
+
+| **Society B (Responding Nation)** | **Stimuli** | **Response Type**                                        | **Description of Agentic Behavior**                                                                                                                                                                     |
+| --------------------------------- | ------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Japan (1860s–)**                | Western Powers                              | **Strategic Mimicry**                                    | *Crisis after defeat → elites reframe national weakness as modernization challenge → Meiji Restoration: selective adaptation of Western technology, institutions, and education for national autonomy.* |
+| **India (20th c.)**               | Britain                                     | **Hybridization after Resistance**                       | *Colonial subjugation → intellectual resistance and synthesis (Tagore, Nehru) → partial adoption of democratic and industrial frameworks while maintaining cultural independence.*                      |
+| **Brazil (20th–21st c.)**         | OECD Nations                                | **Passive Mimicry / Weak Cohesion**                      | *Structural inequality and elite fragmentation → inconsistent modernization drives → lack of unified industrial agency and developmental narrative.*                                                    |
+| **China (1978–)**                 | U.S. / Japan                                | **Competitive Mimicry + Techno-Nationalism**             | *Post-Mao reform era → pragmatic learning from capitalist models → state-led industrial and technological mobilization aimed at surpassing Western powers.*                                             |
+| **Cuba (1959–)**                  | U.S.                                        | **Ideological Rejection + Alternative Path**             | *Revolution as total rejection of U.S. dependency → socialist restructuring emphasizing sovereignty and moral economy.*                                                                                 |
+| **South Korea (1960s–1990s)**     | Japan / U.S.                                | **Coordinated Developmentalism**                         | *Authoritarian modernization + technocratic planning → export-oriented industrialization → rise to high-income status through disciplined state-business cooperation.*                                  |
+| **Turkey (Atatürk Era)**          | Europe                                      | **Secular National Reformation**                         | *Collapse of Ottoman Empire → radical westernization and secularization → state-driven modernization to align with European modernity while preserving sovereignty.*                                    |
+| **Soviet Union (1917–1991)**      | Western Capitalism                          | **Antithetical Construction**                            | *Revolutionary rejection of capitalism → creation of alternative industrial, political, and ideological system with rapid industrialization under state command.*                                       |
+| **Poland (1989–)**                | Western Europe                              | **Adaptive Integration**                                 | *Transition from socialism to capitalism → institutional and economic adaptation to EU norms → moderate modernization with dependency on Western capital and markets.*                                  |
+| **France (18th–19th c.)**         | Britain                                     | **Revolutionary Assertion + Administrative Rationalism** | *Response to British industrial and naval power → revolution and Napoleonic state formation → emphasis on centralized administration and scientific modernization.*                                     |
+| **Sweden (19th–20th c.)**         | Industrial Europe                           | **Social-Democratic Synthesis**                          | *Industrial catch-up through consensus-driven reform → fusion of capitalism and welfare institutions → proactive adaptation to maintain equity and competitiveness.*                                    |
+| **Germany (19th–20th c.)**        | Britain / France                            | **Late Industrial Surge + Institutional Engineering**    | *Fragmented principalities unify → state-directed modernization (Bismarck, Zollverein) → balance between authoritarian coordination and industrial dynamism.*                                           |
+| **Switzerland (18th–20th c.)**    | France / Austria                            | **Selective Neutral Modernization**                      | *Small-state pragmatism → neutrality leveraged to attract finance and innovation → deliberate construction of competitive niches (banking, precision industries).*                                      |
+| **Russia (18th–20th c.)**         | Western Europe                              | **Forced Modernization + Autocratic Mobilization**       | *From Peter the Great onward → top-down industrialization to avoid subordination → periodic cycles of modernization followed by authoritarian consolidation.*                                           |
+| **Netherlands (17th c.)**         | Spain / England                             | **Proto-Capitalist Innovation**                          | *Rebellion against empire → maritime, financial, and scientific revolution → early model of decentralized capitalist modernity.*                                                                        |
+| **Belgium (19th–21st c.)**        | France / Britain                            | **Industrial Pioneer + Later Institutional Drift**       | *First continental industrializer (coal, steel) → later bureaucratic and regional fragmentation → maintained prosperity through EU integration and high institutional continuity.*                      |
 
 ## 🔄 Operational Intersection Layer
 

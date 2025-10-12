@@ -17,13 +17,11 @@
 - Firm Death & Density
 - ...
 
-## Tool Space
+## Agent Perception–Action Hierarchy
 
-> Category; Tool; Instance(s).
+> An agent is a recursive perception–action system capable of maintaining coherence between environmental sensing, internal modeling, and goal-directed action across multiple levels of abstraction.
 
-### Category
-
-> Agency Hierarchy.
+> Higher levels stabilize, contextualize, and reinterpret lower ones; lower levels ground and actualize higher intentions.
 
 - **Meta Strategy** → overarching vision or philosophy guiding multiple strategies.
 - **Strategy** → coordinated plan to achieve long-term objectives.
@@ -35,7 +33,10 @@
 - **Action** → concrete steps executed by agents.
 - ...
 
-### Tool
+## Tool Space
+
+> Category; Tool; Instance(s).
+
 
 - Tool - Description- Tags (Categories)
 
