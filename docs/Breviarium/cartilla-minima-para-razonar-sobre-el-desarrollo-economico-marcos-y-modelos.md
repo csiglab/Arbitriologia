@@ -2,6 +2,8 @@
 
 > In this document, we explore how societies think, reflect, and act—how shared visions emerge—especially developmental visions characterized by technical and productive convergence, aiming to surpass the leading models.
 
+> In this note, we will build on the notions developed in [The Agent–Social-Reality Hard Coupling Problem](agent-social-reality-hard-coupling-problem) and [The Collective Action Problem](collective-action-problem), providing a more precise analysis of the idea of development and its particular manifestations.
+
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
 ## Abstract
