@@ -8,3 +8,8 @@ Why do people underestimate the complexity of social reality?
 * **Complex Feedback Loops and Expectations:** Almost everyone is bad at modelling social reality. The challenge is no longer modelling it accurately, but convincing others that you have done so.
 * **Lack of Technical Capacity:** Interaction, feedback loops, adaptation, emergence, and other nonlinear features make social reality extraordinarily difficult to model.
 * **…**
+
+## Area
+
+## Theorist
+

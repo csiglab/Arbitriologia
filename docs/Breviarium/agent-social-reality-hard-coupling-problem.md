@@ -3,8 +3,6 @@
 
 > In this note, we will introduce the important term “The Agent–Social-Reality Hard Coupling Problem” to describe a deep observation regarding agents  and reflexibitly within social reality.
 
-
-
 > **Note:** Within the scope of this discussion, the terms **«Self-Trap Reflexivity Problem»**, **«Problema del autoencierro reflexivo»**, and **«The Agent–Social-Reality Hard Coupling Problem»** should be interpreted as **synonymous**.
 
 ## Formulation

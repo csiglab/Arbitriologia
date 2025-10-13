@@ -97,6 +97,20 @@ TODO
 |                          | 21st c.      | Paul Romer                                     | Endogenous growth theory.                                         |
 | 🇻🇪 / 🇬🇧 Venezuela / UK   | 21st c.      | Carlota Pérez                                  | *Technological Revolutions and Financial Capital*.                |
 
+| **Country**    | **Agent**                     | **Description**                                                                                                                                                    | **Era**     |
+| -------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Japan          | Meiji Reformers               | Leaders and intellectuals who actively broke free from traditional patterns of thought, adopting Western science, technology, and institutions to modernize Japan. | 1868–1912   |
+| Brazil         | Provincial Elites             | Historical social and political actors constrained by existing structures, limiting their ability to envision or implement transformative development paths.       | 1800s–1900s |
+| United Kingdom | Industrial Innovators         | Agents driving industrialization, leveraging technological adoption and capital accumulation while shaping norms and economic structures.                          | 1760–1900   |
+| Germany        | Prussian State Planners       | Officials and intellectuals embedding efficiency, discipline, and scientific management into societal structures, fostering coordinated modernization.             | 1800s–1914  |
+| United States  | Founding Political Leaders    | Early state-builders who established institutions, legal norms, and civic frameworks that stabilized social reality and facilitated further development.           | 1776–1865   |
+| China          | Qing Reform Advocates         | Late Qing intellectuals and officials attempting selective modernization within tightly coupled social structures, facing resistance from entrenched norms.        | 1860s–1912  |
+| India          | Colonial Administrative Elite | Agents constrained by colonial structures, balancing limited autonomy with imposed legal, educational, and economic systems, shaping societal evolution.           | 1800s–1947  |
+| France         | Napoleonic Reformers          | Leaders restructuring institutions, legal systems, and education to stabilize and centralize social and political reality.                                         | 1799–1815   |
+| Russia         | Tsarist Bureaucrats           | Centralized state agents whose decisions and actions were heavily determined by hierarchical norms, limiting transformative agency among broader social actors.    | 1700s–1917  |
+| Ottoman Empire | Tanzimat Reformers            | Agents attempting systemic modernization via legal, military, and educational reforms, navigating entrenched social, religious, and bureaucratic structures.       | 1839–1876   |
+
+
 ## References
 
 - [Bolsa Família](https://es.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)
@@ -131,3 +145,4 @@ TODO
 - Baker, Scott R., Nicholas Bloom, and Steven J. Davis. "Measuring economic policy uncertainty." The quarterly journal of economics 131.4 (2016): 1593-1636.
 - Das, I. P. S. I. T. A., et al. "A virtuous cycle." *Reviewing the evidence on women’s empowerment and energy access, frameworks, metrics and methods* (2020).
 - [Fernando Fajnzylber Waissbluth](https://es.wikipedia.org/wiki/Fernando_Fajnzylber)
+- [The Agent–Social-Reality Hard Coupling Problem](agent-social-reality-hard-coupling-problem.md)

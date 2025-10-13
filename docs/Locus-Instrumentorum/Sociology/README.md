@@ -97,6 +97,67 @@ QA:
 | Formal Modeling       | Agent-Based/Network Models      | Simulating individual interactions to observe emergent patterns       | Studying dynamics of social networks, cooperation, or diffusion    |
 | Critical Approaches   | Discourse/Content Analysis      | Examining texts, media, and communication for meaning and bias        | Understanding ideology, power structures, and societal narratives  |
 
+## Field Space
+
+> Which fields develop **theories** (descriptive - normative - explanatory) about the nature and structure of social reality?
+
+| **Field**                             | **Description**                                                                                                                               | **Tag**                                                                                       |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Philosophy**                        | Explores the ontological and epistemological foundations of social reality—what kinds of entities social structures are, how they exist, and how they can be known. | social ontology; phenomenology; hermeneutics; critical realism; philosophy of social science  |
+| **Sociology**                         | Examines the organization, reproduction, and transformation of social systems and institutions; spans empirical, interpretive, and critical approaches. | social theory; microsociology; macrosociology; critical theory; structuralism; functionalism  |
+| **Anthropology**                      | Studies the plurality of social realities through culture, symbols, and practices, emphasizing variation, meaning-making, and lived experience. | cultural anthropology; social anthropology; ethnography; symbolic anthropology                |
+| **History**                           | Investigates how social forms, categories, and institutions evolve and stabilize through time and historical contingency. | social history; intellectual history; historical sociology; world-systems analysis            |
+| **Political Science**                 | Analyzes the distribution and legitimation of power, governance, and collective agency as constitutive forces of social order. | political theory; comparative politics; political economy; public policy                      |
+| **Economics**                         | Models coordination, production, and value allocation through exchange, incentives, and institutional frameworks; connects descriptive modeling with normative welfare principles. | institutional economics; behavioral economics; evolutionary economics; political economy      |
+| **Legal Theory (Jurisprudence)**      | Theorizes how law structures social reality by defining rights, duties, and legitimate authority; bridges normative and institutional dimensions. | legal philosophy; constitutional theory; sociology of law; critical legal studies             |
+| **Moral Philosophy (Ethics)**         | Examines the principles of normativity—what individuals and societies ought to do, value, and uphold within social life. | normative ethics; meta-ethics; applied ethics; virtue ethics                                  |
+| **Psychology**                        | Studies how cognition, emotion, and motivation mediate between individual experience and collective behavior, shaping shared realities. | social psychology; cognitive psychology; cultural psychology                                  |
+| **Cognitive Science**                 | Analyzes representational, computational, and embodied mechanisms through which cognition and collective understanding arise. | distributed cognition; social cognition; embodied cognition; cognitive anthropology           |
+| **Linguistics**                       | Examines how language and symbols construct, stabilize, and transform meaning and social coordination. | discourse analysis; pragmatics; semiotics; cognitive linguistics                              |
+| **Cultural Studies**                  | Critically analyzes power, identity, and representation in cultural production and interpretation; integrates descriptive and normative critique. | media studies; poststructuralism; cultural materialism; critical discourse analysis           |
+| **Philosophy of Culture** | Explores how artistic and cultural forms express and shape collective sensibility, normativity, and meaning. | cultural theory; critical aesthetics; philosophical anthropology                              |
+| **Sociocybernetics** | Models society as a recursive, self-organizing network of communication and control; emphasizes emergence, adaptation, and reflexivity. | sociocybernetics; autopoiesis; second-order cybernetics; complex adaptive systems             |
+| **Complexity Science**                | Develops formal, computational, and mathematical models of social emergence, self-organization, and nonlinear dynamics. | agent-based modeling; network theory; evolutionary dynamics; socio-physics                    |
+
+## Theorist Space
+
+| **Field**                  | **Theorist**                | **Description**                                                                                     | **Period**         |
+| --------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- | ----------------- |
+| **Philosophy**             | Immanuel Kant               | Developed a framework for understanding how knowledge and experience structure reality.             | 1724–1804         |
+|                             | Georg Wilhelm Friedrich Hegel | Philosopher of history and social reality; emphasized dialectical development of society.           | 1770–1831         |
+| **Sociology**              | Émile Durkheim              | Pioneered the study of social facts, collective consciousness, and institutional structures.        | 1858–1917         |
+|                             | Max Weber                   | Studied bureaucracy, authority, and rationalization in social systems.                              | 1864–1920         |
+| **Anthropology**           | Clifford Geertz             | Developed interpretive anthropology focusing on culture as a system of meaning.                     | 1926–2006         |
+|                             | Bronisław Malinowski        | Foundational figure in functionalist anthropology; emphasized participant observation.              | 1884–1942         |
+| **History**                | Fernand Braudel             | Developed long-duration (la longue durée) perspective on historical structures.                     | 1902–1985         |
+|                             | Eric Hobsbawm               | Studied social and economic history, particularly industrialization and nationalism.               | 1917–2012         |
+| **Political Science**      | Robert Dahl                 | Theorized democracy, pluralism, and power structures in political systems.                          | 1915–2014         |
+|                             | Hannah Arendt               | Explored authority, totalitarianism, and the nature of political action.                             | 1906–1975         |
+| **Economics**              | Adam Smith                  | Classical economist; emphasized division of labor and market mechanisms.                            | 1723–1790         |
+|                             | Karl Marx                   | Analyzed capitalism, class struggle, and historical materialism.                                     | 1818–1883         |
+| **Legal Theory**           | H.L.A. Hart                 | Developed analytical jurisprudence; distinguished law from morality.                                 | 1907–1992         |
+|                             | Ronald Dworkin              | Advocated interpretive approach to law; emphasized principles over rules.                            | 1931–2013         |
+| **Moral Philosophy (Ethics)** | Aristotle                   | Developed virtue ethics; emphasized human flourishing and moral character.                           | 384–322 BCE       |
+|                             | Immanuel Kant               | Developed deontological ethics; emphasized duty and universal moral law.                             | 1724–1804         |
+| **Psychology**             | Sigmund Freud               | Founder of psychoanalysis; studied unconscious drives and social behavior.                           | 1856–1939         |
+|                             | Jean Piaget                 | Studied cognitive development and its role in social understanding.                                   | 1896–1980         |
+| **Cognitive Science**      | Herbert Simon               | Developed theories of bounded rationality and problem-solving in social systems.                     | 1916–2001         |
+|                             | Marvin Minsky               | Pioneer of artificial intelligence; explored computational models of mind and social cognition.       | 1927–2016         |
+| **Linguistics**            | Ferdinand de Saussure       | Laid foundations of structural linguistics; emphasized language as a system of signs.                | 1857–1913         |
+|                             | Noam Chomsky                | Developed generative grammar; studied language structure and cognitive underpinnings.                | 1928–present      |
+| **Cultural Studies**       | Stuart Hall                 | Explored cultural identity, media representation, and ideology.                                       | 1932–2014         |
+|                             | Raymond Williams            | Studied culture in social context; emphasized lived culture and cultural materialism.                | 1921–1988         |
+| **Philosophy of Culture** | Theodor Adorno             | Examined culture, art, and society; critical theory approach to aesthetics.                           | 1903–1969         |
+|                             | Hans-Georg Gadamer          | Developed philosophical hermeneutics; explored interpretation and meaning in culture.                | 1900–2002         |
+| **Sociocybernetics** | Niklas Luhmann             | Developed social systems theory; emphasized communication as the basis of social structure.           | 1927–1998         |
+|                             | Heinz von Foerster          | Pioneer of second-order cybernetics; studied self-organizing systems.                                  | 1911–2002         |
+| **Complexity Science**     | John Holland                | Founder of genetic algorithms; applied complexity and adaptive systems to social phenomena.           | 1929–2015         |
+|                             | Stuart Kauffman             | Studied self-organization and emergence in complex systems, including social applications.            | 1939–present      |
+
+## Practitioner Space
+
+> See more in [State Economist Strategist](../../Breviarium/the-art-of-economic-statecraft.md)
+
 ## Meta
 
 > Foundational orientations and commitments in social theory that shape how theories interpret society, history, and human action.

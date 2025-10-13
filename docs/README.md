@@ -32,7 +32,6 @@
 - [Cartilla Mínima sobre el Diseño de Mercados: ¿Qué es el mercado? Soluciones de mercado vs. no mercado](Breviarium/an-essay-of-public-services-marketization)
 - [In Support of Policy Experimentation](Breviarium/in-support-of-policy-experimentation)
 - [The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes](Breviarium/the-policy-politics-conflation-hypothesis-language-structure-and-development-outcomes)
-- [The Art of Economic Statecraft](./Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft)
 
