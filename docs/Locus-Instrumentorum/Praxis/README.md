@@ -1,6 +1,10 @@
-# Tool
+# Praxis
 
-> A collection of tools for modeling social systems.
+> A set of tools to suport Observation and Action.
+
+- Observation: [External Observer](Meta/External-Observer.md) & [Locus Realitis](../Locus-Realitatis/README.md).
+- Action: [Locus Meliorandis](../Locus-Meliorandis/README.md)
+
 
 ## 🧠 **Comparative Table of Social Modeling Frameworks**
 

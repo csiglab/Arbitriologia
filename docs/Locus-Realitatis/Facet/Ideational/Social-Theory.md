@@ -1,6 +1,6 @@
 # Social Theory
 
-> **Social theory** is both a set of methods for studying social reality and a framework for normation.
+> **Social Theory** is both a set of methods for studying social reality and a framework for normation.
 
 QA:
 
