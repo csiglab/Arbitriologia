@@ -158,7 +158,24 @@ QA:
 
 > See more in [State Economist Strategist](../../Breviarium/the-art-of-economic-statecraft.md)
 
-## Meta
+## Theory
+
+> A set of theories at multiple levels of  abstraction - scope and generalty.
+
+### Nature
+
+> What is the nature of these theories? What is the level of description?
+
+- **Descriptive** – Explains how social reality operates.
+- **Proactive** – Analyzes possible futures and guides agency through cognition, reflection, action, and interaction. Alternative terms could include Normation - Change Coordination, etc.
+- **Moral (Conduct of Life)**– Addresses the principles, values, and orientations that guide individual and collective conduct; concerns the formation of character, ethos, and practical reason in shaping lived experience and social coexistence.
+- **Legal** – Establishes, codifies, or formalizes social relations through norms, rights, and duties; defines the legitimacy and boundaries of action and interaction within an institutional order. Operates at the level of social rule-formation and regulatory rationalization.
+- **Meta-Theoretical** – Provides overarching frameworks that organize other theories.
+- **Epistemic Tool** – Offers tools for understanding and analyzing social structures and interactions.
+
+### Principle
+
+> Which are the principles that govern the social sphere? What are the principles that govern our representation of the social sphere?
 
 > Foundational orientations and commitments in social theory that shape how theories interpret society, history, and human action.
 
@@ -170,7 +187,23 @@ QA:
 - Critical orientation → Sees social theory as inherently evaluative, oriented toward critique of domination, inequality, and ideology, with an implicit or explicit emancipatory goal.
 - Pragmatist orientation → Treats social theory as a tool for problem-solving in concrete contexts, emphasizing experimentation, adaptation, and practical consequences.
 
-## Theory
+### Ontology Space
+
+> What ontological framework best captures social reality? What is the most suitable social meta-theory?
+
+| Ontology                                         | Conceptual Structure                                    | Description                                                                                                                               | Tags                                            |
+| ------------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| **Materialist (Marxist)**                        | Economic structures → social classes → social relations | Social reality is primarily determined by material and economic conditions; social structures exist objectively and shape human behavior. | Marxism, structure, materialism, class          |
+| **Interpretivist (Weberian)**                    | Individual actions → meanings → social patterns         | Social reality emerges from subjective meanings and interpretations; understanding requires grasping the intentions behind actions.       | Interpretivism, agency, meaning, action         |
+| **Structural Functionalist (Durkheim, Parsons)** | Social system → institutions → norms → roles            | Society exists as a system of interdependent parts; social entities are functional and maintain equilibrium.                              | Functionalism, system, roles, norms             |
+| **Bourdieu’s Dualist (Practice Theory)**         | Fields + habitus → social positions → practices         | Social reality is structured by objective relational fields and embodied dispositions; practices reproduce or transform structures.       | Bourdieu, fields, habitus, practice             |
+| **Structuration (Giddens)**                      | Agents ↔ structures → recursive social practices        | Structures exist only as reproduced by human action; agents and structures are mutually constitutive.                                     | Structuration, duality, agency, structure       |
+| **Foucauldian (Power-Knowledge)**                | Discourses + institutions → norms → power relations     | Social reality is shaped by historical power/knowledge regimes; institutions and discourses produce social “truths.”                      | Foucault, discourse, power, knowledge           |
+| **Autopoietic (Luhmann)**                        | Communication systems → self-production → social order  | Society consists of self-producing communications; individuals are secondary to system operations.                                        | Luhmann, system, autopoiesis, communication     |
+| **Symbolic Interactionism (Mead, Blumer)**       | Micro interactions → symbols → social self              | Social reality emerges through interaction; the self and society are co-constructed via symbolic communication.                           | Interactionism, symbols, self, micro            |
+| **Unger’s Transformative (Plastic)**             | Institutions → human agency → social potential          | Social reality is malleable; institutions can be reshaped; emphasis on transformative human action.                                       | Unger, plasticity, agency, institutional change |
+
+### Theory Space
 
 > **Social Theory** is the systematic framework for analyzing, modeling, and explaining the structures, processes, and dynamics of social life. It seeks to abstract key principles governing the formation, maintenance, and transformation of social relations, institutions, and collective behaviors, often employing conceptual, logical, and empirical methodologies. Social theory can be formal or critical, descriptive or normative, and may integrate models from philosophy, economics, political science, anthropology, and sociology.
 
