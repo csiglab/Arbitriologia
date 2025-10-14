@@ -14,6 +14,13 @@
   - Tool: A collection of tools for modeling social systems.
   - Cases: A guide to modeling specific types of systems or general aspects such as behavior.
 
+- Field (Facet)
+- Meta Theory
+  - Ontology
+  - Epistemology (External Observer )
+- Theory
+- Praxis
+
 ## References
 
 - [External Observer](./Observer.md)
