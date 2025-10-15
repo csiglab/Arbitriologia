@@ -1,17 +1,26 @@
 # Locus Social Realitis
 
-> The domain of material and structural reality—the interplay between the social system and its surrounding environment.
+> The emergent outcome of agents (humans), their interactions, and the environment in which they operate. It is a dynamic system in which individual and collective behaviors, structured relationships, and environmental conditions co-evolve, producing persistent patterns, institutions, and norms that both enable and constrain future actions.
 
-TODO:
+## Property
 
-- Labor (Action of an Agent)
-- Authority - Power
-- Kinship
-- Belief System
-- Environment - Territory
-- Communication - Symbolic System - ...
-- Stratification
-- Solidarity
+> Which properties characterize the social sphere of reality?
+
+| Property                      | Description                                                                                                                                                           |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Emergence**                 | Social reality is not reducible to individual actions; it arises from complex interactions and feedback loops among agents and structures.                            |
+| **Path Dependency**           | Current social patterns, norms, and institutions are shaped by historical trajectories, making some futures more likely than others.                                  |
+| **Historicality**             | Social reality accumulates over time; past events, decisions, and structures influence present dynamics and constraints.                                              |
+| **Adaptation**                | Social systems adjust to changes in the environment, agent behavior, and internal dynamics to maintain coherence or pursue goals.                                     |
+| **Multi-level Structure**     | Social reality manifests at multiple levels (individual, group, institutional, societal), with interactions across levels producing emergent patterns.                |
+| **Constraint & Enablement**   | Institutions, norms, and roles both restrict and guide agent behavior, shaping possibilities for action.                                                              |
+| **Feedback Loops**            | Reciprocal interactions between agents and structures reinforce or modify social patterns over time.                                                                  |
+| **Agent Reflexivity**         | Agents are self-aware and capable of reflecting on their actions, beliefs, and social context, allowing them to anticipate, modify, or reinterpret social structures. |
+| **Contingency & Uncertainty** | Social outcomes are probabilistic rather than deterministic; events may unfold differently depending on context and chance.                                           |
+| **Agent Cognition**           | Social behavior is mediated by individual mental processes, including perception, reasoning, memory, and decision-making.                                             |
+| **Distributed Cognition**     | Knowledge, information, and problem-solving are shared across agents, artifacts, and institutions, creating collective cognitive processes.                           |
+| **Resilience & Fragility**    | Social systems can absorb shocks and maintain identity, but some structures are vulnerable to collapse under stress.                                                  |
+| **Plasticity**                | Social structures and norms are flexible and capable of being reconfigured in response to internal or external pressures.                                             |
 
 ## Social Typology
 
@@ -58,6 +67,16 @@ TODO:
 |                   | Systemic Transformation 🔄   | Structural change in system state via interactions                      | Phenomena (Change) + State + Interaction           |
 |                   | Symbolic System 🔣           | Full set of labels and interpretive frames used                         | Tagging System + Interaction Unit                  |
 |                   | Behavior 🚶                  | Observable pattern of actions over time in response to internal or external stimuli  | Interaction Unit + Interaction + Environment |
+
+## Indirection
+
+> Also referred to as: Mediation, Representation Gap, Effective Abstraction, Relational Distance, Structural Layer, or Intermediate Form.
+
+> Indirection in reality refers to the distance or mediation between the phenomena that exist in the world and our perception of them.
+
+> Take the case of the concept “rock.” It is an abstract category that refers to certain configurations of matter with shared properties—hardness, solidity, mineral composition, stability, etc. We speak of “a rock” as if it were a discrete entity, but in reality there are no “rocks” as such—only continuous material processes: arrangements of atoms, molecular bonds, geological formations, and physical forces that, under certain scales and conditions, appear to us as a stable object.
+
+> The term “rock” thus designates a layered abstraction over dynamic and continuous phenomena. What we perceive and name is a manifestation, not the underlying physical reality itself. This exemplifies indirection in reality—the gap between the stable objects of experience and the deeper, fluid structures that constitute them.
 
 ## Epistemology (Observer)
 

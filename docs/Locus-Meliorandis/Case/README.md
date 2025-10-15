@@ -1,3 +1,3 @@
-# Policy Case Studies
+# Case Studies
 
 - TODO:  Organize According to Policy Domains.

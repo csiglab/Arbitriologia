@@ -1,6 +1,6 @@
 # Locus Meliorandis
 
-> Societies — through the actors within them — recursively observe themselves, assess their conditions, and formulate diagnoses. From this process emerges a shared and distributed mental schema that guides collective action toward the transformation of social reality.
+> Societies — through the actors within them — recursively observe themselves, assess their conditions, and formulate diagnoses - imagine different paths  or modifications -  and invoke a set of agentia proceses that derived in action. From this process emerges a shared and distributed mental schema that guides collective action toward the transformation of social reality.
 
 QA:
 
@@ -13,6 +13,13 @@ QA:
 - Can complex economic ecosystems emerge spontaneously in structurally underdeveloped countries, or do they require deliberate coordination and institutional scaffolding?
 - What are the fundamental constraints and scalability boundaries inherent to self-organizing systems, particularly in terms of structural complexity, coordination capacity, and emergent behavior? To what extent can self-organizing architectures scale without centralized coordination, and what structural thresholds or emergent bottlenecks constrain their performance and coherence?
 - How can one simulate the dynamics of social reality, and to what extent does structure (complex interaction units) emerge as an endogenous property of social interactions?
+
+## Guide
+
+- Dimension  (Which are the dimension of actions?)
+- Toolkit    (Which is the toolkit? )
+- Case Study (Analyze a set of Case Studies)
+- Failure    (Which actions did not work?)
 
 ## References
 

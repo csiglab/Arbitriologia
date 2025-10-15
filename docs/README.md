@@ -14,12 +14,13 @@
 - Locus Meliorandis: Engineering change in social reality.
 - Locus Realitatis: Investigating the structure and dynamics of social reality.
 
-> The entire corpus of ideas can be reduced to two fundamental systemic problems: the «Agent–Social-Reality Hard Coupling Problem» and its twin, the «Collective Action Problem».
+> The entire corpus of ideas can be reduced to two fundamental systemic problems: the «The Agent Social Reality Reflection Problem» and its twin, the «Collective Action Problem».
 
 ## 📌 Personal Recomendations
 
-- [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem)
+- [The Agent Social Reality Reflection Problem](Breviarium/agent-social-reality-reflection-problem.md)
 - [The Collective Action Problem](Breviarium/collective-action-problem)
+- [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem)
 - [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos)
 - [Techno-Productivist Agential Principle Set (T-PAPS)](Breviarium/techno-productivist-agential-principle-set.md)
 

@@ -1,10 +1,22 @@
 # Meta Theory
 
+> Deep Concepts that Ground Representation & Transformation of Social Realty - What is the typology of these Concepts?
+
+> Reality ->  Representation Forms (Template)  -> Representation
+
 A set of high-level, indirect descriptions of reality that guide its modeling. The nature of observation can be understood in terms of levels of indirection:
 
 - **Indirection of reality itself**: Observing reality through layers or abstractions inherent in the system being studied.
 
 - **Indirection of mental representation**: Observing reality through layers of abstraction introduced by the observer’s cognitive or conceptual representation.
+
+
+General Characterization of the Social Sphere
+
+- Emergence
+- Fragility
+- Coupling
+- Degrees of Freedom
 
 ## External Observer
 
@@ -47,6 +59,38 @@ A set of high-level, indirect descriptions of reality that guide its modeling. T
 |                          | Rural Development                | Livelihoods, infrastructure, and services in rural areas                         | Agricultural and territorial policy                                                         |
 | 🛰️ Strategic & Security  | Strategic Studies                | National security, defense, geopolitics, and conflict                            | Defense policy, cybersecurity, sovereignty                                                   |
 |                          | Migration Studies                | Population movement, integration, and demographic change                         | Immigration, labor market, urban and social policy                                          |
+
+## Meta Theory
+
+> Note: Thsi should be merge with `a ontology` and `a epistemology`./
+
+| Dimension                     | Commitment / Assumption                               | Description                                                                                      | Use                                                                     |
+| ----------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| **Ontology: Reality**         | Social reality is material / physical.                | Focuses on economic, technological, or bodily conditions as primary determinants of social life. | Guides attention to observable, material phenomena.                     |
+|                               | Social reality is relational / emergent.              | Emphasizes networks, structures, and relationships over isolated individuals.                    | Informs structural and systemic analysis of social patterns.            |
+|                               | Social reality is ideational / symbolic.              | Emphasizes shared meanings, culture, and symbols as constitutive of social life.                 | Guides interpretive research on language, beliefs, and norms.           |
+| **Epistemology: Knowledge**   | Knowledge is objective and measurable.                | Truth is accessible through observation, measurement, and empirical methods.                     | Determines quantitative or positivist research methods.                 |
+|                               | Knowledge is situated / perspectival.                 | Observers’ position (class, gender, culture) influences understanding.                           | Requires reflexivity and critical interpretation.                       |
+|                               | Knowledge is interpretive / constructed.              | Social facts are understood through meaning-making and narrative.                                | Guides qualitative research and hermeneutic approaches.                 |
+| **Dynamics: Change**          | History/social life progresses through conflict.      | Contradictions or tensions drive transformation.                                                 | Explains change as systemic or dialectical.                             |
+|                               | History/social life progresses through adaptation.    | Systems adjust to internal and external pressures to maintain stability.                         | Useful for modeling feedback loops and adaptation processes.            |
+|                               | History/social life progresses through contingency.   | Change is influenced by random events, accidents, or agency.                                     | Highlights role of events, shocks, and emergent outcomes.               |
+| **Structure: Organization**   | Structures constrain and enable actors.               | Institutions, hierarchies, and norms shape possibilities for action.                             | Guides institutional or network analysis.                               |
+|                               | Structures emerge from interaction.                   | Patterns arise from repeated interactions rather than pre-existing rules.                        | Informs complex systems and emergent pattern analysis.                  |
+|                               | Structures are symbolic or cultural.                  | Shared meanings, rituals, and practices form the “architecture” of social life.                  | Guides study of culture, ideology, and norms.                           |
+| **Agency: Actors**            | Individuals are autonomous and rational.              | Actors make decisions based on preferences and goals.                                            | Supports modeling choices and strategic behavior.                       |
+|                               | Individuals are socially constrained.                 | Choices are bounded by institutions, culture, or material conditions.                            | Focuses analysis on structural constraints and opportunity sets.        |
+|                               | Individuals are socially constructed / performative.  | Identity, role, and behavior are shaped through interaction and recognition.                     | Guides interpretive and interactionist analysis.                        |
+| **Value / Normative**         | Value emerges from labor, productivity, or resources. | Material production or contribution determines social value.                                     | Basis for critique of exploitation, inequality, or allocation.          |
+|                               | Value emerges from social agreement or norms.         | Society collectively determines what is valuable, ethical, or legitimate.                        | Informs evaluation of cultural, moral, or legal systems.                |
+|                               | Value is constructed or contested.                    | Competing interpretations of worth, justice, or meaning exist.                                   | Guides critical and post-structuralist analysis.                        |
+| **Knowledge / Discourse**     | Knowledge structures social reality.                  | Information, ideas, and discourse shape what is possible or thinkable.                           | Highlights the power of narratives, ideology, and epistemic frameworks. |
+|                               | Knowledge is socially produced and maintained.        | Institutions, education, and media circulate and legitimize knowledge.                           | Guides study of policy, education, media, and epistemic authority.      |
+| **Event / Perturbation**      | Social systems are shaped by discrete events.         | Shocks, revolutions, or crises can restructure systems.                                          | Guides historical and contingency analysis.                             |
+| **Emergence / Macro-pattern** | Macro-patterns arise from micro-interactions.         | Large-scale regularities (stratification, inequality, cycles) emerge from many small actions.    | Provides focus for statistical, systemic, or complexity analysis.       |
+| **Feedback / Adaptation**     | Outputs influence future states.                      | Systems self-regulate, adapt, or evolve through feedback loops.                                  | Explains stability, path-dependence, and change over time.              |
+
+
 
 ## Meta Ontological Framework
 

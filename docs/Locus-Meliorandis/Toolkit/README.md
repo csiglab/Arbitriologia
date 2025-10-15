@@ -1,4 +1,4 @@
-# Policy Toolkit
+# Action Toolkit
 
 > Note: This is not a policy toolkit; this is our management toolkit; and the system or rather the ecosystem to be managed is called a **nation state**.
 
@@ -9,6 +9,10 @@
 - Thinking: How to improve the national capacity for policy thinking to reduce mere imitation?
 - Is the idea of a grand strategy useful? What exactly is a grand strategy, and does anyone truly have one?
 
+#
+
+
+
 ## Problem Space
 
 > aka Domain Space.
@@ -17,7 +21,7 @@
 - Firm Death & Density
 - ...
 
-## Agential Governance Hierarchy
+## Action Typology
 
 > or Hierarchy of Action.
 
@@ -25,20 +29,23 @@
 
 > Higher levels stabilize, contextualize, and reinterpret lower ones; lower levels ground and actualize higher intentions.
 
-- **Meta Strategy** → overarching vision or philosophy guiding multiple strategies.
-- **Strategy** → coordinated plan to achieve long-term objectives.
-- **Policy Framework** → organizing structure for policies; sets principles and priorities.
-- **Policy** → formalized rules or guidelines derived from strategy.
-- **Tactic** → specific method or approach to implement policy or strategy.
-- **Program** → coordinated set of projects or initiatives.
-- **Scheme** → structured plan or design for a particular purpose.
-- **Action** → concrete steps executed by agents.
-- ...
+| Level                | Description                                                                                                                                         |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Meta-Strategy**    | Overarching vision, philosophy, or guiding principle that frames multiple strategies across contexts. Provides long-term orientation and coherence. |
+| **Strategy**         | Coordinated plan to achieve long-term objectives. Defines broad approaches and priorities consistent with the meta-strategy.                        |
+| **Policy Framework** | Organizing structure for policies; establishes principles, norms, and priorities that guide decision-making.                                        |
+| **Policy**           | Formalized rules, guidelines, or constraints derived from strategy and the policy framework.                                                        |
+| **Mechanism**        | The structural or procedural means through which policies are enacted; the “how” that ensures policies translate into concrete processes.           |
+| **Tactic**           | Specific methods or approaches to implement policies or strategies. Short-term, adaptable, and context-sensitive.                                   |
+| **Program**          | Coordinated set of projects or initiatives designed to achieve policy or strategic objectives. Focused on outcomes at an intermediate scale.        |
+| **Scheme**           | Structured plan, design, or arrangement for a particular purpose, often bridging tactics and programs.                                              |
+| **Project**          | Time-bound, resource-limited endeavor aimed at producing a defined deliverable within a scheme or program.                                          |
+| **Action**           | Concrete, observable steps executed by agents to implement tactics, projects, or schemes. Ground-level realization of intent.                       |
+
 
 ## Tool Space
 
 > Category; Tool; Instance(s).
-
 
 - Tool - Description- Tags (Categories)
 

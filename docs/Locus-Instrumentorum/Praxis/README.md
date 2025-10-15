@@ -1,35 +1,45 @@
 # Praxis
 
-> A set of tools to suport Observation and Action.
+> A set of tools to suport **Observation** and **Action**.
 
 - Observation: [External Observer](Meta/External-Observer.md) & [Locus Realitis](../Locus-Realitatis/README.md).
 - Action: [Locus Meliorandis](../Locus-Meliorandis/README.md)
 
+## Toolbox
 
-## 🧠 **Comparative Table of Social Modeling Frameworks**
-
-| **Framework**                                    | **Ontology**                              | **Units of Analysis**                  | **Dynamics**                                  | **Formalization**                          | **Use Cases**                                   |
-| ------------------------------------------------ | ----------------------------------------- | -------------------------------------- | --------------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| **Assemblage Theory**                            | Realist, materialist, emergentist         | Assemblages (heterogeneous components) | Nonlinear, multi-scalar, contingent           | Medium (conceptual + dynamical modeling)   | Cities, institutions, global systems            |
-| **Structural Functionalism**                     | Holist, equilibrium-oriented              | Institutions, norms, roles             | Homeostatic, functional integration           | Low (descriptive, schematic)               | Social order, cultural reproduction             |
-| **Actor-Network Theory (ANT)**                   | Relational, flat ontology                 | Actors (human + nonhuman), networks    | Translation, enrollment, drift                | Low–Medium (qualitative + network tracing) | Science, tech, innovation, infrastructures      |
-| **System Dynamics**                              | Feedback-oriented, cybernetic             | Stocks, flows, feedback loops          | Continuous, circular causality                | High (differential equations, simulations) | Policy modeling, sustainability, economics      |
-| **Agent-Based Modeling (ABM)**                   | Emergentist, bottom-up                    | Agents with local rules                | Interaction-driven, discrete time             | High (computational, rule-based)           | Markets, epidemics, ecosystems                  |
-| **Complex Adaptive Systems (CAS)**               | Non-equilibrium, adaptive                 | Adaptive agents + environment          | Co-evolution, self-organization, emergence    | Medium–High (simulation + network theory)  | Innovation, ecosystems, learning systems        |
-| **Institutional Analysis and Development (IAD)** | Rules-based, rational-choice              | Action arenas, institutions, rules     | Configurational, incentive-driven             | Medium (game theory + case analysis)       | Commons, public policy, governance              |
-| **Sociotechnical Systems**                       | Socio-material, co-constructive           | Technical + social components          | Co-evolutionary, historically contingent      | Medium (qualitative + system mapping)      | Infrastructure, transitions, safety systems     |
-| **Social Network Analysis (SNA)**                | Structural, relational                    | Nodes (actors), edges (ties)           | Diffusion, influence, propagation             | High (graph theory, statistics)            | Influence, knowledge diffusion, social cohesion |
-| **Field Theory**                                 | Relational, stratified                    | Fields, positions, capitals            | Reproduction, symbolic struggle               | Medium (quant-qual hybrid)                 | Culture, education, power dynamics              |
-| **Game Theory / Evolutionary Game Theory**       | Strategic, rational-choice                | Strategic agents, strategies           | Equilibrium dynamics, strategy evolution      | High (mathematical, algorithmic)           | Conflict, cooperation, social norms             |
-| **Hegelian Dialectics**                          | Idealist, historical-materialist          | Concepts, contradictions               | Dialectical negation, historical progression  | Medium (philosophical logic)               | Ideology, class struggle, history               |
-| **World-Systems Theory**                         | Historical materialist, global-structural | Core, semi-periphery, periphery        | Unequal exchange, dependency, systemic cycles | Medium (historical + econometric analysis) | Global inequality, economic systems             |
-| **Systems Theory (General + Cybernetic)**        | Holistic, systems-oriented                | Subsystems, boundaries, flows          | Homeostasis, feedback, emergence              | Medium–High (conceptual + mathematical)    | Biology, organizations, engineering             |
-| **Social Exchange Theory**                       | Rational choice, psychological            | Interactions, exchanges                | Cost–benefit analysis, reciprocity            | Medium (decision theory, modeling)         | Relationships, workplace behavior               |
-| **Phenomenological Sociology**                   | Constructivist, interpretive              | Lived experience, intentionality       | Intersubjectivity, mutual constitution        | Low (qualitative, ethnography)             | Identity, everyday life, meaning-making         |
-| **Deleuzian Rhizomatics**                        | Anti-foundational, non-hierarchical       | Rhizomes, plateaus, flows              | Nonlinear proliferation, deterritorialization | Low (philosophical, diagrammatic)          | Anti-structural analysis, nomadic systems       |
-| **Viable System Model (VSM)**                    | Cybernetic, recursive                     | Operational and regulatory subsystems  | Viability, adaptation, autonomy               | High (systems engineering, recursion)      | Organizational governance, diagnosis            |
-| **Multi-Level Perspective (MLP)**                | Socio-technical, hierarchical             | Niches, regimes, landscapes            | Transition dynamics, path-dependency          | Medium (historical + analytical)           | Sustainability transitions, innovation policy   |
+| Tool                                        | Description                                                                                         | Tag(s)                                                             |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Logic**                                   | Framework for formal reasoning, deduction, and consistency checking.                                | Observational, Quantitative, Micro/Macro, Diagnostic               |
+| **Probability**                             | Mathematical framework for reasoning under uncertainty.                                             | Observational, Quantitative, Predictive                            |
+| **Causality**                               | Frameworks and methods to infer cause-effect relationships from data or theory.                     | Observational, Quantitative, Diagnostic, Micro/Macro               |
+| **Data-Based Modeling (DBM)**               | Constructing models directly from empirical data to describe, predict, or simulate system behavior. | Observational, Quantitative, Predictive, Micro/Macro               |
+| **Structural Equation Modeling (SEM)**      | Statistical technique for modeling causal relationships among observed and latent variables.        | Observational, Quantitative, Predictive, Diagnostic                |
+| **Input-Output Model**                      | Quantitative model mapping economic flows between sectors.                                          | Observational, Quantitative, Macro, Predictive                     |
+| **Network Theory**                          | Study of relationships and interactions represented as nodes and edges in networks.                 | Observational, Quantitative, Micro/Macro, Diagnostic               |
+| **Agent-Based Modeling (ABM)**              | Simulation of individual agents’ interactions to study emergent system behavior.                    | Observational, Quantitative, Predictive, Micro                     |
+| **Game Theory**                             | Mathematical modeling of strategic interactions among rational agents.                              | Observational, Action, Quantitative, Micro/Macro, Strategic        |
+| **Complexity**                              | Tools and methods to analyze complex systems, interactions, and emergent behavior.                  | Observational, Quantitative, Macro, Diagnostic                     |
+| **Evolutionary Computation**                | Optimization and problem-solving using bio-inspired algorithms.                                     | Action, Quantitative, Micro, Intervention                          |
+| **Viable System Model (VSM)**               | Diagnoses and designs organizational systems for resilience and adaptability.                       | Observational, Action, Qualitative, Macro, Diagnostic/Intervention |
+| **Template**                                | Predefined structures for documents, decisions, or workflows to standardize processes.              | Action, Qualitative, Micro, Tactical                               |
+| **Negotiation**                             | Structured methods to reach agreements or resolve conflicts among parties.                          | Action, Qualitative, Micro/Macro, Tactical                         |
+| **Legal**                                   | Analysis and application of laws, regulations, and institutional rules.                             | Action, Qualitative, Macro, Tactical                               |
+| **Policy Design**                           | Frameworks for crafting, implementing, and evaluating social policies.                              | Action, Qualitative, Macro, Strategic/Intervention                 |
+| **Layered Causal Diagnosis (LCDT)**         | Identifying root causes in socio-technical systems.                                                 | Observational, Action, Qualitative, Macro, Diagnostic/Intervention |
+| **Consumer Behavior**                       | Analysis of individual or group decision-making patterns in consumption.                            | Observational, Qualitative, Micro, Diagnostic                      |
+| **Preference Modelling**                    | Representation and prediction of individual or collective choices and priorities.                   | Observational, Quantitative, Micro, Predictive                     |
+| **Social Network Analysis (SNA)**           | Measures relationships, influence, and network structures among individuals or organizations.       | Observational, Quantitative/Qualitative, Micro/Macro, Diagnostic   |
+| **Institutional Analysis**                  | Studies formal and informal rules shaping social behavior.                                          | Observational, Qualitative, Macro, Diagnostic                      |
+| **Behavioral Economics**                    | Explains deviations from “rational” decision-making using psychology and cognitive biases.          | Observational, Quantitative/Qualitative, Micro, Diagnostic         |
+| **Cultural Modeling**                       | Analyzes diffusion and stabilization of beliefs, practices, and social norms.                       | Observational, Qualitative, Macro, Diagnostic                      |
+| **Opinion Dynamics**                        | Simulates how beliefs, rumors, or innovations spread in populations.                                | Observational, Quantitative, Macro, Predictive                     |
+| **Survey**          | Systematic collection of data on opinions, preferences, and behaviors.                              | Observational, Quantitative/Qualitative, Micro/Macro, Diagnostic   |
+| **Comparative Analysis**       | Uses longitudinal or cross-cultural data to identify patterns and path dependencies.                | Observational, Qualitative, Macro, Diagnostic                      |
+| **Conflict Analysis**                       | Examines causes, dynamics, and resolution strategies for social and political conflict.             | Observational, Qualitative, Macro, Diagnostic/Intervention         |
+| **Nudge Theory** | Uses subtle cues or choice architecture to guide behavior without coercion.                         | Action, Qualitative, Micro, Intervention                           |
+| **Collapsology**                            | Study of societal, ecological, and economic collapse scenarios.                                     | Observational, Qualitative/Quantitative, Macro, Diagnostic         |
+| **Natural Language Processing (NLP)**       | Computational techniques for analyzing, understanding, and generating human language.               | Observational, Action, Quantitative, Micro/Macro, Predictive       |
 
 ## References
 
-- ...
+[Locus Meliorandis](../../Locus-Meliorandis/README.md)
