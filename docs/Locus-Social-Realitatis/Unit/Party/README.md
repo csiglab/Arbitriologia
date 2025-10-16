@@ -1,4 +1,4 @@
-# Political Parties
+# Political Party
 
 > A structured and persistent politico-organizational subsystem within a larger sociopolitical system, characterized by institutionalized mechanisms for preference aggregation, candidate nomination, and policy articulation, with the primary operational objective of achieving and maintaining effective control over public decision-making apparatuses—typically through electoral competition—within a given constitutional and legal framework.
 
@@ -175,5 +175,4 @@ According to **systems theory** and **rational-choice institutionalism**, partie
 * **Global:** Geopolitics, climate politics, economic governance
 
 ## References
-
 - ...

@@ -15,7 +15,7 @@ In order to proceed with the formulation of this notion, we will first present t
 - How do  agencial patterns observer–agent patterns—such as technonationalism—emerge, stabilize, and reach a critical mass?
 - What is the **threshold (critical mass)** number of observers who must share a cognitive framework to effect societal change?
 
-We coined the term -- **Agent–Social-Reality Hard Coupling Problem** to denote a systemic phenomenon in which agents within a social sphere are tightly coupled to the current state of reality, constraining their ability to fully reflect, interpret, and generate alternative actions. This coupling creates stable patterns—attractors—toward which agents’ perceptions and behaviors converge, limiting transformative agency while establishing a baseline (“mediocracy minimum”) of collective action and interpretation. The concept highlights both structural and cognitive constraints, framing the interaction between agents and social reality as a dynamic yet bounded system.
+We coined the term -- **Agent–Social-Reality Hard Coupling Problem** to denote a systemic phenomenon in which agents within a social sphere are tightly coupled to the current state of reality, constraining their ability to fully reflect, imagine, and generate alternative actions. This coupling creates stable patterns—attractors—toward which agents’ perceptions and behaviors converge, limiting transformative agency while establishing a baseline (“mediocracy minimum”) of collective action and interpretation. The concept highlights both structural and cognitive constraints, framing the interaction between agents and social reality as a dynamic yet bounded system.
 
 ## Formalization
 

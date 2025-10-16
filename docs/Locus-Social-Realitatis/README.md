@@ -4,7 +4,7 @@
 
 ## Property
 
-> Which properties characterize the social sphere of reality?
+> Which properties characterize the **social sphere** of reality?
 
 | Property                      | Description                                                                                                                                                           |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,4 +101,5 @@
 
 ## References
 
-- [Locus -Instrumentorum/External Observer](../Locus-Instrumentorum/Observer)
+- [Locus -Instrumentorum/External Observer](../Locus-Instrumentorum/Meta/README.md)
+- [An Essay on Political Phenomena](../Breviarium/an-essay-on-political-phenomena.md)

@@ -1,4 +1,4 @@
-# Political Theory
+# An Essay on Political Idiology
 
 > **Politial Theory**: The study of ideas, principles, and concepts that explain how societies organize power, authority, and governance.
 

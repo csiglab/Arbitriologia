@@ -14,7 +14,7 @@
 - Locus Meliorandis: Engineering change in social reality.
 - Locus Realitatis: Investigating the structure and dynamics of social reality.
 
-> The entire corpus of ideas can be reduced to two fundamental systemic problems: the «The Agent Social Reality Reflection Problem» and its twin, the «Collective Action Problem».
+> The entire corpus of ideas can be reduced to two fundamental systemic problems: the «The Agent Imagination – «Action Pattern Stability» Problem» and its twin, the «Collective Action Problem».
 
 ## 📌 Personal Recomendations
 
@@ -35,6 +35,7 @@
 - [The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes](Breviarium/the-policy-politics-conflation-hypothesis-language-structure-and-development-outcomes)
 - [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft)
+- [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 
 ## 📚 Most Read
 

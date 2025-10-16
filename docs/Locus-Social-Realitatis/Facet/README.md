@@ -13,7 +13,6 @@
 | **Social Facet**       | The most general facet, encompassing all other specialized facets; concerns overall social structure, relationships, and interactions. |
 | **Economic Facet**     | Patterned interactions related to material provisioning: production, exchange, distribution, and consumption.                          |
 | **Cultural Facet**     | Shared symbols, meanings, norms, values, and practices that shape collective identity and behavior.                                    |
-| **Political Facet**    | Power relations, governance structures, authority, and institutionalized decision-making.                                              |
 | **Normative Facet**    | Rules, regulations, moral expectations, and social obligations that guide behavior and resolve conflicts.                              |
 | **Ideational Facet**   | Shared ideas, worldviews, ideologies, and cognitive schemas that influence perception, meaning-making, and social goals.               |
 | **Literature Facet**   | Written, oral, or performed texts and narratives that transmit knowledge, cultural memory, and social imagination.                     |
