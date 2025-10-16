@@ -4,6 +4,20 @@
 
 > Note: `Power` is primarily classified as a relational concept in our ontology, but it also exhibits dynamics, context-dependence, and emergent properties.
 
+## Concept
+
+> Which different notiosn of concept of power eist?
+
+| **Notion**                          | **Description**                                                                                                 | **Representative Thinker(s)**  |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **Power as Domination**             | Power as the ability to compel obedience or enforce compliance, often through coercion or control of resources. | Max Weber, Thomas Hobbes       |
+| **Power as Influence**              | Power as the capacity to shape others’ preferences or decisions without direct coercion.                        | Robert Dahl, Joseph Nye        |
+| **Power as Structure**              | Power embedded in institutional, economic, and cultural systems that shape possibilities of action.             | Karl Marx, Louis Althusser     |
+| **Power as Discourse**              | Power operates through language, knowledge, and norms that define what can be thought or said.                  | Michel Foucault                |
+| **Power as Capacity / Empowerment** | Power understood as the collective or individual ability to act, to realize goals, or to transform conditions.  | Hannah Arendt, Amartya Sen     |
+| **Power as Network Effect**         | Power arises from one’s position within social, economic, or informational networks.                            | Manuel Castells, Bruno Latour  |
+| **Power as Systemic Control**       | Power maintained through feedback mechanisms, regulation, and cybernetic governance.                            | Niklas Luhmann, Norbert Wiener |
+
 ## Signature
 
 > What is the ontological nature of the concept of power?
@@ -17,6 +31,10 @@
 - Dynamic: Can increase, decrease, or shift depending on social, political, or economic conditions.
 - Context-dependent: Its expression and recognition vary across cultures, historical periods, and institutional arrangements.
 - Latent vs. Manifest: Power may exist in potential (structural, institutional) or in observable actions (decisions, coercion, influence).
+
+## Dynamics
+
+(TO BE DONE)
 
 ## Mechanism(s)
 
@@ -46,6 +64,19 @@
 | **Distribution**            | Allocates resources, opportunities, and recognition within a system.                    | Budgeting, promotions, access to information or capital.                   |
 | **Transformation**          | Drives or resists change in social, political, or technological structures.             | Social reform, revolution, innovation policy, or resistance movements.     |
 | **Protection**              | Preserves autonomy and defends interests or stability against threats.                  | National defense, organizational security, preservation of rights.         |
+
+## Analysis
+
+> How can power be analyzed, measured, or observed?
+
+| **Analytical Dimension**      | **Description**                                                                                         | **Methods**                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Relational Structure**      | Examines who holds power over whom, and through what relations.                                         | Network analysis, authority mapping, actor–relation matrices.                    |
+| **Resource Control**          | Studies the distribution and concentration of critical assets (economic, informational, technological). | Resource flow mapping, ownership analysis, budget share, or data access indices. |
+| **Decision Influence**        | Assesses the capacity of an agent or group to shape or constrain decisions within a system.             | Process tracing, voting records, agenda-setting analysis, influence mapping.     |
+| **Institutional Embedding**   | Looks at how formal and informal rules structure and stabilize power relations.                         | Institutional analysis, rule tracing, comparative policy studies.                |
+| **Perception and Legitimacy** | Evaluates how power is recognized, accepted, or contested socially.                                     | Surveys, discourse analysis, legitimacy indices, media framing studies.          |
+| **Dynamics and Change**       | Tracks how power shifts over time, through conflict, negotiation, or structural transformation.         | Longitudinal studies, historical process analysis, system dynamics modeling.     |
 
 ## Related Notions
 
