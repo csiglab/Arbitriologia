@@ -4,6 +4,8 @@
 
 > Note: `Power` is primarily classified as a relational concept in our ontology, but it also exhibits dynamics, context-dependence, and emergent properties.
 
+> Note: Our Initent as wayls is technical description - an modelling - not how to cmake a coup :)
+
 ## Concept
 
 > Which different notiosn of concept of power eist?
@@ -38,7 +40,7 @@
 
 ## Mechanism(s)
 
-> How does power operates?
+> How does power operates? Which strategies are used?
 
 - Authority: Legitimate and institutionalized power recognized by social norms.
 - Influence: Power operates by shaping the beliefs, preferences, or perceptions of other agents, guiding their decisions without direct coercion.

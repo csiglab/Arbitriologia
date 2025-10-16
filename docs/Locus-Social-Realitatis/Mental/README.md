@@ -4,6 +4,8 @@
 
 > **Mental Constructs** are concepts or ideas that function as **internally constructed representations**. They serve a **representational purpose** at some level of abstraction from reality, helping agents interpret, model, or anticipate aspects of the external world, even though they are **not directly derived from reality**.
 
+> For example; Idiology is not a mental construct - because it's related with realty in this case - the inner state of Agents.
+
 ## Case
 
 | Mental Construct | Description                                                              | Use                                                                                                      | Criticism                                                                                                     |
