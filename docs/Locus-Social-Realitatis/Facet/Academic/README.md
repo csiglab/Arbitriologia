@@ -36,3 +36,4 @@
 ## References
 
 - [An Essay on Political Phenomena](../../../Breviarium/an-essay-on-political-phenomena.md)
+- [A Guide To Academic Social Study](../../../Breviarium/guide-academic-social-study.md)
