@@ -16,29 +16,31 @@
 
 > Which properties characterize the **social sphere** of reality?
 
-| **Aspect**                    | **Description**                                                                                                                                      | **Case(s)**                                                       |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Emergence**                 | Social phenomena arise from interactions among agents and institutions, producing patterns not directly reducible to individual actions.             | Formation of norms, cultural trends, economic markets             |
-| **Fragility**                 | Social structures are sensitive to disruptions; small perturbations can lead to significant changes or collapse.                                     | Sudden political upheaval, market crashes                         |
-| **Coupling**                  | Elements of social reality are interdependent; changes in one component influence others.                                                            | Policy changes affecting economic behavior, social networks       |
-| **Degrees of Freedom**        | The range of behaviors or states agents or systems can adopt, constrained by norms, institutions, and physical limitations.                          | Legal constraints, cultural norms, economic opportunities         |
-| **Adaptation**                | Social systems evolve in response to internal and external pressures.                                                                                | Technological adoption, organizational restructuring              |
-| **Resilience**                | Capacity of social systems to absorb shocks, reorganize, and continue functioning.                                                                   | Recovery after natural disasters, social recovery post-crisis     |
-| **Path Dependence**           | Current social configurations are shaped by historical trajectories, making some developments more likely than others.                               | Legacy of colonial institutions, entrenched legal systems         |
-| **Emergent Institutions**     | Repeated interactions solidify into formal and informal rules, norms, and structures over time.                                                      | Governments, corporations, professional guilds                    |
-| **Cognitive Agents**          | Agents interpret, learn, and act based on mental representations, shaping social reality through understanding and decision-making.                  | Policy-making, social movements, strategic planning               |
-| **Reflexivity**               | Agents and systems can reflect on their own behavior and structures, enabling feedback-driven change.                                                | Reforms, organizational self-assessment, adaptive governance      |
-| **Change**                    | Social reality is dynamic; structures, norms, and interactions continuously evolve.                                                                  | Cultural shifts, technological revolutions, legislative change    |
-| **Non-Ontic Entities**        | Concepts, ideas, or symbols that exist in cognition and discourse but do not have independent existence in reality.                                  | Justice, progress, democracy, trust                               |
-| **Plasticity**                | Social structures and norms are flexible, capable of being reconfigured under internal or external pressures.                                        | Organizational restructuring, policy reforms                      |
-| **Distributed Cognition**     | Knowledge and problem-solving are shared across agents, artifacts, and institutions, producing collective intelligence.                              | Open-source communities, scientific collaborations                |
-| **Contingency & Uncertainty** | Social outcomes are probabilistic rather than deterministic; events may unfold differently depending on context and chance.                          | Market fluctuations, election outcomes                            |
-| **Feedback Loops**            | Reciprocal interactions between agents and structures reinforce or modify social patterns over time.                                                 | Economic cycles, social norm reinforcement                        |
-| **Multi-level Structure**     | Social reality manifests at multiple levels (individual, group, institutional, societal), with cross-level interactions producing emergent patterns. | Organizational hierarchies, social networks                       |
-| **Historicality**             | Social reality accumulates over time; past events, decisions, and structures shape present dynamics and constraints.                                 | Institutional legacies, cultural memory                           |
-| **Boundary & Environment**    | Social reality is embedded in and shaped by broader ecological, geographic, and systemic contexts, which define its limits and interactions.         | Regional economies, global trade networks, environmental policies |
-| **Co-construction**         | Social reality is jointly constructed through interaction and shared understanding.            | Negotiation of meaning, collective identity     |
-|**Heterogeneity** | Social systems are composed of diverse agents, norms, and structures, leading to variation in behavior and outcomes. | Cultural diversity, economic inequality, organizational variety|
+| **Aspect**                    | **Description**                                                                                                                                      | **Case(s)**                                                        |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Emergence**                 | Social phenomena arise from interactions among agents and institutions, producing patterns not directly reducible to individual actions.             | Formation of norms, cultural trends, economic markets              |
+| **Fragility**                 | Social structures are sensitive to disruptions; small perturbations can lead to significant changes or collapse.                                     | Sudden political upheaval, market crashes                          |
+| **Coupling**                  | Elements of social reality are interdependent; changes in one component influence others.                                                            | Policy changes affecting economic behavior, social networks        |
+| **Degrees of Freedom**        | The range of behaviors or states agents or systems can adopt, constrained by norms, institutions, and physical limitations.                          | Legal constraints, cultural norms, economic opportunities          |
+| **Adaptation**                | Social systems evolve in response to internal and external pressures.                                                                                | Technological adoption, organizational restructuring               |
+| **Resilience**                | Capacity of social systems to absorb shocks, reorganize, and continue functioning.                                                                   | Recovery after natural disasters, social recovery post-crisis      |
+| **Path Dependence**           | Current social configurations are shaped by historical trajectories, making some developments more likely than others.                               | Legacy of colonial institutions, entrenched legal systems          |
+| **Emergent Institutions**     | Repeated interactions solidify into formal and informal rules, norms, and structures over time.                                                      | Governments, corporations, professional guilds                     |
+| **Cognitive Agents**          | Agents interpret, learn, and act based on mental representations, shaping social reality through understanding and decision-making.                  | Policy-making, social movements, strategic planning                |
+| **Reflexivity**               | Agents and systems can reflect on their own behavior and structures, enabling feedback-driven change.                                                | Reforms, organizational self-assessment, adaptive governance       |
+| **Change**                    | Social reality is dynamic; structures, norms, and interactions continuously evolve.                                                                  | Cultural shifts, technological revolutions, legislative change     |
+| **Non-Ontic Entities**        | Concepts, ideas, or symbols that exist in cognition and discourse but do not have independent existence in reality.                                  | Justice, progress, democracy, trust                                |
+| **Plasticity**                | Social structures and norms are flexible, capable of being reconfigured under internal or external pressures.                                        | Organizational restructuring, policy reforms                       |
+| **Distributed Cognition**     | Knowledge and problem-solving are shared across agents, artifacts, and institutions, producing collective intelligence.                              | Open-source communities, scientific collaborations                 |
+| **Contingency & Uncertainty** | Social outcomes are probabilistic rather than deterministic; events may unfold differently depending on context and chance.                          | Market fluctuations, election outcomes                             |
+| **Feedback Loops**            | Reciprocal interactions between agents and structures reinforce or modify social patterns over time.                                                 | Economic cycles, social norm reinforcement                         |
+| **Multi-level Structure**     | Social reality manifests at multiple levels (individual, group, institutional, societal), with cross-level interactions producing emergent patterns. | Organizational hierarchies, social networks                        |
+| **Historicality**             | Social reality accumulates over time; past events, decisions, and structures shape present dynamics and constraints.                                 | Institutional legacies, cultural memory                            |
+| **Boundary & Environment**    | Social reality is embedded in and shaped by broader ecological, geographic, and systemic contexts, which define its limits and interactions.         | Regional economies, global trade networks, environmental policies  |
+| **Co-construction**           | Social reality is jointly constructed through interaction and shared understanding.                                                                  | Negotiation of meaning, collective identity                        |
+| **Heterogeneity**             | Social systems are composed of diverse agents, norms, and structures, leading to variation in behavior and outcomes.                                 | Cultural diversity, economic inequality, organizational variety    |
+| **Non-Boundary**              | Social reality is not fixed by strict boundaries; interactions often cross conceptual, institutional, or geographical limits.                        | Transnational networks, hybrid communities, cross-sector alliances |
+
 
 ### Ontic - vs Non Ontic Dualism
 
@@ -257,6 +259,7 @@ In this framework, regulation is thus both a foundational ontological element pr
 > The term “rock” thus designates a layered abstraction over dynamic and continuous phenomena. What we perceive and name is a manifestation, not the underlying physical reality itself. This exemplifies indirection in reality—the gap between the stable objects of experience and the deeper, fluid structures that constitute them.
 
 ## Modelling
+
 
 ### Principle
 
