@@ -256,57 +256,54 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 > The term “rock” thus designates a layered abstraction over dynamic and continuous phenomena. What we perceive and name is a manifestation, not the underlying physical reality itself. This exemplifies indirection in reality—the gap between the stable objects of experience and the deeper, fluid structures that constitute them.
 
-## Epistemology (Observer)
-
-| **Principle**                 | **Description**                                                                         | **Rationale**                                                                                            | **Application in Modeling**                                                                                             |
-| ----------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Empirical Grounding**       | Base models on observable evidence and measurable data.                                 | Ensures models reflect tangible reality, avoiding unfounded speculation.                                 | Prioritize data collection, sensor measurements, and documented phenomena. Validate hypotheses against real-world data. |
-| **Falsifiability**            | Models must be testable and potentially disprovable by evidence.                        | Prevents dogmatism; allows refinement or rejection of flawed models.                                     | Design models with clear predictions. Actively seek evidence that could contradict the model.                           |
-| **Parsimony (Occam’s Razor)** | Prefer the simplest model that adequately explains observations.                        | Reduces unnecessary complexity, minimizing errors and enhancing clarity.                                 | Eliminate redundant variables. Use minimal assumptions to achieve explanatory power.                                    |
-| **Coherence**                 | Ensure internal consistency and alignment with established knowledge.                   | Avoids contradictions and leverages validated frameworks for reliability.                                | Cross-check model components for logical consistency. Integrate with existing scientific theories where applicable.     |
-| **Contextual Awareness**      | Acknowledge the influence of context (cultural, temporal, situational) on observations. | Recognizes that reality is perceived through lenses; context shapes data interpretation.                 | Document contextual factors (e.g., observer bias, environmental conditions). Use context-specific variables in models.  |
-| **Provisionality**            | Treat models as tentative approximations, not absolute truths.                          | Science evolves; models must adapt to new evidence without rigidity.                                     | Regularly update models with new data. Explicitly state limitations and uncertainties.                                  |
-| **Reproducibility**           | Observations and model outcomes must be replicable by independent observers.            | Verifies reliability and reduces subjective bias.                                                        | Publish methodologies transparently. Share data and code for independent validation.                                    |
-| **Holistic Perspective**      | Consider systems as interconnected wholes, not isolated parts.                          | Reality involves complex interactions; reductionism may overlook emergent properties.                    | Map relationships between variables. Analyze feedback loops and system-level behaviors.                                 |
-| **Reflexivity**               | Critically examine how the observer’s assumptions and methods shape the model.          | Minimizes subjective distortion by acknowledging the observer’s role in knowledge creation.              | Document personal biases. Use diverse methodologies to triangulate results.                                             |
-| **Pragmatic Utility**         | Prioritize models that enable effective prediction, intervention, or understanding.     | Knowledge should serve practical purposes; models must be actionable.                                    | Test model efficacy in real-world applications. Optimize for decision-making relevance.                                 |
-| **Causal Adequacy**           | Include mechanisms that plausibly generate observed effects.                            | Models should reflect not just correlation but underlying causal structures.                             | Build in causal pathways; use causal inference techniques; distinguish cause from effect in variable relations.         |
-| **Conceptual Clarity**        | Define all core terms, categories, and constructs unambiguously.                        | Ambiguity leads to misinterpretation; clarity enables precision and replicability.                       | Maintain glossaries. Use operational definitions and enforce terminology consistency across the model.                  |
-| **Abstraction Discipline**    | Use abstraction to manage complexity without distorting essentials.                     | Poor abstraction hides important dynamics; good abstraction reveals system structure at the right level. | Layer abstractions hierarchically. Explicitly connect abstract and concrete model layers.                               |
-| **Iterative Refinement**      | Knowledge develops through successive cycles of model adjustment and testing.           | Models improve through continuous feedback and recalibration.                                            | Embed iterative review processes. Update model structure and parameters as new data or insights arise.                  |
-| **Epistemic Humility**        | Acknowledge limits of the model and of human understanding.                             | Prevents overconfidence and encourages openness to revision or alternative perspectives.                 | Communicate uncertainty ranges. Use sensitivity analyses and avoid overstated claims.                                   |
-| **Pluralism**                 | Incorporate multiple perspectives, disciplines, or methodologies.                       | No single method reveals all dimensions of complex phenomena.                                            | Combine qualitative and quantitative inputs. Use interdisciplinary approaches and stakeholder feedback.                 |
-
 ## Modelling
 
 ### Principle
 
-| **Principle**                                | **Description**                                                                                       | **Implications for Modeling**                                                                                     |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Constructivism**                           | Knowledge is constructed by observers, not passively received from reality.                           | Models must account for observer perspective and cognitive frames.                                                |
-| **Contextuality**                            | Truth and meaning are context-dependent, especially in social domains.                                | Models must be sensitive to cultural, historical, institutional, and linguistic contexts.                         |
-| **Reflexivity**                              | Observers and agents are embedded in, and influenced by, the systems they model.                      | Models must incorporate feedback loops between theory, observer, and system behavior, including agent perception. |
-| **Inter-subjectivity**                       | Knowledge arises from shared meanings and social interaction.                                         | Modeling must account for communication, norms, and consensus-building mechanisms.                                |
-| **Fallibilism**                              | All knowledge is provisional and subject to revision.                                                 | Models should be open-ended, revisable, and explicitly state their limits of validity.                            |
-| **Pluralism**                                | Multiple perspectives may coexist and be valid.                                                       | Modeling benefits from multi-paradigm or multi-model approaches.                                                  |
-| **Agency and Intentionality**                | Social actors have goals, beliefs, and autonomy.                                                      | Models must reflect purposeful behavior and internal state dynamics.                                              |
-| **Emergence**                                | Social phenomena arise from interactions among lower-level agents.                                    | Use bottom-up modeling approaches (e.g. agent-based, cellular automata).                                          |
-| **Non-linearity**                            | Cause and effect are not proportional.                                                                | Models must allow for tipping points, thresholds, and feedback-driven dynamics.                                   |
-| **Ethical Situatedness / Value-Sensitivity** | Modeling choices embed values and have normative and ethical impacts.                                 | Require explicit value judgments, stakeholder reflection, and ethical considerations in model design and use.     |
-| **Operationalization**                       | Concepts must be translated into measurable and observable elements.                                  | Requires mapping abstract theoretical terms into concrete variables or proxies.                                   |
-| **Theory-ladenness**                         | Observations are shaped by prior theoretical assumptions.                                             | Models are not “theory-neutral”; conceptual structures influence data and interpretation.                         |
-| **Holism vs. Reductionism**                  | Social systems can be approached as wholes or decomposed into parts.                                  | Modeling must justify and clarify the level of abstraction (macro, meso, micro).                                  |
-| **Complexity and Uncertainty**               | Social systems are adaptive, nonlinear, and indeterminate.                                            | Models must include mechanisms for uncertainty, unpredictability, and structural change.                          |
-| **Historicity / Temporality**                | Social systems evolve through time and history.                                                       | Models must include memory, path-dependence, and evolving trajectories.                                           |
-| **Symbolic Mediation**                       | Social life is mediated by symbolic systems (language, money, laws).                                  | Models must account for the construction, transmission, and interpretation of meaning.                            |
-| **Multi-level Structure**                    | Systems operate at micro (individual), meso (group), and macro (systemic) levels.                     | Models should represent interactions across these analytical levels.                                              |
-| **Representation Fidelity**                  | Models should accurately depict relevant actors, norms, structures, and technologies.                 | Prioritize capturing the system's most salient and influential components.                                        |
-| **Dynamic Interaction**                      | Feedback loops and emergent properties arise from agent-structure interplay.                          | Emphasize dynamic relations, causality, and change.                                                               |
-| **Adaptation and Learning**                  | Agents and systems evolve through learning and self-organization.                                     | Incorporate mechanisms for updating behavior, adaptation, and evolution.                                          |
-| **Embeddedness**                             | Social systems are situated within broader ecological, technological, and institutional environments. | Account for external influences and layered system contexts.                                                      |
-| **Openness & Boundary Clarity**              | Systems exchange resources and information with their environment but still require boundaries.       | Define system-environment boundaries explicitly while allowing for interaction.                                   |
-| **Heterogeneity**                            | Social systems include diverse agents with varying goals, constraints, and behaviors.                 | Avoid overly uniform or average-agent assumptions.                                                                |
-| **Anti-reification**                         | Models should not treat dynamic social constructs as fixed or natural.                                | Emphasize the constructed and changeable nature of social categories and institutions.                            |
+| **Principle**                                | **Description**                                                                                       |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Constructivism**                           | Knowledge is constructed by observers, not passively received from reality.                           |
+| **Contextuality**                            | Truth and meaning are context-dependent, especially in social domains.                                |
+| **Reflexivity**                              | Observers and agents are embedded in, and influenced by, the systems they model.                      |
+| **Inter-subjectivity**                       | Knowledge arises from shared meanings and social interaction.                                         |
+| **Fallibilism**                              | All knowledge is provisional and subject to revision.                                                 |
+| **Pluralism**                                | Multiple perspectives may coexist and be valid.                                                       |
+| **Agency and Intentionality**                | Social actors have goals, beliefs, and autonomy.                                                      |
+| **Emergence**                                | Social phenomena arise from interactions among lower-level agents.                                    |
+| **Non-linearity**                            | Cause and effect are not proportional.                                                                |
+| **Ethical Situatedness / Value-Sensitivity** | Modeling choices embed values and have normative and ethical impacts.                                 |
+| **Operationalization**                       | Concepts must be translated into measurable and observable elements.                                  |
+| **Theory-ladenness**                         | Observations are shaped by prior theoretical assumptions.                                             |
+| **Holism vs. Reductionism**                  | Social systems can be approached as wholes or decomposed into parts.                                  |
+| **Complexity and Uncertainty**               | Social systems are adaptive, nonlinear, and indeterminate.                                            |
+| **Historicity / Temporality**                | Social systems evolve through time and history.                                                       |
+| **Symbolic Mediation**                       | Social life is mediated by symbolic systems (language, money, laws).                                  |
+| **Multi-level Structure**                    | Systems operate at micro (individual), meso (group), and macro (systemic) levels.                     |
+| **Representation Fidelity**                  | Models should accurately depict relevant actors, norms, structures, and technologies.                 |
+| **Dynamic Interaction**                      | Feedback loops and emergent properties arise from agent-structure interplay.                          |
+| **Adaptation and Learning**                  | Agents and systems evolve through learning and self-organization.                                     |
+| **Embeddedness**                             | Social systems are situated within broader ecological, technological, and institutional environments. |
+| **Openness & Boundary Clarity**              | Systems exchange resources and information with their environment but still require boundaries.       |
+| **Heterogeneity**                            | Social systems include diverse agents with varying goals, constraints, and behaviors.                 |
+| **Anti-reification**                         | Models should not treat dynamic social constructs as fixed or natural.                                |
+| **Empirical Grounding**       | Base models on observable evidence and measurable data.                                 |
+| **Falsifiability**            | Models must be testable and potentially disprovable by evidence.                        |
+| **Parsimony (Occam’s Razor)** | Prefer the simplest model that adequately explains observations.                        |
+| **Coherence**                 | Ensure internal consistency and alignment with established knowledge.                   |
+| **Contextual Awareness**      | Acknowledge the influence of context (cultural, temporal, situational) on observations. |
+| **Provisionality**            | Treat models as tentative approximations, not absolute truths.                          |
+| **Reproducibility**           | Observations and model outcomes must be replicable by independent observers.            |
+| **Holistic Perspective**      | Consider systems as interconnected wholes, not isolated parts.                          |
+| **Reflexivity**               | Critically examine how the observer’s assumptions and methods shape the model.          |
+| **Pragmatic Utility**         | Prioritize models that enable effective prediction, intervention, or understanding.     |
+| **Causal Adequacy**           | Include mechanisms that plausibly generate observed effects.                            |
+| **Conceptual Clarity**        | Define all core terms, categories, and constructs unambiguously.                        |
+| **Abstraction Discipline**    | Use abstraction to manage complexity without distorting essentials.                     |
+| **Iterative Refinement**      | Knowledge develops through successive cycles of model adjustment and testing.           |
+| **Epistemic Humility**        | Acknowledge limits of the model and of human understanding.                             |
+| **Pluralism**                 | Incorporate multiple perspectives, disciplines, or methodologies.                       |
+
+
 
 ### Caution
 
