@@ -281,8 +281,6 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 ### Principle
 
-### 📌 Principle
-
 | **Principle**                                | **Description**                                                                                       | **Implications for Modeling**                                                                                     |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Constructivism**                           | Knowledge is constructed by observers, not passively received from reality.                           | Models must account for observer perspective and cognitive frames.                                                |
