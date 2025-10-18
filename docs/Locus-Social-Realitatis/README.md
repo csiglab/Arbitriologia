@@ -109,7 +109,6 @@ Classification of Elements of Social Reality:
 | **🔍 Epistemic Layer**         | 👁️ External Observer   | \[E.g., Urban planners, researchers, government agencies, citizens; Scientists, sensors, data analytics systems]           |
 |                                | 🔄 Entity Reflexivity  | \[E.g., Self-governance mechanisms, community feedback loops, participatory planning; Homeostasis, adaptive feedback]      |
 
-
 ## Ontology (The Observed)
 
 > This **framework** is **applied recursively** to the lowest levels of social reality, as well as to more **derivative elements such as cultural, economic, political, and other domains**.
@@ -226,6 +225,26 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 > Most ontological elements can have properties, making them a fundamental means of differentiating, describing, or relating entities within an ontological framework.
 
+## Ontology Framework(s)
+
+> What are the other ontological frameworks proposed to ground the representation and modeling of the social sphere of reality? Which philosophers guide the representation of the social?
+
+| **Ontology Framework**                         | **Description**                                                                                                                             | **Proponents**                                       | **Note**                                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Critical Realism**                           | Social structures exist independently and have causal powers, though their effects may be partially observable.                             | Roy Bhaskar                                          | Distinguishes between the *empirical*, *actual*, and *real* levels of social phenomena.                   |
+| **Structuration Theory**                       | Social life emerges from the duality of structure: agents create structures through action, and structures shape agent behavior.            | Anthony Giddens                                      | Emphasizes recursion and feedback between agency and structure.                                           |
+| **Actor-Network Theory (ANT)**                 | Social phenomena arise from networks of human and non-human actors whose interactions produce effects.                                      | Bruno Latour, Michel Callon                          | Treats objects, technologies, and ideas as integral actors.                                               |
+| **Social Ontology**                            | Social reality is constructed via collective intentionality and constitutive rules that define institutions.                                | John Searle                                          | Focuses on status functions and rule-based nature of institutions.                                        |
+| **Systems Theory**                             | Society is a self-organizing system of communications with operational closure and functional differentiation.                              | Niklas Luhmann                                       | Abstracts social reality to networks of communication rather than individual actors.                      |
+| **Social Process Ontology**                    | Social reality is dynamic and emergent; entities are events or processes rather than static things.                                         | Alfred North Whitehead, Basarab Nicolescu            | Useful for modeling change, flux, and complex interactions over time.                                     |
+| **Social Constructivism**                      | Reality is co-constructed through language, symbols, and shared meaning-making processes.                                                   | Peter Berger, Thomas Luckmann                        | Emphasizes interpretive and negotiated aspects of social reality; less focused on ontology of structures. |
+| **Practice Theory**                            | Social life is constituted through routinized practices; structures exist through repeated enactments of practices.                         | Theodore Schatzki, Andreas Reckwitz, Pierre Bourdieu | Focuses on embodied, material, and habitual dimensions of social action.                                  |
+| **Assemblage Theory**                          | Social phenomena emerge from heterogeneous assemblages of human and non-human components; emphasizes relational and contingent connections. | Manuel DeLanda, Gilles Deleuze, Félix Guattari       | Emphasizes composition, interaction, and emergent properties rather than fixed structures.                |
+| **Institutional Theory**                       | Social reality is shaped by institutions, rules, and norms that constrain and enable behavior.                                              | John Meyer, Brian Rowan, Douglass North              | Links formal and informal rules to social outcomes; widely used in sociology and organizational studies.  |
+| **Network Theory**                             | Social structures are patterns of relationships among actors; node positions and connectivity shape outcomes.                               | Stanley Milgram, Harrison White, Duncan Watts        | Provides formal tools for analyzing relational structure and dynamics.                                    |
+| **Cultural-Historical Activity Theory (CHAT)** | Social reality is shaped by mediated activity within cultural and historical contexts; emphasizes tools, community, and division of labor.  | Lev Vygotsky, Yrjö Engeström                         | Focuses on human activity as the unit of analysis; integrates cognition, social context, and development. |
+| **Relational Sociology**                       | Social phenomena are constituted through relations rather than individual attributes; interactions form structures.                         | Pierpaolo Donati, François Dépelteau                 | Emphasizes relational ontology over entity-centered approaches.                                           |
+| **Relational Materialism**                     | Material and social entities co-constitute each other; reality is composed of interdependent relational networks.                           | Annemarie Mol, Karen Barad                           | Focuses on entanglement of human and non-human actors; emphasizes process and intra-action.               |
 
 ## Indirection
 
