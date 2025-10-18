@@ -1,8 +1,10 @@
-# Mental Constructs
+# Non Ontic Representation
 
 > In this note, we explore an important concept in **agent modeling**: **Mental Constructs** - with a focus on the social reality. These are **internally generated concepts or ideas** that agents use to **represent, interpret, and reason about the world**.
 
 > **Mental Constructs** are concepts or ideas that function as **internally constructed representations**. They serve a **representational purpose** at some level of abstraction from reality, helping agents interpret, model, or anticipate aspects of the external world, even though they are **not directly derived from reality**.
+
+> **Agents—in** our case, humans—possess many concepts related to the social sphere of reality that do not correspond to tangible entities or ontological features of that reality. Concepts such as Justice or Progress are non-substantial. Nonetheless, these key concepts exist as shared mental representations among agents; they shape how we act and, ultimately, influence the structure and dynamics of social reality itself.
 
 > For example; Idiology is not a mental construct - because it's related with realty in this case - the inner state of Agents.
 

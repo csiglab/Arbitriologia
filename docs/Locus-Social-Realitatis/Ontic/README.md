@@ -1,4 +1,4 @@
-# Abstract
+# Ontic Representation
 
 > Reality is the totality of extra-mental elements that exist independently of any observer. It includes objects, events, processes, and structures that can, in principle, be perceived, measured, or modeled.
 

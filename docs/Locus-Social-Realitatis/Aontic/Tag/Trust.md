@@ -1,12 +1,8 @@
 # Trust
 
-: 5
-
 > **Trust can have a non-linear impact on society and development**, acting as a catalyst for cooperation, innovation, and economic growth, but its erosion can lead to fragmentation, social unrest, and hindered progress.
-> 
 
 > ¿What are the effects of trust? ¿Hop to engineering trust? ¿Which are the trust dynamics in societies? ¿How trust emergies in some societies / examples?
-> 
 
 **Trust is a fundamental aspect of human** relationships and social interactions. It refers to one person's belief or confidence in another person’s reliability, integrity, and competence. Trust is based on the expectation that the other person will behave in a certain way, and it is built over time through repeated positive interactions and experiences.
 

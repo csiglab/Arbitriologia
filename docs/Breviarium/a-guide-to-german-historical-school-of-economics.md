@@ -1,8 +1,4 @@
-# Empiricism
-
-> ...
-
-## German School Economics
+# A Guide to the German School Economics
 
 > The **German School** emphasized the importance of empirical research in economics, including using historical data and case studies. They believed that economic theory should be grounded in empirical observation and that abstract reasoning should be avoided.
 > 
@@ -32,3 +28,6 @@
 ## References
 
 - [Empiricism](https://en.wikipedia.org/wiki/Empiricism)
+- [Historical school of economics](https://en.wikipedia.org/wiki/Historical_school_of_economics)
+- [Freiburg School](https://en.wikipedia.org/wiki/Freiburg_school)
+- [The German Historical School](https://www.hetwebsite.net/het/schools/historic.htm)
