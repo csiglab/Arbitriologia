@@ -41,7 +41,6 @@
 | **Heterogeneity**             | Social systems are composed of diverse agents, norms, and structures, leading to variation in behavior and outcomes.                                 | Cultural diversity, economic inequality, organizational variety    |
 | **Non-Boundary**              | Social reality is not fixed by strict boundaries; interactions often cross conceptual, institutional, or geographical limits.                        | Transnational networks, hybrid communities, cross-sector alliances |
 
-
 ### Ontic - vs Non Ontic Dualism
 
 Understanding social reality requires distinguishing between what exists independently of human cognition and what exists primarily within it. Social phenomena are complex, layered, and often emerge from the interactions between individuals, groups, and institutions. To analyze them rigorously, it is useful to classify the elements of social reality into two broad categories: ontic and non-ontic.
@@ -260,6 +259,14 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 ## Modelling
 
+> Let us consider how the social sphere of reality can be represented, simulated, and analyzed. Social reality is complex, multi-level, and emergent, so models must balance fidelity, interpretability, and tractability.
+
+### Objectives of Social Modelling
+
+- Representation: Capture key structures, agents, interactions, and constraints in social systems.
+- Explanation: Understand causal mechanisms underlying social phenomena.
+- Prediction: Explore possible futures, probabilistic outcomes, and system responses to interventions.
+- Intervention: Evaluate the impact of policies, norms, or innovations on social outcomes.
 
 ### Principle
 
