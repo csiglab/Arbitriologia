@@ -117,29 +117,31 @@ Classification of Elements of Social Reality:
 > Note: There should be a general ontological entry for Behavior; however, each Interaction Unit should also have its own specific Behavior entry reflecting its unique patterns of action and response.
 
 
-| **Level**         | **Ontological Element**      | **Description**                                                         | **Basic Ontological Form (If Applicable)**         |
-|-------------------|------------------------------|-------------------------------------------------------------------------|----------------------------------------------------|
-| **Primitive** ⚙️  | Interaction Unit 👤          | Basic actor (individual or group)                                       |                                                    |
-|                   | Interaction 🔄               | Relational event/process between actors                                 |                                                    |
-|                   | Regulation 📏                | Shared behavioral protocols                                             |                                                    |
-|                   | State 🏷️                     | System’s condition or status                                            |                                                    |
-|                   | Tagging System 🏷️            | Semantic labeling of states or behaviors                                |                                                    |
-|                   | Dynamical 🌪️                 | Observable transformations in the system (change, process, event)       |                                                    |
-|                   | Environment 🌍               | External conditions influencing the system                              |                                                    |
-| **Derivative** 🔄 | Social Role 🎭               | Normative position within structured context                            | Interaction Unit + Tagging System + Regulation     |
-|                   | Social Norm 📜               | Shared behavioral expectations with meaning                             | Regulation + Tagging System                        |
-|                   | Institution 🏛️               | Stable configuration of roles and rules                                 | Interaction Unit + Regulation + State              |
-|                   | Social Network 🌐            | Web of patterned relationships                                          | Interaction Unit + Interaction                     |
-|                   | Interaction Pattern 🔁       | Recurring relational sequences shaped by protocols                      | Interaction + Regulation                           |
-|                   | Collective Identity 🆔       | Shared interpretive frame binding actors                                | Interaction Unit + Tagging System                  |
-|                   | Social System State 📊       | Interpreted snapshot of overall system condition                        | State + Tagging System                             |
-|                   | Social Event 🎉              | Significant occurrence involving actors                                 | Interaction + Phenomena (Change)                   |
-|                   | Cultural Script 📖           | Semantically rich behavior protocol                                     | Regulation + Tagging System                        |
-|                   | Power Relation ⚖️            | Asymmetric interaction legitimated by norms                             | Interaction + Regulation + Tagging System          |
-|                   | Organizational Unit 🏢       | Structured actor with internal rules and identity                       | Interaction Unit + Regulation + State              |
-|                   | Systemic Transformation 🔄   | Structural change in system state via interactions                      | Phenomena (Change) + State + Interaction           |
-|                   | Symbolic System 🔣           | Full set of labels and interpretive frames used                         | Tagging System + Interaction Unit                  |
-|                   | Behavior 🚶                  | Observable pattern of actions over time in response to internal or external stimuli  | Interaction Unit + Interaction + Environment |
+| **Level**         | **Ontological Element**        | **Description**                                                                                    | **Basic Ontological Form (If Applicable)**      | **Tags**                                  |
+| ----------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
+| **Primitive** ⚙️  | **Interaction Unit 👤**        | Basic actor (individual or group)                                                                  | —                                               | `actor`, `agent`, `unit`                  |
+|                   | **Interaction 🔄**             | Relational event/process between actors                                                            | —                                               | `interaction`, `relation`, `process`      |
+|                   | **Regulation 📏**              | Shared behavioral protocols                                                                        | —                                               | `rule`, `protocol`, `normative`           |
+|                   | **State 🏷️**                  | System’s condition or status                                                                       | —                                               | `state`, `condition`, `status`            |
+|                   | **Tagging System 🏷️**         | Semantic labeling of states or behaviors                                                           | —                                               | `symbol`, `label`, `semantic`             |
+|                   | **Dynamical 🌪️**              | Observable transformations in the system (change, process, event)                                  | —                                               | `change`, `dynamic`, `process`            |
+|                   | **Environment 🌍**             | External conditions influencing the system                                                         | —                                               | `context`, `environment`, `external`      |
+| **Derivative** 🔄 | **Social Role 🎭**             | Normative position within structured context                                                       | Interaction Unit + Tagging System + Regulation  | `role`, `normative`, `position`           |
+|                   | **Social Norm 📜**             | Shared behavioral expectations with meaning                                                        | Regulation + Tagging System                     | `norm`, `expectation`, `behavioral`       |
+|                   | **Institution 🏛️**            | Stable configuration of roles and rules                                                            | Interaction Unit + Regulation + State           | `institution`, `structure`, `rule-system` |
+|                   | **Social Network 🌐**          | Web of patterned relationships                                                                     | Interaction Unit + Interaction                  | `network`, `relation`, `pattern`          |
+|                   | **Interaction Pattern 🔁**     | Recurring relational sequences shaped by protocols                                                 | Interaction + Regulation                        | `pattern`, `sequence`, `interaction`      |
+|                   | **Collective Identity 🆔**     | Shared interpretive frame binding actors                                                           | Interaction Unit + Tagging System               | `identity`, `collective`, `shared`        |
+|                   | **Social System State 📊**     | Interpreted snapshot of overall system condition                                                   | State + Tagging System                          | `state`, `social`, `interpreted`          |
+|                   | **Social Event 🎉**            | Significant occurrence involving actors                                                            | Interaction + Phenomena (Change)                | `event`, `occurrence`, `social`           |
+|                   | **Cultural Script 📖**         | Semantically rich behavior protocol                                                                | Regulation + Tagging System                     | `culture`, `script`, `protocol`           |
+|                   | **Power Relation ⚖️**          | Asymmetric interaction legitimated by norms                                                        | Interaction + Regulation + Tagging System       | `power`, `asymmetry`, `legitimacy`        |
+|                   | **Organizational Unit 🏢**     | Structured actor with internal rules and identity                                                  | Interaction Unit + Regulation + State           | `organization`, `unit`, `structure`       |
+|                   | **Systemic Transformation 🔄** | Structural change in system state via interactions                                                 | Phenomena (Change) + State + Interaction        | `transformation`, `systemic`, `change`    |
+|                   | **Symbolic System 🔣**         | Full set of labels and interpretive frames used                                                    | Tagging System + Interaction Unit               | `symbolic`, `semiosis`, `meaning-system`  |
+|                   | **Behavior 🚶**                | Observable pattern of actions over time in response to internal or external stimuli                | Interaction Unit + Interaction + Environment    | `behavior`, `action`, `pattern`           |
+|                   | **City 🏙️**                   | Spatially and institutionally organized social system; local nexus of roles, rules, and identities | Organizational Unit + Environment + Institution | `city`, `urban`, `local-system`           |
+|                   | **Province 🗺️**               | Higher-order territorial aggregation of cities with governance and coordination functions          | Organizational Unit + Institution + Environment | `province`, `regional`, `territorial`     |
 
 ### Interaction Unit
 
@@ -362,3 +364,4 @@ In this framework, regulation is thus both a foundational ontological element pr
 - [Dynamical Intelligence](https://righteous-guardian-68f.notion.site/Dynamical-Intelligence-a41fde247c384e3bb5e561bf55c70f33?pvs=4)
 - [Agency](../Locus-Instrumentorum/Agency.md)
 - [External Observer](../Locus-Instrumentorum/Observation.md)
+- [Sociological Theory](https://en.wikipedia.org/wiki/Sociological_theory)
