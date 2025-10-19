@@ -127,3 +127,22 @@ Modelling:
 - [American Economic Journal: Applied Economics](https://www.aeaweb.org/journals/app)
 - [Journal of Applied Corporate Finance](https://onlinelibrary.wiley.com/journal/17456622)
 - [Revista de Historia Industrial](https://raco.cat/index.php/HistoriaIndustrial/index)
+
+
+...
+
+- https://onlinecourses.nptel.ac.in/noc21_hs42/preview
+
+- https://en.wikipedia.org/wiki/Philosophy_of_social_science
+
+- https://iep.utm.edu/soc-sci/#H1
+
+- https://www.reddit.com/r/askphilosophy/comments/cq1036/what_distinguishes_philosophy_from_the_social/
+
+- https://www.cambridge.org/core/books/philosophy-of-social-science/BBF45C70D4D6636F4DE059E2B1BE0103
+
+- https://academic.oup.com/edited-volume/36331
+
+- John R. Searle The Construction of Social Reality
+
+- 
