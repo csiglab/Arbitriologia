@@ -1,10 +1,14 @@
 # Power
 
+> Power is a property defined in terms of relations and agents.
+
 > Power, in its most general sense, is the capacity to influence, shape, or constrain the decision space of other agents—or even of groups of agents.
 
 > Note: `Power` is primarily classified as a relational concept in our ontology, but it also exhibits dynamics, context-dependence, and emergent properties.
 
 > Note: Our Initent as wayls is technical description - an modelling - not how to cmake a coup :)
+
+- It's power a property of an agent in relatation with others agents?
 
 ## Concept
 
@@ -24,7 +28,7 @@
 
 > What is the ontological nature of the concept of power?
 
-- Category: Relational and emergent property
+- Category: Relational and **emergent property**
 - Substrate: Exists only within social contexts; does not have independent material existence but manifests through actions, structures, and norms.
 
 ## Property
