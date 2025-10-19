@@ -37,6 +37,10 @@
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 
+## 💡 Research
+
+[Investigaciones](https://www.bremontix.xyz/lab/ar/research.html)
+
 ## 📚 Most Read
 
 - Nothing here yet. Be the first reader to leave a mark!

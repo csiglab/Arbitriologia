@@ -22,6 +22,7 @@ markdown_extensions:
 # nav:
 #   - Home: docs/Meta/README.md  # This will now be served at /
 #   - About: docs/Meta/Guia-Mayor.md
+    #  - Research: research.html
 
 extra_javascript:
   # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
