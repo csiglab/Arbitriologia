@@ -4,6 +4,16 @@
 
 > Democracy doesn’t require political parties—it requires distributed, inclusive, accountable mechanisms for collective decision-making. Political parties can fulfill that role—but only if they evolve beyond power-seeking machines into institutions of civic reason and democratic co-creation.
 
+QA:
+
+- What is the ontological structure?
+- What is the dynamis?
+- Which are the feedback loops?
+- Which are the interactions?
+- What problem does a political party solved? Which other ways to solved th provlem?
+- Is there a concept that captures a political party?  Agent - Semi Agent -  System - Group - Semi Institution - Or What other alternative?
+- How to model the environment here?
+- Which is the action space? Which are the internal proceses?  Internal Structure - - Properties of a Party - ...
 
 1. **Subsystem Status**:
 
