@@ -196,3 +196,4 @@ Limits:
 - Bandura, A. (2001). Social Cognitive Theory: An Agentic Perspective. Annual Review of Psychology.
 - Mahoney, J. (2000). "Path Dependence in Historical Sociology." Theory and Society, 29(4), 507-548.
 - Pierson, P. (2004). Politics in Time: History, Institutions, and Social Analysis. Princeton University Press.
+- [Problematization](../Locus-Instrumentorum/Problematization.md)

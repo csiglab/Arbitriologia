@@ -4,6 +4,10 @@
 
 > Social relations are not materially substantial; they exist as emergent, relational phenomena that shape behavior, social outcomes, and the organization of social systems. They can be instantiated in concrete interactions, persist over time, and depend on both the agents involved and the conventions that sustain them.
 
+QA:
+
+- Is this notion - fundamental in a social ontology?
+
 ## Ontology
 
 | Aspect                        | Description                                                                                                                                                |

@@ -45,6 +45,14 @@ Connection
 
 Some notions  -  that implies potential actions - like a role. Which other notiosn do? ...
 
+- ask yourself about
+
+- Structure
+- Ontolgical Nature
+- Basis of Many Social Phenomonea: Joint Cognition
+- Dynamics
+- Properties
+
 ## References
 
 - [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723?source=copy_link)

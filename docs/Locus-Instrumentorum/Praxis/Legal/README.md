@@ -21,7 +21,6 @@
 | **Law and Economics**         | Law should be designed and interpreted based on economic efficiency and incentives.     | Efficiency, Cost-Benefit Analysis       | Richard Posner, Guido Calabresi          |
 | **Dworkinian Interpretivism** | Law includes moral principles requiring interpretation for coherence and justice.       | Law as Integrity, Principles over Rules | Ronald Dworkin                           |
 
-
 ## Interdisciplinary Connections
 
 Legal theory intersects with:
