@@ -194,6 +194,8 @@ It supports stochastic modeling of perception errors, interpretation biases, and
 
 > Note: There should be a general ontological entry for Behavior; however, each Interaction Unit should also have its own specific Behavior entry reflecting its unique patterns of action and response.
 
+> See more in [Onticity Map](./Onticity/Map/README.md)
+
 
 | **Level**         | **Ontological Element**        | **Description**                                                                                    | **Basic Ontological Form (If Applicable)**      | **Tags**                                  |
 | ----------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |

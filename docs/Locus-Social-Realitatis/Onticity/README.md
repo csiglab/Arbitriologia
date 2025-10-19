@@ -4,6 +4,8 @@
 >
 > **Onticity** refers to the degree to which an entity is **“real”** or **independently existing**, ranging from fully concrete and material to abstract, relational, or purely conceptual.
 
+> What are the most crucial elements, ontic or not, necessary to parse social reality?
+
 ## Onticity Map
 
 > Which elements—ontic or non-ontic—are the primary targets of study in the social field?
