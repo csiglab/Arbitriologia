@@ -8,7 +8,7 @@
   window.location.href = './Meta/Libro-Mayor/';
 </script> -->
 
-> **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative intervention of social reality. Our mission unfolds through three interconnected domains:
+> **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative imagination of social reality. Our mission unfolds through three interconnected realms:
 
 - Locus Instrumentorum: Tools to investigate reality and engineer its transformation.
 - Locus Meliorandis: Engineering change in social reality.

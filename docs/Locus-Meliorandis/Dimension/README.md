@@ -1,44 +1,22 @@
 # Domain
 
-> ...
+> What are the domains—or facets of social reality—that are the targets of reflection and evolution?
 
-## Non Core Public Services
+## Domain Space
 
-- Health
-- Culture
-- Utilties
-- Infrastructure
-- Urban Development
-
-## Public Good
-
-> What is the basis of the economy? What´s the structure of the society? Why do some social groups, economic institutions, and nations advance and prosper?
-
-Indicators:
-
-- Communications
-- Banking System / Financial System
-- Payment System
-- Legal System
-- Low and Order
-- Transportation Systems
-- Energy Systems
-- R&D Systems
-- City / Urban Systems
-- Water Systems
-- Waste Management Systems
-- Pre-University Education
-- Basic Research System
-- University System
-- Healthcare
-- Disaster Prevention and Management System
-- Regulation
-- Markets
-- Public Information / Analytics about the State of the Country and the World
-- …
+1. **Production** – Core economic activity; interventions here increase material output and technological capability.
+2. **Infrastructure** – Enables productive capacity and social welfare; investments in energy, transport, digital, and utilities are foundational.
+3. **Human Capital** – Skills, education, and technological competence directly affect productivity and innovation.
+4. **Monetary & Financial Ecosystems** – Ensure stability, liquidity, and the effective functioning of markets; critical for investment and entrepreneurship.
+5. **Public Governance Ecosystem** – Legal, fiscal, and regulatory frameworks enable societal coordination, enforce rules, and ensure accountability.
+6. **Research Ecosystem** – Drives innovation and technological progress; both fundamental and applied research are levers for long-term development.
+7. **International Ecosystem** – External relations, trade, and collaboration expand opportunities, knowledge flows, and markets.
+8. **Urbanization & Spatial Planning** – Organizes population, production, and services efficiently, impacting productivity and quality of life.
+9. **Joint Cognition** – Collective knowledge, coordination, and decision-making capabilities of society; underpins strategic alignment and innovation.
+10. **Miscellaneous Social Domains** – Welfare, health, and cultural aspects ensure social stability, resilience, and human development.
 
 ## References
 
 - [What is Regulation?](https://www.yalejreg.com/bulletin/what-is-regulation/)
-- [Center of Excellence in Tax Systems Research](https://www.tuni.fi/en/research/centre-excellence-tax-systems-research)
 - [An Essay Of Public Services Marketization](../../Breviarium/an-essay-of-public-services-marketization.md)
+- [Center of Excellence in Tax Systems Research](https://www.tuni.fi/en/research/centre-excellence-tax-systems-research)

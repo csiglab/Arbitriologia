@@ -1,4 +1,7 @@
-# Knowledge System Units – Case Study
+# Research
+
+- Cognesis - Foundational Research: Creation of fundamental knowledge, principles, and insights.  
+- Technegesis - Technical Research: Development and application of practical techniques and technologies.
 
 > ...
 

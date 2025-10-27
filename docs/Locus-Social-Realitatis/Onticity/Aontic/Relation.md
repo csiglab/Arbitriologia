@@ -33,6 +33,22 @@ $\exists, \text{interaction } I(a,b) \land \exists, \text{norms or expectations 
 * $E(a,b)$ = shared expectations or norms
 * Cognitive recognition ensures that the relation is socially meaningful, not merely coincidental co-occurrence
 
+## Property
+
+> What are the properties that can be attributed to social relations?
+
+| **Property**                        | **Definition**                                                                                                                                                                                 |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Strength**                        | The intensity or depth of the connection between actors, often measured by frequency of interaction, emotional closeness, or mutual dependence.                                                |
+| **Directionality**                  | Indicates whether the relation is one-way (asymmetric) or reciprocal (symmetric) between actors.                                                                                               |
+| **Duration**                        | The length of time the relation has existed or is expected to last.                                                                                                                            |
+| **Frequency**                       | How often interactions occur within the relation.                                                                                                                                              |
+| **Multiplicity**                    | The number of different types of ties or interactions existing between the same actors (e.g., professional, familial, friendship).                                                             |
+| **Embeddedness**                    | The degree to which a relation is enmeshed in a wider network of social ties, norms, and institutions.                                                                                         |
+| **Formality/Informality**           | Whether the relation is formally recognized (e.g., contractual, institutional) or informal (e.g., friendship, mentorship).                                                                     |
+| **Stability**                       | The likelihood that the relation persists over time under changing conditions.                                                                                                                 |
+| **Trust/Normativity (Social Bond)** | The emergent attachment, loyalty, or moral expectation arising from a social relation. Social bonds reflect the *quality and cohesion* of a relation rather than the mere fact of interaction. |
+
 ## Limits
 
 > Which are the limits of the `Concept`?
