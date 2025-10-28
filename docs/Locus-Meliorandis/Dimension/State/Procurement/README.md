@@ -1,12 +1,8 @@
 # Procurement
 
-: 11
-Tags: Inventory
-
 > …
-> 
 
-### **Conceptual Taxonomy of Business Procurement**
+## Conceptual Taxonomy of Business Procurement
 
 | **Category** | **Subcategory** | **Description** | **Examples** | **Purpose** |
 | --- | --- | --- | --- | --- |
@@ -40,4 +36,4 @@ Tags: Inventory
 
 ## References
 
-- https://en.wikipedia.org/wiki/Procurement
+- [Procurement](https://en.wikipedia.org/wiki/Procurement)

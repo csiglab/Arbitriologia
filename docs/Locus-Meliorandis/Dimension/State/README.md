@@ -1,6 +1,6 @@
-# Goberment
+# Government
 
-> ...
+> How can a state be organized to effectively deliver on a given vision?
 
 ## References
 

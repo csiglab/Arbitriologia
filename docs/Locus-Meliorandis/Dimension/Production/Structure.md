@@ -1,6 +1,4 @@
-# Supply Chains (Outer Economy)
-
-## Structure
+# Structure
 
 - **High-End**: Knowledge Intensive
 - **Middle-End**: Capital Intensive Sector

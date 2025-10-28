@@ -1,4 +1,2 @@
 # Human Formation Facet
 
-
-
