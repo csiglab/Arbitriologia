@@ -2,7 +2,7 @@
 
 > ...
 
-![alt text](a_city.png)
+<!-- ![alt text](a_city.png) -->
 
 ## What makes a city great?
 

@@ -4,6 +4,8 @@
 
 > **Note:** The concept of culture does not directly depend on a society's technical capacity. Two societies with vastly different technological capabilities can share the same cultural patterns—for example, different regions within the same country.
 
+> Note: Culture is better understood as an analytical concept rather than a distinct facet of reality. In practice, any stable pattern of behavior can be considered cultural by definition.
+
 ## Universe of Discourse
 
 > When we speak about culture, what aspects of the world are we referring to?
@@ -224,6 +226,13 @@ List of factors of change:
 * “Culture” is sometimes overused as a catch-all, turning it into a **dumping ground** for unexplained complexity.
 * Can result in **tautological explanations**: *“Why did they do this? Because of their culture.”*
 
+## On Cultural Software
+
+I’m surprised how many people don’t get that genes =/= memes. Kinda like hardware =/= software. A population can change their memes (language, religion, mythology) several times and still remain genetically the same. Like if you change OS on yr laptop, it’s still the same laptop
+
+Also we tend to exaggerate how deeply and rapidly the memes change. For example a “change of religion” would typically be a much more superficial phenomenon than one could assume reading the narrative sources (especially written by clergy)
+
+
 ## QA
 
 ### What is the relation between Cultural System and Social System?
@@ -291,3 +300,4 @@ A **cultural system** and a **social system** are deeply interconnected, but the
 - Bruno Latour (actor-network theory: blurs boundary between system and actor)
 - [Cultural Analysis](https://www.ocf.berkeley.edu/~culturalanalysis/)
 - [Cultural analytics](https://en.wikipedia.org/wiki/Cultural_analytics)
+- [On Cultures That Build (2020) | Hacker News](https://news.ycombinator.com/item?id=38278380)

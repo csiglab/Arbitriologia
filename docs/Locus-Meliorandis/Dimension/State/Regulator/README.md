@@ -4,5 +4,4 @@
 
 ## References
 
-- [Regulatory Unit](../../../../Locus-Social-Realitatis/Facet/Regulation/Unit/README.md)
-
+- [Regulatory Unit](../../../../Locus-Social-Realitatis/Facet/Governance/Regulation/README.md)

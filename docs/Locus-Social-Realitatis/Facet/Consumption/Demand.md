@@ -241,7 +241,7 @@ Several consumer demand models are used in economics and marketing to analyze an
 ## References
 
 - [Aggregate demand](https://en.wikipedia.org/wiki/Aggregate_demand)
-- [Elasticity](../../Property/elasticity.md)
+- [Elasticity](../Economy/Property/elasticity.md)
 - [Demand](https://en.wikipedia.org/wiki/Demand)
 - [Demand Curve](https://en.wikipedia.org/wiki/Demand_curve)
 - [Is it all “Supply & Demand”?](http://www.debtdeflation.com/blogs/2010/05/11/is-it-all-%E2%80%9Csupply-demand%E2%80%9D/)
@@ -249,7 +249,6 @@ Several consumer demand models are used in economics and marketing to analyze an
 - https://en.wikipedia.org/wiki/Supply_and_demand
 - [Wages, Employment Not Determined By Supply And Demand](http://robertvienneau.blogspot.com/2024/05/wages-employment-not-determined-by.html)
 - https://en.wikipedia.org/wiki/Say%27s_law
-- ‣
 - https://en.wikipedia.org/wiki/Antoine_Augustin_Cournot [Demand Curves]
 - https://en.wikipedia.org/wiki/Fleeming_Jenkin [Supply Curves]
 - https://en.wikipedia.org/wiki/Alfred_Marshall [Demand Curves / Supply Curves]

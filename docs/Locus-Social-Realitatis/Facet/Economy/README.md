@@ -7,6 +7,8 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 
 > Note: This facet is not my preferred organizing principle of reality. It should be understood primarily as an **aggregator** or an **entry point**.
 
+- [Market](../../Intersection/Market/README.md)
+
 ## Ontology (The Observed)
 
 > Note: **(Intermediate)** indicates an intermediate ontological abstraction introduced to improve the conceptual and ontological scaffold.
@@ -86,8 +88,6 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 
 > **Note**: Consider the cognitive state of an observer as the state of their brain at a given time t. This cognitive state can itself be regarded as an ontological element, as it exists in reality and interacts with it. The observer’s epistemic state and the ontological reality it perceives are therefore deeply intertwined, forming a unity often described as the mind-body or episteme-ontology relationship.
 
-> See more in [Exovidente](./../../Exovidente/).
-
 > Note: Epistemological entries will be classified under the category `Observer`.
 
 > Internal Observer: First-person perspective monitoring one's own mental processes and experiences.
@@ -161,7 +161,5 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 - [Tecno-Antropología](https://encyclopaedia.herdereditorial.com/wiki/Recurso:La_Tecno-Antropolog%C3%ADa_1)
 
 - [La Tecno-Antropología una visión desde Dinamarca](https://ichan.ciesas.edu.mx/la-tecno-antropologia-una-vision-desde-dinamarca/)
-
-- [Exovidente](./../../Exovidente/)
 
 - [Consumption Facet](../Consumption/README.md)

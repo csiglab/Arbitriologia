@@ -7,4 +7,4 @@
 
 ## References
 
-- [Human Formation Facet](../../../Locus-Social-Realitatis/Facet/Knowledge/README.md)   
+- [Human Formation Facet](../../../Locus-Social-Realitatis/Facet/Knowledge/README.md)

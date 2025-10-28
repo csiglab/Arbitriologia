@@ -145,5 +145,5 @@ O estudo recente do Radar Tecnológico do Instituto Nacional de Propriedade Indu
 - https://revistapesquisa.fapesp.br/es/innovacion-en-los-tiempos-del-imperio/
 - https://www.scielo.br/j/topoi/a/BdnMzcxgjs9frNTY7yFKnYb/
 - Martins, Monica de Souza Nunes. "O espetáculo da economia: a Primeira Exposição Nacional da Indústria no Império do Brasil, em 1861." Topoi (Rio de Janeiro) 21.44 (2020): 497-517.
-- [Case Study: Nova Indústria Brasil - Plano de Ação para a Neoindustrialização 2024-2026](Case%20Study%20Nova%20Indu%CC%81stria%20Brasil%20-%20Plano%20de%20Ac%CC%A7a%CC%83%2014c956e8f40e802e8e07d54551783918.md)
-- [Centro Brasileiro de Relações Internacionais (CEBRI)](Centro%20Brasileiro%20de%20Relac%CC%A7o%CC%83es%20Internacionais%20(CE%2015d956e8f40e80ff9182eef1997efab8.md)
+<!-- - [Case Study: Nova Indústria Brasil - Plano de Ação para a Neoindustrialização 2024-2026](Case%20Study%20Nova%20Indu%CC%81stria%20Brasil%20-%20Plano%20de%20Ac%CC%A7a%CC%83%2014c956e8f40e802e8e07d54551783918.md) -->
+<!-- - [Centro Brasileiro de Relações Internacionais (CEBRI)](Centro%20Brasileiro%20de%20Relac%CC%A7o%CC%83es%20Internacionais%20(CE%2015d956e8f40e80ff9182eef1997efab8.md) -->

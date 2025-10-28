@@ -24,10 +24,9 @@
 - [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos.md)
 - [Techno-Productivist Agential Principle Set (T-PAPS)](Breviarium/techno-productivist-agential-principle-set.md)
 
-- [An Essay on the Notion of Agency](Breviarium/an-essay-on-the-notion-of-agency.md)
 - [An Essay on Limits  Self Organization in Social Systems](Breviarium/an-essay-on-limits-of-self-organization.md)
 - [A Theory of Government](Breviarium/a-theory-of-goverment.md)
-- [A Defense of Industrial Policy - or The Limits of Self Organization](Breviarium/a-defense-of-industrial-policy)
+- [A Defense of Industrial Policy - or The Limits of Self Organization](Breviarium/a-defense-of-industrial-policy.md)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 - [Cartilla Mínima sobre el Diseño de Mercados: ¿Qué es el mercado? Soluciones de mercado vs. no mercado](Breviarium/an-essay-of-public-services-marketization.md)
 - [In Support of Policy Experimentation](Breviarium/in-support-of-policy-experimentation.md)

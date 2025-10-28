@@ -17,7 +17,7 @@
 > 
 
 > We will employ extensively the concept of **‘data oriented essay’**  in order to represent the agents, that conforms the **dominican state**.
-> 
+>
 
 ## Project Goals
 
@@ -91,14 +91,12 @@
 ### Computational Plugins
 
 > …
-> 
 
 ## References
 
 - https://plato.stanford.edu/entrieS/social-ontology/
-- [An Essay on Society and State Modelling](An%20Essay%20on%20Society%20and%20State%20Modelling%20154956e8f40e807b8975cf10617bd744.md)
-- [An Essay on Dominican Economic & Development Thinking](An%20Essay%20on%20Dominican%20Economic%20&%20Development%20Think%20153956e8f40e8018999ef9a5b1c1127a.md)
-- [An Essay on the Design of a Computational Engine for Analyzing and Modeling Dominican Society](An%20Essay%20on%20the%20Design%20of%20a%20Computational%20Engine%20f%20124956e8f40e80428bc4d121a03d5ed8.md)
+- [An Essay on Dominican Economic & Development Thinking](../../../Breviarium/an-essay-on-the-dominican-of-a-development-thinking.md)
+- [An Essay on the Design of a Computational Engine for Analyzing and Modeling Dominican Society](../../../Breviarium/an-essay-on-the-design-of-a-computational-engine-for-analyzing-and-modeling-dominican-society.md)
 - ‣
 - Searle, J. R. (2006). Social ontology: Some basic principles. Anthropological theory, 6(1), 12-29.
 - Hogan, A., Blomqvist, E., Cochez, M., d’Amato, C., Melo, G. D., Gutierrez, C., ... & Zimmermann, A. (2021). Knowledge graphs. ACM Computing Surveys (Csur), 54(4), 1-37.
@@ -108,6 +106,5 @@
 - Hu, K., Bakker, M. A., Li, S., Kraska, T., & Hidalgo, C. (2019, May). Vizml: A machine learning approach to visualization recommendation. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-12).
 - Mylopoulos, J. (1980). An overview of knowledge representation. ACM SIGART Bulletin, (74), 5-12.
 - https://www.algunaspropuestas.com/
-
-- [Mapa Interactivo Fondo de Pensiones ](https://www.sipen.gob.do/tablero-interactivo-mapa)
+- [Mapa Interactivo Fondo de Pensiones](https://www.sipen.gob.do/tablero-interactivo-mapa)
 - Betances, E. (1995). Social classes and the origin of the modern state: The Dominican Republic, 1844-1930. *Latin American Perspectives*, *22*(3), 20-40.

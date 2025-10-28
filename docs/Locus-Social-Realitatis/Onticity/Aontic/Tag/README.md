@@ -8,4 +8,4 @@
 
 ## References
 
-- [Locus -Instrumentorum/External Observer](../../Locus-Instrumentorum/Observer)
+- [Locus -Instrumentorum/External Observer](../../../../Locus-Instrumentorum/Observation.md)

@@ -41,7 +41,7 @@ Below is an explanation by the author the book, Joseph Henrich, and a graphical 
 
 “If you picked response (b), you’re probably pretty WEIRD, like people in Canada, Switzerland, and the United States, where more than 90 percent of participants prefer not to testify and don’t think their friend has any right to expect such a thing. This is the universalistic or nonrelational response. By contrast, in Nepal, Venezuela, and South Korea, most people said they’d willingly lie under oath to help a close friend. This is the particularistic or relational response, which captures people’s loyalty to their family and friends.”
 
-![universalism-trompenaars](universalism-trompenaars.png)
+<!-- ![universalism-trompenaars](universalism-trompenaars.png) -->
 
 “There’s nothing special about the content of the Passenger’s Dilemma. In places where people would help their friends by testifying, they also report a willingness to (1) give their friends insider company information, (2) lie about a friend’s medical exam to lower his insurance rates, and (3) exaggerate the quality of the cuisine at a friend’s restaurant in a published review. In these places, the “right” answer is to help your friend. People aren’t trying to distinguish themselves as relentlessly honest individuals governed by impartial principles. Instead, they are deeply loyal to their friends and want to cement enduring relationships, even if this involves illegal actions. In these places, being nepotistic is often the morally correct thing to do. By contrast, in WEIRD societies, many people think badly of those who weight family and friends over impartial principles and anonymous criteria like qualifications, merit, or effort.”
 

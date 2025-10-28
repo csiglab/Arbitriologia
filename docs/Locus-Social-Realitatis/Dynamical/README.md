@@ -69,6 +69,5 @@
 
 ## References
 
-- [External Observer](../../Locus-Instrumentorum/Observer.md)
 - [Social dynamics](https://en.wikipedia.org/wiki/Social_dynamics)
 - [Social change](https://en.wikipedia.org/wiki/Social_change)

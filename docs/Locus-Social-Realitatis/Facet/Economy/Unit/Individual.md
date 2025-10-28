@@ -138,4 +138,3 @@ This means the agent’s preferences can be represented by assigning a real numb
 
 - [Homo Economicus](https://en.wikipedia.org/wiki/Homo_economicus)
 - [Preference](https://en.wikipedia.org/wiki/Preference_(economics))
-- [Preference Modelling](../../../../Locus-Instrumentorum/Consumer//Preference-Modelling.md)

@@ -65,7 +65,7 @@
 
 ## References
 
-- [Locus - Instrumentorum/External Observer](../../../../Locus-Instrumentorum/Observer)
+<!-- - [Locus - Instrumentorum/External Observer](../../../../Locus-Instrumentorum/Observer) -->
 - https://en.wikipedia.org/wiki/Indicator_(statistics)
 - Land, Kenneth C. "On the definition of social indicators." The American Sociologist (1971): 322-325.
 - https://en.wikipedia.org/wiki/Surrogation

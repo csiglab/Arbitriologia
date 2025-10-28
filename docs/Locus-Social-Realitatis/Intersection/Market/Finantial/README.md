@@ -1,6 +1,6 @@
 # Financial Market
 
-See more in [Locus Meliorandis/Finance](./../../../../../Locus-Meliorandis/Domain/Finance/)
+See more in [Locus Meliorandis/Finance](../../../../Locus-Meliorandis/Dimension/Finance/README.md)
 
 > **Financial economics** is a branch of economics that examines how financial decisions are made in markets, considering factors such as risk, return, asset pricing, and the allocation of resources over time.
 
@@ -169,7 +169,7 @@ SMITH, Clifford W.; STULZ, Rene M. The determinants of firms' hedging policies.
 - Scott Jr, J. H. (1976). A theory of optimal capital structure. *The bell journal of economics*, 33-54.
 - Malkiel, B. G. (2003). The efficient market hypothesis and its critics. Journal of economic perspectives, 17(1), 59-82.
 - Cox, J. C., Ross, S. A., & Rubinstein, M. (1979). Option pricing: A simplified approach. Journal of financial Economics, 7(3), 229-263.
-- Shiller, R. J., & McCulloch, J. H. (1990). The term structure of interest rates. Handbook of monetary economics, 1, 627-722.
+- Shiller, R. J., & McCulloch, J. H. (1990). The term structure of interest rates. Handbook of monetary economics, 1, 627-722.f
 - Biais, B., & Green, R. (2007). The microstructure of the bond market in the 20th century.
 - Sornette, D., & Zhou, W.-X. (2003). Predictability of large future changes in major financial indices. 22(1), 153–168.
 - [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)

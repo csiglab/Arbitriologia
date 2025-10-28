@@ -287,7 +287,7 @@ While World Bank claims Poland has twice GDP per capita of China, if you look at
 
 Poland's living standards appear to be, in fact, midway between China's and Mexico's (note I corrected Poland's energy consumption, the previous datapoint of 0.065 was the Romanian level).
 
-![alt text](poland-metrics.png)
+<!-- ![alt text](poland-metrics.png) -->
 
 > Mean years of schooling of China is strange, 8.1 yrs (HDI data) are even lower than Congo. 2020 census puts it at 9.5 years (>25yrs old). HDI in 2018 also mysteriously used 7.8 years from the Barro & Lee (2016) which itself says 7.8 is 2005’s level and it was 8.14 yrs in 2015.
 
@@ -323,5 +323,3 @@ Poland's living standards appear to be, in fact, midway between China's and Mexi
 - [https://kuke.com.pl/en/about-us](https://kuke.com.pl/en/about-us)
 - [https://www.esteri.it/en/sala_stampa/archivionotizie/diplomazia-economica/2024/09/polonia-il-governo-da-impulso-ai-progetti-industriali/](https://www.esteri.it/en/sala_stampa/archivionotizie/diplomazia-economica/2024/09/polonia-il-governo-da-impulso-ai-progetti-industriali/)
 - [https://press.wz.uw.edu.pl/cgi/viewcontent.cgi?article=1032&context=monographs](https://press.wz.uw.edu.pl/cgi/viewcontent.cgi?article=1032&context=monographs)
-
-00101231983

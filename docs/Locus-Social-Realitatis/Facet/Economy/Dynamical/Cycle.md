@@ -22,4 +22,4 @@
 
 ## References
 
-- [Theory  of the Economic Cycle](../Locus-Realitatis/Facet/Economy/Change/Economic-Cycle/)
+- ...

@@ -88,4 +88,4 @@
 ## References
 
 - [Cognition](https://en.wikipedia.org/wiki/Cognition)
-- [Developmentalism](./../../../Exovidente/Observer/Social-Theory/Developmentalism##how-and-why-does-the-developmentalist-cognitive-schema-emerge-in-political-and-social-actors)
+- [Developmentalism](../Locus-Social-Realitatis/Facet/Ideational/Developmentalism.md)

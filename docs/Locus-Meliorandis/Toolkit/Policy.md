@@ -64,4 +64,4 @@ The **policy life cycle** refers to the stages through which a policy moves from
 
 - [Public Finance](https://en.wikipedia.org/wiki/Public_finance)
 
-- [Locus Instrumentorum](../Locus-Instrumentorum/)
+- [Locus Instrumentorum](../../Locus-Instrumentorum/README.md)
