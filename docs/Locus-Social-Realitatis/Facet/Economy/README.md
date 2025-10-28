@@ -5,6 +5,8 @@
 > **"Economy"** is a troublesome word because we use it colloquially to refer to the market economy we're familiar with today, and its various studied trappings - rational actors, market equilibrium, macroeconomic policies, etc. But so much of it consists of socially constructed elements - ownership, dealmaking, invention, regulation, taxation, etc. - that an economic model is always a form of interpretation, an attempt to confine a
 lot of **chaotic** and **inconsistent forces** into something more apparently orderly.
 
+> Note: This facet is not my preferred organizing principle of reality. It should be understood primarily as an **aggregator** or an **entry point**.
+
 ## Ontology (The Observed)
 
 > Note: **(Intermediate)** indicates an intermediate ontological abstraction introduced to improve the conceptual and ontological scaffold.
@@ -161,3 +163,5 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 - [La Tecno-Antropología una visión desde Dinamarca](https://ichan.ciesas.edu.mx/la-tecno-antropologia-una-vision-desde-dinamarca/)
 
 - [Exovidente](./../../Exovidente/)
+
+- [Consumption Facet](../Consumption/README.md)

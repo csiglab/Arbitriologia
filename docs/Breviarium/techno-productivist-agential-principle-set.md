@@ -28,7 +28,7 @@
 
 ## References
 
-- [Developmentalism](../Locus-Instrumentorum/Sociology/Developmentalism.md)
+- [Developmentalism](../Locus-Social-Realitatis/Facet/Ideational/Developmentalism.md)
 - **Meiji Strategy** – Japan’s rapid industrialization and technological adoption during the Meiji era (1868–1912), emphasizing state coordination, technological mastery, and societal transformation.
 - **Colbert Strategy** – Jean-Baptiste Colbert’s mercantilist policies in 17th-century France, focusing on productivity maximization, industrial promotion, and technological diffusion.
 - **Prussian Education and Industrial Strategy** – Systematic human capital development aligned with industrial and military needs in 19th-century Prussia.

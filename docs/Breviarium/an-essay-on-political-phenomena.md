@@ -122,7 +122,7 @@ It can be, **conditionally**:
 
 ## References
 
-- [Mental Construct](../Locus-Social-Realitatis/Mental/README.md)
+- [Mental Construct](../Locus-Social-Realitatis/Onticity/Aontic/README.md)
 - [Politics](https://en.wikipedia.org/wiki/Politics)
 - [Political Science](https://en.wikipedia.org/wiki/Theories_of_political_behavior)
 - [List of political science journals](https://en.wikipedia.org/wiki/List_of_political_science_journals)

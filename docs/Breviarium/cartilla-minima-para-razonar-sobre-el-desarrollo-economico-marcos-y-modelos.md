@@ -2,16 +2,13 @@
 
 > In this document, we explore how societies think, reflect, and act—how shared visions emerge—especially developmental visions characterized by technical and productive convergence, aiming to surpass the leading models.
 
-> In this note, we will build on the notions developed in [The Agent–Social-Reality Hard Coupling Problem](agent-social-reality-hard-coupling-problem) and [The Collective Action Problem](collective-action-problem), providing a more precise analysis of the idea of development and its particular manifestations.
+> In this note, we will build on the notions developed in [The Agent–Social-Reality Hard Coupling Problem](agent-social-reality-hard-coupling-problem.md) and [The Collective Action Problem](collective-action-problem.md), providing a more precise analysis of the idea of development and its particular manifestations.
 
 > **Note:** This is a draft. We've focused first on the structure and conceptual architecture of the document, but it still needs to be filled with rigorous and meaningful content to reach its full potential.
 
 ## Abstract
 
 > **In this document, we propose an abstract framework for modeling societal agency and the processes related to collective visions of wealth and development (convergence and progress).** The framework is organized around two deeply interconnected dimensions: the **Cognitive Side**—how societies think about wealth, development, and themselves—and the **Reality Side**—the material structures of production, resources, and constraints that shape developmental possibilities. Connecting these dimensions is the **intersection (operational interface)**, where cognition meets reality, enabling strategy, action, organization, and feedback to transform conditions in ways that address economic development challenges, foster convergence, and advance toward the global frontier of progress.
-
-
-![Thinking Framework for Development – Cognitive and Reality Dimensions](../../img/resized/thinking-framework-for-development-cognitive-realiaty_512x512.png)
 
 ### Framework Architecture
 
@@ -61,8 +58,6 @@
 ## 👁️ Observing Society
 
 > To construct a framework for reasoning about development, we begin by examining society and change—analyzing the space of societies and the dynamics of economic transformation within a given society.
-
-![abstract-society-observer](../../img/resized/abstract-society-observer_512x512.png)
 
 | **Category** | **Tool** | **Concise Description** |
 |--------------|----------|--------------------------|
@@ -839,5 +834,5 @@ Key Elements:
 - [A decade of economic complexity](https://www.youtube.com/watch?v=GNTdw47HZbE)
 - [Paul Romer: Rules, Technology and Innovation](https://www.youtube.com/watch?v=0bDs5VTafEA)
 - [Technological paradigms, labour creation and destruction in a multi-sector agent- based model](https://www.youtube.com/watch?v=vuGliNvnfc4)
-- [Developmentalism](../Locus-Instrumentorum/Sociology/Developmentalism.md)
-- [An Essay on the Notion of Agency](an-essay-on-the-notion-of-agency.md)
+- [Developmentalism](../Locus-Social-Realitatis/Facet/Ideational/Developmentalism.md)
+- [Agency](../Locus-Instrumentorum/Agency.md)

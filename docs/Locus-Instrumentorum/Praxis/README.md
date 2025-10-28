@@ -2,8 +2,8 @@
 
 > A set of tools to suport **Observation** and **Action**.
 
-- Observation: [External Observer](Meta/External-Observer.md) & [Locus Realitis](../Locus-Realitatis/README.md).
-- Action: [Locus Meliorandis](../Locus-Meliorandis/README.md)
+- Observation: [External Observer](../../Breviarium/a-guide-to-modelling-social-reality.md) & [Locus Realitis](../../Locus-Social-Realitatis/README.md).
+- Action: [Locus Meliorandis](../../Locus-Social-Realitatis/README.md)
 
 ## Toolbox
 

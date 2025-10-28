@@ -147,4 +147,4 @@ Income -> Wealth
 
 ## References
 
-- [Wealth](../../Locus-Realitatis/Tag/Wealth)
+- [Wealth](../../../Locus-Social-Realitatis/State/Wealth.md)

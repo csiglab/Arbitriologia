@@ -1,3 +1,3 @@
 # Facet
 
-> See in [Facet](../../Locus-Realitatis/Facet/README.md).
+> See in [Facet](../../Locus-Social-Realitatis/Facet/README.md).

@@ -12,8 +12,6 @@
 
 > Note: The 'observer' aka 'Interaction Unit' / Cognitive Function is so important that it will be trealy separtly frmo the idea of 'Interaction Unit'.
 
-# Observer
-
 > An Observer is any entity or process that perceives, records, or interprets the behavior or structure of a system. In social theory and systems thinking, observers are not neutral—they are embedded within the system and their observations shape, constrain, or constitute the system.
 
 ## Internal Observer
@@ -91,4 +89,3 @@
 
 - [Cognition](https://en.wikipedia.org/wiki/Cognition)
 - [Developmentalism](./../../../Exovidente/Observer/Social-Theory/Developmentalism##how-and-why-does-the-developmentalist-cognitive-schema-emerge-in-political-and-social-actors)
-

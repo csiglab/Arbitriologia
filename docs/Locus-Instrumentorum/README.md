@@ -23,4 +23,4 @@
 
 ## References
 
-- [External Observer](./Observer.md)
+- [External Observer](Observer.md)

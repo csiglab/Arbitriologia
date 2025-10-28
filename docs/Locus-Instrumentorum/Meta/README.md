@@ -11,7 +11,7 @@ QA:
 
 ## Terminology
 
-> **Human**:  A biological organism of species Homo sapiens, characterized by self-consciousness, symbolic reasoning, sociality, and the capacity to generate and be governed by frameworks of meaning and normativity. See more in [Human](../../Locus-Realitatis/Unit/Human.md)
+> **Human**:  A biological organism of species Homo sapiens, characterized by self-consciousness, symbolic reasoning, sociality, and the capacity to generate and be governed by frameworks of meaning and normativity. See more in [Human](../../Locus-Social-Realitatis/Unit/Human.md)
 
 > **Humanism**: An intellectual and ethical stance that emphasizes the value, dignity, and agency of human beings, often prioritizing reason, education, and moral development.
 
