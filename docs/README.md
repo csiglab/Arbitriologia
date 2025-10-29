@@ -37,7 +37,7 @@
 
 ## 💡 Research
 
-- [Investigaciones](https://www.bremontix.xyz/lab/ar/research.html)
+- [Investigaciones](https://www.bremontix.xyz/lab/research.html)
 
 ## 📚 Most Read
 
