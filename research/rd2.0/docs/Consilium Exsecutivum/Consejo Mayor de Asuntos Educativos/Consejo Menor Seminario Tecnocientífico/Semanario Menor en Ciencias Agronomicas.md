@@ -1,1 +1,0 @@
-# Semanario Menor en Ciencias Agronomicas

@@ -1,1 +1,0 @@
-# Colegio Mayor Ars Stadistica

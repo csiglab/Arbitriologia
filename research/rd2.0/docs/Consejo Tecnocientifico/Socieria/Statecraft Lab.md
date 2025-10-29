@@ -1,3 +1,0 @@
-# Statecraft Lab
-
-: 14

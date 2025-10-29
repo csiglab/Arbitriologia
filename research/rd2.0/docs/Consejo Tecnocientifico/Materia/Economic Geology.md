@@ -1,3 +1,0 @@
-# Economic Geology
-
-: 17

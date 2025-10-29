@@ -1,3 +1,0 @@
-# Demographic Lab
-
-: 15

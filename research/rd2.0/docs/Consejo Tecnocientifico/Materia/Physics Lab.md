@@ -1,3 +1,0 @@
-# Physics Lab
-
-: 11

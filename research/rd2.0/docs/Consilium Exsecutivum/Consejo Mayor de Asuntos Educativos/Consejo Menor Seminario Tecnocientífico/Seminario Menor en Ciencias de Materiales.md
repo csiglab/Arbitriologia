@@ -1,1 +1,0 @@
-# Seminario Menor en Ciencias de Materiales

@@ -1,3 +1,0 @@
-# Physicology Lab
-
-: 15

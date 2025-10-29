@@ -1,3 +1,0 @@
-# Mathematics Lab
-
-: 15

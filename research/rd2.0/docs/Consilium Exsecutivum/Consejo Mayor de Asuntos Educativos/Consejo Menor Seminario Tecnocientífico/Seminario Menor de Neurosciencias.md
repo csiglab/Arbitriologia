@@ -1,4 +1,0 @@
-# Seminario Menor de Neurosciencias
-
-> …
->

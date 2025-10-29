@@ -1,3 +1,0 @@
-# Sociology Lab
-
-: 13

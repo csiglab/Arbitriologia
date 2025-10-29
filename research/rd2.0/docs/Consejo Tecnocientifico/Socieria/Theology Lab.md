@@ -1,3 +1,0 @@
-# Theology Lab
-
-: 12

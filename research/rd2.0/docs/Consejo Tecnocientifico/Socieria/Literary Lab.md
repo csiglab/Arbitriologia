@@ -1,3 +1,0 @@
-# Literary Lab
-
-: 12

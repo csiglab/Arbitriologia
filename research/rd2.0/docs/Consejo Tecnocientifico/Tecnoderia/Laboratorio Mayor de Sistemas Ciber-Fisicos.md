@@ -1,1 +1,0 @@
-# Laboratorio Mayor de Sistemas Ciber-Fisicos

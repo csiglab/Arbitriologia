@@ -1,3 +1,0 @@
-# Corruption Lab
-
-: 14
