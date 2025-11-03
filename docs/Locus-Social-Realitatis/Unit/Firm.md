@@ -1,234 +1,8 @@
 # Firm
 
-
-- TODO: BIG REORGANIZATION
-
-- Formalization
-- 
-
-
-> **Aka**: Theory of Organizations / Theory of Firms.
+> A **firm** is a coordinated productive organization that transforms inputs into goods or services through structured systems of decision, action, and control, under conditions of uncertainty and resource constraints.
 
 > **Firm Modeling** is the process of creating structured representations of a company’s operations, finances, and interactions to analyze its performance, make predictions, and inform decision-making.
-> 
-
-> **"Theories of the Firm"** encompass various economic, legal, and organizational concepts that explain why firms exist, how they operate, and how they grow and compete in markets.
-> 
-
-## Fields that Study Organizations
-
-> Organizations are study from several perspective and goals; some here:
-> 
-
-| **Field** | **Description** |
-| --- | --- |
-| **Theory of the Firm** | Investigates firms' behavior, structure, and decision-making processes, including firm boundaries, incentives, and organizational design. |
-| **Organizational Behavior** | Examines individual and group organizational behavior, including motivation, leadership, communication, and organizational culture. |
-| **Organizational Theory** | Studies organizations' structure, design, and dynamics, focusing on how organizations function, adapt, and evolve in response to internal and external factors. |
-| **Strategic Management** | Analyzes the formulation and implementation of strategies to achieve organizational goals and competitive advantage, encompassing strategy formulation, competitive analysis, and strategic planning. |
-| **Industrial and Organizational Psychology** | Applies psychological principles to the workplace environment, addressing topics such as employee selection, training, performance evaluation, and organizational development. |
-| **Operations Management** | Studies the design, planning, and control of production processes and supply chains, aiming to optimize efficiency, quality, and resource utilization within organizations. |
-| **Economics of Organizations** | It applies economic principles to analyze organizational behavior and performance, exploring topics such as transaction costs, agency theory, and property rights. |
-| **Sociology of Organizations** | This course examines the social structures, interactions, and dynamics within organizations, focusing on topics such as power, authority, social networks, and organizational culture. |
-| **Management Science** | Utilizes mathematical modeling, optimization techniques, and decision analysis to address managerial problems and improve organizational decision-making processes. |
-| **Business Administration** | It encompasses various disciplines in managing and administrating businesses and organizations, including finance, marketing, and entrepreneurship. |
-| **Organization Studies** | "Organization studies" is a multidisciplinary field that examines organizations' structure, behavior, and dynamics. It encompasses perspectives from economics, sociology, psychology, management, and other disciplines. |
-| **Industrial Organization** | **Industrial organization** is a field of economics that studies the structure of and behavior within firms and markets. It focuses on corporate interactions, the impact of market structure on economic outcomes, and the influence of public policy on market competition. |
-
-## List of Theories of Firms
-
-> **Theories of the business firm** explore various aspects of why firms exist, how they operate, and what their motivations are.
-> 
-
-> Here's a table summarizing some of the key theories in the study of business firms:
-> 
-
-| Theory | Description |
-| --- | --- |
-| **Neoclassical Theory** | Focuses on profit maximization as firms' primary objective, assuming perfect market competition. |
-| **Behavioral Theory** | Proposes that firms seek satisfaction rather than maximum profits due to bounded rationality and uncertainties. |
-| **Managerial Theory** | Suggests that managers prioritize sales maximization, personal utility, and other objectives over profit maximization due to the separation of ownership and control. |
-| **Agency Theory** | Examines issues that arise from conflicts of interest between principals (owners) and agents (managers), emphasizing the costs of resolving such disputes. |
-| **Transaction Cost Theory** | Introduced by Oliver Williamson, it argues that firms exist because they can perform transactions more efficiently than the market when transaction costs are high. |
-| **Resource-Based View (RBV)** | Focuses on the firm's internal capabilities and resources to achieve competitive advantage and sustained performance. |
-| **Evolutionary Theory** | It examines firms from a dynamic perspective, focusing on innovation processes and the evolution of firm capabilities over time. |
-| **Stakeholder Theory** | Suggests that firms are influenced by the needs and demands of various stakeholders, not just shareholders, in achieving their objectives. |
-| **Institutional Theory** | This paper examines institutions' influence— formal (laws, regulations) and informal (norms, cultures)—on firm behavior. |
-| **Theory of the Firm as a Nexus of Contracts** | Describes the firm as a collection of contracts among self-interested individuals, including employees, suppliers, and customers. |
-
-# Firm Innovation
-
-> **Innovation and R&D:** Assesses the company’s commitment to research and development and innovation in its industry.
-> 
-
-> "Models of Firm Innovation" refers to **theoretical frameworks** or **conceptual models** that elucidate the processes, strategies, and factors influencing innovation within businesses or organizations.
-> 
-
-## Firms Are Primary  Actors  In the R&D System
-
-- Firms compete internationally, but thanks to the **linear innovation model**, **T**hai policy tried to enhance only one part of the R&D Networks PRIs. It did not attack the problems of innovation ‘within firms’ and knowledge flow between firms and other actors in the **Production** Ecosystem.
-- ITAP Program:
-    - Intarakumnerd, Patarapong, and Cristina Chaminade. "Strategy versus practice in innovation systems policy: the case of Thailand." *Asian Journal of Technology Innovation* 15.2 (2007): 197-213.
-    - Munkongsujarit, Songphon, and Sabin Srivannaboon. "Key success factors for open innovation intermediaries for SMEs: A case study of iTAP in Thailand." 2011 Proceedings of PICMET'11: Technology Management in the Energy Smart World (PICMET). IEEE, 2011.
-    - Klomklieng, Wannaphop, et al. "Strengthening a research cooperation using a Triple Helix model: Case study of poultry industry in Thailand." Procedia-Social and Behavioral Sciences 52 (2012): 120-129.
-    - Yuwawutto, Sauwapa, et al. "Increase in Effectiveness of Technology Development in Thai SMEs with Group Approach." Korea 3.77 (2001): 23.
-    
-    References
-    
-    - Nonaka, Ikujirō, and Hirotaka Takeuchi. "The knowledge-creating company." *Harvard business review* 85.7/8 (2007): 162.
-    - …
-
-## Learning
-
-- Arkolakis, Costas, Theodore Papageorgiou, and Olga A. Timoshenko. "Firm learning and growth." *Review of Economic Dynamics* 27 (2018): 146-168.
-- Hayward, Mathew LA. "When do firms learn from their acquisition experience? Evidence from 1990 to 1995." Strategic management journal 23.1 (2002): 21-39.
-
-## Absorvative Capacity
-
-- Vega‐Jurado, Jaider, Antonio Gutiérrez‐Gracia, and Ignacio Fernández‐de‐Lucio. "Analyzing the determinants of firm's absorptive  capacity: beyond R&D." *R&d Management* 38.4 (2008): 392-405.
-- Cohen, Wesley M., and Daniel A. Levinthal. "Absorptive capacity: A new perspective on learning and innovation." Administrative science quarterly (1990): 128-152.
-- Schmidt, Tobias. "Absorptive capacity—one size fits all? A firm‐level analysis of absorptive capacity for different kinds of knowledge." Managerial and Decision Economics 31.1 (2010): 1-18.
-
-## Research
-
-¿What is the nature of Private Research?
-
-¿How does the industry innovate?
-
-¿How does industry connect with academia?
-
-¿What are the effects of colocation?
-
-¿When a firm needs In-house research?
-
-**References:**
-
-- Bell Labs (now Nokia Bell Labs)
-- IBM Research
-- GE Research
-- Microsoft Research
-- Pfizer Research
-- Toyota Research Institute
-- Samsung Advanced Institute of Technology
-- **SRI International**: SRI is a nonprofit scientific research institute in the United States known for its work in technology and innovation.
-    - Xerox PARC (Palo Alto Research Center)
-- **SINTEF**: SINTEF is Scandinavia’s largest independent research organization, focusing on applied research across various sectors.
-- **AITIA International, Inc.**: This organization focuses on industrial research and technology development in Hungary and worldwide.
-
-# Firm
-
-Tags: Policy Area
-: 4
-
-Firm Research Consortium?
-
-Firm Research Cooperation?
-
-How do you help companies invest in R&D?
-
-What is the relation of **firm characteristic** → **cost**?
-
-| **Policy** | **Description** | **Key Features** |
-| --- | --- | --- |
-| **Innovation Policy** | Encourages firms to invest in research and development (R&D) and adopt new technologies. | R&D tax credits, innovation grants, tech incubators, and patent protections. |
-| **Talent Development Policy** | Focuses on enhancing the skills and capabilities of the workforce within firms. | Training programs, skills development grants, and partnerships with educational institutions. |
-| **Access to Finance Policy** | Facilitates access to capital for firms, particularly small and medium-sized enterprises (SMEs). | Subsidized loans, venture capital support, grants, and investment incentives. |
-| **Market Expansion Policy** | Supports firms in entering new markets and expanding their business operations. | Export incentives, market research support, and trade facilitation services. |
-| **Productivity Enhancement Policy** | Aims to improve the efficiency and productivity of firms. | Lean management techniques, technology upgrades, and process optimization. |
-| **Infrastructure Support Policy** | Provides firms with the necessary infrastructure to operate effectively. | Development of business parks, technology hubs, and improved logistics and transportation networks. |
-| **Regulatory Support Policy** | Helps firms navigate and comply with regulatory requirements. | Simplified compliance processes, regulatory guidance, and support for understanding legal frameworks. |
-| **Sustainability Policy** | Promotes environmentally sustainable practices within firms. | Green certifications, environmental impact assessments, and sustainability incentives. |
-| **Entrepreneurship Support Policy** | Encourages the creation and growth of new firms and startups. | Seed funding, mentorship programs, and entrepreneurial training. |
-| **Digital Transformation Policy** | Facilitates the adoption of digital technologies and processes within firms. | Digital skills training, technology grants, and support for digital infrastructure. |
-| **Competitive Advantage Policy** | Aims to enhance the competitive edge of firms through strategic support. | Market analysis support, strategic planning assistance, and competitive benchmarking. |
-| **Export Promotion Policy** | Encourages firms to increase their export activities. | Export subsidies, trade missions, and assistance with international market entry. |
-| **Business Continuity Policy** | Ensures firms can maintain operations during disruptions or crises. | Risk management strategies, crisis response planning, and continuity planning support. |
-| **Customer Relationship Management Policy** | Focuses on improving firms' relationships with customers to enhance loyalty and satisfaction. | CRM systems support, customer service training, and feedback mechanisms. |
-| **Corporate Governance Policy** | Enhances the quality of corporate governance within firms. | Governance frameworks, board training, and compliance monitoring. |
-| **Technology Adoption Policy** | Supports the integration of new technologies into firm operations. | Technology grants, innovation adoption programs, and technical assistance. |
-| **Networking and Collaboration Policy** | Facilitates partnerships and collaborations between firms and other stakeholders. | Industry networks, collaborative projects, and partnership development support. |
-| **Legal and Intellectual Property Policy** | Protects firms' intellectual property and ensures legal compliance. | IP protection services, legal advice, and patent and trademark support. |
-| **Workplace Wellness Policy** | Promotes the well-being and health of employees within firms. | Health programs, workplace safety initiatives, and employee wellness programs. |
-| Productivity Improvement Programs |  Initiatives focused on improving efficiency and productivity in industrial processes through technology adoption and process optimization. |  |
-
-
-## SME Policy
-
-> Grants, access to credit, business advisory services, and market access programs.
-> 
-
-> Governments often employ various policy tools to support small and medium-sized enterprises (SMEs) in the manufacturing sector. These tools aim to foster growth, innovation, and competitiveness.
-> 
-
-> Little Giant Program
-> 
-
-- How  to monitor and evaluate SME performace?
-- How to select SME to nurture?
-- Public Procurement
-- Market Access
-- Finance
-    - How the **USA Private Capital** support long term investments (20 years)?
-- Linkages:   Integration in Productive Ecosystem:  Local.  Regional  and Global.
-
-1. **Financial Incentives:**
-    - **Grants and Subsidies:** Direct financial support to SMEs for investment, research and development (R&D), and capacity-building.
-    - **Tax Credits and Deductions:** Incentives such as tax breaks for specific activities or investments.
-    - **Low-Interest Loans:** Providing SMEs access to affordable financing for expansion and modernization.
-2. Collaborative Research and Development: 
-    1. Policy Tool: Supporting collaborative R&D initiatives involving SMEs and research institutions.
-3. **Technical Assistance and Training:**
-    - **Skills Development Programs:** Training and upskilling programs to enhance the workforce's capabilities.
-    - **Technology Adoption Support:** Assistance in adopting new technologies and improving digital capabilities.
-4. **Infrastructure Development:**
-    - **Industrial Parks and Incubators:** Creating dedicated spaces for SMEs to operate, collaborate, and access shared resources.
-    - **Logistics and Transportation Infrastructure:** Improving connectivity to facilitate the movement of goods.
-5. **Access to Markets:**
-    - **Export Promotion Programs:** Supporting SMEs in entering international markets through trade promotion initiatives.
-    - **Market Access Assistance:** Assisting in navigating regulatory barriers and compliance issues.
-6. **Innovation Support:**
-    - **Research and Development Grants:** Funding for SMEs to engage in research and develop new products or processes.
-    - **Innovation Clusters:** Facilitating collaboration between SMEs, research institutions, and larger enterprises to drive innovation.
-7. **Regulatory Simplification:**
-    - **Reducing Bureaucratic Barriers:** Streamlining regulatory processes to make SMEs' operations easier.
-    - **Compliance Assistance Programs:** Providing guidance and resources to help SMEs meet regulatory requirements.
-8. **Access to Finance:**
-    - **Credit Guarantee Schemes:** Government-backed guarantees to encourage financial institutions to lend to SMEs.
-    - **Venture Capital and Angel Investment Programs:** Encouraging private investment in SMEs.
-9. **Networking and Collaboration:**
-    - **Industry Associations and Networks:** Supporting the formation of industry-specific associations to facilitate collaboration and information exchange.
-    - **Business Incubators:** Providing physical and networking infrastructure to support startups and SMEs.
-10. **Government Procurement Policies:**
-    - **Set-Aside Programs:** Reserving a portion of government procurement contracts for SMEs.
-    - **Simplified Procurement Processes:** Streamlining procedures to make it easier for SMEs to participate in government tenders.
-11. Export Promotion:
-    1. Policy Tool: Supporting SMEs in entering international markets through export promotion initiatives.
-12. Technology Adoption Support:
-    1. Policy Tool: Programs to facilitate the adoption of advanced technologies by SMEs.
-13. Cluster Development:
-    1. Policy Tool: Fostering the development of industry clusters to enhance collaboration and networking.
-14. Technical Assistance and Training:
-    1. Policy Tool: Providing technical support, training programs, and mentorship for SMEs.
-15. Financial Support and Incentives:
-    1. Policy Tool: Grants, subsidies, and tax incentives to support SMEs financially.
-16. **Environmental and Sustainability Initiatives:**
-    - **Green Manufacturing Programs:** Supporting SMEs in adopting environmentally friendly and sustainable practices.
-    - **Energy Efficiency Grants:** Promoting energy-efficient technologies and processes.
-17. **Quality Standards and Certification Assistance**
-    1. Policy Tool: Supporting SMEs to meet quality standards and obtain certifications.
-18. **Public Procurement Policies**
-    1. Policy Tool: Encouraging SME participation in public procurement by setting aside contracts for smaller businesses.
-19. **Crisis Management and Resilience**
-    - **Emergency Funds:** Providing financial assistance during economic downturns or crises.
-    - **Risk Management Programs:** Supporting SMEs in developing strategies to mitigate risks and build resilience.
-
-## Firm Size
-
-- [https://www.siliconcontinent.com/p/it-is-all-about-the-superstars](https://www.siliconcontinent.com/p/it-is-all-about-the-superstars)
-
-# Enterprise
-
-
 
 > **Firm (Technology, Knowledge,  Physical Assets, Humans)** : Inputs(Buy)  → Outputs (Sells).
 > 
@@ -291,169 +65,217 @@ What is the relation of **firm characteristic** → **cost**?
 > 
 
 > Industrial Organization Theory:  Studies the structure of and boundaries between firms and markets and the interactions of firms within an industry.
-> 
 
-QA:
 
-- If you have a robot how to compute the cost for an hour of operation?
-- …
+- Competitiveness
+- Economic of Scale
+- Absorptive Capacity
+- Economies of Density
+ 
 
-## Index
+- TODO: BIG REORGANIZATION
 
-## Structure
+- Formalization (Model)
+- Agency
+    - Technique
+    - Firm Operation Model
+- Modelling
+- Theory
+- Innovation
+- Technology Absortion
+- ...
 
-- Organizational Structure: The hierarchy and arrangement of roles, responsibilities, and reporting lines.
-- Governance: The framework of rules, practices, and processes for decision-making and accountability.
-- Legal Structure: The legal form of the enterprise (e.g., corporation, partnership, LLC).
-- Strategy (Meta-dynamics): Framework that underpins and generates the behavior and dynamics of the firm.
+## Formalization
 
-## **Operations**
+Let a **firm** $F$ be a tuple:
 
-- Core Processes: The primary activities that deliver value to customers (e.g., production, service delivery).
-- Support Processes: Activities that enable core processes (e.g., HR, IT, finance).
-- Supply Chain: The network of entities involved in producing and delivering products or services.
+$F = \langle A, S, P, R, E, \Phi \rangle$
 
-## Resources
+where:
 
-- Human Resources: The employees and their skills, knowledge, and capabilities.
-- Financial Resources: The capital, revenue, and funding available to the enterprise.
-- Physical Resources: Tangible assets like facilities, equipment, and inventory.
-- Intellectual Resources:  Intangible assets like patents, trademarks, and proprietary knowledge.
+| Symbol   | Meaning                                                                                                                        |
+| :------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| $A$    | Set of **agents** (individuals, teams, automated subsystems) that act within the firm.                                         |
+| $S$    | **Structure**: the organizational topology defining roles, communication channels, and authority relations.                    |
+| $P$    | **Processes**: mappings that transform inputs into outputs, $P : I \times C \rightarrow O$, under control constraints $C$. |
+| $R$    | **Resources**: stocks of material, financial, informational, and cognitive assets available to the firm.                       |
+| $E$    | **Environment**: the set of external systems interacting with the firm (markets, institutions, competitors, ecosystems).       |
+| $\Phi$ | **Purpose function**, encoding the firm’s objective(s), e.g. maximizing long-term viability, profit, or impact.                |
 
-## Strategy
+## Ontology
 
-- Corporate Strategy: The overall direction and goals of the enterprise.
-- Business Unit Strategy: Strategies for specific divisions or product lines.
-- Functional Strategy: Strategies for specific functions like marketing, operations, or R&D.
-- Culture
-    - Organizational Culture: The shared values, beliefs, and behaviors that define the enterprise.
-    - Employee Engagement:  The level of commitment and motivation among employees.
-    - …
+> Which is the **template of reality of a firm** — that is, the fundamental structure of its being, relations, dynamics, and systemic organization?
 
-## Market and Customers
+### Map
 
-- Product/Service Innovation: Developing new or improved products and services.
-- Process Innovation: Improving internal processes for efficiency and effectiveness.
-- Business Model Innovation: Redefining how the enterprise creates, delivers, and captures value.
+| **Layer**           | **Concept**                  | **Description**                                                                                                                                                                            |
+| ------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Existential**     | **Being 🧿**                 | The *fact of the firm’s existence* as a socio-technical entity — a unit of organized activity within an economic, legal, and cultural world.                                                          |
+|                     | **Substance 🧱**             | The firm’s *constitutive substrate*: people, technologies, assets, and institutional structures that sustain its operations and identity.                                                             |
+|                     | **Identity 🪪**              | The principle that maintains the firm’s *continuity through change* — its name, mission, legal form, and self-referential narrative that distinguish it from other entities.                          |
+| **Structural**      | **Relation 🔗**              | Contracts, hierarchies, and networks linking agents (workers, managers, shareholders, suppliers, clients). The firm *exists through relational patterns*.                                             |
+|                     | **Causality 🔁**             | Internal decision rules, incentives, and resource flows generate observable outcomes such as production, growth, or decline. Causality expresses the *mechanisms* of coordination and transformation. |
+|                     | **Space 📏**                 | The firm’s *spatial structure*: physical sites (offices, plants), logistical networks, and digital infrastructures defining its operational topology.                                                 |
+|                     | **Time ⏳**                   | The *temporal structure* of routines, business cycles, and strategic horizons — from daily operations to long-term evolution.                                                                         |
+|                     | **Property (Attribute) 🎨**  | Observable and measurable features: size, industry, productivity, culture, brand, and governance style.                                                                                               |
+| **Dynamical**       | **Change 🔄**                | Continuous transformations in strategy, structure, or technology as the firm adapts to its environment.                                                                                               |
+|                     | **Process ⚙️**               | Recurrent organized sequences such as production, innovation, hiring, learning, or budgeting — *the living mechanisms* of the firm.                                                                   |
+|                     | **Event ✴️**                 | Discrete occurrences: founding, merger, crisis, product launch, strike, or regulatory reform. Each event reconfigures the firm’s trajectory.                                                          |
+|                     | **Phenomena 🌟**             | Observable outcomes like market behavior, performance indicators, organizational culture, or customer satisfaction.                                                                                   |
+|                     | **Epiphenomena 💨**          | Byproducts such as corporate reputation, social perception, or institutional myths — emergent from but not causally active in internal operations.                                                    |
+| **Systemic**        | **System 🧠**                | The firm as a *viable system* — integrating production, coordination, learning, and adaptation subsystems that maintain homeostasis and goal pursuit.                                                 |
+|                     | **State 🧬**                 | The current configuration of resources, capabilities, and commitments (e.g., financial condition, structure, culture).                                                                                |
+|                     | **Potential 🪄**             | Latent capacities — unused resources, technological know-how, or human creativity — representing *degrees of freedom* for future action.                                                              |
+|                     | **Modality 🌀**              | The possible, necessary, contingent, and actual modes of firm existence: startup (possible), regulatory compliance (necessary), innovation (contingent), operation (actual).                          |
+|                     | **Field 🌌**                 | The broader relational space of economic, technological, and institutional forces in which the firm operates — its *competitive and regulatory field*.                                                |
+|                     | **Environment 🌿**           | External conditions: market demand, technological landscape, institutions, and cultural norms shaping the firm’s viability.                                                                           |
+|                     | **Gradient ↕️**              | Pressures such as profit incentives, cost structures, regulatory constraints, or social legitimacy gradients that drive organizational motion.                                                        |
+|                     | **Topology 🗺️**             | The network configuration of internal divisions and external partnerships — from centralized hierarchies to distributed ecosystems.                                                                   |
+|                     | **Boundary Permeability 🚪** | The degree of openness in exchanging knowledge, capital, and labor with the environment — defining *the firm’s degree of coupling* to its context.                                                    |
+|                     | **Emergent Property 🌱**     | Coherence, organizational intelligence, and collective purpose that arise from interaction — *the firm as more than the sum of its parts*.                                                            |
+|                     | **Interaction Potential ⚡**  | The capacity of the firm to influence or be influenced — through market power, innovation, cooperation, or negotiation.                                                                               |
+| **Metaontological** | **Level 🧭**                 | The firm operates as a *nested level* within larger systems (sector, economy, society) and contains its own subsystems (departments, teams).                                                          |
+|                     | **Perspective 👁️**          | The cognitive stance from which the firm is analyzed: economic, sociological, organizational, or systems-theoretic.                                                                                   |
+|                     | **Ground ⚓**                 | The foundational principle that makes the firm intelligible: the *coordination of human activity to achieve collective purposes under scarcity*.                                                      |
+|                     | **Axiom 📜**                 | Assumed premises: that purposeful organization can improve efficiency, manage uncertainty, and create value.                                                                                          |
+|                     | **Primitive ⚫**              | Basic concepts: agent, resource, goal, coordination, boundary.                                                                                                                                        |
+|                     | **Commitment 🤝**            | The ontological choice to treat the firm as a *real*, autonomous system rather than a mere aggregation of contracts or agents.                                                                        |
+|                     | **Framework 🏗️**            | The formal modeling logic — e.g., systems theory, cybernetics, or institutional analysis — governing how the firm’s ontology is articulated.                                                          |
+|                     | **Interpretation 🔍**        | The mapping of ontological categories (system, process, environment, etc.) to empirical phenomena of firms.                                                                                           |
+|                     | **Category 🧩**              | Higher-level classes — *agent*, *structure*, *process*, *system* — used to organize all firm-related ontological concepts.                                                                            |
+|                     | **Principle ⚖️**             | Foundational rule: *firms persist through the maintenance of internal coherence and adaptive coordination with their environment*.                                                                    |
+|                     | **Entity 🟢**                | The firm itself as a *bounded, adaptive, socio-technical entity* embedded in a network of human and institutional relations.                                                                          |
 
-## **External Environment**
+### State Structure
 
-- Economic Factors: Macroeconomic conditions that impact the enterprise (e.g., inflation, GDP growth).
-- Regulatory Environment: Laws and regulations the enterprise must comply with.
-- Social and Cultural Trends: Societal changes that influence customer behavior and expectations.
-- Technological Trends: Advances in technology that create opportunities or threats.
-- Environmental Factors: Sustainability concerns and environmental regulations.
+| **Aspect**                 | **Element**                   | **Description**                                                                          |
+| -------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------- |
+| **Physical & Technical**   | **Assets & Infrastructure**   | Tangible and intangible resources: machinery, facilities, software, patents, etc.        |
+|                            | **Technological Stack**       | The technological systems and tools supporting operations, production, and coordination. |
+| **Human & Organizational** | **Personnel Composition**     | Distribution of skills, roles, and experience among employees.                           |
+|                            | **Organizational Structure**  | Arrangement of hierarchies, teams, and coordination mechanisms.                          |
+|                            | **Cultural State**            | Prevailing values, beliefs, and behavioral patterns shaping internal dynamics.           |
+| **Financial**              | **Capital Position**          | Composition and liquidity of financial assets, liabilities, and equity.                  |
+|                            | **Cost & Revenue Structure**  | Current distribution of fixed and variable costs, revenue streams, and margins.          |
+| **Operational**            | **Production Capacity**       | Level of utilization of productive resources and potential output.                       |
+|                            | **Inventory & Supply Status** | Availability and flow of materials, intermediate goods, and finished products.           |
+|                            | **Process Efficiency**        | Actual performance of processes relative to planned or optimal standards.                |
+| **Market & Relational**    | **Customer Base & Contracts** | Active relationships, orders, and obligations with clients or partners.                  |
+|                            | **Market Position**           | Current competitive standing, brand reputation, and share.                               |
+| **Informational**          | **Data State**                | Current state of data assets, information systems, and decision inputs.                  |
+|                            | **Knowledge Base**            | Collective memory of practices, insights, and technical know-how.                        |
+| **Institutional & Legal**  | **Regulatory Status**         | Compliance posture, certifications, and legal obligations.                               |
+|                            | **Ownership & Governance**    | Distribution of control rights, decision procedures, and accountability relations.       |
+| **Cognitive & Strategic**  | **Strategic Commitments**     | Chosen goals, constraints, and plans currently guiding the firm.                         |
+|                            | **Adaptive Readiness**        | Capacity to detect change and reconfigure internal states accordingly.                   |
 
-## **Performance**
 
-- Financial Performance: Metrics like revenue, profit, and ROI.
-- Operational Performance: Metrics like efficiency, quality, and productivity.
-- Customer Performance: Metrics like customer satisfaction, retention, and market share.
-- Employee Performance: Metrics like employee satisfaction, turnover, and productivity.
+### Process Space
 
-## **Risk Management**
+> Which is the process space that takes place within firms?
 
-- Strategic Risks: Risks related to the enterprise’s long-term goals and strategy.
-- Operational Risks: Risks related to day-to-day operations (e.g., supply chain disruptions).
-- Financial Risks: Risks related to financial stability (e.g., currency fluctuations, credit risks).
-- Compliance Risks:  Risks related to legal and regulatory compliance.
+| **Category**                   | **Process**                              | **Description**                                                                      |
+| ------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Strategic**                  | **Vision & Goal Setting**                | Defines long-term direction, mission, and measurable objectives for the firm.        |
+|                                | **Strategic Planning**                   | Aligns resources and initiatives to achieve defined goals under given constraints.   |
+|                                | **Corporate Governance**                 | Structures decision rights, accountability, and oversight mechanisms.                |
+| **Operational**                | **Production & Service Delivery**        | Converts inputs into outputs—goods or services—through organized workflows.          |
+|                                | **Quality Management**                   | Ensures consistency, compliance, and performance standards in outputs.               |
+|                                | **Maintenance & Continuous Improvement** | Keeps systems efficient and implements small adaptive changes over time.             |
+| **Commercial**                 | **Marketing**                            | Identifies markets, creates demand, and positions products competitively.            |
+|                                | **Sales & Distribution**                 | Converts demand into transactions and ensures delivery to customers.                 |
+|                                | **Customer Service**                     | Maintains relationships and resolves post-sale issues to preserve trust and loyalty. |
+| **Financial**                  | **Budgeting & Accounting**               | Tracks and allocates resources, measures profitability, and informs decisions.       |
+|                                | **Investment & Capital Management**      | Directs surplus funds toward growth, innovation, or risk mitigation.                 |
+| **Human & Organizational**     | **Recruitment & Training**               | Attracts, selects, and develops human capabilities aligned with firm needs.          |
+|                                | **Performance Management**               | Monitors and enhances individual and team contribution to organizational goals.      |
+|                                | **Culture & Communication**              | Shapes internal norms, collaboration, and knowledge flow.                            |
+| **Innovative**                 | **R&D & Product Development**            | Generates new knowledge and transforms it into marketable products or improvements.  |
+|                                | **Process Innovation**                   | Redesigns internal workflows or technologies to increase efficiency or adaptability. |
+| **Regulatory & Institutional** | **Compliance & Risk Management**         | Ensures conformity with laws, standards, and internal policies.                      |
+|                                | **Stakeholder Management**               | Coordinates interactions with external entities—regulators, partners, communities.   |
+| **Informational**              | **Data & Knowledge Management**          | Collects, structures, and utilizes data to enhance decisions and learning.           |
+|                                | **Digital Systems Operation**            | Manages IT infrastructure and integrates digital processes across the firm.          |
 
-## Conceptual Model
+### Phenomenology
 
-| Concept | Description |
-| --- | --- |
-| Strategic Planning | The process of defining strategy and making decisions on allocating resources. |
-| Organizational Structure | The system outlines how activities are directed to achieve goals. |
-| Leadership | The ability to guide individuals or groups toward achieving organizational goals. |
-| Financial Management | The planning, directing, monitoring, organizing, and controlling financial resources. |
-| Operations Management | Overseeing, designing, and controlling production processes and business operations. |
-| Human Resources Management | Managing the employee lifecycle, including hiring, training, and development. |
-| Change Management | Approaches to prepare, support, and help individuals make organizational change. |
-| Risk Management | Identifying, assessing, and controlling threats to an organization's capital and earnings. |
-| Marketing Management | Promoting and selling products or services, including market research and advertising. |
-| Customer Relationship Management | Managing interactions with potential and current customers to improve business relationships. |
-| Innovation Management | The process of managing ideas from inception through to market introduction. |
-| Compliance and Ethics | Adhering to laws, regulations, and ethical standards in business practices. |
+> How do **firms appear, manifest**, or are experienced in practice?
 
-## Taxonomy of Models
+| **Category**              | **Phenomena**                       | **Description**                                                                                |
+| ------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Organizational**        | **Hierarchy & Coordination**        | Observable patterns of authority, reporting lines, and decision-making flows.                  |
+| **Operational**           | **Workflow & Output**               | Visible production processes, service delivery, and operational efficiency.                    |
+| **Relational**            | **Stakeholder Interaction**         | How the firm engages with customers, suppliers, partners, and regulators.                      |
+| **Cultural & Social**     | **Norms & Behaviors**               | Shared values, practices, rituals, and informal communication patterns among employees.        |
+| **Economic & Market**     | **Performance Indicators**          | Observable metrics such as revenue, profitability, market share, and growth trends.            |
+| **Informational**         | **Knowledge Sharing**               | Manifestation of information flows, documentation practices, and collaborative learning.       |
+| **Innovative**            | **Product & Process Changes**       | Tangible evidence of experimentation, R&D outputs, and adoption of new methods.                |
+| **Institutional & Legal** | **Compliance & Legitimacy Signals** | Certifications, regulatory adherence, and social recognition visible to observers.             |
+| **Adaptive**              | **Response to Change**              | How the firm adjusts processes, strategies, or structures in response to environmental shifts. |
 
-> Here's a basic table layout that categorizes some common models used to analyze enterprise output:
-> 
+### Property(s)
 
-| Model Type | Focus Area | Data Type | Intended Outcome |
-| --- | --- | --- | --- |
-| Financial Analysis Models | Financial health and stability | Financial data | Profitability, liquidity, solvency |
-| Operational Analysis Models | Efficiency of operations | Operational metrics | Process improvement, cost reduction |
-| Strategic Analysis Models | Long-term strategic positioning | Market data | Competitive advantage, market position |
-| Human Resource Models | Employee performance | HR metrics | Employee productivity, retention strategies |
-| Customer Analysis Models | Customer behavior and trends | Customer data | Customer satisfaction, loyalty improvement |
-| Supply Chain Models | Supply chain efficiency | Supply chain metrics | Supply chain optimization, risk management |
-| IT Systems Analysis Models | Technology infrastructure | IT performance data | System performance, upgrade and maintenance needs |
-| Organization Models | … | … | … |
-| Business Model | … | … | … |
-| Risk Models | **Risk Assessment Matrix**: Identifies and assesses risks and their potential impacts. - **Bowtie Analysis**: Visualizes the causes, consequences, and controls of potential risks. |  |  |
-| Cost Models | **Activity-Based Costing (ABC)**: Allocates costs to activities and products/services based on their consumption. - **Total Cost of Ownership (TCO)**: Calculates the full cost of owning and operating assets. |  |  |
-| Value Chain Models | **Porter’s Value Chain** analyzes an organization’s activities to identify sources of competitive advantage. **SCOR (Supply Chain Operations Reference)** is a framework for analyzing and improving supply chain processes. |  |  |
-| Capability Models | **Capability Maturity Model (CMM)**: Evaluates and improves the maturity level of an organization’s processes. - **Business Capability Model**: Represents an organization’s core capabilities and how they align with its objectives. |  |  |
-| Models of Competitiveness | … | … | .. |
+> Which are the properties of predicated on firms?
 
-## Strategic Analysis Models
+| **Category**                  | **Property**             | **Description**                                                                                     |
+| ----------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------- |
+| **Ontological**               | **Identity**             | The continuity of the firm as a distinct social and legal entity over time.                         |
+|                               | **Boundedness**          | The degree to which the firm’s boundaries are defined (organizational, legal, cognitive).           |
+|                               | **Agency**               | The firm’s capacity to act intentionally and pursue goals within constraints.                       |
+| **Structural**                | **Complexity**           | The number and interdependence of internal components and relations.                                |
+|                               | **Hierarchy**            | The degree of stratification in decision-making and coordination.                                   |
+|                               | **Modularity**           | The extent to which subsystems are decoupled and can operate independently.                         |
+| **Functional**                | **Productivity**         | Efficiency in converting inputs into valuable outputs.                                              |
+|                               | **Adaptivity**           | Ability to reconfigure resources and processes in response to change.                               |
+|                               | **Innovativeness**       | Capacity to generate and implement new ideas, technologies, or processes.                           |
+| **Economic**                  | **Profitability**        | The firm’s ability to generate surplus value from operations.                                       |
+|                               | **Solvency & Liquidity** | Stability of financial structure and capacity to meet obligations.                                  |
+|                               | **Competitiveness**      | Relative performance in markets and resource acquisition.                                           |
+| **Informational & Cognitive** | **Knowledge Intensity**  | Degree to which operations depend on specialized knowledge.                                         |
+|                               | **Learning Capacity**    | Ability to acquire, internalize, and institutionalize new knowledge.                                |
+|                               | **Reflexivity**          | Ability to monitor, interpret, and adjust one’s own functioning.                                    |
+| **Social & Institutional**    | **Legitimacy**           | Social and institutional acceptance of the firm’s existence and practices.                          |
+|                               | **Reputation**           | Collective perception of reliability and quality by stakeholders.                                   |
+|                               | **Governance Quality**   | Effectiveness, fairness, and transparency in decision-making.                                       |
+| **Dynamic**                   | **Resilience**           | Capacity to absorb shocks while maintaining core identity and functions.                            |
+|                               | **Sustainability**       | Ability to persist and perform without depleting essential resources (economic, ecological, human). |
+|                               | **Trajectory**           | Directional pattern of change (growth, decline, transformation).                                    |
 
-> **OKR (Objectives and Key Results)**: Aligns and tracks organizational objectives and outcomes to drive strategy execution and improve performance.
-> 
+## Agency
 
-> …
-> 
 
-Strategic analysis models are essential tools enterprises use to evaluate their competitive environment, internal capabilities, and strategic options. Here's a table that outlines some of the most commonly used strategic analysis models, along with a brief description of each and their typical applications:
+> What is the agential hierarchy of a firm?
 
-| Model Name | Description | Typical Application |
-| --- | --- | --- |
-| SWOT Analysis | Analyze strengths, weaknesses, opportunities, and threats. | They are used to assess internal and external factors affecting a company. |
-| PESTEL Analysis | Examines Political, Economic, Social, Technological, Environmental, and Legal factors. | It helps understand the broader macro-environmental factors. |
-| Porter's Five Forces | Analyzes competitive forces, including supplier power, buyer power, competitive rivalry, the threat of substitution, and the threat of new entrants. | They are used to analyze industry structure and profitability potential. |
-| BCG Matrix | Categorizes business units or products into four categories: Stars, Cash Cows, Question Marks, and Dogs. | It helps allocate resources among different business units or products. |
-| Ansoff Matrix | Analyzes growth strategies through market penetration, market development, product development, and diversification. | They are used for planning strategic growth. |
-| Value Chain Analysis | Examines the activities that create value in the business. | Identifies critical activities that can create a competitive advantage. |
-| Balanced Scorecard | Measures organizational performance from a balanced financial, customer, internal processes, and learning and growth perspective. | They are used to align business activities to the vision and strategy of the organization. |
-| Scenario Planning | Develops detailed and plausible views of possible futures to aid strategic decision-making. | It helps in preparing for future uncertainties and opportunities. |
-| Blue Ocean Strategy | Focuses on creating new market spaces (blue oceans) rather than competing in existing markets. | They are used for discovering new growth areas free from intense competition. |
-| **Change Management Models** |  (e.g., ADKAR, Lewin’s Change Model) - Guide the organizational change process by identifying stages and strategies to facilitate successful transitions. |  |
-| **PESTLE Analysis** | Analyzes external factors that impact the enterprise, including political, economic, social, technological, legal, and environmental aspects. |  |
-| **Gap Analysis** | Compares current performance with desired goals to identify the gaps and plan necessary actions for improvement. |  |
-| **Risk Assessment Models** | **Risk Assessment Models** (e.g., Risk Matrix, Risk Priority Number (RPN)) - Evaluate and prioritize risks based on likelihood and impact to develop risk mitigation strategies. |  |
-| **Balanced Scorecard** | **Balanced Scorecard**: This scorecard aligns business activities with the organization's vision and strategy, measuring performance across financial and non-financial perspectives. |  |
+| Agential Construct | Description                                                                                                                                                             | Instance(s)                                               | Core Question                                 |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------- |
+| Vision             | The aspirational and guiding purpose of the firm; defines the destination and inspiration for all actions.                                                              | Corporate vision, long-term goals                         | Where do we want to go?                       |
+| Reflection         | Functions like a research lab: analyzes past performance, environmental signals, and potential risks; generates insights to guide learning, adaptation, and resilience. | Market modeling, firm modeling, risk modeling, adaptation | What have we learned and how should we adapt? |
+| Framework          | The structural and conceptual scaffolding that organizes decisions, interactions, and the firm’s operations.                                                            | Operating principles, business models                     | How should we organize ourselves?             |
+| Strategy           | Plans and choices to achieve the vision within the framework, including competitive positioning and resource allocation.                                                | Corporate and business unit strategies                    | How do we achieve our vision?                 |
+| Plan               | Concrete actions and initiatives derived from strategy, specifying what to do, when, and by whom.                                                                       | Tactical planning, project roadmaps                       | What actions will we take?                    |
+| Mechanism          | Systems and processes that implement plans, test assumptions, and generate results.                                                                                     | Experimentation, processes, tools                         | How do we execute and learn?                  |
+| Operation          | Routine activities that keep the firm running efficiently, ensuring plans are realized.                                                                                 | Daily execution, workflows                                | Are we working effectively?                   |
 
-## Firm Phenomena
+## Organization
 
-| **Phenomenon** | **Model/Theory** | **Description** |
-| --- | --- | --- |
-| **Profit Maximization** | Neoclassical Theory of the Firm | Firms aim to maximize profits by equating marginal cost to marginal revenue. |
-| **Production Decisions** | Production Function | Describes the relationship between inputs and outputs, showing how firms transform inputs into outputs efficiently. |
-| **Cost Structures** | Cost Functions | Analyzes how costs change with varying levels of output, including fixed, variable, and marginal costs. |
-| **Market Structure** | Perfect Competition, Monopoly, Oligopoly, Monopolistic Competition | Different market structures explain firm behavior in various competitive environments. |
-| **Price Setting** | Price Theory | Examines how firms set prices for their goods and services based on demand, cost, and competition. |
-| **Firm Size and Growth** | Growth Theory | This section explains the factors influencing the size of firms and their growth over time, including economies of scale and scope. |
-| **Transaction Costs** | Transaction Cost Economics | Focuses on the costs of exchanging goods or services, which affect firm boundaries and market interactions. |
-| **Vertical Integration** | Vertical Integration Theory | Describes why firms might integrate vertically to control more stages of production or distribution to reduce transaction costs and increase efficiency. |
-| **Agency Problems** | Principal-Agent Theory | This course addresses conflicts of interest between owners (principals) and managers (agents) and how contracts and incentives can align their interests. |
-| **Information Asymmetry** | Information Economics | Studies the impact of asymmetric information between buyers and sellers on market outcomes, including adverse selection and moral hazard. |
-| **Innovation and R&D** | Innovation Theory | Examines how firms invest in research and development (R&D) to innovate and maintain competitive advantage. |
-| **Entrepreneurship** | Entrepreneurship Theory | Explores the role of entrepreneurs in the creation, management, and growth of firms, including risk-taking and innovation. |
-| **Market Power** | Monopoly and Oligopoly Theories | Analyzes how firms with market power can influence prices, outputs, and overall market conditions. |
-| **Mergers and Acquisitions** | Merger and Acquisition Theories | Studies the reasons behind mergers and acquisitions, including synergies, market share expansion, and diversification. |
-| **Corporate Governance** | Corporate Governance Theory | Investigates the systems, rules, and processes by which firms are directed and controlled, focusing on the roles of stakeholders, including shareholders. |
-| **Firm Boundaries** | Boundary of the Firm Theory | Determines the optimal boundaries of the firm, considering the trade-offs between integration and outsourcing. |
-| **Strategic Behavior** | Game Theory | Uses strategic interaction models to predict firm behavior in competitive situations, including pricing, output decisions, and market entry. |
-| **Industrial Organization** | Industrial Organization Theory | Studies the structure of and boundaries between firms and markets and the interactions of firms within an industry. |
+### Viable System Model (VSM)
 
-## Enterprise Organization Models
+> Let’s use the **Viable System Model (VSM)** to understand how a firm’s internal organization can be structured for adaptability, resilience, and efficient decision-making.
 
-> We can categorize these models based on their primary structural approach and key characteristics to provide a useful overview of **Enterprise Organization Models**
-> 
+The VSM provides a framework to model an organization as a set of interacting subsystems, each responsible for specific functions: operations, coordination, control, strategy, and environmental scanning. By mapping a firm’s internal structure to these subsystems, we can design recursive and autonomous units that maintain viability in a changing environment.
 
-> Here’s a table that outlines some of the common organization models used in enterprises:
-> 
+Key principles of VSM applied to a firm:
+
+1. **System 1 – Operations:** Core activities that produce value.
+2. **System 2 – Coordination:** Mechanisms to synchronize and stabilize operations.
+3. **System 3 – Control:** Management of resources, performance monitoring, and operational optimization.
+4. **System 3* – Audit/Monitoring:** Independent oversight to detect deviations or emerging risks.
+5. **System 4 – Strategy & Adaptation:** Environmental scanning, planning, and strategic development.
+6. **System 5 – Policy & Identity:** Governance, vision, and the organization’s guiding principles.
+
+Using VSM allows the firm to maintain **structural integrity while adapting dynamically** to internal and external changes.
+
+### Organization Form
 
 | Model | Description | Key Characteristics |
 | --- | --- | --- |
@@ -467,108 +289,327 @@ Strategic analysis models are essential tools enterprises use to evaluate their 
 | Process-based | Structured around end-to-end processes | Process efficiency, customer focus |
 | Holacracy | Self-managing teams without a formal management hierarchy | High agility, employee empowerment, rapid iteration |
 
-## Financial Models
+## Modelling
 
-> To explore an enterprise financial model, we can focus on several key components that are fundamental in assessing the financial health and operational performance of a company.
-> 
+> What is a model of a firm? How to model a firm? Why model a firm? Which are the types of models of a firm?
 
-> Here's a table that outlines these components along with a brief description of each:
-> 
+> A model of a firm is a formal, conceptual, or computational representation of the structure, behavior, and purpose of a firm within its environment.
 
-| Component | Description |
-| --- | --- |
-| Revenue Model | How the business generates income through sales of products or services. |
-| Cost Structure | Analysis of fixed and variable costs that the business incurs. |
-| Profitability Analysis | Profitability measures include gross margin, operating margin, and net profit margin. |
-| Cash Flow Analysis | Assessment of the cash inflows and outflows to determine liquidity levels. |
-| Investment Analysis | Evaluation of capital investments like machinery, technology, or acquisitions. |
-| Financial Ratios | Key ratios include debt-to-equity, return on investment (ROI), and current ratio. |
-| Budgeting | Planning future spending based on revenue forecasts and strategic goals. |
-| Financial Forecasting | Predicting future financial outcomes based on historical and current data. |
-| Tax Planning | Strategies to manage tax liabilities effectively. |
-| Risk Management | Identifying and mitigating financial risks that could impact the business. |
+### Motivation
 
-## Firm Metrics
+> We always have a kind of mental represntaiton of the firm - infact any entity that we int4eract or ar part of - the uestion will e why have a formal model of the firm instead?
 
-## Firm Metrics
+> To model is to think with discipline.
 
-> …
-> 
+| **Purpose**     | **Description**                                                                                                      |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Explanation** | To understand *why* firms behave as they do — e.g., why they exist, how they organize production, or how they adapt. |
+| **Prediction**  | To anticipate outcomes of strategic or environmental changes (e.g., new technologies, market shifts).                |
+| **Design**      | To construct or reconfigure firms for improved performance, coordination, or resilience.                             |
+| **Control**     | To regulate firm behavior through feedback, monitoring, and policy.                                                  |
+| **Learning**    | To test hypotheses, simulate policies, or explore possible futures safely and systematically.                        |
 
-| **Metric** | **Description** | **Formula/Calculation** | **Usage/Application** |
-| --- | --- | --- | --- |
-| **Total Factor Productivity (TFP)** | Measures efficiency by comparing output to combined inputs (labor, capital, etc.). | TFP = Output / (Weighted Inputs) | Assesses overall productivity; common in cross-industry comparisons. |
-| **Labor Productivity** | Output per unit of labor input, typically measured as output per worker or hour worked. | Labor Productivity = Output / Labor Input | Used to compare efficiency across firms or sectors. |
-| **Capital Productivity** | Measures output relative to capital input, reflecting efficiency of capital usage. | Capital Productivity = Output / Capital Input | Useful in capital-intensive industries. |
-| **Return on Assets (ROA)** | Indicates how efficiently assets are used to generate profit. | ROA = Net Income / Total Assets | Assesses asset utilization efficiency; key in performance benchmarking. |
-| **Revenue per Employee** | Calculates the revenue generated per employee, reflecting labor efficiency. | Revenue per Employee = Total Revenue / Number of Employees | Highlights productivity on a per-employee basis. |
-| **Cost per Unit** | Average cost of producing a single unit, reflecting cost efficiency. | Cost per Unit = Total Costs / Total Output | Used to assess cost management and pricing strategies. |
-| **Inventory Turnover Ratio** | Shows how often inventory is sold and replaced over a period, reflecting operational efficiency. | Inventory Turnover = Cost of Goods Sold / Average Inventory | Helps optimize inventory levels and supply chain efficiency. |
-| **Gross Margin** | Measures the percentage of revenue remaining after cost of goods sold, showing production efficiency. | Gross Margin = (Revenue - COGS) / Revenue | Evaluates efficiency in production and pricing. |
-| **Operating Margin** | Reflects efficiency of core business operations, excluding non-operational items. | Operating Margin = Operating Income / Revenue | Used for comparing core operational efficiency. |
-| **Capacity Utilization** | Indicates the extent to which a firm uses its productive capacity. | Capacity Utilization = (Actual Output / Potential Output) * 100% | Measures efficiency in resource utilization. |
-| **Minimum efficient scale (MES)** | … | .. | .. |
-| **Fixed cost** | … | … |  |
-| **Marginal cost** | … | … | … |
-| **Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)** | Shows operating performance by removing effects of non-operational costs. |  |  |
-| **Customer Acquisition Cost (CAC)** | Cost associated with acquiring a new customer, reflecting marketing efficiency. |  |  |
-| **Customer Lifetime Value (CLTV)** | Expected total revenue from a customer over their relationship with the business. |  |  |
-| **Market Share** | Percentage of total market revenue or volume captured by the enterprise. |  |  |
-| **Proportion of Value Capture Along the Value Chain** | This term emphasizes the share or portion of total value that a firm retains at each stage of the value chain.  It considers the **distribution of captured value** across different activities or stakeholders, assessing how much value is kept by each stage versus how much is passed to other stages (e.g., suppliers, distributors). |  |  |
-| Value Added | "Value added" refers to the **additional worth** created at each stage of the production or service process, calculated by subtracting input costs from the final product’s selling price.  It measures the **direct contribution** of each stage to the final product or service, highlighting the economic value generated by the firm or process.  |  |  |
+### Praxis
 
-## 🔧 Productive System = More than Machinery
+> Modeling a firm begins by asking the right questions — about purpose, scope, representation, and dynamics.
 
-> 💡 Recreating the full ecosystem — not just the factory.
+#### Purpose and Intent
 
-> 💬 “The real developmental challenge is not invention, but replication at scale.” - At First.
+- What is the **goal** of the model — explanation, prediction, design, or control?
+- What **phenomena** or **problems** do we want the model to illuminate?
+- For **whom** is the model being built (researchers, managers, policymakers)?
 
-A productive system includes:
+#### Ontology — What Is the Firm Made Of?
 
-- Technology (machinery, software)
-- Work organization (lean processes, quality control)
-- Supplier networks (inputs, logistics)
-- Institutional frameworks (training, regulation, finance)
-- Managerial culture (standardization, measurement, delegation)
+- Which **entities** must the model include? (agents, resources, processes, environment)
+- What are the **boundaries** of the firm — where does it begin and end?
+- Which aspects are **internal** (organization, decisions) and which are **external** (markets, institutions)?
 
-## What make a low - non tech firm in a develop country different from a underdevelopment one?
+#### Structure and Mechanisms
+
+- How are the firm’s **elements connected** — through flows, hierarchies, or networks?
+- What are the **core mechanisms** (production, coordination, communication, adaptation)?
+- How is **information** processed and **decisions** made?
+
+#### Dynamics and Change
+
+- How do **resources**, **outputs**, and **capabilities** evolve over time?
+- What **feedback loops** maintain or destabilize the system?
+- How does the firm **learn**, **innovate**, or **respond** to environmental shocks?
+
+#### Representation and Formalization
+
+- What type of **modeling language** is appropriate — mathematical, computational, or conceptual?
+- How should **time**, **uncertainty**, and **interaction** be represented?
+- Which **variables** are observable, and which are latent or emergent?
+
+#### Evaluation and Application
+
+- What constitutes a **good model** in this context — accuracy, explanatory power, or practical insight?
+- How can the model be **validated** or **calibrated** using data or observation?
+- How can it be used for **simulation**, **design**, or **policy** experimentation?
+
+### Model Taxonomy
+
+> Which are the types of models of a firm?
+
+| **Model**                            | **Description**                                                                                                                             | **Tags**                                                   |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
+| **Classical Production Model**       | Represents the firm as a function transforming inputs (capital, labor) into outputs under a production function ( Q = f(K, L) ).            | *microeconomics, production, efficiency*                   |
+| **Managerial Model**                 | Emphasizes the role of management decisions and objectives (e.g., growth, sales, or market share) beyond pure profit maximization.          | *organizational behavior, decision theory*                 |
+| **Behavioral Model**                 | Views the firm as a coalition of participants with bounded rationality and conflicting goals; focuses on routines and satisficing behavior. | *bounded rationality, organizations, Simon, Cyert-March*   |
+| **Transaction-Cost Model**           | Explains the existence and boundaries of the firm as mechanisms to minimize transaction costs compared to market exchanges.                 | *Coase, Williamson, institutional economics*               |
+| **Resource-Based Model**             | Defines the firm as a bundle of tangible and intangible resources whose configuration drives competitive advantage.                         | *strategic management, capabilities, assets*               |
+| **Dynamic Capabilities Model**       | Extends the resource-based view to include adaptation, learning, and reconfiguration in changing environments.                              | *evolutionary, strategy, innovation*                       |
+| **Knowledge-Based Model**            | Treats the firm as an integrator of distributed knowledge, coordinating specialized competences through routines and communication.         | *epistemic, cognitive, organization theory*                |
+| **Evolutionary Model**               | Models firms as evolving entities subject to variation, selection, and retention of routines within competitive environments.               | *evolutionary economics, dynamics, learning*               |
+| **Viable System Model (VSM)**        | Conceptualizes the firm as a recursive cybernetic system maintaining internal stability and external adaptability.                          | *systems theory, cybernetics, management*                  |
+| **Systems-Dynamics Model**           | Represents firms as dynamic systems governed by feedback loops between resources, outputs, and environment.                                 | *simulation, control, feedback, Forrester*                 |
+| **Agent-Based Model**                | Models the firm as a collection of interacting agents with individual rules, allowing emergent organizational behavior.                     | *complex systems, emergence, computational modeling*       |
+| **Network Model**                    | Views the firm as a node in a relational network of suppliers, partners, and institutions influencing its structure and performance.        | *industrial organization, ecosystems, graph theory*        |
+| **Institutional Model**              | Focuses on how formal and informal institutions shape firm behavior, legitimacy, and structure.                                             | *institutional economics, sociology, norms*                |
+| **Computational / Formal Model**     | Represents the firm as a formal system ( F = \langle A, S, P, R, E, \Phi \rangle ) enabling mathematical or simulation-based analysis.      | *formal modeling, systems theory, computational economics* |
+
+## Technique Space
 
 > ...
 
-| 🧩 **Dimension**                       | 🇪🇪 **Estonia**                                  | 🌍 **Developing Country**                      |
-| -------------------------------------- | ------------------------------------------------- | ---------------------------------------------- |
-| **Technology Usage**                   |                                                   |                                                |
-| **Automation Level**                   | Medium–High (CNC, SCADA, robotics)                | Low–Medium (manual labor, basic tools)         |
-| **Digital Systems**                    | ERP, MES, e-invoicing, digital compliance         | Paper-based, spreadsheets, low traceability    |
-| **Machinery & Maintenance**            | Modern equipment, preventive maintenance culture  | Aging machinery, reactive maintenance          |
-| **Connectivity**                       | Strong digital backbone, IoT-ready                | Uneven internet access, weak ICT infra         |
-| **Human Capital & Organization**       |                                                   |                                                |
-| **Worker Skills**                      | Vocational training, EU-aligned certifications    | Skills gap, informal learning, weak TVET       |
-| **Management Culture**                 | Lean operations, ISO standards, KPI-driven        | Informal, owner-led, limited delegation        |
-| **Labor Productivity**                 | High (process-oriented + capital-intensive)       | Low (manual effort + process variability)      |
-| **Innovation / R\&D**                  | Modest but structured (esp. food, wood)           | Rare, often no structured product dev          |
-| **Industrial Ecosystem**               |                                                   |                                                |
-| **Supplier Networks**                  | Dense, local automation & packaging suppliers     | Dispersed, import-dependent, weak clustering   |
-| **Quality Standards**                  | EU-regulated, consistent traceability             | Low compliance, variable product quality       |
-| **Financing & Support**                | EU grants, SME incentives, easy access            | Limited credit, high collateral, bureaucracy   |
-| **Infrastructure**                     | Efficient logistics, digitalized public services  | Transport gaps, unreliable utilities           |
-| **Market Integration**                 |                                                   |                                                |
-| **Export Capability**                  | Regular EU/Nordic exports, certification built-in | Rare exports, lack of certification standards  |
-| **Brand & Trust**                      | Perceived as “Nordic quality”                     | Weak product reputation globally               |
-| **Delivery & Logistics**               | Fast, traceable, integrated supply chain          | Delays, customs friction, unreliable transport |
-| **E-commerce & Trade Systems**         | Widespread digital platforms and gateways         | Low adoption, poor online transaction support  |
-| **Institutional & Structural Support** |                                                   |                                                |
-| **Legal & Permitting**                 | Transparent, fast, digital property system        | Bureaucratic, slow, unclear land tenure        |
-| **Firm Formalization**                 | High—registered, taxed, quality-audited           | High informality, weak state oversight         |
-| **Industrial Policy**                  | EU-aligned innovation and SME programs            | Fragmented, politically unstable programs      |
-| **Workforce Institutions**             | Apprenticeships, retraining, unions present       | Weak links between training and production     |
+## Theory
 
-## Catalog
+> **Aka**: Theory of Organizations / Theory of Firms.
 
-> Firms; Type of Firms; ... See more in [Produceologia](https://github.com/csiglab/Produceologia/tree/main/docs/Catalog).
+> **"Theories of the Firm"** encompass various economic, legal, and organizational concepts that explain why firms exist, how they operate, and how they grow and compete in markets.
+
+### Theory(s)
+
+> Which theoretical lenses explain firm behavior, boundaries, and internal organization?
+
+| **Theory**                    | **Description**                                                                                                                                                               | **Model Structure**                                                                                       |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Neoclassical Theory**       | Focuses on profit maximization as the firm's primary objective, assuming perfect competition, full information, and rational actors.                                          | Firm as a *production function*; equilibrium determined by *marginal cost = marginal revenue*.      |
+| **Behavioral Theory**         | Proposes that firms seek *satisficing* outcomes rather than optimal ones due to bounded rationality, organizational routines, and imperfect information.                      | Coalition of stakeholders with *aspiration levels*; decision-making modeled as *adaptive search*.   |
+| **Managerial Theory**         | Argues that managers pursue goals like sales maximization, growth, or personal utility rather than pure profit, reflecting the separation of ownership and control.           | *Principal–manager* separation; *utility function* includes salary, power, and prestige.            |
+| **Agency Theory**             | Analyzes conflicts of interest between principals (owners) and agents (managers), emphasizing *incentive alignment* and the *costs of monitoring and control*.                | Principal–agent model; *contract design* to minimize *agency costs* and *moral hazard*.             |
+| **Transaction Cost Theory**   | (Coase, Williamson) Explains firms’ existence as a governance mechanism to minimize the costs of using the market—search, negotiation, and enforcement.                       | Boundary of firm determined by *make-or-buy* decisions; governed by *hierarchies vs. markets*.      |
+| **Resource-Based View (RBV)** | Emphasizes internal resources and capabilities as the foundation of competitive advantage—especially those that are valuable, rare, inimitable, and non-substitutable (VRIN). | Firm as a *bundle of resources*; *heterogeneity* and *immobility* explain advantage persistence.    |
+| **Evolutionary Theory**       | Views firms as evolving entities whose routines, capabilities, and strategies adapt over time through variation, selection, and retention.                                    | *Dynamic routines* as genes; market as *selection environment*; innovation as *mutation process*.   |
+| **Stakeholder Theory**        | Argues that firm behavior reflects the interests of multiple stakeholders—employees, customers, communities, etc.—not only shareholders.                                      | Firm as *stakeholder nexus*; objective function integrates *multi-stakeholder utility*.             |
+| **Institutional Theory**      | Examines how formal rules, norms, and cultural expectations shape organizational behavior and legitimacy beyond efficiency considerations.                                    | *Isomorphism* (coercive, mimetic, normative); firm adapts to *institutional environment*.           |
+| **Nexus of Contracts Theory** | Conceptualizes the firm as a network of explicit and implicit contracts among self-interested agents coordinating under legal and informational constraints.                  | Firm as *legal fiction*; coordination achieved via *contractual arrangements* instead of hierarchy. |
+
+
+### Research Field(s)
+
+| **Field** | **Description** |
+| --- | --- |
+| **Theory of the Firm** | Investigates firms' behavior, structure, and decision-making processes, including firm boundaries, incentives, and organizational design. |
+| **Organizational Behavior** | Examines individual and group organizational behavior, including motivation, leadership, communication, and organizational culture. |
+| **Organizational Theory** | Studies organizations' structure, design, and dynamics, focusing on how organizations function, adapt, and evolve in response to internal and external factors. |
+| **Strategic Management** | Analyzes the formulation and implementation of strategies to achieve organizational goals and competitive advantage, encompassing strategy formulation, competitive analysis, and strategic planning. |
+| **Industrial and Organizational Psychology** | Applies psychological principles to the workplace environment, addressing topics such as employee selection, training, performance evaluation, and organizational development. |
+| **Operations Management** | Studies the design, planning, and control of production processes and supply chains, aiming to optimize efficiency, quality, and resource utilization within organizations. |
+| **Economics of Organizations** | It applies economic principles to analyze organizational behavior and performance, exploring topics such as transaction costs, agency theory, and property rights. |
+| **Sociology of Organizations** | This course examines the social structures, interactions, and dynamics within organizations, focusing on topics such as power, authority, social networks, and organizational culture. |
+| **Management Science** | Utilizes mathematical modeling, optimization techniques, and decision analysis to address managerial problems and improve organizational decision-making processes. |
+| **Business Administration** | It encompasses various disciplines in managing and administrating businesses and organizations, including finance, marketing, and entrepreneurship. |
+| **Organization Studies** | "Organization studies" is a multidisciplinary field that examines organizations' structure, behavior, and dynamics. It encompasses perspectives from economics, sociology, psychology, management, and other disciplines. |
+| **Industrial Organization** | **Industrial organization** is a field of economics that studies the structure of and behavior within firms and markets. It focuses on corporate interactions, the impact of market structure on economic outcomes, and the influence of public policy on market competition. |
+
+## Production Chain
+
+> To which production chain(s) does the firm contribute or belong?
+
+## Value Creation
+
+> What problem are we solving, for whom, and why does it matter?
+
+## Performance
+
+> How can we evaluate the performance or the health of a firm? How firm size affects?
+
+| **Category**                  | **Dimension**             | **Metric**                            | **Description**                                                                     |
+| ----------------------------- | ------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Financial**                 | Profitability             | Net Income                            | Total profit after expenses; measures overall financial gain.                       |
+|                               | Profitability             | ROA (Return on Assets)                | Profit relative to total assets; efficiency in using resources.                     |
+|                               | Profitability             | ROE (Return on Equity)                | Profit relative to shareholder equity; return for investors.                        |
+|                               | Profitability             | Profit Margin                         | Percentage of revenue retained as profit; operational efficiency.                   |
+|                               | Profitability             | Gross Margin                          | Revenue minus cost of goods sold as a percentage of revenue; production efficiency. |
+|                               | Profitability             | Operating Margin                      | Operating profit relative to revenue; efficiency after overhead.                    |
+|                               | Profitability             | EBITDA                                | Earnings before interest, taxes, depreciation, and amortization; cash profit proxy. |
+|                               | Profitability             | Economic Value Added (EVA)            | Net profit minus cost of capital; true economic profit.                             |
+|                               | Profitability             | Return on Capital Employed (ROCE)     | Profit relative to capital used; efficiency in deploying capital.                   |
+|                               | Liquidity                 | Current Ratio                         | Current assets divided by current liabilities; short-term liquidity.                |
+|                               | Liquidity                 | Quick Ratio                           | Ability to meet obligations without inventory; immediate liquidity.                 |
+|                               | Solvency                  | Debt-to-Equity Ratio                  | Extent of leverage; long-term financial stability.                                  |
+|                               | Revenue & Growth          | Sales Growth                          | Year-over-year increase in sales revenue; growth trend.                             |
+|                               | Revenue & Growth          | CAGR                                  | Compound annual growth rate; long-term revenue growth.                              |
+|                               | Revenue & Growth          | Market Expansion                      | Entry into new markets or segments; strategic growth.                               |
+|                               | Revenue & Growth          | Free Cash Flow (FCF)                  | Cash generated after capital expenditures; liquidity and reinvestment capacity.     |
+| **Operational**               | Productivity & Efficiency | Total Factor Productivity (TFP)       | Output relative to combined inputs (labor, capital, materials); overall efficiency. |
+|                               | Productivity & Efficiency | Labor Productivity                    | Output per unit of labor input; labor efficiency.                                   |
+|                               | Productivity & Efficiency | Capital Productivity                  | Output per unit of capital input; capital efficiency.                               |
+|                               | Productivity & Efficiency | Revenue per Employee                  | Revenue generated per employee; workforce efficiency.                               |
+|                               | Productivity & Efficiency | Capacity Utilization                  | Degree to which production capacity is used; resource efficiency.                   |
+|                               | Productivity & Efficiency | Minimum Efficient Scale (MES)         | Lowest production volume at which average cost is minimized.                        |
+|                               | Productivity & Efficiency | Fixed Cost                            | Costs that remain constant regardless of production level.                          |
+|                               | Productivity & Efficiency | Marginal Cost                         | Cost of producing one additional unit; decision-making for scaling.                 |
+|                               | Productivity & Efficiency | Throughput                            | Units produced per time period; production speed measure.                           |
+|                               | Productivity & Efficiency | Overall Equipment Effectiveness (OEE) | Combines availability, performance, and quality; machinery efficiency.              |
+|                               | Productivity & Efficiency | Inventory Turnover Ratio              | Number of times inventory is sold/used over a period; stock efficiency.             |
+|                               | Productivity & Efficiency | Lead Time                             | Time from order to delivery; operational efficiency.                                |
+|                               | Productivity & Efficiency | Backorder Rate                        | Frequency of unfulfilled orders; operational reliability.                           |
+|                               | Productivity & Efficiency | Capacity Cushion                      | Extra capacity available to handle demand spikes; operational flexibility.          |
+|                               | Quality & Reliability     | Defect Rate                           | Percentage of defective outputs; quality control measure.                           |
+|                               | Quality & Reliability     | Returns                               | Frequency of product/service returns; customer impact.                              |
+|                               | Quality & Reliability     | Compliance with Standards             | Adherence to technical, safety, or regulatory standards.                            |
+|                               | Sustainability            | Energy Intensity                      | Energy consumed per unit of output; environmental efficiency.                       |
+|                               | Sustainability            | Water Usage Efficiency                | Water consumed per unit of output; resource efficiency.                             |
+|                               | Sustainability            | Scrap Rate                            | Percentage of wasted materials; operational efficiency.                             |
+| **Market & Strategic**        | Market Share              | Share of Market                       | Portion of total market controlled by the firm; competitive position.               |
+|                               | Market Share              | Customer Acquisition                  | Number of new customers gained; market penetration.                                 |
+|                               | Market Share              | Customer Acquisition Cost (CAC)       | Cost to acquire a new customer; marketing efficiency.                               |
+|                               | Market Share              | Customer Lifetime Value (CLTV)        | Expected revenue from a customer over the relationship; long-term value.            |
+|                               | Market Share              | Customer Churn Rate                   | Percentage of customers lost over a period; retention metric.                       |
+|                               | Market Share              | Market Penetration Rate               | Share of target market reached; growth and strategic performance.                   |
+|                               | Brand Strength            | Brand Ranking                         | Perceived brand value and recognition among consumers.                              |
+|                               | Brand Strength            | Net Promoter Score (NPS)              | Likelihood customers will recommend your product; brand loyalty.                    |
+|                               | Innovation Output         | Patents                               | Number of patents granted; technological output.                                    |
+|                               | Innovation Output         | New Products                          | Number of new products/services launched; innovation performance.                   |
+|                               | Innovation Output         | Process Improvements                  | Number of optimized processes implemented; efficiency gains.                        |
+|                               | Innovation Output         | R&D Intensity                         | R&D expenditure relative to revenue; innovation commitment.                         |
+|                               | Innovation Output         | Innovation ROI                        | Revenue/profit generated from new products relative to R&D spend.                   |
+|                               | Innovation Output         | Time-to-Market                        | Speed from idea to launch; innovation and agility measure.                          |
+|                               | Value Creation            | Value Added                           | Difference between output value and input costs; economic contribution.             |
+| **Human & Organizational**    | Employee Performance      | Productivity Metrics                  | Measurable outputs per employee; operational contribution.                          |
+|                               | Employee Performance      | Engagement Scores                     | Employee satisfaction and commitment; HR effectiveness.                             |
+|                               | Employee Performance      | Retention Rates                       | Ability to keep talent; human capital stability.                                    |
+|                               | Employee Performance      | Training Investment per Employee      | Investment in skill development; human capital growth.                              |
+|                               | Employee Performance      | Absenteeism Rate                      | Lost workdays; health and engagement indicator.                                     |
+|                               | Organizational Agility    | Time to Implement Change              | Speed of executing organizational changes.                                          |
+|                               | Organizational Agility    | Adaptability Metrics                  | Ability to adjust to environmental or market shifts.                                |
+| **Social & Environmental**    | Sustainability            | ESG Score                             | Environmental, social, and governance performance.                                  |
+|                               | Sustainability            | Carbon Footprint                      | Total greenhouse gas emissions; environmental impact.                               |
+|                               | Sustainability            | Social Initiatives                    | Programs benefiting society or community; CSR performance.                          |
+|                               | Stakeholder Satisfaction  | Customer Satisfaction                 | Feedback from clients on products/services.                                         |
+|                               | Stakeholder Satisfaction  | Employee Surveys                      | Staff perception of work environment and policies.                                  |
+|                               | Stakeholder Satisfaction  | Partner Ratings                       | External stakeholders’ evaluation of collaboration and reliability.                 |
+| **Informational & Knowledge** | Knowledge Utilization     | Knowledge-Sharing Initiatives         | Number and effectiveness of initiatives to share internal knowledge.                |
+|                               | Knowledge Utilization     | Decision Accuracy                     | Quality and correctness of decisions based on available knowledge.                  |
+|                               | Digital Performance       | IT System Uptime                      | Availability and reliability of digital infrastructure.                             |
+|                               | Digital Performance       | Analytics Adoption                    | Degree of use of analytics for decision-making.                                     |
+|                               | Digital Performance       | Digital KPIs                          | Measures of digital transformation performance.                                     |
+
+## Technology
+
+> How do firms incorporate new technical objects? How do they improve, create, or adopt new technical knowledge (technology)?
+
+> Technical Object: Any artifact, tool, system, or material that a firm can use, manipulate, or interact with to perform tasks, produce outputs, or support operations. Examples include machinery, software, instruments, equipment, or digital platforms. A technical object is tangible or instantiated and represents a unit of applied technical knowledge.
+
+> Technology: The knowledge, methods, and practices that allow a firm to create, improve, adopt, or utilize technical objects effectively. Technology is abstract, cognitive, and process-oriented, encompassing both technical know-how and organizational routines for applying that knowledge. It includes inventions, process innovations, technical standards, and expertise embedded in people, systems, or artifacts.
+
+### Innovation
+
+> ¿What is the nature of Private Research? ¿How does the industry innovate? ¿How does industry connect with academia? ¿What are the effects of colocation? ¿When a firm needs In-house research?
+
+> **R&D (Research & Development):**
+> Organizational activities aimed at **creating, improving, or adapting technical knowledge, products, or processes**. R&D includes experimentation, prototyping, testing, and knowledge generation. It is the primary mechanism through which firms develop new technologies, enhance existing ones, and explore future capabilities. R&D can be internal, collaborative, or outsourced.
+
+> **Innovation Ecosystem:**
+> The **network of actors, institutions, and relationships** that collectively enable, support, and accelerate innovation within and around the firm. This includes suppliers, customers, universities, research centers, regulators, investors, and industry clusters. The ecosystem provides knowledge flows, resources, feedback, and collaborative opportunities that enhance the firm’s capacity to innovate and adopt new technologies.
+
+
+
+### Learning
+
+> How do firms acquire, internalize, and apply knowledge to improve performance, adapt to change, and innovate?
+
+| **Category**                      | **Activity**                           | **Description**                                                                                                   |
+| --------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Exploratory Learning**          | **Research & Experimentation**         | Seeking new knowledge, testing novel ideas, and exploring unknown domains to expand capabilities.                 |
+| **Exploitive Learning**           | **Process and Practice Improvement**   | Refining existing methods, routines, and products to increase efficiency, quality, and reliability.               |
+| **Individual Learning**           | **Skill Development & Training**       | Enhancing employee knowledge, competencies, and expertise to perform tasks effectively.                           |
+| **Organizational Learning**       | **Knowledge Capture & Codification**   | Storing, structuring, and sharing information and best practices to benefit the whole firm.                       |
+| **Inter-organizational Learning** | **Knowledge Transfer & Collaboration** | Acquiring insights from partners, suppliers, competitors, or institutions and integrating them internally.        |
+| **Adaptive Learning**             | **Feedback & Reflexive Adjustment**    | Monitoring outcomes, interpreting signals from the environment, and adjusting strategies, processes, or products. |
+| **Innovation-oriented Learning**  | **R&D & Technology Assimilation**      | Integrating technical knowledge and experimental findings to create new products, services, or processes.         |
+
+
+### Absorvative Capacity
+
+> How do firms recognize, assimilate, and apply external knowledge to enhance their capabilities, innovation, and performance?
+
+| **Category**          | **Dimension**                       | **Description**                                                                                                          |
+| --------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Acquisition**       | **Knowledge Recognition**           | Ability to identify and value relevant external knowledge from markets, competitors, research institutions, or partners. |
+| **Assimilation**      | **Internalization**                 | Capacity to analyze, interpret, and integrate external knowledge into existing routines, processes, or technologies.     |
+| **Transformation**    | **Recombination & Adaptation**      | Modifying, combining, or reconfiguring absorbed knowledge to create new solutions, processes, or innovations.            |
+| **Exploitation**      | **Application & Commercialization** | Using assimilated knowledge to improve products, processes, services, or strategic decision-making.                      |
+| **Learning Feedback** | **Organizational Learning**         | Capturing lessons from absorption experiences to strengthen future capacity and refine knowledge flows.                  |
+
+
+## Multinational Operation
+
+> ...
+
 
 ## References
 
+- Foley, C. Fritz, and Kalina Manova. "International trade, multinational activity, and corporate finance." *economics* 7.1 (2015): 119-146.
+- Mittoo, Usha R., and Zhou Zhang. "The capital structure of multinational corporations: Canadian versus US evidence." *Journal of Corporate Finance* 14.5 (2008): 706-720.
+- Altshuler, Rosanne, and Harry Grubert. "Repatriation taxes, repatriation strategies and multinational financial policy." *Journal of Public Economics* 87.1 (2003): 73-107.
+- Hines Jr, James R., and R. Glenn Hubbard. "Coming home to America: Dividend repatriations by US multinationals." Taxation in the global economy. University of Chicago Press, 1990. 161-208.
+- Kovacs, Gene J., and Saeed Roohani. "Did the Tax Cuts and Jobs Act Really Lower Corporate Taxes?." *CPA Journal* 91 (2021).
+- [Repatriation: Definition, With Currency Exchange and Example](https://www.investopedia.com/terms/r/repatriation.asp)
+- Cantner, Uwe, Elisa Conti, and Andreas Meder. "Networks and innovation: 
+the role of social assets in explaining firms' innovative capacity." *European Planning Studies* 18.12 (2010): 1937-1956.
+- Jung, Sungmoon, and Gihyun Kwak. "Firm characteristics, uncertainty and research and development (R&D) investment: The role of size and innovation capacity." Sustainability 10.5 (2018): 1668.
+- Hii, Jasper, and Andrew Neely. "Innovative capacity of firms: on why some firms are more innovative than others." (2000).
+- Yu, Sui-Hua. "Social capital, absorptive capability, and firm innovation." Technological Forecasting and Social Change 80.7 (2013): 1261-1270.
+- Neely, Andy, and Jasper Hii. "The innovative capacity of firms." Report commissioned by the Government Office for the East of England (1999).
+- De Martino, Marcella, and Fabio Magnotti. "The innovation capacity of small food firms in Italy." European Journal of Innovation Management 21.3 (2018): 362-383.
+- Daronco, Everaldo Luis, et al. "A new framework of firm-level innovation capability: a propensity–ability perspective." European Management Journal 41.2 (2023): 236-250.
+- Amabile, T. “A model of creativity and innovation in organizations.” In Research in Organizational Behavior. Edited by B. Staw & L. Cummings. Greenwich, CT: JAI Press, 1988, Vol. 10, pp. 123-167.
+- Nemeth, C. “Managing innovation: When less is more.” California Management Review 40(1) (1997): pp. 59-74.
+- Roberts, E., and Fusfeld, A. “Staffing the innovative technology-based organization.” Sloan Management Review 19-34 (1981).
+- Stam, Erik, and Karl Wennberg. "The roles of R&D in new firm growth." *Small business economics* 33 (2009): 77-89.
+- Startup Research: Oxymoron or Key to Success?
+[https://medium.com/@black_51980/startup-research-oxymoron-or-key-to-success-89331985cf44](https://medium.com/@black_51980/startup-research-oxymoron-or-key-to-success-89331985cf44)
+- Designing and Leading the Entrepreneurial Organization
+[https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/)
+- [Outline of organizational theory](https://en.wikipedia.org/wiki/Outline_of_organizational_theory)
+- [Industrial organization](https://en.wikipedia.org/wiki/Industrial_organization)
+- Organizational Economics
+[https://en.wikipedia.org/wiki/Organizational_economics](https://en.wikipedia.org/wiki/Organizational_economics)
+- R. H. Coase, 1937. "The Nature of the Firm", Economica, N.S., 4(16), pp. 386–405.R. H. Coase, 1937. "The Nature of the Firm", Economica, N.S., 4(16), pp. 386–405.
+- Zingales, Luigi. 2017. "Towards a Political Theory of the Firm." Journal of Economic Perspectives, 31 (3): 113-30.
+- Fuller, Ted, and Paul Moran. "Small firms as complex adaptive systems: a review." proceedings of the 44th International Council of Small Business World Conference, Faculty of Engineering, P. le Tecchio. Vol. 80. 1999.
+- Liu, Jucun, Tony W. Tong, and Joseph V. Sinfield. "Toward a resilient complex adaptive system view of business models." Long Range Planning 54.3 (2021): 102030.
+- Chang, Myong-Hun, and Joseph E. Harrington Jr. "Agent-based models of organizations." Handbook of computational economics 2 (2006): 1273-1337.
+- Sterman, J. Business Dynamics: Systems Thinking and Modeling for a Complex World. McGraw-Hill / Irwin, 2000. ISBN: 9780072389159
+- Buchanan, D. and A. Huczynski Organizational behaviour: an introductory text. (London: Prentice
+Hall, 2006) sixth edition [ISBN 978-0273708353]
+- Douma, S. and H. Schreuder Economic approaches to organisations. (London: Prentice Hall, 2017)
+sixth edition
+[https://en.wikipedia.org/wiki/Function_model](https://en.wikipedia.org/wiki/Function_model)
+- System Dynamics Self Study
+[https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/)
+- Individuals, Groups, and Organizations
+[https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/)
+- [Cybernetics](https://www.notion.so/Cybernetics-615df74c681a422e85ba0fd6a1ee2aab?pvs=21)
+- [Promise Theory](https://www.notion.so/Promise-Theory-50a3636f0f744b80904948040ccaae43?pvs=21)
+- [Agent-Based Models](https://www.notion.so/Agent-Based-Models-230c19d1e85d4c43851312a2d98513bc?pvs=21)
+- Intarakumnerd, Patarapong, and Cristina Chaminade. "Strategy versus practice in innovation systems policy: the case of Thailand." *Asian Journal of Technology Innovation* 15.2 (2007): 197-213.
+- Munkongsujarit, Songphon, and Sabin Srivannaboon. "Key success factors for open innovation intermediaries for SMEs: A case study of iTAP in Thailand." 2011 Proceedings of PICMET'11: Technology Management in the Energy Smart World (PICMET). IEEE, 2011.
+- Klomklieng, Wannaphop, et al. "Strengthening a research cooperation using a Triple Helix model: Case study of poultry industry in Thailand." Procedia-Social and Behavioral Sciences 52 (2012): 120-129.
+- Yuwawutto, Sauwapa, et al. "Increase in Effectiveness of Technology Development in Thai SMEs with Group Approach." Korea 3.77 (2001): 23.
+- Nonaka, Ikujirō, and Hirotaka Takeuchi. "The knowledge-creating company." *Harvard business review* 85.7/8 (2007): 162.
+- Arkolakis, Costas, Theodore Papageorgiou, and Olga A. Timoshenko. "Firm learning and growth." *Review of Economic Dynamics* 27 (2018): 146-168.
+- Hayward, Mathew LA. "When do firms learn from their acquisition experience? Evidence from 1990 to 1995." Strategic management journal 23.1 (2002): 21-39.
+- Vega‐Jurado, Jaider, Antonio Gutiérrez‐Gracia, and Ignacio Fernández‐de‐Lucio. "Analyzing the determinants of firm's absorptive  capacity: beyond R&D." *R&d Management* 38.4 (2008): 392-405.
+- Cohen, Wesley M., and Daniel A. Levinthal. "Absorptive capacity: A new perspective on learning and innovation." Administrative science quarterly (1990): 128-152.
+- Schmidt, Tobias. "Absorptive capacity—one size fits all? A firm‐level analysis of absorptive capacity for different kinds of knowledge." Managerial and Decision Economics 31.1 (2010): 1-18.
+- [https://www.siliconcontinent.com/p/it-is-all-about-the-superstars](https://www.siliconcontinent.com/p/it-is-all-about-the-superstars)
+- [Produceologia](https://github.com/csiglab/Produceologia/tree/main/docs/Catalog)
 - Bottazzi, Giulio, and Angelo Secchi. “A stochastic model of firm growth.” Physica A: Statistical Mechanics and its Applications 324.1-2 (2003): 213-219.
 - Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez. “Why can modern governments tax so much? An agency model of firms as fiscal intermediaries.” Economica 83.330 (2016): 219-246.
 - Paul, Justin, and Rosarito Sánchez‐Morcilio. “Toward a new model for firm internationalization: Conservative, predictable, and pacemaker companies and markets.” Canadian Journal of Administrative Sciences/Revue Canadienne des Sciences de l’Administration 36.3 (2019): 336-349.
@@ -671,12 +712,6 @@ A productive system includes:
 - [Data Driven Organization](https://amatriain.net/blog/data-driven)
 - [Dream Teams: Working Together Without Falling Apart](https://www.amazon.com/Dream-Teams-Working-Together-Without/dp/0735217793)
 - Patterson, Jeffrey L. "THE DEVELOPMENT OF THE CONCEPT OF CORPORATlON FROM EARLlEST ROMAN TIMES TO AD 476." *Accounting Historians Journal* 10.1 (1983): 87-98.
-
-- Competitiveness
-- Economic of Scale
-- Absorptive Capacity
-- Economies of Density
-
 - "Government Grants and Their Impact on Innovation and Productivity: Do Subsidies to Private and Public Firms Differ?" by Aghion, P., Van Reenen, J., & Zingales, L. (2013).
 - "Financing Constraints and Entrepreneurship" by Fisman, R., & Love, I. (2003).
 - "Effects of Business Assistance on Small-Business Growth" by De Mel, S., McKenzie, D., & Woodruff, C. (2009).
@@ -688,60 +723,8 @@ A productive system includes:
 - "ISO 9000 and Small Businesses" by Brown, A., & Van Der Wiele, T. (1999).
 - Ouma-Mugabe, John, Kai-Ying Chan, and Hendrik C. Marais. "A critical review of policy instruments for promoting innovation in manufacturing small and medium enterprises (SMEs) in South Africa." Entrepreneurship, Technology Commercialisation, and Innovation Policy in Africa (2021): 237-258.
 - Yadollahi Farsi, Jahangir, and Mohammad Taghi Toghraee. "Identification the main challenges of small and medium sized enterprises in exploiting of innovative opportunities (Case study: Iran SMEs)." Journal of Global Entrepreneurship Research 4 (2014): 1-15.
-- ‣
 - Proximity relations and the fate of VC-backed startups: Evidence from a global 33-year-long dataset
 [https://link.springer.com/article/10.1007/s00191-024-00860-y](https://link.springer.com/article/10.1007/s00191-024-00860-y)
-
-- Firm Innovation
-
-# Scale
-
-: 5
-Tags: Business
-
-> The relationship between firm size and competitiveness is a complex and nuanced aspect of business and economics. Different perspectives exist on how the size of a firm influences its competitiveness, and various factors come into play.
-> 
-
-> Scaling:  Increasing the **inputs** and **outputs** of a company **without collapsing**.
-> 
-
-> **Cooperative scaling** refers to the collaborative process by which individuals or entities collectively expand their operations, resources, or capabilities to achieve greater efficiency, effectiveness, or impact.
-> 
-
-> Scaling refers to the strategic expansion of a company's inputs and outputs in a sustainable manner, enabling growth without risking organizational collapse.
-> 
-
-Here are some key considerations:
-
-1. **Economies of Scale:**
-    - **Positive Aspect:** Larger firms often benefit from economies of scale, which means that the average cost of production decreases as the scale of operations increases. This can enhance competitiveness by allowing larger firms to produce goods or services at a lower cost per unit, potentially leading to lower prices or higher profit margins.
-    - **Negative Aspect:** However, there is a point where dis-economies of scale may set in, leading to increased complexity, bureaucracy, and inefficiencies as a firm becomes too large to manage effectively.
-2. **Innovation and Flexibility:**
-    - **Positive Aspect:** Smaller firms may be more agile, innovative, and able to adapt quickly to changes in the market. Their smaller size allows for faster decision-making and a closer connection to customers' needs, potentially enhancing competitiveness in dynamic markets.
-    - **Negative Aspect:** Larger firms need more support in bureaucratic processes and resistance to change, making it harder to innovate and respond rapidly to market shifts.
-3. **Market Power:**
-    - **Positive Aspect:** Larger firms may have more market power and influence, allowing them to negotiate better deals with suppliers, distributors, and other stakeholders. This can contribute to a competitive advantage.
-    - **Negative Aspect:** However, excessive market power can lead to anti-competitive behavior, monopolistic practices, and reduced overall market competition.
-4. **Resource Availability:**
-    - **Positive Aspect:** Larger firms often have greater access to financial resources, enabling them to invest in research and development, marketing, and other strategic initiatives that enhance competitiveness.
-    - **Negative Aspect:** Smaller firms may need help accessing sufficient capital, limiting their ability to scale operations or compete on certain fronts.
-5. **Globalization:**
-    - **Positive Aspect:** Larger firms may have the resources and infrastructure to enter global markets, taking advantage of international opportunities and diversifying their revenue streams.
-    - **Negative Aspect:** Smaller firms may need more resources to compete globally and face challenges related to international regulations and market dynamics.
-6. **Specialization and Niche Markets:**
-    - **Positive Aspect:** Smaller firms can often specialize in niche markets, catering to specific customer needs and establishing a competitive advantage in those segments.
-    - **Negative Aspect:** Larger firms may need help focusing on niche markets and diversifying their offerings to maintain a broad customer base.
-
-Ultimately, the relationship between firm size and competitiveness is contingent on the industry, market conditions, and the specific strategies employed by individual firms. Both small and large firms can be competitive, but their pathways to competitiveness may differ based on their size, resources, and market positioning.
-
-Firms Capacity Building Models:
-
-- Tech Transfers
-- Learning by Doing
-- Incremental R&D
-
-## References
-
 - Tybout, J. R. “Manufacturing Firms in Developing Countries:How Well Do They Do, and Why?” Journal of Economic Literature (March 2000).
 - Mead, D. C., and C. Liedholm. “The Dynamics of Micro and Small Enterprises in Developing Countries.” World Development, no. 1 (1998).
 - McCormick, D., et. al. “Growth and Barriers to Growth Among Nairobi’s Small and Medium-Sized Garment Producers.” World Development, no. 7 (1997).
@@ -750,71 +733,4 @@ Firms Capacity Building Models:
 - Amsden, A. H., and W. W. Chu. “The Maturation of an Emerging Economy: Taiwan’s Transformation_.”_ 2000.
 - Smyth R. “Should China be Promoting Large-Scale Enterprises and Enterprise Groups?” World Development 28 (2000).
 - Amsden, A. H. “Korea: Enterprising Groups and Entrepreneurial Government.” In Big Business and the Wealth of Nations. Edited by A. Chandler, F. Amatori, and T. Hikino. Cambridge, UK: Cambridge University Press, 1997. ISBN: 9780521481236.
-
-# Multinational
-
-: 13
-
-## Cash Repatriation
-
-- [Cash Repatriation](https://www.mossadams.com/articles/2021/08/cash-repatriation-and-investment-strategies)
-
-## References
-
-- Foley, C. Fritz, and Kalina Manova. "International trade, multinational activity, and corporate finance." *economics* 7.1 (2015): 119-146.
-- Mittoo, Usha R., and Zhou Zhang. "The capital structure of multinational corporations: Canadian versus US evidence." *Journal of Corporate Finance* 14.5 (2008): 706-720.
-- Altshuler, Rosanne, and Harry Grubert. "Repatriation taxes, repatriation strategies and multinational financial policy." *Journal of Public Economics* 87.1 (2003): 73-107.
-- Hines Jr, James R., and R. Glenn Hubbard. "Coming home to America: Dividend repatriations by US multinationals." Taxation in the global economy. University of Chicago Press, 1990. 161-208.
-- Kovacs, Gene J., and Saeed Roohani. "Did the Tax Cuts and Jobs Act Really Lower Corporate Taxes?." *CPA Journal* 91 (2021).
-- [Repatriation: Definition, With Currency Exchange and Example](https://www.investopedia.com/terms/r/repatriation.asp)
-- …
-
-
-## References
-
-- Cantner, Uwe, Elisa Conti, and Andreas Meder. "Networks and innovation: 
-the role of social assets in explaining firms' innovative capacity." *European Planning Studies* 18.12 (2010): 1937-1956.
-- Jung, Sungmoon, and Gihyun Kwak. "Firm characteristics, uncertainty and research and development (R&D) investment: The role of size and innovation capacity." Sustainability 10.5 (2018): 1668.
-- Hii, Jasper, and Andrew Neely. "Innovative capacity of firms: on why some firms are more innovative than others." (2000).
-- Yu, Sui-Hua. "Social capital, absorptive capability, and firm innovation." Technological Forecasting and Social Change 80.7 (2013): 1261-1270.
-- Neely, Andy, and Jasper Hii. "The innovative capacity of firms." Report commissioned by the Government Office for the East of England (1999).
-- De Martino, Marcella, and Fabio Magnotti. "The innovation capacity of small food firms in Italy." European Journal of Innovation Management 21.3 (2018): 362-383.
-- Daronco, Everaldo Luis, et al. "A new framework of firm-level innovation capability: a propensity–ability perspective." European Management Journal 41.2 (2023): 236-250.
-- Amabile, T. “A model of creativity and innovation in organizations.” In Research in Organizational Behavior. Edited by B. Staw & L. Cummings. Greenwich, CT: JAI Press, 1988, Vol. 10, pp. 123-167.
-- Nemeth, C. “Managing innovation: When less is more.” California Management Review 40(1) (1997): pp. 59-74.
-- Roberts, E., and Fusfeld, A. “Staffing the innovative technology-based organization.” Sloan Management Review 19-34 (1981).
-- Stam, Erik, and Karl Wennberg. "The roles of R&D in new firm growth." *Small business economics* 33 (2009): 77-89.
-- Startup Research: Oxymoron or Key to Success?
-[https://medium.com/@black_51980/startup-research-oxymoron-or-key-to-success-89331985cf44](https://medium.com/@black_51980/startup-research-oxymoron-or-key-to-success-89331985cf44)
-- Designing and Leading the Entrepreneurial Organization
-[https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/](https://ocw.mit.edu/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/)
-
-## References
-
-- [Outline of organizational theory](https://en.wikipedia.org/wiki/Outline_of_organizational_theory)
-- [Industrial organization](https://en.wikipedia.org/wiki/Industrial_organization)
-- Organizational Economics
-[https://en.wikipedia.org/wiki/Organizational_economics](https://en.wikipedia.org/wiki/Organizational_economics)
-- R. H. Coase, 1937. "The Nature of the Firm", Economica, N.S., 4(16), pp. 386–405.R. H. Coase, 1937. "The Nature of the Firm", Economica, N.S., 4(16), pp. 386–405.
-- Zingales, Luigi. 2017. "Towards a Political Theory of the Firm." Journal of Economic Perspectives, 31 (3): 113-30.
-- Fuller, Ted, and Paul Moran. "Small firms as complex adaptive systems: a review." proceedings of the 44th International Council of Small Business World Conference, Faculty of Engineering, P. le Tecchio. Vol. 80. 1999.
-- Liu, Jucun, Tony W. Tong, and Joseph V. Sinfield. "Toward a resilient complex adaptive system view of business models." Long Range Planning 54.3 (2021): 102030.
-- Chang, Myong-Hun, and Joseph E. Harrington Jr. "Agent-based models of organizations." Handbook of computational economics 2 (2006): 1273-1337.
-- Sterman, J. Business Dynamics: Systems Thinking and Modeling for a Complex World. McGraw-Hill / Irwin, 2000. ISBN: 9780072389159
-- Buchanan, D. and A. Huczynski Organizational behaviour: an introductory text. (London: Prentice
-Hall, 2006) sixth edition [ISBN 978-0273708353]
-- Douma, S. and H. Schreuder Economic approaches to organisations. (London: Prentice Hall, 2017)
-sixth edition [ISBN 978-1292128900
-- Function Model
-[https://en.wikipedia.org/wiki/Function_model](https://en.wikipedia.org/wiki/Function_model)
-- System Dynamics Self Study
-[https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/)
-- Individuals, Groups, and Organizations
-[https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/](https://ocw.mit.edu/courses/15-341-individuals-groups-and-organizations-fall-2006/)
-- …
-
-[Cybernetics](https://www.notion.so/Cybernetics-615df74c681a422e85ba0fd6a1ee2aab?pvs=21)
-
-[Promise Theory](https://www.notion.so/Promise-Theory-50a3636f0f744b80904948040ccaae43?pvs=21)
-
-[Agent-Based Models](https://www.notion.so/Agent-Based-Models-230c19d1e85d4c43851312a2d98513bc?pvs=21)
+[Cash Repatriation](https://www.mossadams.com/articles/2021/08/cash-repatriation-and-investment-strategies)
