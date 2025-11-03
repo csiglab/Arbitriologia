@@ -70,6 +70,26 @@
 - **Agent-Based Modeling** - This model focuses on the behavior of individual agents and how they interact with one another. The critical paper for this model is “Garden of Forking Paths: Why multiple comparisons can be a problem, even when there is no ‘fishing expedition’ or ‘p-hacking,’ and the research hypothesis was posited ahead of time” by Andrew Gelman and Eric Loken (2013).
 - **New Classical Economics** - This model assumes individuals have rational expectations and make decisions based on available information. The critical paper for this model is “Rational Expectations and the Theory of Economic Policy” by Robert Lucas Jr. (1976).
 
+## Behavior
+
+# Behavior
+
+> Behavior is the observable expression of an entity’s internal dispositions as it interacts with its environment over time. It reflects the structured sequence of actions or responses performed by an interaction unit in relation to stimuli, goals, norms, and constraints.
+
+## Signature
+
+> Note: While behavior can be modeled as an external process, in this framework we treat behavior as the internal dispositional structure of an agent that governs how it responds to stimuli and makes decisions.
+
+| **Aspect**              | **Description**                                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Type**                | Dispositional Process                                                                                 |
+| **Bearer**              | Interaction Unit (e.g., individual, group, organization)                                              |
+| **Temporality**         | Temporally extended; behavior unfolds across time as a patterned process                              |
+| **Context-Sensitivity** | Behavior adapts to external stimuli, internal states, and regulatory conditions                       |
+| **Relation to Norms**   | Can conform to, deviate from, or challenge shared regulations and cultural scripts                    |
+| **Observation Level**   | Can be analyzed at micro (individual), meso (group), or macro (system) levels                         |
+| **Ontological Role**    | Connects internal state (e.g., preferences, beliefs) with external phenomena (e.g., outcomes, events) |
+
 ## References
 
 - [Agent](https://en.wikipedia.org/wiki/Agent_(economics))
@@ -77,3 +97,4 @@
 - Arthur, W. B. (1993). On designing economic agents that behave like human agents.
 - Kirman, A. (1991). Whom or what does the representative individual represent?. Journal of Economic Perspectives, 5(2), 117-136.
 - Sargent, Thomas J., and Neil Wallace. "Rational expectations and the theory of economic policy." Journal of Monetary economics 2.2 (1976): 169-183.
+- [Behavior](https://en.wikipedia.org/wiki/Behavior)
