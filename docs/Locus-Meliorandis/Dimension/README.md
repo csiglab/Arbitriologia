@@ -15,6 +15,10 @@
 9. **Joint Cognition** – Collective knowledge, coordination, and decision-making capabilities of society; underpins strategic alignment and innovation.
 10. **Miscellaneous Social Domains** – Welfare, health, and cultural aspects ensure social stability, resilience, and human development.
 
+## Actor Set
+
+> Which actors are involved in each organizational dimension, and what are their primary roles and interactions?
+
 ## Guide
 
 - Each domain should articulate its problem space with precision and **develop a conceptual model** that enables systematic understanding, communication, and problem-solving within that domain.

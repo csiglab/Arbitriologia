@@ -71,6 +71,7 @@ Innovation:
 > Which are the types actors involved?
 
 - Firms
+- Individuals
 - ...
 
 ## Problem Space
