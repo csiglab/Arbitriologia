@@ -6,7 +6,7 @@
     if [ ! -d ".venv" ]; then
         uv init .venv
         source .venv/bin/activate
-        uv add -r requirements.txt
+        uv install
     fi
 
     ## Activate the virtual environment
@@ -24,4 +24,3 @@
     deactivate
     echo "Build complete."
     exit 0
-    
