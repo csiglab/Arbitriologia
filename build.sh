@@ -3,14 +3,14 @@
     echo "Building the project..."
 
     ## Set up the environment
-    if [ ! -d "env" ]; then
-        python3 -m venv env
-        source env/bin/activate
-        pip install -r requirements.txt
+    if [ ! -d ".venv" ]; then
+        uv init .venv
+        source .venv/bin/activate
+        uv add -r requirements.txt
     fi
 
     ## Activate the virtual environment
-    source env/bin/activate
+    source .venv/bin/activate
 
     ## Updating Repository
     git pull origin main
@@ -24,3 +24,4 @@
     deactivate
     echo "Build complete."
     exit 0
+    
