@@ -6,7 +6,7 @@
     if [ ! -d ".venv" ]; then
         uv init .venv
         source .venv/bin/activate
-        uv install
+        uv sync
     fi
 
     ## Activate the virtual environment
