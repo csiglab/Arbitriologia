@@ -5,6 +5,8 @@ __pycache__/
 
 web/site
 
+.venv
+
 # C extensions
 *.so
 
