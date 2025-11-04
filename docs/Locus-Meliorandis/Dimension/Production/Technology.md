@@ -44,6 +44,7 @@
 
 ## Reference
 
+- [Industry Catalog](https://www.bremontix.xyz/lab/pro/Production/Industry/)
 - Bell, M. and Pavitt, K. (1995) The Development of Technological Capabilities,’ in Haque, I. (ed.) Trade, Technology and International Competitiveness,Washington D.C.: The World Bank.
 - Firm Resources and Sustained Competitive Advanted
 [https://journals.sagepub.com/doi/10.1177/014920639101700108](https://journals.sagepub.com/doi/10.1177/014920639101700108)

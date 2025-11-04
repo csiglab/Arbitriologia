@@ -80,7 +80,6 @@ Innovation:
 
 ## References
 
-
 - [Industry Catalog](https://www.bremontix.xyz/lab/pro/Production/Industry/)
 
 - Romer, Paul M. "Growth based on increasing returns due to specialization." The American Economic Review 77.2 (1987): 56-62.
