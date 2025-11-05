@@ -75,6 +75,11 @@
 | Policy             | **Israel’s Innovation Policy**                                             | Examination of Israel’s innovation ecosystem and policies fostering startups and R&D intensity.                | `Israel`, `Innovation`, `Technology`, `Entrepreneurship`               |
 | Program            | **Specialized SMEs Program**                                               | Programmatic initiative fostering specialization and technological upgrading of SMEs.                          | `SMEs`, `Industrial Policy`, `Competitiveness`                         |
 
+## Failure
+
+> ... (Case Study; Description; Postmoretem)
+
 ## References
 
 - [State](../Locus-Social-Realitatis/Facet/Governance/State/README.md)
+- [Why public policies fail: Policymaking under complexity](https://www.sciencedirect.com/science/article/pii/S1517758019300931)
