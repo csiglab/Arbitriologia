@@ -106,4 +106,4 @@ What is the relation of **firm characteristic** → **cost**?
 
 ## References
 
-- [Firm](../../../Locus-Social-Realitatis/Unit/Firm.md)
+- [Firm](../../../Locus-Social-Realitatis/Unit/Type/Firm.md)
