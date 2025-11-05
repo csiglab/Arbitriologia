@@ -4,7 +4,7 @@
 
 ## Formulation
 
-> What is a central bank? What problems does a Central Bank solves?
+> What is a central bank? What problems does a Central Bank solves? What constraints does it face (legal, economic, political)?
 
 ## Agential Structure
 
@@ -17,7 +17,15 @@
 
 > How does the central bank interact with other agents?
 
+## Performance Evaluation
+
+> ...
+
 ## History
+
+> ...
+
+## Case Study
 
 > ...
 
