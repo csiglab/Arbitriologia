@@ -1,12 +1,6 @@
 # Australia
 
-Tags: Observatorio
-ID: PRO-1319
-L: 9
-Status: Not started
-
 > Aa first world standard of living based on a thrid world economy, because we do two things well, mining and farming.
-> 
 
 ## R&D Actors
 
@@ -88,6 +82,22 @@ Here is a table summarizing some notable industrial companies in Australia, incl
 | Titomic | 2014 | Additive Manufacturing | Metal additive manufacturing, 3D printing solutions | Norbert Schulze |
 | SILEX Systems | 1992 | Technology, Energy | Laser enrichment technology | Michael Goldsworthy |
 | Carbon Revolution | 2007 | Advanced Manufacturing | Carbon fiber wheels | Jake Dingle |
+
+## QA
+
+### What is Australia’s productive technical mastery in both constitutive and operative techniques? Which technical objects and operative techniques are mastered?
+
+| Industry                                     | Technical Object and Constitutive Technique(s)                                                  | Operative Technique(s)                                                                     | Note                                                                                            |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Mining                                       | (Ore beneficiation equipment : drilling & blasting technologies, mineral separation techniques) | Open-pit mining, underground mining, automated hauling, safety management systems          | Global leader in mining efficiency, automation, and safety; major exports: iron ore, coal, gold |
+| Agriculture & Agritech                       | (Irrigation systems : precision agriculture tools, crop genetics)                               | Precision planting, remote sensing, soil & water management, automated harvesting          | Leading in wheat, barley, cotton; strong use of drones and sensors for yield optimization       |
+| Energy (Fossil & Renewable)                  | (Gas turbines : solar panels, wind turbines, grid-scale battery systems)                        | Large-scale energy grid management, renewable integration, offshore/onshore gas extraction | Advanced solar PV and wind farms; strong LNG export capability                                  |
+| Defence & Aerospace                          | (Fighter jets : naval vessels, satellite systems, radar systems)                                | Integrated logistics, simulation-based training, fleet operations, UAV operation           | Advanced domestic manufacturing, e.g., F-35 assembly, shipbuilding, satellite launch support    |
+| Pharmaceuticals & Biotechnology              | (Bioreactors : gene sequencing platforms, vaccine production lines)                             | High-throughput screening, GMP-compliant production, cell culture & fermentation           | Leading in vaccine and biotech production; strong regulatory compliance                         |
+| Advanced Manufacturing & Robotics            | (CNC machines : additive manufacturing systems, industrial robots)                              | Precision machining, robotic assembly, process automation                                  | Growing sector for defense, aerospace, and medical devices                                      |
+| Information & Communication Technology (ICT) | (Data centers : networking equipment, AI/ML software platforms)                                 | Cloud management, cybersecurity operations, AI model deployment, software engineering      | Excels in ICT services, AI research hubs, and cybersecurity                                     |
+| Mining Equipment Manufacturing               | (Excavators : loaders, drilling rigs)                                                           | Heavy equipment operation, maintenance optimization, fleet telematics                      | Companies like Caterpillar Australia excel in high-end mining equipment design and operation    |
+| Water & Environmental Tech                   | (Water treatment plants : desalination plants, environmental monitoring sensors)                | Automated water treatment, flood/drought management, pollution monitoring                  | Advanced operational mastery in water security technologies                                     |
 
 ## References
 

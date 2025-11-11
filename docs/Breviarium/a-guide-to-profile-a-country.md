@@ -88,6 +88,18 @@
 | Domain                       | Key Challenges | Strategic Opportunities |
 | ---------------------------- | -------------- | ----------------------- |
 
+## Techno-Productive Profile
+
+### What is the productive technical mastery in both constitutive and operative techniques? Which technical objects and operative techniques are mastered?
+
+Format:
+
+- <Firms (Firm: Technique Type)>
+- <Technical Process: Constitutive Technique(s)>
+- <Technical Object: Constitutive Technique(s)>
+
+| Industry                                     | Firms | | Technical Process|  Technical Object                                                  | Operative Technique(s)                                                                     | Note
+
 ## References
 
-- ...
+- [Technology](../Locus-Social-Realitatis/Facet/Knowledge/Technology.md)
