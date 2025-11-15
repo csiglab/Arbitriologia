@@ -12,7 +12,6 @@
 | **Language Level** | Scale 1-10                                       |
 | **Status**         | Not Started / In Progress / Completed            |
 
-
 ## 📜 Economic History
 
 **Guiding Questions:**
@@ -23,7 +22,6 @@
 | **Period**            | **Key Events and Developments** |
 | --------------------- | ------------------------------- |
 | Pre-modern Era        |                                 |
-
 
 ## 🏛️ Economic Statecraft Institutions
 
@@ -48,6 +46,18 @@
 
 | Institution                | Established | President/Leader | Parent Organization | Primary Focus Areas |
 | -------------------------- | ----------- | ---------------- | ------------------- | ------------------- |
+
+## Human Capital Formation
+
+**Guiding Questions:**
+
+- *Which institutions were responsible for technical and vocational education, and how did their curricula evolve over time?*
+- *How was scientific education structured, and what disciplines were prioritized?*
+- *What policies or social factors influenced access to technical and scientific education?*
+- *How did educational outcomes contribute to national human capital development and industrial or scientific capacity?*
+
+| Year | Area | Institution | Description |
+| ---- | ---- | ----------- | ----------- |
 
 
 ## 🏭 Industrial Policy History
@@ -98,7 +108,8 @@ Format:
 - <Technical Process: Constitutive Technique(s)>
 - <Technical Object: Constitutive Technique(s)>
 
-| Industry                                     | Firms | | Technical Process|  Technical Object                                                  | Operative Technique(s)                                                                     | Note
+| Industry                                     | Firms | Technical Core | Operative Technique(s) |  (Product(s)) | Note |
+|---------------------------------------------|-------|----------------|-----------------------|----------------|------|
 
 ## References
 
