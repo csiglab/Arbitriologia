@@ -234,3 +234,6 @@ Belgium’s industrial take-off rested on three mutually reinforcing layers:
 - Science Policy Office (BELSPO). (2024). *Belgian Research Overview*.
 - [Société Générale de Belgique](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale_de_Belgique)
 - https://www.arct.cam.ac.uk/system/files/documents/vol-1-379-392-bertels.pdf
+- Documents That Plasm - Bekguyn Techno Productive Imagination: 
+  - Enquête sur l'industrie linière, Volumen1 / https://books.google.com.do/books?id=PVHZhCBuE8QC&pg=PP7#v=onepage&q&f=false
+  - ...
