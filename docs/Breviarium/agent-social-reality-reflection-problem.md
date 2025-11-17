@@ -31,6 +31,10 @@ The **PIAR model** attempts to decompose agential activity into four interrelate
 
 > An agent is a recursive perception–action system capable of maintaining coherence between environmental sensing, internal modeling, and goal-directed action across multiple levels of abstraction.
 
+> **Ambition**: The driving force that establishes long-term aspirations and motivates the agent to pursue objectives beyond immediate constraints. Ambition sets the horizon for higher-level planning and shapes the scope of imagination and strategy.
+
+> **Imagination**: The agent’s capacity to conceive alternative states, scenarios, or solutions not yet realized in the environment. Imagination allows the agent to explore possibilities, anticipate consequences, and simulate actions before committing to them in reality.
+
 Note:
 
 - **Higher levels** stabilize, contextualize, and reinterpret lower levels.
@@ -184,6 +188,11 @@ Limits:
 - Dynamics: What drives the dynamics of the  imagination in an Agent? What drives it's diffusion across agents?
 - The Right One: What kind of mindset or imaginative capacity (internal state) is required for development-oriented action?
 - Failure: Why does the dynamic of agents’ internal states sometimes fails to converge toward a techno-productive development mindset?
+
+## Follow Up
+
+- How do we model the imagination jump from the current state of reality to a new imagined state?
+- Does **ambition** play a role in imagination?
 
 ## References
 
