@@ -53,3 +53,4 @@
 - [The Hong Kong Investment Corporation Limited (“HKIC”)](https://www.hkic.org.hk/)
 - [Temasek Holdings (Private) Limited](https://en.wikipedia.org/wiki/Temasek_Holdings)
 - [EDB Investments Pte Ltd](https://edbi.com/)
+- [An Essay on Early European Development Finance](../../../Breviarium/an-essay-on-early-european-development-finance.md)
