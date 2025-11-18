@@ -7,9 +7,7 @@
 * Which problems were these financial instruments designed to address?
 * What mental models, economic imaginations, or institutional philosophies shaped their creation?
 
-## **Conceptual Foundations**
-
-### **Formulation**
+## **Formulation**
 
 > What is a financial instrument?
 > What distinguished the new financial instruments created in Europe between 1800 and 1860?
@@ -37,6 +35,17 @@
 ### **Coordination Model**
 
 > How was investment coordinated across sectors, clusters, and major industrial decisions in early European development finance systems?
+
+- Implicit Coordination
+- Market-Signaling Coordination
+- State-Guided Coordination
+- Bank-Led Coordination
+- Cluster-Embedded Coordination
+- Networked Familial Cordination
+- Military-Industrial Coordination
+- Infrastructure-Driven Coordination
+- Guild-Residual Coordination
+- Public–Private Syndicate Coordination
 
 ### **Relationship with the State**
 
