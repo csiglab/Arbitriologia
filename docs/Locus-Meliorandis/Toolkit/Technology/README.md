@@ -135,6 +135,12 @@ In summary, financing exports is a crucial part of a country’s economic strate
 
 - External Trade
 
+## China Innovation Point System
+
+> https://policycn.com/public/commentaries/innovation-points-system-expands-nationwide-to-boost-sme-scitech-financing-48839    (Innovation Point System)
+
+- 
+
 ## References
 
 - Economic Catch-Up and Technological Leapfrogging in Developing Countries: A Historical Overview by L. Soete and B. Verspagen.

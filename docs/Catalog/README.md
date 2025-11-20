@@ -1,5 +1,7 @@
 # Actor Index
 
+> An Integrated Catalog.
+
 - InvestHK
 - Germany Trade and Invest (GTAI)
 - SelectUSA (Department of Commerce)
