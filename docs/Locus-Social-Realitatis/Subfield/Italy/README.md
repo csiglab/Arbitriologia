@@ -1,20 +1,12 @@
 # Italy
 
-Tags: Observatorio
-ID: PRO-1331
-L: 5
-Status: Not started
-
-> …
-> 
+> ...
 
 ## R&D Actors
 
 > (1990) Italy has two innovation systems one for **small firms** and a **core one**.
-> 
 
 > Creating a comprehensive table of Italy's public **Research & Development (R&D)** actors involves listing **key institutions** engaged in **research** and **development** across various scientific and **technological fields**.
-> 
 
 | **R&D Actor** | **Type** | **Role/Function** | **Parent Organization** | **Foundation Year** |
 | --- | --- | --- | --- | --- |
@@ -44,7 +36,3 @@ Spain." *Industry and Innovation* 21.5 (2014): 359-379.
 - Silvani, Alberto, Giorgio Sirilli, and Fabrizio Tuzi. "R&D evaluation in Italy: more needs to be done." *Research Evaluation* 14.3 (2005): 207-215.
 - Del Monte, Alfredo, and Erasmo Papagni. "R&D and the growth of firms: empirical analysis of a panel of Italian firms." Research Policy 32.6 (2003): 1003-1014.
 - Cohen, Jon S. "Financing industrialization in Italy, 1894–1914: The partial transformation of a late-comer." The Journal of Economic History 27.3 (1967): 363-382.
-
-Venice
-
-- …
