@@ -5,3 +5,7 @@
 Guiding Question:
 
 - What kinds of industry characterizations are needed for a Techno-Productive Agency?
+
+## References
+
+- [Italy Industrial Cluster](../../../../Locus-Social-Realitatis/Subfield/Italy/Production/Network.md)
