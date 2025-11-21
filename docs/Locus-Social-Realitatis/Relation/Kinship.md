@@ -50,4 +50,5 @@ QA:
 - [Kinship](https://en.wikipedia.org/wiki/Kinship)
 - [Parentesco](https://es.wikipedia.org/wiki/Parentesco)
 - [Social Role](../Onticity/Aontic/Role.md)
-- [Social Norm](../Facet/Governance/Regulation/Norm.md)
+- [Social Norm](../Subfield/Meta/Governance/Regulation/Norm.md)
+

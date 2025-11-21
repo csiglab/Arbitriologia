@@ -81,5 +81,5 @@
 
 ## References
 
-- [State](../Locus-Social-Realitatis/Facet/Governance/State/README.md)
+- [State](../Locus-Social-Realitatis/Subfield/Meta/State/README.md)
 - [Why public policies fail: Policymaking under complexity](https://www.sciencedirect.com/science/article/pii/S1517758019300931)

@@ -151,7 +151,7 @@ This profile details Argentina's mastery of specific technical cores and operati
 
 ## References
 
-- [Technology](../Locus-Social-Realitatis/Facet/Knowledge/Technology.md)
+- [Technology](../../Facet/Knowledge/Technology.md)
 - (Internal references to other profiles, e.g., Brazil, would be placed here)
 - Semanario de Agricultura
 - [Telégrafo Mercantil](https://www.wikiwand.com/es/Tel%C3%A9grafo_Mercantil)
@@ -192,4 +192,3 @@ This profile details Argentina's mastery of specific technical cores and operati
   - ….
 - https://en.wikipedia.org/wiki/David_Kelly_(diplomat)
 - [Por qué Vaca Muerta y la minería no alcanzan para un desarrollo sostenido](https://www.lanacion.com.ar/economia/por-que-vaca-muerta-y-la-mineria-no-alcanzan-para-un-desarrollo-sostenido-nid16112025/)
-

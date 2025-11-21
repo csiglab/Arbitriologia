@@ -5,5 +5,4 @@
 ## References
 
 - [Government](https://en.wikipedia.org/wiki/Government)
-- [State Theory](../../../Locus-Social-Realitatis/Facet/Governance/State/README.md)
-
+- [State Theory](../../../Locus-Social-Realitatis/Subfield/Meta/State/README.md)
