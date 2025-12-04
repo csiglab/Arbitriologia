@@ -1,12 +1,25 @@
 # Price
 
-> . ...
+> A **price** is a relational property that emerges from the synchronization of expectations, preferences, and actions among a set of buyers and sellers within a given institutional and informational environment. It represents the value at which an asset, good, or service can be exchanged at a particular moment in time.
 
-## Price
+> **Note:** Price formation—and even its relation to fundamental value—varies across **asset classes** and **market structures**. For example:
+>
+> * In **equities**, prices often reflect both fundamental valuations and short-term market sentiment.
+> * In **commodities**, supply constraints and storage costs can dominate short-term pricing.
+> * In **derivatives**, prices may be largely model-driven, reflecting implied future values rather than immediate fundamentals.
 
-**Prices** play several essential functions in an **economy**. Here are some of the main ones:
+> Consequently, understanding price requires analyzing both the **microstructure of the market** and the **asset-specific factors** influencing supply, demand, and expectations.
 
-Here’s a table summarizing the essential functions of prices in an economy:
+
+## Formulation
+
+> A price is not an **intrinsic property** of the good; it emerges from interaction among agents, institutions, and rules of the market. In financial markets, a stock’s price is influenced by expectations, liquidity, and sentiment, not just the underlying fundamentals.
+
+> A price is a relational property that emerges from the synchronization of expectations, preferences, and actions among a set of buyers and sellers within a given institutional and informational environment.
+
+## Role
+
+> **Prices** play several essential functions in an **economy**. Here are some of the main ones:
 
 | **Function** | **Description** |
 | --- | --- |
@@ -40,14 +53,41 @@ This table summarizes various theories explaining how prices of goods and servic
 
 ## Price System
 
+> A price system is the organized set of rules, institutions, and conventions through which prices are communicated, compared, and adjusted across a market or economy. It includes the mechanisms for exchange, currency denomination, and legal/institutional frameworks that enable consistent valuation and trade.
+
+## Price Formation
+
+>  Price formation is the process by which the interaction of supply, demand, and other market forces generates observable transaction prices. It is the dynamic mechanism by which agents’ intentions are aggregated into a single, measurable value for an asset or good.
+
 ## Price Discovery
+
+> Price discovery is the process by which markets uncover the “true” or equilibrium value of an asset, reflecting all available information and the collective expectations of market participants. It is the informational aspect of price formation.
+
+## Type of Prices
+
+> Types of prices categorize the various ways prices can be observed or defined depending on market conditions, timing, or institutional context.
+
+Common types include:
+
+| **Type**                        | **Description**                                                                                                                     |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Market Price**                | The actual price at which an asset or good is currently traded in an active market. Reflects immediate supply and demand.           |
+| **Bid Price**                   | The highest price a buyer is willing to pay for an asset at a given moment.                                                         |
+| **Ask Price (Offer Price)**     | The lowest price a seller is willing to accept for an asset at a given moment.                                                      |
+| **Spot Price**                  | The price for immediate delivery of a good, asset, or commodity.                                                                    |
+| **Forward / Futures Price**     | The agreed-upon price for delivery of an asset at a specified future date.                                                          |
+| **Reference / Nominal Price**   | A benchmark or published price used for accounting, contracts, or regulatory purposes.                                              |
+| **Implied / Theoretical Price** | A price derived from financial models or calculations, such as option pricing models.                                               |
+| **Clearing Price**              | The price at which a market or auction matches supply and demand, allowing all intended trades to execute.                          |
+| **Indicative Price**            | A non-binding, provisional price used to guide trading or quotations, often in illiquid or OTC markets.                             |
+| **Fair Value Price**            | An estimated price reflecting the intrinsic or fundamental value of an asset, often used for valuation or risk management purposes. |
 
 ## References
 
+- [Price](https://en.wikipedia.org/wiki/Price)
 - Heal, G. M. (1969). Planning Without Prices. *The Review of Economic Studies*, *36*(3), 347–362.
 - Lange, Oskar, Fred Taylor, and Benjamin Lippincott. On the economic theory of socialism. University of Minnesota press, 1938.
-- https://www.economicforces.xyz/p/do-i-really-have-to-explain-why-price
-- On Price Efficiency
-[https://www.jstor.org/stable/2527170](https://www.jstor.org/stable/2527170)
-- https://en.wikipedia.org/wiki/Price_stability
-- https://en.wikipedia.org/wiki/Relative_price
+- [https://www.jstor.org/stable/2527170](https://www.jstor.org/stable/2527170)
+- [Price stability](https://en.wikipedia.org/wiki/Price_stability)
+- [Relative price](https://en.wikipedia.org/wiki/Relative_price)
+- [Do I really have to explain why price controls are bad?](https://www.economicforces.xyz/p/do-i-really-have-to-explain-why-price)
