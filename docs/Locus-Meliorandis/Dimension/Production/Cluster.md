@@ -391,3 +391,13 @@ industry clusters: Resources, networks, and regional advantages." *Growth and Ch
 - Feser, E. J., & Bergman, E. M. (2000). National industry cluster templates: A framework for applied regional cluster analysis. Regional studies, 34(1), 1-19.
 - Padmore, T., & Gibson, H. (1998). Modelling systems of innovation:: II. A framework for industrial cluster analysis in regions. Research policy, 26(6), 625-641.
 - Benito, G. R., Berger, E., De la Forest, M., & Shum, J. (2003). A cluster analysis of the maritime sector in Norway. International Journal of Transport Management, 1(4), 203-215.
+- Division of Labor: Assign firms to functions that maximize specialization and minimize redundancy.
+- Connectivity Optimization: Balance network density—too sparse → fragile supply chain; too dense → coordination overhead.
+- Modularity: Encourage clusters by function; modular clusters facilitate scalability, knowledge transfer, and innovation.
+- Redundancy / Resilience: Ensure alternative pathways exist for critical inputs; prevents systemic failures.
+- Aggregator Nodes: Lower barriers for small firms; accelerate innovation adoption and market reach.
+- Knowledge Flows: Explicitly structure links for R&D spillovers, not just material supply.
+- https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2021.666712/full
+- https://www.tandfonline.com/doi/full/10.1080/09537287.2024.2387299
+- https://arxiv.org/abs/1706.00203
+

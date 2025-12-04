@@ -8,12 +8,9 @@
 
 > A **"Production Model"** is a structured and systematic framework that outlines the processes, methods, and strategies employed in the manufacturing of goods or delivery of services.
 
-> <Production Model in the Knowledge Economy>
-
-
 ## Stages
 
-1. **Hunter and Gathers**: …
+1. **Hunter and Gathers**: Nomadic bands live off wild plants and animals. Labor is collective, tools are stone, wood, bone. Knowledge is oral; carrying capacity <1 person/km². Surplus is nil; social units rarely exceed 30–50 people.
 2. **Subsistence Agriculture** is characterized by small-scale, self-sufficient farming. Produce is primarily for the farmer's consumption, with little surplus for trade.
 3. **Agricultural Economy:** Larger-scale farming practices aimed at producing a surplus for trade. This model often uses more advanced tools and techniques than subsistence agriculture.
 4. **Proto-Industrial Economy**: This phase includes the period before the widespread use of machinery in production. It often involves manual labor and essential tools, with limited mechanization.
@@ -21,6 +18,7 @@
 6. **Assembly Economy**: The Assembly economy involves manual tasks with minimal dynamism and innovation, typically characterized by repetitive and routine assembly processes. **Mediocridad.**
 7. **Knowledge Economy**: This model focuses on producing and managing information and knowledge. Industries in this model heavily rely on intellectual capabilities, innovation, and technology. Examples include software development, research, and high-tech manufacturing.
 8. **Open-Sourced / Collaboratory Production Model**: The open-sourced/collaboratory production model involves decentralized collaboration among individuals or organizations, sharing resources, knowledge, and efforts openly to create and improve products or solutions collectively.
+9. **Digital Society**: Ubiquitous sensors, AI, and Web3 protocols embed computation into agriculture, industry, and daily life. Value migrates to trusted data, decentralized identity, and algorithmic governance. Political questions pivot around privacy, algorithmic bias, and the ownership of collective intelligence.
 
 ## Development Continuum
 
@@ -28,6 +26,7 @@
 
 | Type of Economy | Description |
 | --- | --- |
+|**R&D-Driven Economy**|Science budgets >2.5 % of GDP; private VC & public “mission” money co-fund deep-tech (AI chips, quantum, fusion).|
 | **Frontier Economies** | Economies at the cutting edge of technological innovation, leading in R&D and characterized by high productivity and advanced infrastructure (e.g., USA, Germany). |
 | **Advanced Economies** | Highly developed economies that are not at the very edge of technological innovation, with strong infrastructure and significant investment in technology (e.g., France, Japan). |
 | **Emerging Economies** | Economies that are rapidly growing and industrializing, with increasing investment in technology and infrastructure, still face development challenges (e.g., China, Brazil). |
@@ -39,3 +38,6 @@
 - [Factory System](https://es.wikipedia.org/wiki/Factory_system)
 - [Putting-out System](https://es.wikipedia.org/wiki/Sistema_putting-out)
 - https://www.palladiummag.com/2021/03/24/the-end-of-industrial-society/
+- Son, Hosung, Yanghon Chung, and Sangpil Yoon. "How can university  technology holding companies bridge the Valley of Death? Evidence from  Korea." *Technovation* 109 (2022): 102158.
+- Demsetz, Harold. "Some aspects of property rights." *The Journal of Law and Economics* 9 (1966): 61-70.
+- Congost, Rosa. "Property rights and historical analysis: What rights? What history?." Past & Present 181 (2003): 73-106.
