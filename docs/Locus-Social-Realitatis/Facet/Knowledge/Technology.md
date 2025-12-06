@@ -25,6 +25,19 @@ Notions:
 
 > Innovation: The transformatio of the transformation.  **(X → Y) → (X → better Y); AKA**  tech R&D.
 
+## Terminology
+
+| **Term**                                       | **Definition**                                                                                                                                                                                   |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Technology**                                 | A complex notion encompassing technical objects, techniques, and the socio-technical processes that enable production and innovation.                                                            |
+| **Technical Object**                           | Physical or digital artifacts, systems, or devices created to perform specific functions; the material manifestation of technology.                                                              |
+| **Technical Research**                         | Systematic inquiry into principles, mechanisms, and possibilities of technical functioning; generates new techniques.                                                                            |
+| **Technique**                                  | A structured method of action that mobilizes knowledge, tools, and materials to achieve a transformation in matter, energy, or information.                                                      |
+| **Technical Knowledge**                        | Mastery and understanding of a technique; combines know-how with practical skill in creating or using technical objects.                                                                         |
+| **Constitutive Technique**                     | Underlies technical objects or processes; embedded in the structure or function of the object or system (e.g., doping in semiconductors, alloying in metallurgy, fermentation in bioprocessing). |
+| **Operative Technique**                        | Governs the use, operation, and coordination of technical objects within productive systems (e.g., CNC machine operation, assembly-line management).                                             |
+| **Production Technical Object (Capital Good)** | Technical objects used directly for production rather than consumption.                                                                                                                          |
+
 ## Technical Research
 
 > What is Technical Research? Technical Research refers to the systematic inquiry into the underlying principles, mechanisms, and possibilities of technical functioning—that is, into the ways by which matter, energy, or information can be transformed, controlled, or organized to achieve desired outcomes.
@@ -84,6 +97,22 @@ Notions:
 | **Healthcare Devices**          | Biomedical engineering, signal acquisition, materials science | Imaging, biosensing, additive manufacturing                    | Calibration, patient interfacing, feedback control           | MRI scanners, prosthetics, smartwatches          |
 | **Rail & Transport Systems**    | Mechanical engineering, systems automation, power electronics | Traction motor design, signaling circuits                      | Speed control, route management, energy recovery             | High-speed trains, metro systems                 |
 | **Information Systems**         | Software engineering, data modeling, network design           | Modularity, encryption, data structuring                       | Deployment, version control, orchestration                   | Platforms, enterprise software, web applications |
+
+## QA
+
+### Why is a bicycle a technical object?
+
+A bicycle is a technical object because it is a designed artifact that embodies techniques and materials to perform a specific function—transporting a person efficiently.
+
+### Which products are not technical objects?
+
+> Products that exist in their natural state or require no applied techniques to function are not considered technical objects.
+
+Examples include:
+
+- Water without any processing
+- Fresh fruits and vegetables
+- Raw minerals or unprocessed natural resources
 
 ## References
 
