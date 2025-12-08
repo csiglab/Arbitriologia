@@ -37,6 +37,7 @@ Notions:
 | **Constitutive Technique**                     | Underlies technical objects or processes; embedded in the structure or function of the object or system (e.g., doping in semiconductors, alloying in metallurgy, fermentation in bioprocessing). |
 | **Operative Technique**                        | Governs the use, operation, and coordination of technical objects within productive systems (e.g., CNC machine operation, assembly-line management).                                             |
 | **Production Technical Object (Capital Good)** | Technical objects used directly for production rather than consumption.                                                                                                                          |
+| **Constitutive Technical  Object**             | A technical object that forms an integral, functional part of a final product (e.g., a microchip in a smartphone, a battery in an EV, or an enzyme in a biopharmaceutical).                      |
 
 ## Technical Research
 
