@@ -64,4 +64,4 @@ Value Chain Mapping
 
 ## References
 
-- [Cluster](../Locus-Meliorandis/Dimension/Production/Cluster.md)
+- [Cluster](../Locus-Meliorandis/Dimension/Actor//Cluster.md)
