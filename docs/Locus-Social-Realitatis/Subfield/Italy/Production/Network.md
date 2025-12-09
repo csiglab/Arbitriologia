@@ -93,5 +93,5 @@ Key characteristics to describe Italian clusters:
 
 ## References
 
-- [Cluster](../../../../Locus-Meliorandis/Dimension/Production/Cluster.md)
+- [Cluster](../../../../Locus-Meliorandis/Dimension/Actor/Cluster.md)
 - [An Essay to Profile Clusters](../../../././../Breviarium/an-essay-on-cluster-profile.md)
