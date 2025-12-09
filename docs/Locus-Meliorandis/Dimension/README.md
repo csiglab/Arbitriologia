@@ -2,7 +2,7 @@
 
 > What are the domains—or facets of social reality—that are the targets of reflection and evolution?
 
-## Domain Space
+## Domain Space (Dimension)
 
 1. **Production** – Core economic activity; interventions here increase material output and technological capability.
 2. **Infrastructure** – Enables productive capacity and social welfare; investments in energy, transport, digital, and utilities are foundational.
