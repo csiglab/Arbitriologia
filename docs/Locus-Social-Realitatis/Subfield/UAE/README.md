@@ -42,6 +42,33 @@
 | Dubai Department of Economy and Tourism (DET) | Manages Dubai’s economic strategy & tourism                | 2023 (restructured) | —      | —                        | Government of Dubai       |
 | UAE National Competitiveness Council | Coordinates national competitiveness initiatives         | 2010        | —            | —                        | Office of the Prime Minister |
 
+## 💰 Financial Actor Space
+
+**Guiding Questions:**
+
+- Which are the financial actors in the UAE?  
+- What is their role in the economy?
+
+| Actor                                | Type                        | Description                                                                                                                                     | Established | Defunct Date | Role |
+| ------------------------------------ | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | ---- |
+| **Central Bank of the UAE (CBUAE)**  | Central Bank                | Regulates monetary policy, issues currency, supervises banks, and ensures financial stability across the UAE.                                   | 1980        | —            | Monetary authority; financial regulator and systemic stabilizer |
+| **Abu Dhabi Global Market (ADGM)**   | Financial Free Zone         | International financial center in Abu Dhabi operating under English common law; hosts banks, asset managers, fintech, and crypto firms.        | 2015        | —            | Attracts global capital; fosters innovation in finance and digital assets |
+| **Dubai International Financial Centre (DIFC)** | Financial Free Zone  | Premier financial hub in Dubai with independent legal and regulatory framework; home to major global banks and asset managers.                | 2004        | —            | Regional financial hub; gateway for international finance into MENA |
+| **Emirates NBD**                     | Commercial Bank             | One of the largest banking groups in the UAE; offers retail, corporate, and investment banking services.                                        | 2007 (merger)| —           | Key provider of credit and financial services to individuals and businesses |
+| **First Abu Dhabi Bank (FAB)**       | Commercial Bank             | Largest bank in the UAE by assets; provides global banking services with strong corporate and institutional focus.                              | 2017 (merger)| —           | Systemically important bank; supports large-scale infrastructure and trade |
+| **Dubai Islamic Bank (DIB)**         | Islamic Bank                | First Islamic bank in the world; operates under Sharia-compliant principles across retail, corporate, and investment banking.                   | 1975        | —            | Leader in Islamic finance; promotes ethical banking |
+| **Abu Dhabi Investment Authority (ADIA)** | Sovereign Wealth Fund   | One of the world’s largest sovereign wealth funds; manages excess oil revenues globally across equities, real estate, infrastructure, and PE.   | 1976        | —            | Long-term wealth preservation and intergenerational savings |
+| **Mubadala Investment Company**      | Sovereign Investment Fund   | Abu Dhabi’s strategic investment vehicle; invests in aerospace, semiconductors, renewables, and global tech (e.g., stakes in NVIDIA, AMD).       | 2002        | —            | Economic diversification; strategic industrial development |
+| **Abu Dhabi Developmental Holding Company (ADQ)** | Sovereign Holding Company | Owns and manages a portfolio of key economic sectors (utilities, transport, healthcare, financial services); includes stakes in FAB and ADGM.   | 2018 (restructured from IPIC) | — | Drives integrated economic development and public-private partnerships |
+| **Dubai Financial Market (DFM)**     | Stock Exchange              | Publicly listed stock exchange; primarily trades UAE equities and Islamic bonds (sukuk).                                                        | 2000        | —            | Facilitates capital raising for UAE corporates; promotes retail investment |
+| **Abu Dhabi Securities Exchange (ADX)** | Stock Exchange           | Main stock exchange for Abu Dhabi-listed companies; includes large caps like FAB, TAQA, and ADNOC.                                              | 2000        | —            | Capital market platform for federal and Abu Dhabi entities |
+| **NASDAQ Dubai**                     | Stock Exchange              | International exchange focused on equities, bonds, and derivatives; operates under DIFC regulation.                                             | 2005        | —            | Connects UAE to global investors; hub for sukuk and international listings |
+| **Etihad Credit Insurance (ECI)**    | Export Credit Agency        | Federal agency that insures UAE businesses against non-payment in trade and export transactions.                                                | 2018        | —            | De-risks non-oil exports; supports SMEs in international trade |
+| **Emirates Development Bank (EDB)**  | Development Finance Institution | Federal bank focused on financing SMEs and priority sectors (manufacturing, healthcare, food security, renewables, digital).                   | 2021 (relaunched) | —        | Provides long-term, low-cost financing to drive economic diversification |
+| **Dubai SME**                        | Public Development Agency   | Government body under Dubai Economy that supports SME growth through funding access, incubation, and policy.                                   | 2002        | —            | Enabler of entrepreneurship and small business development in Dubai |
+| **e& (formerly Etisalat)**           | Telecom + Digital Finance   | Offers digital banking via "Liv." and fintech investments; expanding into digital financial services.                                            | 1976        | —            | Drives digital financial inclusion and fintech innovation |
+| **UAE Exchange / Unimoni**           | Payment & Remittance Firm   | Major remittance and foreign exchange provider; critical for expatriate financial flows.                                                         | 1980s       | — (rebranded)| Facilitates cross-border payments; key in remittance economy |
+
 ## 🔬 R&D Institution Space
 
 **Guiding Questions:**
