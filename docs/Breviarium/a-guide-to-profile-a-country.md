@@ -9,7 +9,6 @@
 | **Country Name**   |                                                  |
 | **Tags**           | e.g. Observatorio, Economic Analysis, Statecraft |
 | **Profile ID**     |                                                  |
-| **Language Level** | Scale 1-10                                       |
 | **Status**         | Not Started / In Progress / Completed            |
 
 ## 📜 Economic History
@@ -19,11 +18,10 @@
 * What were the key drivers of economic growth in each period?
 * What transitions occurred (agrarian → industrial → service-based)?
 
-| **Period**            | **Key Events and Developments** |
-| --------------------- | ------------------------------- |
-| Pre-modern Era        |                                 |
+| **Period**                                 | **Production Space**                | **Technical Mastery**            | **Technical Dynamics**                  | **Economic Idea Space**                       |
+| ------------------------------------------ | ----------------------------------- | -------------------------------- | --------------------------------------- | --------------------------------------------- |
 
-## 🏛️ Economic Statecraft Institutions
+## 🏛️ Economic Institution Space
 
 **Guiding Questions:**
 
@@ -32,10 +30,10 @@
 * How are finance, trade, and innovation coordinated?
 * Are institutions independent or politically controlled?
 
-| Institution            | Established | Defunct Date | President/Leader | Parent Organization | Key Roles and Functions |
-| ---------------------- | ----------- | ------------ | ---------------- | ------------------- | ----------------------- |
+| Institution         | Description   | Established | Defunct Date | Leader | Parent Organization |
+| ------------------- | ------------- | ----------- | ------------ | ------ | ----------------- |
 
-## 🔬 Research & Development (R\&D) Actors
+## 🔬 R&D Institution Space
 
 **Guiding Questions:**
 
@@ -44,21 +42,20 @@
 * Is there strong academia–industry collaboration?
 * What are the country’s flagship scientific domains?
 
-| Institution                | Established | President/Leader | Parent Organization | Primary Focus Areas |
-| -------------------------- | ----------- | ---------------- | ------------------- | ------------------- |
+| Actor            | Description  | Established | Defunct Date | Parent Organization |
+| ---------------- | ----------- | ----------- | ----------- | ----------------- |
 
-## Human Capital Formation
+## 🧠 Human Training System
 
 **Guiding Questions:**
 
-- *Which institutions were responsible for technical and vocational education, and how did their curricula evolve over time?*
-- *How was scientific education structured, and what disciplines were prioritized?*
-- *What policies or social factors influenced access to technical and scientific education?*
-- *How did educational outcomes contribute to national human capital development and industrial or scientific capacity?*
+* *Which institutions were responsible for technical and vocational education, and how did their curricula evolve over time?*
+* *How was scientific education structured, and what disciplines were prioritized?*
+* *What policies or social factors influenced access to technical and scientific education?*
+* *How did educational outcomes contribute to national human capital development and industrial or scientific capacity?*
 
 | Year | Area | Institution | Description |
 | ---- | ---- | ----------- | ----------- |
-
 
 ## 🏭 Industrial Policy History
 
@@ -72,8 +69,7 @@
 | Period                               | Key Policies and Developments |
 | ------------------------------------ | ----------------------------- |
 
-
-## 📊 Key Economic Sectors
+## 📊 Production Space
 
 **Guiding Questions:**
 
@@ -81,35 +77,10 @@
 * Which sectors are export-oriented or import-dependent?
 * How diversified or concentrated is the economy?
 * Are there emerging high-value sectors?
+* What is the technical capacity / added value in the sector?
 
-| Sector                   | Description and Key Developments | Approx. GDP Contribution (%) |
-| ------------------------ | -------------------------------- | ---------------------------- |
-
-
-## 🧭 Strategic Challenges and Opportunities
-
-**Guiding Questions:**
-
-* What structural constraints affect development?
-* What opportunities exist for growth or reform?
-* How resilient is the economy to global shocks?
-* Where is strategic investment most needed?
-
-| Domain                       | Key Challenges | Strategic Opportunities |
-| ---------------------------- | -------------- | ----------------------- |
-
-## Techno-Productive Profile
-
-### What is the productive technical mastery in both constitutive and operative techniques? Which technical objects and operative techniques are mastered?
-
-Format:
-
-- <Firms (Firm: Technique Type)>
-- <Technical Process: Constitutive Technique(s)>
-- <Technical Object: Constitutive Technique(s)>
-
-| Industry                                     | Firms | Technical Core | Operative Technique(s) |  (Product(s)) | Note |
-|---------------------------------------------|-------|----------------|-----------------------|----------------|------|
+| Sector       | Description | Technical Mastery | GDP Contribution (%) |
+| ------------ | ----------- | ---------------- | ------------------ |
 
 ## References
 
