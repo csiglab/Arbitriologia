@@ -1,18 +1,12 @@
 # Sweden
 
-Tags: Observatorio
-Extra: Reseña
-ID: PRO-1311
-L: 6
-Status: Not started
-
 > I was well pleased with the land and the land with me. Governor General Per Brahe - Per Brahe the Younger
-> 
 
 ## Economic History
 
 > Here's a detailed table summarizing key periods and developments in Sweden's economic history:
-> 
+
+>
 
 | **Period** | **Key Events and Developments** |
 | --- | --- |

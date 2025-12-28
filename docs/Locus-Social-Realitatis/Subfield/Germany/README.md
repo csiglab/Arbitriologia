@@ -1,12 +1,6 @@
 # Germany
 
-Tags: Observatorio
-ID: PRO-1336
-L: 7
-Status: Not started
-
 > …
-> 
 
 ## Economic History
 
