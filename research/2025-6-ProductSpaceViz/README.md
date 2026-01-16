@@ -5,4 +5,4 @@
 
 ## References
 
-- https://github.com/csiglab/visualization-lab/tree/main/product-space
+- https://github.com/csiglab/dominix
