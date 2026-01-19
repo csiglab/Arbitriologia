@@ -1,4 +1,4 @@
-# On The Nature of the Problems of the Social Field
+# On The Nature of the Problems (And Change) of the Social Field
 
 QA:
 
