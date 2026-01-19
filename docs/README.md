@@ -35,6 +35,8 @@
 - [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
+- [An Essay on Local Action and Global Outcome](Breviarium/an-essay-composition-local-action-global-outcome.md)
+- [On The Nature of the Problems of the Social Field](Breviarium/on-the-nature-of-the-problems-of-the-social-field.md)
 
 ## 💡 Research
 
