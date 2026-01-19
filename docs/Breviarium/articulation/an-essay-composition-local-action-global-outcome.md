@@ -26,6 +26,16 @@ Across these cases, a shared pattern emerges:
 - Absence of recursive feedback and learning
 - Failure of cumulative causation
 
+## On the Failures Modes of Policy Articulation
+
+> ...
+
+- Temporal Failure: In tryign to stablish an industry - how to frame  - technical formation - and firm birth, ...
+- Coordination Failure
+- Scale Mismatch Failure
+- Institutional Lock-in Failure
+- Governance Failure
+
 ## Case Study
 
 - Brazil: Development Instruments Without Results.
