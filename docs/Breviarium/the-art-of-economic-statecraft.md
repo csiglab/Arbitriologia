@@ -29,7 +29,7 @@ TODO
 [https://en.wikipedia.org/wiki/Indicative_planning](https://en.wikipedia.org/wiki/Indicative_planning)
 - General Planning Commission (France)
 [https://en.wikipedia.org/wiki/General_Planning_Commission_(France)](https://en.wikipedia.org/wiki/General_Planning_Commission_(France))
-- Arbitrismo
+- Arbitrismo  (https://es.wikipedia.org/wiki/Arbitrismo) -> Proyectismo -> Regeneracionismo.
 - Mercantilismo
 - Geoeconomics
 - Digital Statecraft
