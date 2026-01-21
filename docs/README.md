@@ -36,7 +36,7 @@
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 - [An Essay on Local Action and Global Outcome](Breviarium/articulation/an-essay-composition-local-action-global-outcome.md)
-- [On The Nature of the Problems of the Social Field](Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
+- [On The Nature of the Problems (And Change) of the Social Field](Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
 
 ## 💡 Research
 
