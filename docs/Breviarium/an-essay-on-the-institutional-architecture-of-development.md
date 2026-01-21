@@ -1,15 +1,10 @@
 # An Essay On the Institutional Architecture of Development
 
-Tags: Lab. Políticas de Crecimiento
-Extra: PRO-7
-ID: PRO-10
-L: 57
-Status: Not started
+> ...
 
 ## A Gran Development Strategy
 
 > ¿Can we transition from a low e **value-added** economy to a **high-value-added** one?
-> 
 
 - Technological Upgrading
 - Adding new Industry
@@ -26,25 +21,30 @@ Status: Not started
 - Single Overall Policy Coordination Entity
 - …
 
+## Ontology
+
+- Initiative
+- Program
+- Agenda
+
 ## Core Development Problems
 
 > …
-> 
 
 Key Policy Problems:
 
 - Master - Knowledge Economy Productive Model
-    - Technical Learning →  Industrial Upgrading
-    - Productive Ecosystems → Clusters
-    - …
+  - Technical Learning →  Industrial Upgrading
+  - Productive Ecosystems → Clusters
+  - …
 - Think and Build a Dynamic (Non-Linear)  Research Ecosystem:
-    - Knowledge Diffusion In Productive Networks
-    - Dynamic Bi-Directional R&D Collaboration - Industry  ←→ NIS.
-    - Cluster-Based R&D
-    - R&D Consortiums
+  - Knowledge Diffusion In Productive Networks
+  - Dynamic Bi-Directional R&D Collaboration - Industry  ←→ NIS.
+  - Cluster-Based R&D
+  - R&D Consortiums
 - Diversify Economic Structure  & Exports
-    - Deep and Wide Local Supply Chains  (Dense Technological Content)  !!!
-    - Increase Exports
+  - Deep and Wide Local Supply Chains  (Dense Technological Content)  !!!
+  - Increase Exports
 - Master Core Technology
 - Be the Organized Center of Economic Discussion
 - Build a Highly Sophisticated Economy That Loves Learning & Innovating !!!
@@ -78,4 +78,5 @@ Key Policy Problems:
 
 ## References
 
-- …
+- https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy
+- ...

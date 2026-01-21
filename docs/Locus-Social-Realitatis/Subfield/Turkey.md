@@ -1,12 +1,5 @@
 # Turkey
 
-Tags: Observatorio
-ID: PRO-1326
-L: 6
-Status: Not started
-
-> …
-
 [https://www.imf.org/external/datamapper/profile/TUR](https://www.imf.org/external/datamapper/profile/TUR)
 
 ## R&D Actors
@@ -58,3 +51,7 @@ Status: Not started
 
 - [Turkish Aerospace Industries](https://en.wikipedia.org/wiki/Turkish_Aerospace_Industries)
 - Ottoman Empire
+- https://www.insightturkey.com/commentaries/turkiyes-national-technology-move-amid-global-shifts
+- KOSGEB (...)
+- https://www.setav.org/en/
+- https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy
