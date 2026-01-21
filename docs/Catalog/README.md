@@ -12,3 +12,7 @@
 - KOTRA (Korea Trade-Investment Promotion Agency)
 - Austrade (Australian Trade and Investment Commission)
 - Singapore Economic Development Board (EDB) - Singapore
+
+## References
+
+- [Knowledge Unit](../Locus-Social-Realitatis/Facet/Knowledge/Unit/README.md)

@@ -1,18 +1,14 @@
-# National Innovation System (NIS)
-
-Tags: Lab. Lecturas
-ID: PRO-1096
-L: 32
-Status: Not started
+# National Innovation Ecosystem (NIE)
 
 > Innovation as a way of adaption.
-> 
+
+>  The “National Innovation System” is not a system in the strict systems-theoretic sense, but a territorially anchored analytical construct used to study the institutional and organizational conditions shaping innovation within a nation-state.
 
 > **National Innovation Systems (NIS)** are the networks of institutions, organizations, and individuals that interact and collaborate to produce and diffuse new knowledge, technologies, and products within a specific country or region.
 > 
 
 > **NIS** can be strengthened and made more effective through the development of supportive policies and institutions that encourage collaboration, knowledge sharing, and investment in research and development.
-> 
+>
 
 > Effective innovation systems require a balance between competition and cooperation, as well as a mix of public and private investments in research and development.
 > 
