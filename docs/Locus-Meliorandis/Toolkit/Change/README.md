@@ -9,7 +9,17 @@ QA:
 - Can an economy self-organize from low to high complexity on its own, or does it require intervention?
 - How can laissez-faire be defended?
 - How to think about change in the social field? How to think about change?
+    - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
+    - Hierharchy and Interaction Between the Actors.
+    - Minimal Catalist Set - Reaction - Propagation  Type of Analysis.
 
+Actor:
+
+    - Operation
+    - Perception
+    - Agential Framework (Agenda, Program, Project, Agential Principle)
+
+- Which is the institutional design that drives the transformation? Which are the minimum set of actors - that drives change? How that actor set (change drivers) get's changed?
 
 - Antincesity Reality Framework
 - Capability Escalation Framework (CEF)
