@@ -43,7 +43,7 @@ QA:
 | **Entity Type**                                | **Instance(s)**                                                                                     | **Functional Description**                                                                       | **Market Role**                                                                     | **Interaction Model(s)**                                                                            |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Research Entities (REs)**                    | Fraunhofer Institutes; CSIC centers; CNRS labs; Technology Centres (FEDIT); Corporate research labs | Perform exploratory, applied, and translational R&D; maintain long-term scientific capabilities. | Primary producers of knowledge assets; upstream suppliers of technological options. | • Contract research  • Joint research agreements  • Option-based licensing  • Mission-linked grants |
-| **Research Portfolios / Programs**             | Mission-oriented programs; Strategic research lines; Flagship programs                              | Bundle projects by horizon, risk, and application logic.                                         | Internal marketization unit; portfolio-level risk management.                       | • Stage-gate funding  • Internal option allocation  • Portfolio rebalancing cycles                  |
+| **Research Portfolios / Programs / Research Agency /Research Holding Group**             | Mission-oriented programs; Strategic research lines; Flagship programs                              | Bundle projects by horizon, risk, and application logic.                                         | Internal marketization unit; portfolio-level risk management.                       | • Stage-gate funding  • Internal option allocation  • Portfolio rebalancing cycles                  |
 | **Technology Intermediaries**                  | TTOs; IP brokers; Translational institutes                                                          | Translate research outputs into market-legible assets.                                           | Market interface; transaction cost reducer.                                         | • IP brokerage  • Licensing marketplaces  • Proof-of-concept pipelines                              |
 | **R&D Investment Vehicles**                    | Public–private funds; Corporate VC; Sovereign innovation funds                                      | Allocate capital under uncertainty across long horizons.                                         | Risk capital providers; uncertainty pricing layer.                                  | • Staged financing  • Real-options contracts  • Co-investment syndication                           |
 | **Industrial Integrators / Lead Firms**        | Siemens; Huawei; Bosch; Airbus; Samsung                                                             | Absorb, scale, and integrate research into production systems.                                   | Downstream demand anchors.                                                          | • Lead-customer contracts  • Joint development agreements  • Platform integration                   |
@@ -64,6 +64,14 @@ QA:
 > Should the Research Entity be aprt of a larget group - tha handles investment etc? What tyep of relation (partial control, total control)?
 
 > Can This Model Coexist with the `Public Interest Fiduciary Holding Model`? Under this configuration, the research agency is constituted as a fiduciary holding organization, responsible for stewardship and capital allocation, whereas the constituent research entities within the group are operated by independent R&D operators, separated from ownership and fiduciary control.
+
+Structure:
+
+* Underlying Reseerch Entity(s) - Right to Control - Not Ownership.
+* Downstream Market Interface:
+  * ...
+  * ...
+* Interaction with the Fiduciary Holding
 
 ## References
 

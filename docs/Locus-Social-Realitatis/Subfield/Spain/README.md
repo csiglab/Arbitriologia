@@ -198,6 +198,17 @@
 | **21st c.**                   | **Biotechnology / Pharma**           | Biotech startups, research institutes             | Genetic engineering, biopharma                      | Bioprocessing, R&D, public-private collaboration   | Biologics, vaccines, bio-platforms          | Emerging / Innovation       | Supported by research institutions and EU funds.                                                  |
 | **21st c.**                   | **Digital / Software**               | Spanish tech firms, startups, multinationals      | Software development & digital services             | Agile development, cloud, AI                       | Software products, digital platforms        | Core / Growing              | “Industry without chimneys”; critical for modern Spanish economy.                                 |
 
+## Evolution of Industrial Research
+
+| Etapa     | Rasgo dominante                |
+| --------- | ------------------------------ |
+| Siglo XIX | Técnica sin investigación      |
+| 1939–59   | Autarquía, atraso              |
+| 1959–75   | Nacimiento de I+D industrial   |
+| 1975–86   | Reconversión                   |
+| 1986–2000 | Europeanización                |
+| 2000–2010 | Concentración                  |
+| 2010–hoy  | Profesionalización con límites |
 
 ## References
 

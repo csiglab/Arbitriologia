@@ -133,6 +133,7 @@
 - [12] Jones, C. I. & Williams, J. C. (1998) ‘Measuring the Social Return to R&D’, Quarterly Journal of Economics 113(4): 1119‑1135.
 - [13] Grossman, G. M. & Helpman, E. (1991) ‘Quality Ladders in the Theory of Growth’, Journal of Political Economy 99(3): 433‑449.\
 - [14] [9] Liang, J. & Mu, X. (2020) ‘Complementary Information and Learning Traps’, Quarterly Journal of Economics 135(4): 1929‑1984.
+- https://repositorio.uam.es/server/api/core/bitstreams/fb0cfa83-44f9-468b-864a-2e891191b1e6/content
 
 ## Related Terms
 

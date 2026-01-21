@@ -111,8 +111,32 @@ Yes, **Tecnalia**, like any large R\&D organization, can be improved. Below are 
   * Use AI-driven project matching to link researchers with complementary skills.
 * **Benefit**: More innovation from interdisciplinary teams, fewer redundant efforts.
 
+## History
+
+
+> Hitoria de la investigacion indutrial en españa?
+
+
+- Labein – con origen en 1955; uno de los más antiguos vinculados a investigación industrial.
+
+- Inasmet – fundado en 1962, especializado en materiales avanzados y procesos industriales.
+
+- Robotiker – creado en 1985, con foco en automatización y robótica.
+
+- Fatronik – desde 1986, con actividad en electrónica industrial y tecnologías avanzadas.
+
+- Cidemco – fundado en 1988, centrado en ingeniería industrial y manufactura.
+
+- ESI – creado en 1993, con competencias en tecnología de ingeniería de software y sistemas.
+
+- Leia – fundado en 1995, orientado a tecnologías de información y comunicaciones.
+
+- Euve – creado en 1999, con actividad en servicios técnicos especializados.
+
+
 ## References
 
 - [Tecnalia](https://www.tecnalia.com/)
 - [Pulications](https://www.tecnalia.com/en/publications)
-
+- https://monitor-industrial-ecosystems.ec.europa.eu/technology-centre/tecnalia-sustainable-mobility
+- https://fes-sociologia.com/uploads/attached/16-CAP14(OTERO).pdf
