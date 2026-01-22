@@ -9,9 +9,30 @@ QA:
 - Can an economy self-organize from low to high complexity on its own, or does it require intervention?
 - How can laissez-faire be defended?
 - How to think about change in the social field? How to think about change?
-    - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
-    - Hierharchy and Interaction Between the Actors.
-    - Minimal Catalist Set - Reaction - Propagation  Type of Analysis.
+  - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
+  - Hierharchy and Interaction Between the Actors.
+  - Minimal Catalist Set - Reaction - Propagation  Type of Analysis.
+- What conditions determine whether a social field endogenously evolves toward a particular state?
+- Which are the different models to thinkg about change in the social field? Is the `word` `model` right here? Take cases of Meji Revolution; Tudor Policy?  Can complex transformation happens in a self emergent way (economic complexity)? Specific models to reason about the change in the economic complexity of a country?
+  - Which types of models are used to describe change in the social field?
+  - **Key  model bulding blocks**:  (institutional scaffolding, dynamics, evolution, co-evolution, catalyst, coordination cost, attractor, configuration, state space, sub state space, feedback, self reinforcement, local optimum, ...)
+  - **Some models**: ...
+  - **Meta Models**: ...
+  - **Intervention Model**: ...
+- ...
+
+> Complexity grows by lowering coordination costs ??? Is this right?
+
+> Embedded autonomy ?
+
+| Model                            | Change Mode   | Typical Case      |
+| -------------------------------- | ------------- | ----------------- |
+| Shock-Induced Reorganization     | Discontinuous | Meiji Japan       |
+| Gradual Institutional Drift      | Incremental   | Tudor England     |
+| Directed Complexity Accumulation | Strategic     | Korea             |
+| Market-Led Emergence             | Bottom-up     | Early Netherlands |
+| Hybrid Co-evolutionary           | Mixed         | Germany (19th c.) |
+
 
 Actor:
 
