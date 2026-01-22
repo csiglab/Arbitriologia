@@ -1,4 +1,4 @@
-# Modelling Social Change
+# Social Change
 
 QA:
 
