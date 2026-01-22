@@ -1,4 +1,4 @@
-# Techno-Productivist Social Field Agential Transformation Framework (TP-SF-ATF)
+# Modelling Social Change
 
 QA:
 
