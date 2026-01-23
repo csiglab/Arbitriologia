@@ -5,7 +5,6 @@
 QA:
 
 - How **second-order-changes** happends?
-- How to determine the `Viability Kernel`?
 - How should an intervention be defined within a social field, and how can external intervention be distinguished from endogenous change?
 - Under what conditions can first-order changes accumulate or interact so as to induce second-order changes in the social field?
 
@@ -24,7 +23,7 @@ QA:
 | **State Space**         | The set of all admissible states of the social field at a given level of description.                          | Defines what is possible within the field.                     |
 | **Configuration**       | A structured representation of a state emphasizing relational patterns rather than isolated variables.         | Supports typological and comparative analysis.                 |
 | **Sub–State Space**     | A constrained region of the state space defined by institutional, normative, or material limits.               | Captures regime-like stability and bounded variation.          |
-| **Viability Kernel**    | The subset of states from which the social field can reproduce itself over time without external intervention. | Distinguishes stability, crisis, and breakdown.                |
+| **Reachability Set**    | The states that can be reach from a given state under the **current dynamics** of the social field, absent second-order change or external intervention. | Distinguishes stability, crisis, and breakdown.                |
 | **Attractor**           | A state or set of states toward which the dynamics of the field tend to evolve over time.                      | Explains persistence, convergence, and patterned reproduction. |
 | **First-Order Change**  | Transitions between states under existing dynamics.                                                            | Describes routine adaptation and internal variation.           |
 | **Second-Order Change** | Changes in the dynamics that govern state transitions.                                                         | Captures structural transformation of the field.               |
