@@ -16,17 +16,17 @@ QA:
 
 > How to characterize chain in a given social 'field'? In this document, we propose a set of concepts that together form a coherent analytical grammar—a grammar of change—for the description, analysis, and modeling of social field dynamics.
 
-| Term                    | Description                                                                                                    | Role in the Grammar                                            |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **State**               | A concrete configuration of agents, resources, rules, and relations at a given time.                           | Basic unit of description; enables comparison across time.     |
-| **Dynamics**            | The set of mechanisms or rules governing transitions between states.                                           | Determines how change unfolds over time.                       |
-| **State Space**         | The set of all admissible states of the social field at a given level of description.                          | Defines what is possible within the field.                     |
-| **Configuration**       | A structured representation of a state emphasizing relational patterns rather than isolated variables.         | Supports typological and comparative analysis.                 |
-| **Sub–State Space**     | A constrained region of the state space defined by institutional, normative, or material limits.               | Captures regime-like stability and bounded variation.          |
-| **Reachability Set**    | The states that can be reach from a given state under the **current dynamics** of the social field, absent second-order change or external intervention. | Distinguishes stability, crisis, and breakdown.                |
-| **Attractor**           | A state or set of states toward which the dynamics of the field tend to evolve over time.                      | Explains persistence, convergence, and patterned reproduction. |
-| **First-Order Change**  | Transitions between states under existing dynamics.                                                            | Describes routine adaptation and internal variation.           |
-| **Second-Order Change** | Changes in the dynamics that govern state transitions.                                                         | Captures structural transformation of the field.               |
+| Term                    | Description                                                                                                                                                          | Role in the Grammar                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **State**               | A concrete configuration of agents, resources, rules, and relations at a given time.                                                                                 | Basic unit of description; enables comparison across time.                        |
+| **Dynamics**            | The set of generative mechanisms, interaction rules, and constraints governing transitions between states.                                                           | Determines how change unfolds over time.                                          |
+| **State Space**         | The set of all admissible states of the social field at a given level of description.                                                                                | Defines the horizon of possibility within the field.                              |
+| **Configuration**       | A structured representation of a state emphasizing relational patterns, positional structures, and functional roles rather than isolated variables.                  | Supports typological analysis and structural comparison across cases.             |
+| **Sub–State Space**     | A constrained region of the state space defined by institutional, normative, technological, or material limits.                                                      | Captures regime-like stability and bounded variation within the field.            |
+| **Reachability Set**    | The subset of states that can be reached from a given state under the **current dynamics** of the social field, absent second-order change or external intervention. | Operationalizes path-dependence, feasibility, and short-to-medium term evolution. |
+| **Attractor**           | A state or set of states toward which the dynamics of the field tend to evolve and remain once reached.                                                              | Explains persistence, convergence, and patterned reproduction.                    |
+| **First-Order Change**  | Transitions between states that occur under the existing dynamics of the field.                                                                                      | Describes routine adaptation, learning, and endogenous variation.                 |
+| **Second-Order Change** | Transformations of the dynamics themselves, altering the rules by which states are generated and connected.                                                          | Captures structural reconfiguration, regime shifts, and field transformation.     |
 
 ## Mode of Social Field Transformation
 
