@@ -263,13 +263,17 @@ It embodies a dual character:
 
 In this framework, regulation is thus both a foundational ontological element providing the scaffolding for social order and a fluid, epistemic construct continually (re)produced by Interaction Units as shared protocols for coordination and governance.
 
-### Environemnt
+### Environment
 
 > Note: Social phenomena are frequently recursive and multilayered. In this context, we focus on **geography and natural resources** as the most fundamental environment.
 '
 > A **Derivative Environment** is a secondary or higher-order context that emerges from, depends upon, or is shaped by a more fundamental environment (such as geography). It encompasses social, economic, cultural, institutional, informational, temporal, or cognitive layers that influence and frame human interactions and social phenomena.
 
-### Phenomena (State Change) (Dynamics)
+### Change
+
+> See more in [Ontology of Change](../Locus-Meliorandis/Toolkit/Change/README.md).
+
+### Phenomena
 
 > A **phenomenon** is a **structured trajectory** of state tag transformations (e.g., power, trust, legitimacy, resource allocation), arising from interaction processes, under specific rules, feedback mechanisms, and boundary conditions.
 

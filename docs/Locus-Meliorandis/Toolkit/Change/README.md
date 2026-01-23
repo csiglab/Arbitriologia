@@ -1,151 +1,83 @@
-# Social Field Change
+# Social Field Change Ontology
+
+> Social Field Change Ontology offers a formal vocabulary for analyzing how social fields evolve, reproduce, and transform through changes in states, dynamics, and viability conditions.
 
 QA:
 
-- It's intervention Justify? How much?
-- Use the minimal effective intervention—enough to tip the system toward desired outcomes but not so much that you over-specify paths or stifle local initiative.
-- Order Without Control.
+- How **second-order-changes** happends?
+- How to determine the `Viability Kernel`?
+- How should an intervention be defined within a social field, and how can external intervention be distinguished from endogenous change?
+- Under what conditions can first-order changes accumulate or interact so as to induce second-order changes in the social field?
+
+## Terminology
+
+> A **Social Field** is a bounded domain of interaction in which agents engage through a shared medium.
+
+## Formulation
+
+> How to characterize chain in a given social 'field'? In this document, we propose a set of concepts that together form a coherent analytical grammar—a grammar of change—for the description, analysis, and modeling of social field dynamics.
+
+| Term                    | Description                                                                                                    | Role in the Grammar                                            |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **State**               | A concrete configuration of agents, resources, rules, and relations at a given time.                           | Basic unit of description; enables comparison across time.     |
+| **Dynamics**            | The set of mechanisms or rules governing transitions between states.                                           | Determines how change unfolds over time.                       |
+| **State Space**         | The set of all admissible states of the social field at a given level of description.                          | Defines what is possible within the field.                     |
+| **Configuration**       | A structured representation of a state emphasizing relational patterns rather than isolated variables.         | Supports typological and comparative analysis.                 |
+| **Sub–State Space**     | A constrained region of the state space defined by institutional, normative, or material limits.               | Captures regime-like stability and bounded variation.          |
+| **Viability Kernel**    | The subset of states from which the social field can reproduce itself over time without external intervention. | Distinguishes stability, crisis, and breakdown.                |
+| **Attractor**           | A state or set of states toward which the dynamics of the field tend to evolve over time.                      | Explains persistence, convergence, and patterned reproduction. |
+| **First-Order Change**  | Transitions between states under existing dynamics.                                                            | Describes routine adaptation and internal variation.           |
+| **Second-Order Change** | Changes in the dynamics that govern state transitions.                                                         | Captures structural transformation of the field.               |
+
+## Mode of Social Field Transformation
+
+| Mode of Social Field Transformation      | Description                                                                                                                      | Dominant Change Order              | Control Structure                 | Canonical Case        |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------- | --------------------- |
+| **Shock-Driven Reconfiguration**         | Rapid reprogramming of field dynamics triggered by an external or acute internal shock, bypassing incremental adaptation.        | Second-order (discontinuous)       | Exogenous / elite-imposed         | Meiji Japan           |
+| **Revolutionary Field Rupture**          | Breakdown of existing dynamics followed by the construction of a new field logic through conflict and institutional destruction. | Second-order (violent, non-linear) | Extra-systemic                    | French Revolution     |
+| **Externally Imposed Restructuring**     | Redefinition of field dynamics by an external authority with coercive or supervisory capacity.                                   | Second-order (imposed)             | External authority                | Post-war Japan        |
+| **Incremental Institutional Drift**      | Gradual accumulation of first-order changes that eventually alters field dynamics without explicit rupture.                      | First-order → latent second-order  | Endogenous                        | Tudor England         |
+| **Cumulative Layering and Conversion**   | Reinterpretation and recombination of existing institutions that shifts outcomes while preserving formal structures.             | First-order dominant               | Endogenous (institutional)        | U.S. regulatory state |
+| **Strategic Complexity Accumulation**    | Deliberate coordination of investments and institutions to progressively increase field complexity and capability.               | Managed second-order               | Coordinated / developmental       | South Korea           |
+| **State-Led Catch-Up Industrialization** | Centralized orchestration of second-order change aimed at rapid convergence with frontier fields.                                | Directed second-order              | Centralized developmental state   | Taiwan                |
+| **Emergent Market Structuration**        | Bottom-up coordination through decentralized exchanges that generate stable field structures over time.                          | First-order dominant               | Decentralized                     | Early Netherlands     |
+| **Networked Commercial Expansion**       | Expansion driven by merchant networks and coalition-based governance rather than centralized authority.                          | First-order dominant               | Network-based                     | Renaissance Italy     |
+| **Co-evolutionary Hybridization**        | Mutual adaptation between state, market, and society producing intertwined first- and second-order changes.                      | Mixed first- and second-order      | Polycentric                       | 19th-century Germany  |
+| **Dual-Track Transition**                | Parallel operation of distinct sub–state spaces allowing experimentation without full dynamic replacement.                       | Mixed, staged                      | Party–state with market embedding | China (post-1978)     |
+| **Viability-Preserving Reform**          | Controlled modification of dynamics designed to restore or maintain viability without destabilization.                           | Second-order (constrained)         | Elite-negotiated                  | Post-war Scandinavia  |
+| **Field Stagnation and Lock-In**         | Suppression of second-order change resulting in persistent inefficiency and declining adaptive capacity.                         | Inhibited second-order             | Oligarchic / rent-seeking         | Late Ottoman Empire   |
+| **Collapse and Reconstitution**          | Exit from the viability kernel followed by partial or total reconstruction of field dynamics.                                    | Kernel exit + redefinition         | Exogenous + endogenous            | Post-Soviet Russia    |
+
+## Limits of Self Organization and  Engougeous Change
+
+> How large is the set of states reachable under the current dynamics of the social field? Can State `X` be Reach Without Intervention In the Dynamics?
+
+> What conditions determine whether a social field endogenously evolves toward a particular state?
+
+
+> Complexity grows by lowering coordination costs ??? Is this right?
+
 - What are the limits of self-organization? Can we ever prove or disprove that a particular state xxx cannot be achieved through self-organization alone?
 - Can an economy self-organize from low to high complexity on its own, or does it require intervention?
 - How can laissez-faire be defended?
+
+## Intervention
+
+- Use the minimal effective intervention—enough to tip the system toward desired outcomes but not so much that you over-specify paths or stifle local initiative.
+
+- Order Without Control.
+
+
 - How to think about change in the social field? How to think about change?
   - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
   - Hierharchy and Interaction Between the Actors.
   - Minimal Catalist Set - Reaction - Propagation  Type of Analysis.
-- What conditions determine whether a social field endogenously evolves toward a particular state?
-- Which are the different models to thinkg about change in the social field? Is the `word` `model` right here? Take cases of Meji Revolution; Tudor Policy?  Can complex transformation happens in a self emergent way (economic complexity)? Specific models to reason about the change in the economic complexity of a country?
-  - Which types of models are used to describe change in the social field?
-  - **Key  model bulding blocks**:  (institutional scaffolding, dynamics, evolution, co-evolution, catalyst, coordination cost, attractor, configuration, state space, sub state space, feedback, self reinforcement, local optimum, ...)
-  - **Some models**: ...
-  - **Meta Models**: ...
-  - **Intervention Model**: ...
-- ...
-
-> Complexity grows by lowering coordination costs ??? Is this right?
-
-> Embedded autonomy ?
-
-| Model                            | Change Mode   | Typical Case      |
-| -------------------------------- | ------------- | ----------------- |
-| Shock-Induced Reorganization     | Discontinuous | Meiji Japan       |
-| Gradual Institutional Drift      | Incremental   | Tudor England     |
-| Directed Complexity Accumulation | Strategic     | Korea             |
-| Market-Led Emergence             | Bottom-up     | Early Netherlands |
-| Hybrid Co-evolutionary           | Mixed         | Germany (19th c.) |
-
-
-Actor:
-
-    - Operation
-    - Perception
-    - Agential Framework (Agenda, Program, Project, Agential Principle)
-
-- Which is the institutional design that drives the transformation? Which are the minimum set of actors - that drives change? How that actor set (change drivers) get's changed?
-
-- Antincesity Reality Framework
-- Capability Escalation Framework (CEF)
-- Techno-Productivist Cognitive Scheme (TPCS)
-
-## Program
-
-...
-
-## Plan
-
-> ...
-
-## Agenda
-
-> ...
-
-## Strategy
-
-- Innovation Culture & Autonomy Transition
-- Structured Imitation & Capability Seeding
-- Absorptive Capacity & Institutional Learning
-
-## Mechanism
-
-## Tool
-
-## A Gran Development Strategy
-
-> ¿Can we transition from a low e **value-added** economy to a **high-value-added** one?
-
-- Technological Upgrading
-- Adding new Industry
-- Technology Absortion
-- Technology Development
-- Technology Diffusion
-- SME’s Development
-- BIG Enterprise Development
-- Financing New Industries
-- Financing Tech
-- Financing SME
-- Exports Financing
-- Financing R&D
-- Single Overall Policy Coordination Entity
-- …
-
-## Ontology
-
-- Initiative
-- Program
-- Agenda
-
-## Core Development Problems
-
-> …
-
-Key Policy Problems:
-
-- Master - Knowledge Economy Productive Model
-  - Technical Learning →  Industrial Upgrading
-  - Productive Ecosystems → Clusters
-  - …
-- Think and Build a Dynamic (Non-Linear)  Research Ecosystem:
-  - Knowledge Diffusion In Productive Networks
-  - Dynamic Bi-Directional R&D Collaboration - Industry  ←→ NIS.
-  - Cluster-Based R&D
-  - R&D Consortiums
-- Diversify Economic Structure  & Exports
-  - Deep and Wide Local Supply Chains  (Dense Technological Content)  !!!
-  - Increase Exports
-- Master Core Technology
-- Be the Organized Center of Economic Discussion
-- Build a Highly Sophisticated Economy That Loves Learning & Innovating !!!
-- …
-
-### **Policies Areas**
-
-1. Industrial human resource
-2. Domestic enterprise development
-3. Business Climate
-4. Power & Logistics
-5. Export Promotion
-6. Strategic FDI marketing
-7. Industrial parks
-8. Supporting industries & FDI-local firm linkage
-9. Productivity, technology & innovation
-10. Standards & testing
-
-### Functional Aspects
-
-1. Policy ownership
-2. Vision & commitment of top leader(s)
-3. Policy drafting procedure
-4. Authority & capacity of policy organizations
-5. Mindset & competency of implementing officials
-6. Budgeting & staffing
-7. Inter-ministerial coordination
-8. Involvement of key non-official stakeholders
-9. Monitoring & evaluating mechanisms
-10. Impact on the real economy
-
-
-
 
 ## QA
+
+### Why Social Field and Not System?
+
+> The term System usually denotes a bounded, functionally integrated, and self-regulating whole, whereas `Social Field` designates a structured space of interaction without presupposing closure, coherence, or goal-directed regulation.
 
 ### Can "tecno-productive developmentalism” be reduced to a grand epistemological or operational concept? What is the more appropriate term for describing a nation's adaptive, multiphase strategic framework—development strategy, grand meta-strategy, or something else?
 
@@ -201,4 +133,4 @@ Key Policy Problems:
 - [On The Nature of the Problems (And Change) of the Social Field](../../..//Breviarium//articulation/on-the-nature-of-the-problems-of-the-social-field.md)
 
 - https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy
-- ...
+- [Social Ontology](../../../Locus-Social-Realitatis/README.md)
