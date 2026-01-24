@@ -67,4 +67,4 @@ Industrial espionage strategies describe coordinated, goal-oriented approaches f
 - [Industrial Espionage](https://en.wikipedia.org/wiki/Industrial_espionage)
 - D.C. Coleman, Immigrants and the Industries of London, 1500–1700
 - Amazon.com: Industrial Espionage and Technology Transfer: Britain and France in the 18th Century: 9780754603672: Harris, John R.: Books
-- 
+-
