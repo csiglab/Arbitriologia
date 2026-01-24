@@ -2,6 +2,11 @@
 
 > Liberalism is a historically evolved meta-institutional configuration that treats morally equal individuals as the primary units of value, legitimizes authority through consent and procedure, constrains coercion via rule-bound law and constitutional design, decentralizes knowledge and coordination through markets and civil society, and manages persistent pluralism by substituting impersonal rules and reversible processes for hierarchical command or substantive moral imposition.
 
+TODO:
+
+- History of the Praxis
+- History of the Conceptualization of the Praxis.
+
 ## Formulation
 
 > What is type of ontos is Liberalism?

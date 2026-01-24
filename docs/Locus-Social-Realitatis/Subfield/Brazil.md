@@ -57,6 +57,8 @@ Here is a table summarizing some notable research and development (R&D) actors i
 | **State University of Campinas (UNICAMP)** | 1966 | N/A | Independent | Higher education, research | Multidisciplinary research |
 | **National Institute of Technology (INT)** | 1921 | N/A | Brazilian Ministry of Science, Technology and Innovation | Technological innovation, applied research | Engineering, industrial processes |
 | Empresa Brasileira de Pesquisa e Inovação Industrial | 2013 | N/A |  |  |  |
+| **Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII)** | 2013                | N/A              | Brazilian Federal Government (coordinated with MCTI; operates in partnership with SENAI and research institutions) | Funding and coordination of applied industrial R&D; public–private collaboration | Industrial innovation, applied engineering, manufacturing technologies, digital industry, energy, materials |
+
 
 ## Enterprises
 

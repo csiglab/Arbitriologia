@@ -2,12 +2,9 @@
 
 > An **economy** is a network of interacting agents: individuals, firms, gov agencies and R & D agents that engage in performing action from their action space using a set of public goods  enablers.
 
-> **"Economy"** is a troublesome word because we use it colloquially to refer to the market economy we're familiar with today, and its various studied trappings - rational actors, market equilibrium, macroeconomic policies, etc. But so much of it consists of socially constructed elements - ownership, dealmaking, invention, regulation, taxation, etc. - that an economic model is always a form of interpretation, an attempt to confine a
-lot of **chaotic** and **inconsistent forces** into something more apparently orderly.
+> **"Economy"** is a troublesome word because we use it colloquially to refer to the market economy we're familiar with today, and its various studied trappings - rational actors, market equilibrium, macroeconomic policies, etc. But so much of it consists of socially constructed elements - ownership, dealmaking, invention, regulation, taxation, etc. - that an economic model is always a form of interpretation, an attempt to confine a lot of **chaotic** and **inconsistent forces** into something more apparently orderly.
 
 > Note: This facet is not my preferred organizing principle of reality. It should be understood primarily as an **aggregator** or an **entry point**.
-
-- [Market](../../Intersection/Market/README.md)
 
 ## Ontology (The Observed)
 
@@ -80,7 +77,6 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 | **Regional Economy** | Economic system and activity within a specific geographic sub-national area characterized by specialized industries, resources, and economic relationships | Silicon Valley tech economy, Rust Belt manufacturing region, EU regional economic zones | Interaction Unit + Interaction + Regulation + State + Tagging System + Dynamics + Environment |
 | **International Economy** | Global system of economic relationships, trade, and financial flows between nations encompassing cross-border transactions, multinational operations, and international institutions | Global trade networks, international financial system, multinational supply chains | Interaction Unit + Interaction + Regulation + State + Tagging System + Dynamics + Environment |
 |Price System|Economic mechanism that uses prices to allocate resources and coordinate economic activity through the interaction of demand and supply|Market price system, auction systems, administered price systems|Interaction Unit + Interaction + State + Tagging System + Dynamics + Environment + Price + Demand + Market|
-
 
 ## Epistemology  (Observer)
 
@@ -166,3 +162,4 @@ lot of **chaotic** and **inconsistent forces** into something more apparently or
 
 - [Economic Unit](https://en.wikipedia.org/wiki/Economic_unit)
 
+- [Market](../../Intersection/Market/README.md)
