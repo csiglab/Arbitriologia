@@ -125,4 +125,6 @@ These tables provide a detailed breakdown of the various systems and subsystems 
 ## References
 
 - [India Needs China Manufacturing](https://x.com/GlennLuk/status/1800542064196915700)
-- …
+- https://www.files.ethz.ch/isn/93182/2008_08_India%27sNational_Innovation.pdf
+- https://www.hkeconomy.gov.hk/en/pdf/er_25q1.pdf
+-

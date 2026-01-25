@@ -363,7 +363,6 @@ By 1990, Hong Kong had not been heavily involved in technology **localization** 
 * However, Hong Kong did witness a rise in the use of **computers** and **information technology** in business and government, with growing interest in **data processing**, **business automation**, and the **service sector** for IT solutions.
 
 ### 7. **Hong Kong’s Focus on Service Industries**
-
 * In the broader context, **technology localization** in Hong Kong was also more focused on the **service sector** by 1990. This involved the development of **finance**, **logistics**, and **telecommunications** services, which were heavily reliant on advanced **global technologies**.
 * Hong Kong’s **financial services sector** in particular began adopting cutting-edge **financial technologies** to support its role as an international financial hub. This included innovations in **electronic banking**, **stock market trading platforms**, and **telecommunications**.
 
@@ -379,3 +378,38 @@ By 1990, Hong Kong had not been heavily involved in technology **localization** 
 - [How Hong Kong Lost the Lead in Semiconductors](https://www.youtube.com/watch?v=heclOxi1VTE)
 
 - [De-industrialization was Hong Kong’s Biggest Mistake](https://www.youtube.com/watch?v=rKvKUdhm-Ms)
+
+- https://en.wikipedia.org/wiki/List_of_Hong_Kong_government_agencies
+
+- https://www.itib.gov.hk/en/publications/I&T%20Blueprint%20Book_EN_single_Digital.pdf
+
+- https://www.itib.gov.hk/en/index.html
+
+- https://www.policyaddress.gov.hk/2025/en/index.html
+
+- https://www.digitalpolicy.gov.hk/en/our_work/digital_infrastructure/industry_development/ai_subsidy_scheme/
+
+- https://www.policyaddress.gov.hk/2025/public/pdf/supplement/supplement-04_en.pdf
+
+- https://www.hkpc.org/sites/default/files/2020-06/hk_reindustrialisation_guide.pdf
+
+- https://www.investhk.gov.hk/media/tgkneyjb/creative-industries_driving-innovation-and-future-growth_2.pdf
+
+- https://www.itib.gov.hk/en/i_and_t_support/research_development.html
+
+- https://www.hkic.org.hk/about-us#synergy-in-innovation
+
+- https://www.cedb.gov.hk/en/index.html
+
+- https://www.hkpc.org/en
+
+- https://www.vtc.edu.hk/home/en/
+
+- https://www.itf.gov.hk/en/funding-programmes/promoting-new-industrialisation/itif/index.html
+
+- https://research.hktdc.com/en/article/MzEzOTIwMDIy
+
+- https://www.innohk.gov.hk/en/
+- https://www.cepu.gov.hk/en/home/
+- https://www.hkpc.org/sites/default/files/2025-02/hong_kong_manufacturing_industry_development_study_report_en.pdf
+- ...
