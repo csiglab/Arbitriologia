@@ -7,6 +7,7 @@ QA:
 - How **second-order-changes** happends?
 - How should an intervention be defined within a social field, and how can external intervention be distinguished from endogenous change?
 - Under what conditions can first-order changes accumulate or interact so as to induce second-order changes in the social field?
+- Which is the critical mass needed by x to develop y?
 
 ## Terminology
 

@@ -63,3 +63,4 @@
 - [Temasek Holdings (Private) Limited](https://en.wikipedia.org/wiki/Temasek_Holdings)
 - [EDB Investments Pte Ltd](https://edbi.com/)
 - [An Essay on Early European Development Finance](../../../Breviarium/an-essay-on-early-european-development-finance.md)
+- [Quantitative Finance](https://righteous-guardian-68f.notion.site/Quantitative-Finance-25bc0f5171ec80dbb0e8f88a73ceb0a4?source=copy_link)

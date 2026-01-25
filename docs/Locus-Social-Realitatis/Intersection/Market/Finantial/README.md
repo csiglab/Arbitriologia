@@ -78,7 +78,7 @@ Questions:
 ## Financial Actors
 
 > …
-> 
+>
 
 | **Category** | **Actor** | **Role in Financial Markets** |
 | --- | --- | --- |
