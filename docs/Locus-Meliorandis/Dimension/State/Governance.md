@@ -13,7 +13,6 @@
 ## Institutional Quality
 
 > Aka. How an state can help to catch up?
-> 
 
 ## References
 
@@ -21,3 +20,4 @@
 - https://en.wikipedia.org/wiki/Public_administration
 - https://en.wikipedia.org/wiki/Governance
 - [Órgano Colegiado](https://es.wikipedia.org/wiki/Órgano_colegiado)
+- [Governance](../../../../Locus-Social-Realitatis/Subfield/Meta/Governance.md)

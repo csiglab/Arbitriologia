@@ -2,6 +2,9 @@
 
 > A **monetary system** is the institutionally structured,  rule-governed subsystem of an economy that defines, issues, stabilizes, and coordinates the use of a unit of account for storing value, settling obligations, and enabling exchange.
 
+- What should the national saving rate be? What should the national investment rate be as a percentage of GDP?
+- What is the relationship between macroeconomic variables (such as monetary stability and inflation) and development performance?
+
 ## Structure
 
 | **Component**                                        | **Technical Definition**                                                                                                                   | **Function in the System**                                                                       |
