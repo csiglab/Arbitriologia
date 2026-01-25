@@ -8,6 +8,11 @@
 
 - How to help create firms?
 
+- What is the environmetn that i firm needs to be able to bea a world class one?
+
+ * Suppliers Networks
+ * Innovation Networks
+
 - What strategies can support the adoption and upgrading of technology in established or aging enterprises?
 
 - Which industry represents the highest level of technological complexity and intensity in a given era? Identifying this can serve as an indicator of a nation's overall technological strength and strategic industrial capacity.

@@ -314,7 +314,9 @@ Michael Porter's cluster analysis, as outlined in his seminal work on competitiv
 
 ## References
 
-- ‣
+- Enflo, K., Kander, A., & Schön, L. (2008). Identifying development blocks—a new methodology: Implemented on Swedish industry 1900–1974. Journal of Evolutionary Economics, 18, 57–76.
+- Taalbi, J. (2015). Development Blocks in Innovation Networks. The Swedish Manufacturing Industry, 1970-2007.
+
 - Carlsson, Bo och Rolf G. Henriksson (red.) (1991). Development Blocks and Industrial Transformation – The Dahménian Approach to Economic Development. Stockholm: IUI.
 - Enflo, Kerstin, Astrid Kander, and Lennart Schön. "Development blocks and the second industrial revolution-Sweden 1900-1970." (2006).
 - Ville, Simon, and Olav Wicken. "The dynamics of resource-based economic development: evidence from Australia and Norway." Industrial and Corporate change 22.5 (2013): 1341-1371.
@@ -336,13 +338,13 @@ Michael Porter's cluster analysis, as outlined in his seminal work on competitiv
 - Braunerhjelm, Pontus, et al. "The old and the new: the evolution of polymer and biomedical clusters in Ohio and Sweden." Journal of Evolutionary Economics 10 (2000): 471-488.
 - Dohse, Dirk. "Cluster‐Based Technology Policy—The German Experience." *Industry and Innovation* 14.1 (2007): 69-94.
 - Nilsson, Magnus, and Jerker Moodysson. "Regional innovation policy and coordination: Illustrations from Southern Sweden." *Science and Public Policy* 42.2 (2015): 147-161.
-- Blomström, Magnus, Ari Kokko, and Fredrik Sjöholm. "Growth and 
-innovation policies for a knowledge economy: Experiences from Finland, 
+- Blomström, Magnus, Ari Kokko, and Fredrik Sjöholm. "Growth and
+innovation policies for a knowledge economy: Experiences from Finland,
 Sweden, and Singapore." *Background paper for the LAC Flagship Report. Washington, DC: World Bank* (2002).
 - Yström, Anna, and Hedvig Aspenberg. "Open for innovation? Practices supporting collaboration in Swedish regional clusters." International journal of innovation management 21.05 (2017): 1740008.
 - Ketels, Christian. *Clusters, cluster policy, and Swedish competitiveness in the global economy*. Stockholm: Globalisation Council, 2009.
 - Sundqvist, Helena. "The Swedish Automotive Cluster: How will it be affected by foreign acquisitions at the end of the value chain?." (2011).
-- JOHN ST, CARON H., and Richard W. Pouder. "Technology clusters versus 
+- JOHN ST, CARON H., and Richard W. Pouder. "Technology clusters versus
 industry clusters: Resources, networks, and regional advantages." *Growth and Change* 37.2 (2006): 141-171.
 - Liu, Zihui, et al. "Detecting industry clusters from the bottom up based
  on co-location patterns mining: A case study in Dongguan, China." *Environment and Planning B: Urban Analytics and City Science* 48.9 (2021): 2827-2841.
@@ -397,7 +399,7 @@ industry clusters: Resources, networks, and regional advantages." *Growth and Ch
 - Redundancy / Resilience: Ensure alternative pathways exist for critical inputs; prevents systemic failures.
 - Aggregator Nodes: Lower barriers for small firms; accelerate innovation adoption and market reach.
 - Knowledge Flows: Explicitly structure links for R&D spillovers, not just material supply.
-- https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2021.666712/full
-- https://www.tandfonline.com/doi/full/10.1080/09537287.2024.2387299
-- https://arxiv.org/abs/1706.00203
+- Functional Structure in Production Networks  - https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2021.666712/full
+- The capability profiles of global production networks: an empirical typology to identify opportunities for network reconfiguration and calibration - - https://www.tandfonline.com/doi/full/10.1080/09537287.2024.2387299
+- Characterization of the community structure in a large-scale production network in Japan - https://arxiv.org/abs/1706.00203
 
