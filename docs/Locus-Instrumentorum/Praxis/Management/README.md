@@ -201,3 +201,4 @@ In this sense, Meta–Public Administration operates one level above agency-spec
 - Ajdini, Sherife. "Public administration in ancient Rome and Egypt." Academic Journal of Interdisciplinary Studies 3.6 (2014): 385-389.
 - [Government at a Glance 2025](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/employment-in-general-government_dafcfac5.html)
 - [Public Administration Review](https://en.wikipedia.org/wiki/Public_Administration_Review)
+- https://www.bsm.upf.edu/es/profesorado-investigacion/profesorado/carles-ramio-matas
