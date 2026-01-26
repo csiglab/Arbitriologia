@@ -1,5 +1,3 @@
-# Civil Service
-
 Guiding Questions:
 
 - **What is the civil service?** What is its scope? How should the public-sector HR system be structured? Are teachers part of the public sector? Should We Structure HR Branches - By Role's?
@@ -125,8 +123,18 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 4. **Profesionales en el ámbito educativo**: Como los **profesores** o **catedráticos universitarios**, quienes deben aprobar oposiciones para acceder a cargos permanentes en instituciones educativas públicas.
 5. **Otros cargos especializados**: Dependiendo del país y la estructura administrativa, también pueden existir tribunales de oposición para seleccionar **técnicos especializados**, como economistas, ingenieros o científicos en organismos públicos.
 
+---
+
+| Modelo                     | Origen dominante              |
+| -------------------------- | ----------------------------- |
+| Cuerpos y Escalas (España) | Derecho público + estabilidad |
+| Grands corps (Francia)     | Elite tecnocrática estatal    |
+| Hong Kong grades           | Neutralidad colonial          |
+| Singapore elite service    | Desarrollo económico dirigido |
+
 ## References
 
+- [Public Administration](../../../Locus-Instrumentorum/Praxis/Management/README.md)
 - [Civil Service](https://en.wikipedia.org/wiki/Civil_service)
 - [An Essay on 'Burrocracia'](../../../../Breviarium/an-essay-on-burrocracia.md)
 - [A Guide to Profile State Personnel Systems](../../../../Breviarium/a-guide-to-profile-state-personnel.md)
@@ -176,3 +184,32 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 - Henry, N. (2017). Paradigms of public administration. In Public Administration and Public Affairs (pp. 35-53). Routledge.
 - Xu, R., Sun, Q., & Si, W. (2015). The third wave of public administration: The new public governance. Canadian Social Science, 11(7), 11-21.
 - [Civil Service Reform Building a Government that Works](https://www.brookings.edu/books/civil-service-reform/)
+- https://www.inap.es/es/seleccion/procesos-selectivos-de-cuerposescalas-generales/cuerpo-superior-de-administradores-civiles-del-estado
+- https://en.wikipedia.org/wiki/Beamter
+- Woodrow Wilson — The Study of Administration (1887)
+- Max Weber — Economy and Society (Bureaucracy chapters)
+- Dwight Waldo — The Administrative State
+- Herbert A. Simon — Administrative Behavior
+- James G. March & Herbert A. Simon — Organizations
+- James Q. Wilson — Bureaucracy
+- [Bureaucracy](https://en.wikipedia.org/wiki/Bureaucracy)
+- James G. March & Johan P. Olsen — Rediscovering Institutions
+- Chester I. Barnard — The Functions of the Executive
+- Michel Crozier — The Bureaucratic Phenomenon
+- Charles Perrow — Complex Organizations
+- Henry Mintzberg — Structure in Fives
+- Peter Evans — Embedded Autonomy
+- Joel S. Migdal — Strong Societies and Weak States
+- Martin Painter & Jon Pierre (eds.) — Traditions of Public Administration
+- Christopher Hood — The Art of the State
+- Merilee Grindle — Jobs for the Boys
+- Susan Rose-Ackerman — Corruption and Government
+- Lant Pritchett, Woolcock, Andrews — Building State Capability
+- Dwight Waldo — The Administrative State
+- Mordecai Lee — A History of Public Administration in the United States: The Rise of American Bureaucracy
+- Carlos Carrasco Canals — La burocracia en la España del siglo XIX
+- James C. Scott — Seeing Like a State
+- Handbook of Comparative and Development Public Administration
+- https://archive.org/details/publicadministra0000head/mode/2up
+- The Rise of Managerial Bureaucracy: Reforming the British Civil Service
+- Hood & Dixon’s A Government That Worked Better and Cost Less?

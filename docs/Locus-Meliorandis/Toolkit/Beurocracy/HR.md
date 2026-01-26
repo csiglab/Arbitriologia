@@ -1,4 +1,4 @@
-# Human Resources (HR)
+# State Human Resources (HR)
 
 > Human resources (HR) management involves various models and frameworks that organizations use to understand and manage their workforce effectively.
 
