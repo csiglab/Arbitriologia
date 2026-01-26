@@ -1,12 +1,24 @@
 # Civil Service
 
-> ...
-
 Guiding Questions:
 
-- What is the civil service? What is its scope? How should the public-sector HR system be structured? Are teachers part of the public sector? Should We Structure HR Branches - By Role's?
+- **What is the civil service?** What is its scope? How should the public-sector HR system be structured? Are teachers part of the public sector? Should We Structure HR Branches - By Role's?
 
-## Principle
+- **How to think about the civil service?** The civil service is an embedded, semi-autonomous socio-technical system that can be analytically decoupled from the administrative configuration in which it operates.
+
+- How should the civil service be conceptualized as a system, and how does it interact with the government and the broader state institutional architecture?
+
+- How should the civil service manage its personnel lifecycle? How are individuals recruited, promoted, evaluated, sanctioned, and dismissed, and according to which institutional rules and performance signals? How is the **payment** - decited?
+
+> Note: That the **Civil** is only a part of the **State Human Resources**.
+
+## Formulation
+
+> The civil service constitutes a defined subset of state roles. The civil service system exists to recruit, allocate, and reproduce the human capacity required to occupy these roles over time.
+
+## Design
+
+### Principle
 
 > Which principles guide a sophisticated civil service?
 
@@ -32,16 +44,22 @@ Guiding Questions:
 | **Mixed Strategist: Generalist & Technical**                        | A strategic core that combines coordination-oriented generalists with domain-deep technical experts to produce a balanced, high-capacity state.                                                                                                                                                                                       |
 | **Efficiency**                                                      | Ensures administrative processes achieve maximum output with minimum resource waste, optimizing workflows, time, and operational effort.                                                                                                                                                                                             |
 | **Legality and Rule of Law**                                        | All actions conform to legal frameworks, ensuring predictability, fairness, and constitutional alignment in administrative practice.                                                                                                                                                                                                  |
-| **Non-Partisanship and Impartiality**                               | Civil servants operate without political bias, ensuring equal treatment, fairness, and trust in state institutions.                                                                                                                                                                                                                   |
+| **Non-Partisanship and Impartiality**                               | Civil servants operate without political bias, ensuring equal treatment, fairness, and trust in state institutions.
+
+### Evaluation
+
+> ...
 
 ## Role Space
 
 - **Oficiario** — Career Civil Service Member.
 - **Politarca** — Political Appointee.
 
+## Case Study
 
+> How to Characterize a Civl Service?
 
----
+...
 
 # Civil Service
 
@@ -107,10 +125,13 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 4. **Profesionales en el ámbito educativo**: Como los **profesores** o **catedráticos universitarios**, quienes deben aprobar oposiciones para acceder a cargos permanentes en instituciones educativas públicas.
 5. **Otros cargos especializados**: Dependiendo del país y la estructura administrativa, también pueden existir tribunales de oposición para seleccionar **técnicos especializados**, como economistas, ingenieros o científicos en organismos públicos.
 
-
-
 ## References
 
+- [Civil Service](https://en.wikipedia.org/wiki/Civil_service)
+- [An Essay on 'Burrocracia'](../../../../Breviarium/an-essay-on-burrocracia.md)
+- [A Guide to Profile State Personnel Systems](../../../../Breviarium/a-guide-to-profile-state-personnel.md)
+- https://en.wikipedia.org/wiki/New_Public_Management
+- https://oxfordre.com/politics/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1436
 - https://muse.jhu.edu/article/640275
 - Institut National du Service Public
 - [Australia and New Zealand School of Government](https://en.wikipedia.org/wiki/Australia_and_New_Zealand_School_of_Government)
@@ -141,7 +162,6 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 - https://en.wikipedia.org/wiki/Civil_service_entrance_examination
 - https://en.wikipedia.org/wiki/Pendleton_Civil_Service_Reform_Act
 - https://en.wikipedia.org/wiki/Byzantine_bureaucracy_and_aristocracy
-- [Civil Service Reform Building a Government that Works](https://www.brookings.edu/books/civil-service-reform/)
 - https://en.wikipedia.org/wiki/Pay-for-Performance_(Federal_Government)
 - https://funcionpublica.digital.gob.es/index.html
 - https://www.instituteforgovernment.org.uk/explainer/permanent-secretaries
@@ -155,12 +175,4 @@ Los cargos que generalmente se eligen o se accede mediante un tribunal de oposic
 - Dorn, W. L. (1931). The Prussian bureaucracy in the eighteenth century. Political Science Quarterly, 46(3), 403-423.
 - Henry, N. (2017). Paradigms of public administration. In Public Administration and Public Affairs (pp. 35-53). Routledge.
 - Xu, R., Sun, Q., & Si, W. (2015). The third wave of public administration: The new public governance. Canadian Social Science, 11(7), 11-21.
-
-
-## References
-
-- [Civil Service](https://en.wikipedia.org/wiki/Civil_service)
-- [An Essay on 'Burrocracia'](../../../../Breviarium/an-essay-on-burrocracia.md)
-- [A Guide to Profile State Personnel Systems](../../../../Breviarium/a-guide-to-profile-state-personnel.md)
-- https://en.wikipedia.org/wiki/New_Public_Management
-- https://oxfordre.com/politics/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1436
+- [Civil Service Reform Building a Government that Works](https://www.brookings.edu/books/civil-service-reform/)
