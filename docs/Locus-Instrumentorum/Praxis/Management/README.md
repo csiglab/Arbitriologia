@@ -78,19 +78,46 @@ My Ideas On State Meta Administration:
 
 ## Formulation
 
-> What is administration?  
+> What is **Administration**?
 
 > What is **Public Administration**?  
 
 > What is an **Administrative System**?
 
-What is the public workforce? It consists of the actors who constitute institutions and coordinate within schemes to form a coherent operational unit.
+> Which are the types of Administration needed to run an Organization? An administration of asomethign it's a resuce structure of many adminstratinon that create organization units - of didferen nature - that are latter administer by an upper layer.
+
+- Human Resource Administration
+- Financial Administration
+- Core Administration
+- Asset & Resource Administration
+- ...
+
+> Note: There is not one big - administrative scheme to run the firm - a firm it's a collection of administrative schemes.
+
+> Note: A firm is not administered by one system, but by many concurrent administrative systems, each responsible for a different object domain.
+
+> What is Workforce Management (WFM)? Does it belong to the administrative layer, or does it operate at a meta-level by managing the agent set upon which administration acts?
+
+> What is the public workforce? It consists of the actors who constitute institutions and coordinate within schemes to form a coherent operational unit.
 
 > What is the Civil Service? Is a subset of the public workforce that ...
 
 - A Research Field
 - Phenomenology (Domain of Social Reality)
 - Public Administration as Meta Administration: Public Administration can be understood as meta-administration when it is analyzed not merely as the execution of public tasks, but as the system that designs, governs, evaluates, and adapts administrative systems themselves.`
+
+### Workforce
+
+> ...
+
+### Administration
+
+> Administration is the process by which heterogeneous agents or organizational units are coordinated into a coherent operational system, enabling the execution of tasks and processes toward specified goals within given constraints and governing rules.
+
+Type of Agents:
+
+- **Human(s)**: Individuals acting with intent, judgment, and discretion (e.g., managers, operators, officials).
+- Organizational Units: Structured entities with defined roles, authority, and interfaces (e.g., departments, teams, agencies, committees).
 
 ## Philosophy of Administration
 

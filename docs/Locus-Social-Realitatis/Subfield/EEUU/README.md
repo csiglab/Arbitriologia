@@ -8,7 +8,7 @@
 
 ## Taxonomy
 
-## R&D Actors
+## R&D Actors 
 
 | **R&D Actor Type** | **Role/Function** | **Focus Areas** |
 | --- | --- | --- |
@@ -231,4 +231,6 @@ A National Defense Strategy for Generic Drugs
 - https://www.amazon.com/Making-America-Innovation-Market-Press/dp/0262528371
 - https://www.ft.com/content/37e5f642-cec9-4a88-a2fb-a0d0d6697e11
 - USA - Tech Dominance View → https://itif.org/person/hilal-aka/
-- 
+- https://www.arkansasedc.com/
+- https://artreasury.gov/
+- ...
