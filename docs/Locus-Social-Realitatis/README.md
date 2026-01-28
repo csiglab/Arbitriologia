@@ -2,6 +2,8 @@
 
 > In this note, we introduce a template for representing **social reality**—a comprehensive social ontology—with emphasis on dynamics.
 
+> **Social reality** is a piece of reality composed of the patterns, structures, and norms that emerge from the interactions of agents (humans) within specific social, cultural, and institutional contexts.
+
 > ⚠️ Note: To explore complex terrain, a map is often necessary, but it is always incomplete and can be flawed. **Exploration beyond the map is recommended** — to build a better map and to rediscover the terrain itself. The map should orient, not dictate.
 
 Doing:
@@ -13,11 +15,7 @@ Doing:
 * Minimal Cohort – emphasizes the minimal group necessary to produce the emergent social effect.
 * Activation Number – used in some complex systems literature to denote the number of agents needed to trigger a system-level effect.
 
-## Social Reality
-
-> **Social reality** is a piece of reality composed of the patterns, structures, and norms that emerge from the interactions of agents (humans) within specific social, cultural, and institutional contexts.
-
-### Structure
+## Structure
 
 > Which set of concepts allows us to describe the structure of social reality?
 
@@ -26,7 +24,7 @@ Doing:
 | **Region**                       | A spatially bounded zone within social reality characterized by relatively dense and recurrent patterns of human interaction, without presupposing cultural unity, institutional coherence, or political sovereignty.                                                                             | Provides spatial anchoring for social analysis; defines where interaction occurs without reifying “societies” or “nations.” |
 | **Facet**                        | An analytically distinct dimension of a social configuration (economic, political, legal, symbolic, cognitive, technical, etc.), defined by dominant causal mechanisms rather than by location or actors.                                                                                         | Enables multi-dimensional analysis of the same region or configuration; prevents mono-causal explanations.                  |
 
-### Characterization
+## Characterization
 
 > Which properties characterize the **social sphere** of reality?
 
@@ -54,7 +52,7 @@ Doing:
 | **Heterogeneity**                   | Social systems comprise diverse agents, norms, and structures, resulting in variation in behavior and outcomes.                                        | Cultural diversity, economic inequality, organizational variety    |
 | **Non-Boundedness**                 | Social reality often transcends strict conceptual, institutional, or geographical boundaries.                                                          | Transnational networks, hybrid communities, cross-sector alliances |
 
-### Ontic - vs Synontic Dualism
+## Ontic - vs Synontic Dualism
 
 > Understanding social reality requires distinguishing between what exists independently of human cognition and what exists primarily within it. Social phenomena are complex, layered, and often emerge from the interactions between individuals, groups, and institutions. To analyze them rigorously, it is useful to classify the elements of social reality into two broad categories: ontic and synontic.
 
