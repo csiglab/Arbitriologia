@@ -15,7 +15,7 @@ Doing:
 * Minimal Cohort – emphasizes the minimal group necessary to produce the emergent social effect.
 * Activation Number – used in some complex systems literature to denote the number of agents needed to trigger a system-level effect.
 
-## The Social Sphere
+## Social Reality
 
 > The emergent outcome of agents (humans), their interactions, and the environment in which they operate. It is a dynamic system in which individual and collective behaviors, structured relationships, and environmental conditions co-evolve, producing persistent patterns, institutions, and norms that both enable and constrain future actions.
 
@@ -27,11 +27,10 @@ Doing:
 
 > Which set of concepts allows us to describe the structure of social reality?
 
-| Concept                      | Description                                                                                | Role                                                     |
-| ---------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| **Field**                    | A structured space of positions defined by relations, rules, and valued resources          | Defines *where* social interaction occurs                |
-| **Facet**                    | An analytically distinct dimension of a field (economic, legal, symbolic, technical, etc.) | Enables multi-dimensional analysis of the same field     |
-
+| Concept    | Description                                                                                                                                                                                                           | Role                                                                                                                        |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Region** | A spatially bounded zone within social reality characterized by relatively dense and recurrent patterns of human interaction, without presupposing cultural unity, institutional coherence, or political sovereignty. | Provides spatial anchoring for social analysis; defines where interaction occurs without reifying “societies” or “nations.” |
+| **Facet**  | An analytically distinct dimension of a social configuration (economic, political, legal, symbolic, cognitive, technical, etc.), defined by dominant causal mechanisms rather than by location or actors.             | Enables multi-dimensional analysis of the same region or configuration; prevents mono-causal explanations.                  |
 
 ### Aspects  of Social Reality
 
