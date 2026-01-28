@@ -1,4 +1,4 @@
-# Non Ontic Representation
+# Synontic Representation
 
 > In this note, we explore an important concept in **agent modeling**: **Mental Constructs** - with a focus on the social reality. These are **internally generated concepts or ideas** that agents use to **represent, interpret, and reason about the world**.
 
