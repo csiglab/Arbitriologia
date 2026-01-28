@@ -1,10 +1,8 @@
 # 🕸️ Guide
 
-> In this note, we will introduce a framework "template" for representing the Social Sphere of Reality, alongside other alternative frameworks, with particular attention to what makes creating such template both special and challenging.
+> In this note, we introduce a template for representing **social reality**—a comprehensive social ontology—with emphasis on dynamics.
 
-> The structure of the framework will follow the sequence: Reality → Representation Forms (Template) → Representation.
-
-> Note: To explore complex terrain, a map is often necessary, but it is always incomplete and can be flawed. **Exploration beyond the map is recommended** — to build a better map and to rediscover the terrain itself. The map should orient, not dictate.
+> ⚠️ Note: To explore complex terrain, a map is often necessary, but it is always incomplete and can be flawed. **Exploration beyond the map is recommended** — to build a better map and to rediscover the terrain itself. The map should orient, not dictate.
 
 Doing:
 
@@ -438,25 +436,29 @@ In this framework, regulation is thus both a foundational ontological element pr
 
 ## References
 
-- [Locus -Instrumentorum/External Observer](../Locus-Instrumentorum/Meta/README.md)
-- [An Essay on Political Phenomena](../Breviarium/an-essay-on-political-phenomena.md)
-- [Observer](https://righteous-guardian-68f.notion.site/Observer-24bc0f5171ec8060b8f3d55b4b766042?source=copy_link)
-- [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723)
-- [Model](https://righteous-guardian-68f.notion.site/Model-1b1c0f5171ec807192cad4c8bdbc9b88?pvs=4)
-- [Social System](https://en.wikipedia.org/wiki/Social_system)
-- [Level of Organization](https://righteous-guardian-68f.notion.site/Level-of-Organization-1ebc0f5171ec80dd9100ec305664c2d3?pvs=4)
-- [Expected-utility maximizers don’t maximize utility](https://ergodicityeconomics.com/2025/05/28/expected-utility-maximizers-dont-maximize-utility/)
-- [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
-- [Seminario Latinoamericano de Filosofía de la Administración](https://www.youtube.com/watch?v=W0RQPGgti5c)
-- [System](https://righteous-guardian-68f.notion.site/System-1dac0f5171ec80c38c08f74d095235a9?pvs=4)
-- [Modelado](https://righteous-guardian-68f.notion.site/Modelado-a6727ea210124fb9a00ff6bb5bcf7cd5?pvs=4)
-- [Complexity](https://righteous-guardian-68f.notion.site/Complexity-2633ab7c5d5a46519593153880c13e57?pvs=4)
-- [Natural Computing](https://righteous-guardian-68f.notion.site/Natural-Computing-111c0f5171ec804196f2e48b5ee1afb5?pvs=4)
-- [Complexity Science](https://righteous-guardian-68f.notion.site/Complexity-Science-171c0f5171ec80c18335cdf06a024db6?pvs=4)
-- [Dynamical Intelligence](https://righteous-guardian-68f.notion.site/Dynamical-Intelligence-a41fde247c384e3bb5e561bf55c70f33?pvs=4)
-- [Agency](../Locus-Instrumentorum/Agency.md)
-- [External Observer](../Locus-Instrumentorum/Observation.md)
-- [Sociological Theory](https://en.wikipedia.org/wiki/Sociological_theory)
-- [Social Ontology](https://www.cambridge.org/core/elements/social-ontology/0F208BDE42489CF0CF77B0DE38E95BBB)
-- [Social Ontology](https://plato.stanford.edu/archives/fall2025/entries/social-ontology/)
-- [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
+* [Locus -Instrumentorum/External Observer](../Locus-Instrumentorum/Meta/README.md)
+* [An Essay on Political Phenomena](../Breviarium/an-essay-on-political-phenomena.md)
+* [Observer](https://righteous-guardian-68f.notion.site/Observer-24bc0f5171ec8060b8f3d55b4b766042?source=copy_link)
+* [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723)
+* [Model](https://righteous-guardian-68f.notion.site/Model-1b1c0f5171ec807192cad4c8bdbc9b88?pvs=4)
+* [Social System](https://en.wikipedia.org/wiki/Social_system)
+* [Level of Organization](https://righteous-guardian-68f.notion.site/Level-of-Organization-1ebc0f5171ec80dd9100ec305664c2d3?pvs=4)
+* [Expected-utility maximizers don’t maximize utility](https://ergodicityeconomics.com/2025/05/28/expected-utility-maximizers-dont-maximize-utility/)
+* [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
+* [Seminario Latinoamericano de Filosofía de la Administración](https://www.youtube.com/watch?v=W0RQPGgti5c)
+* [System](https://righteous-guardian-68f.notion.site/System-1dac0f5171ec80c38c08f74d095235a9?pvs=4)
+* [Modelado](https://righteous-guardian-68f.notion.site/Modelado-a6727ea210124fb9a00ff6bb5bcf7cd5?pvs=4)
+* [Complexity](https://righteous-guardian-68f.notion.site/Complexity-2633ab7c5d5a46519593153880c13e57?pvs=4)
+* [Natural Computing](https://righteous-guardian-68f.notion.site/Natural-Computing-111c0f5171ec804196f2e48b5ee1afb5?pvs=4)
+* [Complexity Science](https://righteous-guardian-68f.notion.site/Complexity-Science-171c0f5171ec80c18335cdf06a024db6?pvs=4)
+* [Dynamical Intelligence](https://righteous-guardian-68f.notion.site/Dynamical-Intelligence-a41fde247c384e3bb5e561bf55c70f33?pvs=4)
+* [Agency](../Locus-Instrumentorum/Agency.md)
+* [External Observer](../Locus-Instrumentorum/Observation.md)
+* [Sociological Theory](https://en.wikipedia.org/wiki/Sociological_theory)
+* [Social Ontology](https://www.cambridge.org/core/elements/social-ontology/0F208BDE42489CF0CF77B0DE38E95BBB)
+* [Social Ontology](https://plato.stanford.edu/archives/fall2025/entries/social-ontology/)
+* [Institutional analysis and development framework](https://en.wikipedia.org/wiki/Institutional_analysis_and_development_framework)
+* Searle, John R. "Social ontology: Some basic principles." Anthropological theory 6.1 (2006): 12-29.
+* Searle, John R. The construction of social reality. Simon and Schuster, 1995.
+* Baker, Lynne Rudder. "Just what is social ontology?." Journal of Social Ontology 5.1 (2019): 1-12.
+* DeLanda, Manuel. "A new philosophy of society." (2019): 1-152.
