@@ -1,3 +1,3 @@
-# Subfield
+# Region
 
-> The subfields that belong to the broader field of the social sphere.
+> The region that belong to the broader social reality.
