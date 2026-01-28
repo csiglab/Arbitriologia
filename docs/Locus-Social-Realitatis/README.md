@@ -70,12 +70,6 @@ Classification of Elements of Social Reality:
 
 * **Mixed Elements**: Entities that have both material/ontic and cognitive/synontic components. For example, a house physically exists (ontic), but its value, meaning, or social function depends on shared perceptions (synontic).
 
-### Intermediate Ontological &  Analytical Abstraction
-
-> **Secondary Conceptual Scaffolding**: These are mid-level frameworks and categories that organize and structure social phenomena for research and analysis. They build upon foundational concepts by grouping and relating elements like social groups, systems, and environments into coherent layers. This scaffolding supports clearer understanding, comparison, and integration across different scales and domains within the social sciences.
-
-
-
 
 ## Formalism: Social Reality
 
