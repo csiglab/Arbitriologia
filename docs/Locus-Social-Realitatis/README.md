@@ -32,6 +32,7 @@ Doing:
 | **Field**                    | A structured space of positions defined by relations, rules, and valued resources          | Defines *where* social interaction occurs                |
 | **Facet**                    | An analytically distinct dimension of a field (economic, legal, symbolic, technical, etc.) | Enables multi-dimensional analysis of the same field     |
 
+
 ### Aspects  of Social Reality
 
 > Which properties characterize the **social sphere** of reality?
