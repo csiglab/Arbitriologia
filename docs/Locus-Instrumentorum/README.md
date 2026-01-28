@@ -1,4 +1,4 @@
-# Locus Instrumentorum
+# 🧰 Locus Instrumentorum
 
 > The **Locus Instrumentorum** constitutes the space of tools—conceptual, methodological, and technical—used to observe, model, and interpret social systems. These instruments facilitate the structuring of inquiry, collection of data, systematization of phenomena, and construction of formal representations. The goal is not only empirical description but also generative understanding, diagnosis, and recursive transformation.
 

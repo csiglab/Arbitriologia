@@ -1,4 +1,4 @@
-# Guide
+# 🕸️ Guide
 
 > In this note, we will introduce a framework "template" for representing the Social Sphere of Reality, alongside other alternative frameworks, with particular attention to what makes creating such template both special and challenging.
 
