@@ -1,4 +1,4 @@
-# Locus Social Realitis
+# Guide
 
 > In this note, we will introduce a framework "template" for representing the Social Sphere of Reality, alongside other alternative frameworks, with particular attention to what makes creating such template both special and challenging.
 
@@ -22,6 +22,15 @@ Doing:
 > Formally, social reality can be understood as the totality of agents—each possessing non-ontic mental entities—together with the physical and structural environment in which their interactions take place.
 
 > Agents’ mental representations may correspond either to ontic entities—objects or phenomena that exist independently in reality—or to non-ontic entities, such as concepts, ideas, or abstractions without independent existence. Mental representations of non-ontic entities, like “Progress” or “Modernity,” are crucial for understanding social reality, because these shared representations guide actions and behaviors. In this sense, they function as potential entities, shaping the dynamics of social systems despite lacking independent existence.
+
+### Structure
+
+> Which set of concepts allows us to describe the structure of social reality?
+
+| Concept                      | Description                                                                                | Role                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| **Field**                    | A structured space of positions defined by relations, rules, and valued resources          | Defines *where* social interaction occurs                |
+| **Facet**                    | An analytically distinct dimension of a field (economic, legal, symbolic, technical, etc.) | Enables multi-dimensional analysis of the same field     |
 
 ### Aspects  of Social Reality
 
