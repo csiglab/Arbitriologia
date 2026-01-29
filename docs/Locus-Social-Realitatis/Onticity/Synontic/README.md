@@ -8,6 +8,11 @@
 
 > For example; Idiology is not a mental construct - because it's related with realty in this case - the inner state of Agents.
 
+**Alternative Terms:**
+
+- A **status function** is a function that an object, person, or entity performs not because of its physical properties, but because it is collectively recognized as having that function.
+- ...
+
 ## Case
 
 | Mental Construct | Description                                                              | Use                                                                                                      | Criticism                                                                                                     |
