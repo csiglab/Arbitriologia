@@ -108,6 +108,13 @@ QA:
 |                    | Goal                            | Specific target an agent seeks to achieve.                                                  | Non-ontic    |
 |                    | Preference                      | A single choice favoring one option over another.                                           | Non-ontic    |
 
+## Price
+
+> A **price** is: A Socially instantiated quantitative relation that regulates **exchange**.
+> **Price** = institutionalized numerical expectation attached to a good or service.
+
+> Price is an ontically real element of social reality: an emergent, relational, and institutionalized quantitative constraint governing exchange, dependent on collective recognition but irreducible to individual beliefs.
+
 ## References
 
 - [Social Ontology](https://plato.stanford.edu/entries/social-ontology/)
