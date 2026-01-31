@@ -13,6 +13,12 @@
     - Rational Agent
     - Bounded Rationality
 
+Type of Actions  by Deliberate Level or Process Mediated By Agents in Social Reality:
+
+- Deliberate Actions: …
+- Semi-Deliberate Actions: …
+- Non Deliberate :
+
 ## Cognitive Structure
 
 | Epistemological Element | Description | Cognitive Role(s) |
@@ -41,3 +47,6 @@
 | Cognitive Tool | Specific method or strategy employed to enhance cognitive performance | Optimizes information processing; enables efficient problem-solving and knowledge application |
 | Metacognition| Awareness and regulation of one's own cognitive processes | Enables self-monitoring, strategic learning, and adaptive control of cognition |
 
+## References
+
+- [Agency](https://righteous-guardian-68f.notion.site/Agency-eebe9b5a15d84a3db7a1a1273fc29a2c?source=copy_link)

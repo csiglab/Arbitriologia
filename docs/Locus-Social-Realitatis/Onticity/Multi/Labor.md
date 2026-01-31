@@ -66,6 +66,12 @@ Notes:
 
 > A theory of labor specifies the ontological status, constitutive conditions, and systemic roles of labor as a structured, norm-governed activity embedded in social and technical systems.
 
+### How to Evaluate Labor? How to Reason About Its Value?
+
+> The goal of labor is to transform reality in order to fulfill a desire or satisfy a necessity. Its value, therefore, consists in the **extent to which it contributes to achieving these ends—that is**, how **effectively** labor changes the world to meet human needs and purposes.
+
+> The measurement of **effectiveness** can be formulated in different ways, but the most practical approach combines **quality, cost structure, and time required for production**.
+
 ## References
 
 - Keynes, J. M. (1936). The General Theory of Employment, Interest and Money. Macmillan.
