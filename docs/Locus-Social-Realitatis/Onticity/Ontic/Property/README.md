@@ -1,5 +1,7 @@
 # Property
 
+> A property is a real, dependent mode of being that inheres in a bearer, structures its state or powers, and is ontologically prior to any description, measurement, or representation of it.
+
 > What are the fundamental properties of social reality?
 
 > How can the possible states of social reality be systematically categorized?
