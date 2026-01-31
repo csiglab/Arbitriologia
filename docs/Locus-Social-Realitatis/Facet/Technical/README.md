@@ -1,11 +1,8 @@
-# Academic Facet
-
-> 
+# Meta Technical & Technical Facet
 
 - Policial Science
 - Economics
 - ....
-
 
 | **Category**             | **Area**                        | **Description**                                                                 | **Uses**                                                                                     |
 |--------------------------|----------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -33,7 +30,7 @@
 | 🛰️ Strategic & Security  | Strategic Studies                | National security, defense, geopolitics, and conflict                            | Defense policy, cybersecurity, sovereignty                                                   |
 |                          | Migration Studies                | Population movement, integration, and demographic change                         | Immigration, labor market, urban and social policy                                          |
 
-# Knowledge System
+## Knowledge System
 
 > **Note**: `Knowledge = { Technology, Knowhow, Knowwhat }`.
 
