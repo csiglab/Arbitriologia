@@ -75,6 +75,6 @@ Notes:
 ## References
 
 - Keynes, J. M. (1936). The General Theory of Employment, Interest and Money. Macmillan.
-- Mill, J. S. (1848). Principles of Political Economy with Some of Their Applications to Social Philosophy. John W. Parker.
 - [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723?source=copy_link)
+- Mill, J. S. (1848). Principles of Political Economy with Some of Their Applications to Social Philosophy. John W. Parker.
 - Kilponen, J., & Ripatti, A. (2006). Labour and Product Market Competition in a Small Open Economy- Simulation Results Using a DGE Model of the Finnish Economy. Bank of Finland Research Discussion Paper.

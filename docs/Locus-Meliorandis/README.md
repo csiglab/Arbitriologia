@@ -18,6 +18,8 @@ QA:
 
 > How do we co-evolve a socio-economic region capable of satisfying human needs and desires—fundamentally developing cognitive capacities, not merely serving as a tertiary support to other economic regions?
 
+> How to evolve a Social Region from low capacity wealth creator (generate sufficiency products to fulfils desires and necesities of all) to one that is the best at it?
+
 ## Structure
 
 - Dimension  (Which are the dimension of actions?)
