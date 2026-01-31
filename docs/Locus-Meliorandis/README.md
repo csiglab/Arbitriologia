@@ -106,3 +106,4 @@ QA:
 - [An Essay on Self Organization in Social Systems](../Breviarium/an-essay-on-self-organization.md)
 - [State](../Locus-Social-Realitatis/Subfield/Meta/State/README.md)
 - [Why public policies fail: Policymaking under complexity](https://www.sciencedirect.com/science/article/pii/S1517758019300931)
+- [Positive and normative economics](https://en.wikipedia.org/wiki/Positive_and_normative_economics)
