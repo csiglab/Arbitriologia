@@ -2,6 +2,11 @@
 
 > ...
 
+Guiding Questions:
+
+* What is ontological nature of **Value**?
+* Which are the types of conceptions of value?
+
 ## History
 
 > What does the term **value** denote in economics?

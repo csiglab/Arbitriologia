@@ -37,21 +37,14 @@
 | **Ecological**            | Environment, resource, habitat                       | Ontic                                           | Physical substratum of life; cultural meanings may overlay it.                      |
 | **Reflexive / Epistemic** | Representation, ethnographic text, theoretical model | Non-ontic                                       | Conceptual constructs produced by anthropological reflection itself.                |
 
-Altruism
-Love
-Role
-Tie
-Connection
+## 🛠️ Working On
 
-Some notions  -  that implies potential actions - like a role. Which other notiosn do? ...
-
-- ask yourself about
-
-- Structure
-- Ontolgical Nature
-- Basis of Many Social Phenomonea: Joint Cognition
-- Dynamics
-- Properties
+- Altruism
+- Love
+- Role
+- Tie
+- Connection
+- Employment
 
 ## References
 

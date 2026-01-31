@@ -1,0 +1,1 @@
+# Closed Economy Toy Model

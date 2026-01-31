@@ -14,6 +14,10 @@ QA:
 - What are the fundamental constraints and scalability boundaries inherent to self-organizing systems, particularly in terms of structural complexity, coordination capacity, and emergent behavior? To what extent can self-organizing architectures scale without centralized coordination, and what structural thresholds or emergent bottlenecks constrain their performance and coherence?
 - How can one simulate the dynamics of social reality, and to what extent does structure (complex interaction units) emerge as an endogenous property of social interactions?
 
+## Formulation
+
+> How do we co-evolve a socio-economic region capable of satisfying human needs and desires—fundamentally developing cognitive capacities, not merely serving as a tertiary support to other economic regions?
+
 ## Structure
 
 - Dimension  (Which are the dimension of actions?)
