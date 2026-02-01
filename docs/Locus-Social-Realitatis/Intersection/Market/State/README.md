@@ -1,10 +1,12 @@
-# Market System Tags
+# State Space
 
-> ...
+State:
 
-## Ontology: Tags
-
-> ...
+- **Clearning - Equilibrium** - At Which Price Point Does an Item Sells?
+- Excess Supply
+- Excess Demand
+- Price Rigidity
+- Dynamic Disequilibrium
 
 ## Finantial Market Efficiency
 

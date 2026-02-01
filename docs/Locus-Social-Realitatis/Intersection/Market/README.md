@@ -1,4 +1,4 @@
-# Market
+# Market System
 
 > What are the long-term effects of automation on the **labor market**?
 
@@ -17,6 +17,8 @@
 > **Market Dynamics:** Model market trends, demand fluctuations, and competitive forces. Consider factors such as consumer preferences, emerging markets, and the impact of technological disruptions.
 
 > “In the short run, the market is a voting machine but in the long run it is a weighing machine.” — Ben Graham.
+
+> **Marketplace:** A structured environment where buyers and sellers interact to exchange goods, services, or assets. Marketplaces can be physical (e.g., a farmer’s market, stock exchange) or digital (e.g., e-commerce platforms like Amazon or NFT marketplaces). They facilitate price discovery, allocation of resources, and enable transactions between agents.
 
 ## Breviarum
 
@@ -45,6 +47,25 @@ What a market is not:
 | “Natural”                | Markets are designed, regulated, and historically contingent |
 | “Efficient by default”   | Many markets fail due to asymmetries, monopolies, or crises  |
 
+## Component Set
+
+> A specialized coordination and feedback subsystem operating within the market system.
+
+| Subsystem                 | Description                                                                       |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| Price system              | Signaling and feedback subsystem encoding relative scarcity and opportunity costs |
+| Exchange system           | Transaction execution and settlement subsystem                                    |
+| Monetary system           | Unit-of-account and liquidity provision subsystem                                 |
+| Credit system             | Intertemporal coordination and resource reallocation subsystem                    |
+| Contract system           | Temporal obligation and enforcement subsystem                                     |
+| Property system           | Control, exclusion, and residual-claim definition subsystem                       |
+| Information system        | Dissemination and interpretation of market-relevant signals                       |
+| Accounting system         | Internal and external representation of economic activity                         |
+| Financial system          | Capital aggregation and risk distribution subsystem                               |
+| Regulatory system         | Meta-coordination subsystem governing permissible interactions                    |
+| Entry–exit system         | Selection and structural adaptation subsystem                                     |
+| Competition system        | Pressure-generation and efficiency-selection subsystem                            |
+| Dispute resolution system | Conflict stabilization and rule-closure subsystem                                 |
 
 ## Ontology
 

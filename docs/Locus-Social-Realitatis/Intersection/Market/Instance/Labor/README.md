@@ -1,4 +1,4 @@
-# Labor Facet
+# Labor Market
 
 > **Note:** Labor is more than just a market—it carries a wide range of social, cultural, and institutional connotations. This motivates us to treat labor as a distinct, though not fully self-contained, facet of social reality, given its deep interconnections with other domains.
 
