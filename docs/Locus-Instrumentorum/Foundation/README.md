@@ -1,4 +1,4 @@
-# Meta Theory
+# Foundation
 
 > In this set of notes, we will explore a collection of concepts and tools to help us represent social reality. Note that these are not a full-fledged framework or ontology, but rather non-articulared ones.
 
