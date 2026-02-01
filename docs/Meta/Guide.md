@@ -1,2 +1,4 @@
+# Guide
+
 - Every element used to describe reality—whether structural or dynamic—must be entered in the Onticity layer and later developed in the appropriate sections.
 - ...

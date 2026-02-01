@@ -4,6 +4,10 @@
 
 - Technological Rent / Knowledge - Based Rent:
 
+## ...
+
+...
+
 ## References
 
 - [Economic Rent](https://en.wikipedia.org/wiki/Economic_rent)
