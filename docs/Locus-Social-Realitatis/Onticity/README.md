@@ -45,7 +45,9 @@
 - Tie
 - Connection
 - Employment
+- Inflation: Property of the Dynamics.
 
 ## References
 
 - [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723?source=copy_link)
+- [Property](https://righteous-guardian-68f.notion.site/Property-271c0f5171ec80498865e3db652beafb?source=copy_link)
