@@ -1,4 +1,12 @@
-# Inflation Rate
+# Inflation
+
+QA:
+
+- What is the ontic nature of inflation? Is it a property of an economy, a process, a process-like phenomenon, or something else?
+- What are the different conceptions of inflation?
+- What is the optimal level of inflation?
+- How is inflation measure?
+- Which are the different theories of inflation?
 
 > Inflation is a complex economic phenomenon influenced by various factors. Economists use different models to understand and explain inflationary processes.
 
