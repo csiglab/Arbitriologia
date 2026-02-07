@@ -1,10 +1,9 @@
-# Malaysia
+# 🇲🇾 Malaysia
 
-
-
-# A Guide to Profile a Country
 > This guide provides a structured framework for developing in-depth country profiles, with a focus on the institutional, historical, and sectoral dimensions of national economic development. It is designed for researchers, analysts, policy practitioners, and students who seek to understand not just what a country produces, but how and through which institutions, policies, and historical pathways it came to do so.
+
 ## Meta
+
 | Field              | Description                                      |
 | ------------------ | ------------------------------------------------ |
 | **Country Name**   | Malaysia                                         |
@@ -14,7 +13,9 @@
 | **Status**         | Completed                                        |
 
 ## 📜 Economic History
+
 **Guiding Questions:**
+
 * What were the key drivers of economic growth in each period?
 * What transitions occurred (agrarian → industrial → service-based)?
 | **Period**            | **Key Events and Developments** |
@@ -27,11 +28,14 @@
 | Modern Era (2010-Present) | Transition toward high-income economy status; Economic Transformation Programme (ETP) launched in 2010; growth of digital economy and technology sectors; increased focus on sustainable development and green economy; challenges from middle-income trap and global economic uncertainties; COVID-19 pandemic impact and recovery measures; recent focus on addressing cost of living issues and economic inequality |
 
 ## 🏛️ Economic Statecraft Institutions
+
 **Guiding Questions:**
+
 * What are the main economic governance bodies?
 * How centralized or decentralized is economic policy?
 * How are finance, trade, and innovation coordinated?
 * Are institutions independent or politically controlled?
+
 | Institution            | Established | Defunct Date | President/Leader | Parent Organization | Key Roles and Functions |
 | ---------------------- | ----------- | ------------ | ---------------- | ------------------- | ----------------------- |
 | Bank Negara Malaysia (Central Bank) | 1959 | - | Tan Sri Nor Shamsiah Mohd Yunus | - | Monetary policy, financial stability, currency issuance, banking supervision |
@@ -46,11 +50,14 @@
 | Royal Malaysian Customs Department | Pre-independence | - | Datuk Seri Abdul Latif Abdul Kadir | Ministry of Finance | Trade facilitation, customs duties, tax collection |
 
 ## 🔬 Research & Development (R&D) Actors
+
 **Guiding Questions:**
+
 * What are the major centers of scientific and technological production?
 * How is R\&D funded (public, private, international)?
 * Is there strong academia–industry collaboration?
 * What are the country’s flagship scientific domains?
+
 | Institution                | Established | President/Leader | Parent Organization | Primary Focus Areas |
 | -------------------------- | ----------- | ---------------- | ------------------- | ------------------- |
 | Ministry of Science, Technology and Innovation (MOSTI) | 1973 | Chang Lih Kang | - | Formulating national science and technology policies |
@@ -65,11 +72,14 @@
 | Malaysian Institute of Microelectronic Systems (MIMOS) | 1985 | Iskandar Samad | MOSTI | Microelectronics and ICT research |
 
 ## 🏭 Industrial Policy History
+
 **Guiding Questions:**
+
 * How did the country promote or protect its industries?
 * Was industrialization state-led or market-driven?
 * What incentives exist for investment and innovation?
 * What sectors were targeted for development?
+
 | Period                               | Key Policies and Developments |
 | ------------------------------------ | ----------------------------- |
 | Pre-independence (Pre-1957) | Colonial focus on extraction of raw materials (rubber, tin) with minimal processing industries |
@@ -82,11 +92,14 @@
 | Industry 4.0 and Digital Economy (2016-Present) | National Policy on Industry 4.0 (Industry4WRD) launched (2018); Malaysia Digital Economy Blueprint (MDEB) launched (2021); focus on digital transformation, automation, and advanced manufacturing; development of green technology and sustainable industries |
 
 ## 📊 Key Economic Sectors
+
 **Guiding Questions:**
+
 * What are the dominant productive sectors?
 * Which sectors are export-oriented or import-dependent?
 * How diversified or concentrated is the economy?
 * Are there emerging high-value sectors?
+
 | Sector                   | Description and Key Developments | Approx. GDP Contribution (%) |
 | ------------------------ | -------------------------------- | ---------------------------- |
 | Services | Largest sector including finance, wholesale and retail trade, tourism, and education. Growth of Islamic finance, digital services, and medical tourism. Impact of COVID-19 on tourism subsector. | ~55% |
@@ -96,11 +109,14 @@
 | Construction | Significant infrastructure development including transportation networks, urban development, and affordable housing programs. Impact of government stimulus packages. | ~4% |
 
 ## 🧭 Strategic Challenges and Opportunities
+
 **Guiding Questions:**
+
 * What structural constraints affect development?
 * What opportunities exist for growth or reform?
 * How resilient is the economy to global shocks?
 * Where is strategic investment most needed?
+
 | Domain                       | Key Challenges | Strategic Opportunities |
 | ---------------------------- | -------------- | ----------------------- |
 | Economic Growth | Middle-income trap; stagnant productivity growth; high household debt; cost of living pressures | Digital economy transformation; high-value manufacturing development; services sector expansion; green economy transition |
@@ -112,17 +128,16 @@
 
 ## References
 
-- Bank Negara Malaysia. (2022). Annual Report 2021. Kuala Lumpur: Bank Negara Malaysia.
-- Department of Statistics Malaysia. (2022). Gross Domestic Product Fourth Quarter 2022. Putrajaya: DOSM.
-- Economic Planning Unit. (2021). Twelfth Malaysia Plan 2021-2025. Putrajaya: Prime Minister's Department.
-- Ministry of International Trade and Industry. (2021). National Trade Policy 2021-2025. Putrajaya: MITI.
-- World Bank. (2022). Malaysia Economic Monitor, December 2022: Transforming for Resilience and Inclusive Growth. Washington, DC: World Bank.
-- Khazanah Research Institute. (2021). The State of Households 2020: Two Years On: Different Realities. Kuala Lumpur: KRI.
-- Rasiah, R. (2021). Malaysian Economy: Sustaining Growth and Resilience. Singapore: World Scientific Publishing.
-- Thillainathan, R., & Cheong, K. C. (2016). Malaysia's Socio-economic Transformation: Ideas, Institutions and Leadership. Singapore: Springer.
-- Malaysia Productivity Corporation. (2022). Productivity Report 2021. Kuala Lumpur: MPC.
-- PEMANDU. (2020). Big Fast Results: The Journey of Malaysia's National Transformation. Kuala Lumpur: PEMANDU Associates.
-- [Malaysia](https://en.wikipedia.org/wiki/Malaysia)
-- [Can Malaysia break out of the middle income trap?](https://cebr.com/reports/can-malaysia-break-out-of-the-middle-income-trap/)
-- Chandran, V. G. R., Rasiah, R., & Wad, P. (2009). Malaysian manufacturing systems of innovation and internationalization of R&D.
-- …
+* Bank Negara Malaysia. (2022). Annual Report 2021. Kuala Lumpur: Bank Negara Malaysia.
+* Department of Statistics Malaysia. (2022). Gross Domestic Product Fourth Quarter 2022. Putrajaya: DOSM.
+* Economic Planning Unit. (2021). Twelfth Malaysia Plan 2021-2025. Putrajaya: Prime Minister's Department.
+* Ministry of International Trade and Industry. (2021). National Trade Policy 2021-2025. Putrajaya: MITI.
+* World Bank. (2022). Malaysia Economic Monitor, December 2022: Transforming for Resilience and Inclusive Growth. Washington, DC: World Bank.
+* Khazanah Research Institute. (2021). The State of Households 2020: Two Years On: Different Realities. Kuala Lumpur: KRI.
+* Rasiah, R. (2021). Malaysian Economy: Sustaining Growth and Resilience. Singapore: World Scientific Publishing.
+* Thillainathan, R., & Cheong, K. C. (2016). Malaysia's Socio-economic Transformation: Ideas, Institutions and Leadership. Singapore: Springer.
+* Malaysia Productivity Corporation. (2022). Productivity Report 2021. Kuala Lumpur: MPC.
+* PEMANDU. (2020). Big Fast Results: The Journey of Malaysia's National Transformation. Kuala Lumpur: PEMANDU Associates.
+* [Malaysia](https://en.wikipedia.org/wiki/Malaysia)
+* [Can Malaysia break out of the middle income trap?](https://cebr.com/reports/can-malaysia-break-out-of-the-middle-income-trap/)
+* Chandran, V. G. R., Rasiah, R., & Wad, P. (2009). Malaysian manufacturing systems of innovation and internationalization of R&D.

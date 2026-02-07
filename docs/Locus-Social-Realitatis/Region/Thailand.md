@@ -1,17 +1,11 @@
-# Thailand
+# 🇹🇭 Thailand
 
-Tags: Observatorio
-ID: PRO-1345
-L: 8
-Status: Not started
-
-> …
-> 
+> ...
 
 ## Research & Development Agents
 
 > Here is a table summarizing the critical **R&D Actors** in Thailand, along with their types, working models, and roles:
-> 
+>
 
 | **R&D Stakeholder/Institution** | **Type** | **Working Model** | **Role** | **Parent Organization** |
 | --- | --- | --- | --- | --- |
