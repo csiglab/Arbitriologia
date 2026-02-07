@@ -1,6 +1,7 @@
 # Monopoly
 
-: 10
+- What is the ontic nature of a monopoly?
+- What ontic element generates the state?
 
 - Natural Monopolies
 - Unnatural Monopolies

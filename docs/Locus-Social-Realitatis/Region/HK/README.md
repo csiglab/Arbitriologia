@@ -93,53 +93,31 @@
 
 ## References
 
-* [Technology](../Locus-Social-Realitatis/Facet/Knowledge/Technology.md)
-* Hong Kong Census and Statistics Department
-* Hong Kong Monetary Authority (HKMA)
-* Innovation and Technology Commission, Hong Kong SAR Government
-
-* https://en.wikipedia.org/wiki/Hong_Kong
-
-* Naubahar Sharif / [https://scholar.google.com/citations?user=RTE4QJwAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=RTE4QJwAAAAJ&hl=en&oi=sra)
-
-* https://www.youtube.com/watch?v=YsYe6jhJQzw&t=1851s
-
+* [Hong Kong](https://en.wikipedia.org/wiki/Hong_Kong)
+* [Hong Kong Monetary Authority (HKMA)](https://www.hkma.gov.hk/eng/)
+* [Hong Kong Census and Statistics Department](https://www.censtatd.gov.hk/en/)
 * [How Hong Kong Lost the Lead in Semiconductors](https://www.youtube.com/watch?v=heclOxi1VTE)
-
 * [De-industrialization was Hong Kong’s Biggest Mistake](https://www.youtube.com/watch?v=rKvKUdhm-Ms)
-
-* https://en.wikipedia.org/wiki/List_of_Hong_Kong_government_agencies
-
-* https://www.itib.gov.hk/en/publications/I&T%20Blueprint%20Book_EN_single_Digital.pdf
-
-* https://www.itib.gov.hk/en/index.html
-
-* https://www.policyaddress.gov.hk/2025/en/index.html
-
-* https://www.digitalpolicy.gov.hk/en/our_work/digital_infrastructure/industry_development/ai_subsidy_scheme/
-
-* https://www.policyaddress.gov.hk/2025/public/pdf/supplement/supplement-04_en.pdf
-
-* https://www.hkpc.org/sites/default/files/2020-06/hk_reindustrialisation_guide.pdf
-
-* https://www.investhk.gov.hk/media/tgkneyjb/creative-industries_driving-innovation-and-future-growth_2.pdf
-
-* https://www.itib.gov.hk/en/i_and_t_support/research_development.html
-
-* https://www.hkic.org.hk/about-us#synergy-in-innovation
-
-* https://www.cedb.gov.hk/en/index.html
-
-* https://www.hkpc.org/en
-
-* https://www.vtc.edu.hk/home/en/
-
-* https://www.itf.gov.hk/en/funding-programmes/promoting-new-industrialisation/itif/index.html
-
-* https://research.hktdc.com/en/article/MzEzOTIwMDIy
-
-* https://www.innohk.gov.hk/en/
-
-* https://www.cepu.gov.hk/en/home/
-
-* https://www.hkpc.org/sites/default/files/2025-02/hong_kong_manufacturing_industry_development_study_report_en.pdf
+* [List of Hong Kong government agencies](https://en.wikipedia.org/wiki/List_of_Hong_Kong_government_agencies)
+* [Hong Kong Innovation and Technology Development Blueprint](https://www.itib.gov.hk/en/publications/I&T%20Blueprint%20Book_EN_single_Digital.pdf)
+* [InvestHK](https://www.investhk.gov.hk/)
+* [Digital Policy Office](https://www.digitalpolicy.gov.hk)
+* [The Chief Executive's 2025 Policy Address](https://www.policyaddress.gov.hk/2025/en/index.html)
+* [Office for Attracting Strategic Enterprises](https://www.oases.gov.hk/en/index.html)
+* [Inovation, Technology and Industry Bureau](ttps://www.itib.gov.hk/en/index.html)
+* [Hong Kong Investment Corporation Limited](https://www.hkic.org.hk/)
+* [Commerce and Economic Development Beureau](https://www.cedb.gov.hk/en/index.html)
+* [Hong Kong Productivity Council (HKPC)](https://www.hkpc.org/en)
+* Human Formation
+  * [Vocational Training Council](https://www.vtc.edu.hk/home/en/)
+* Tecnogenesis
+  * [InnoHK](https://www.innohk.gov.hk/en/)
+  * [Innovation and Technology Fund](https://www.itf.gov.hk/en/home/index.html)
+* [HK Chief Executive's Policy Unit](https://www.cepu.gov.hk/en/home/) [Chief Executive's Policy Unit](././././.././../../Catalog/Executive-Policy-Unit.md)
+* [New Productive Forces Ignite New Momentum in Hong Kong Manufacturing](https://www.hkpc.org/sites/default/files/2025-02/hong_kong_manufacturing_industry_development_study_report_en.pdf)
+* [Guide to Hong Kong's Reindustrialization Opportunities and Limitations in Manufacturing](https://www.hkpc.org/sites/default/files/2020-06/hk_reindustrialisation_guide.pdf)
+* [Technology](../Locus-Social-Realitatis/Facet/Knowledge/Technology.md)
+* [Sharif, N., & Huang, C. (2012). Innovation strategy, firm survival and relocation: The case of Hong Kong-owned manufacturing in Guangdong Province, China. Research Policy, 41(1), 69–78.](https://www.notion.so/Sharif-N-Huang-C-2012-Innovation-strategy-firm-survival-and-relocation-The-case-of-Hong--12c598edb79080c68e5bf3f598d7bdbb?v=10e598edb7908185b165000c521c82a8&source=copy_link)
+* [Sharif, N., & Baark, E. (2005). The tamest of tigers? Understanding Hong Kong’s innovation system and innovation policies. International Journal of Technology and Globalisation, 1(3–4), 462–479.](https://www.notion.so/Sharif-N-Baark-E-2005-The-tamest-of-tigers-Understanding-Hong-Kong-s-innovation-system-an-12c598edb79080f8ab3ce94eef902de3?v=10e598edb7908185b165000c521c82a8&source=copy_link)
+* [Lau, A. K., Baark, E., Lo, W. L., & Sharif, N. (2013). The effects of innovation sources and capabilities on product competitiveness in Hong Kong and the Pearl River Delta. Asian Journal of Technology Innovation, 21(2), 220–236.](https://www.notion.so/Lau-A-K-Baark-E-Lo-W-L-Sharif-N-2013-The-effects-of-innovation-sources-and-capabil-300598edb79080f6b6e1dc3160e17477?v=10e598edb7908185b165000c521c82a8&source=copy_link)
+* [Baark, E., & Sharif, N. (2006). Hong Kong’s innovation system in transition: Challenges of regional integration and promotion of high technology. Asia’s Innovation Systems in Transition, 123–147.](https://www.notion.so/Baark-E-Sharif-N-2006-Hong-Kong-s-innovation-system-in-transition-Challenges-of-regional--300598edb7908009b079d4e215577122?v=10e598edb7908185b165000c521c82a8&source=copy_link)
