@@ -1,4 +1,4 @@
-# 🧩 Domain
+# Domain
 
 > What are the domains—or facets of social reality—that are the targets of reflection and evolution?
 

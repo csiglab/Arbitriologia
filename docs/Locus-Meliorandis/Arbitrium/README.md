@@ -1,3 +1,3 @@
-# 📜 Arbitrium Instance(s)
+# Arbitrium Instance(s)
 
 > ...
