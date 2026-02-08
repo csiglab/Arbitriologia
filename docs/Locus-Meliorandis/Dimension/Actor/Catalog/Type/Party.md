@@ -13,7 +13,7 @@
       * What concept or conceptual family most adequately captures the nature of a political party?
       * What problem(s) does a political party **solve**?
       * Which alternative institutional arrangements can solve the same problem(s)?
-      * How to chategorie
+      * How to categorize political parties?
 
 * Structural & Organizational Analysis
 
