@@ -12,7 +12,13 @@
 
 > ...
 
+## Actor Type Space
+
+> See more in [Actor Type Space](../../Locus-Meliorandis/Dimension/Actor/Catalog/Type/README.md)
+
 ## Actor Space Taxonomy
+
+> See more in [Actor Catalog](../../Locus-Meliorandis/Dimension/Actor/Catalog/README.md).
 
 | Actor                    | Type              | Description                                                                                            |
 | ------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------ |
@@ -32,3 +38,6 @@
 - Ostrom, E. Governing the Commons (1990) – Collective action and institutions.
 - Kahneman, D. Thinking, Fast and Slow (2011) – Heuristics and cognitive biases.
 - Aumann, R.J. (1976) – Rationality and common knowledge in game theory.
+- [Actor](./Epistemic/Actor.md)
+- [Onticity](./README.md)
+- [Actor Catalog](../../Locus-Meliorandis/Dimension/Actor/Catalog/README.md)
