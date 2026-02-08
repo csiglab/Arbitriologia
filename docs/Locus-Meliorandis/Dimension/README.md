@@ -2,6 +2,8 @@
 
 > What are the domains—or facets of social reality—that are the targets of reflection and evolution?
 
+> How can improvement be achieved? Through which forms of agency can the direction of change be influenced?
+
 ## Domain Space (Dimension)
 
 1. **Production** – Core economic activity; interventions here increase material output and technological capability.
