@@ -21,7 +21,6 @@ QA:
 | Health     | Humans require physical, mental, and social well-being to function optimally, including nutrition, exercise, mental health, and social support.                                      |
 | Morality      | Humans are capable of moral reasoning, evaluating actions as right or wrong, and creating ethical frameworks that guide behavior.                                                    |
 
-
 ## Social Capital
 
 > Social Capital is a form of energy that gives rise to a society.
