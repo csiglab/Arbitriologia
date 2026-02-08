@@ -2,6 +2,7 @@
 
 ## Guiding Questions
 
+* What is the nature of the term **Market**? Are 'Market' an agentic-synontic construct? Does the market have a necessary form?
 * What is the ontic nature of a market? Is it a concrete entity, an emergent structure, or a conceptual abstraction?
 * What substrates or conditions are required to sustain a market (e.g., resources, institutions, information, trust)?
 * At what level of reality does a market exist (physical, social, informational, or conceptual)?
@@ -13,6 +14,10 @@
 * Which processes occur within markets (e.g., exchange, price formation, information aggregation, arbitrage)?
 * Which phenomena emerge in markets (e.g., bubbles, crises, network effects, power asymmetries)?
 * What properties can be defined or measured for markets (e.g., liquidity, efficiency, volatility, resilience, inclusiveness)?
+
+## Credit Market(s)
+
+> Credit Market - works better is debt default is possible - and repayment is not obligatory - making sure that bad creditors go out of business.
 
 ## References
 

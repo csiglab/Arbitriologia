@@ -8,6 +8,8 @@
 
 > The Economic Research Epistemic Object Space is the interface layer between economic reality and economic knowledge.
 
+> Note: Pay attentino to econoimcas ideas (are this epistemic > ontic or normative).
+
 ## Principle Space
 
 **Economic research operates** on this space via:
@@ -35,8 +37,6 @@
 | **Model Assemblies**       | Coherent systems of interrelated epistemic objects                                    | Generate predictions and explanations                    | Supply–Demand Model, DSGE Model             |
 | **Measurement Artifacts**  | Institutionalized data representations                                                | Anchor models to observed data                           | National Accounts, Input–Output Tables      |
 | **Diagnostic Objects**     | Constructs designed to detect deviations or failures                                  | Identify structural or functional anomalies              | Price Distortion, Market Failure            |
-
-
 
 ## Economic Modelling
 

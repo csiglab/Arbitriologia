@@ -6,6 +6,22 @@
 >
 > **Terminological caution.** Labels such as *capitalism*, *mercantilism*, or *liberalism* are just that—**labels**. They refer to heterogeneous **ontic elements** (institutions, practices, power relations, production structures) and sometimes to **synoptic constructs** imposed ex post. Analytical evaluation should therefore focus on the **referent** (the underlying structures and practices), not on the label itself.
 
+## History of Economic Science
+
+> What have been the subjects of study in Economic Science?
+
+> Note: This "History" is not the history of economics itself, but rather the history of mainstream economic thought—or the perceived, popular trajectory of the field. Technology has always been central to some economic thinking, going back to the 16th century.
+
+| Period                                    | Scope                                     | Description                                                                                                                                                                                            | Researcher(s)                                        |
+| ----------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| Medieval                                  | Moral & Ethical Constraints               | Economics embedded in moral philosophy; decision-making analyzed under religious, social, and legal constraints; emphasis on just pricing, fairness, and stewardship of resources.                     | Thomas Aquinas, Ibn Khaldun                          |
+| Ancient / Pre-Modern                      | Science of Wealth                         | Focused on accumulation, distribution, and management of material resources; largely normative and prescriptive. Wealth was central; decisions were analyzed in the context of social order and trade. | Aristotle, Xenophon, Confucius                       |
+| Classical (18th–19th c.)                  | Production & Markets                      | Economics as rational allocation of scarce resources; formal analysis of production, labor, and capital under constraints; early focus on efficiency and growth.                                       | Adam Smith, David Ricardo, John Stuart Mill          |
+| Neoclassical (late 19th c.–early 20th c.) | Decision-Making Under Constraints         | Abstracted individual choice under scarcity; utility maximization and constrained optimization become central; wealth derived from decisions.                                                          | Alfred Marshall, Vilfredo Pareto                     |
+| Keynesian / Welfare (20th c.)             | Macro Constraints & Policy                | Decision-making of households, firms, and governments under macroeconomic constraints; focus on unemployment, investment, and aggregate wealth outcomes.                                               | John Maynard Keynes, Joan Robinson                   |
+| Institutional / Behavioral (20th–21st c.) | Social & Cognitive Constraints            | Decisions influenced by institutions, social norms, bounded rationality; technology and culture alter feasible choices; wealth as emergent.                                                            | Thorstein Veblen, Herbert Simon, Daniel Kahneman     |
+| Modern / Technology-Driven (21st c.)      | Decision-Making with Technological Change | Study of how technology shifts constraints (information, production, labor) and impacts wealth outcomes; economic science studies adaptation and optimization under changing feasible sets.            | Erik Brynjolfsson, Mariana Mazzucato, Daron Acemoglu |
+
 ## Theory–Praxis Space
 
 | Primary Mode             | Label                | Description                                                                                                                                                                              | Region                  | Period                  | Tags                                                            |
