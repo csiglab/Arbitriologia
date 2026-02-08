@@ -1,4 +1,4 @@
-# Patent Analytics
+# Patent Data
 
 > Mapping and understanding the technology landscape.
 

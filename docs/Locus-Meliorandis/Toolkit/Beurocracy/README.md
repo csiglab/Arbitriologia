@@ -112,3 +112,6 @@ Kong and China." *Personnel review* 31.4 (2002): 402-431.
 business strategy influence compensation in high‐technology firms?." *Strategic Management Journal* 27.6 (2006): 559-570.\Shearer, Bruce. "Piece-rates, principal-agent models, and productivity
 profiles: parametric and semi-parametric evidence from payroll records."
 *Journal of Human Resources* (1996): 275-303.
+
+- [Selection Board](../Institutional/Catalog/Type/Selection-Board.md)
+

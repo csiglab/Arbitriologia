@@ -1,6 +1,6 @@
 # Actor Index
 
-> An Integrated Catalog.
+> An Integrated Catalog: Type, and Instances.
 
 - InvestHK
 - Germany Trade and Invest (GTAI)
@@ -15,4 +15,4 @@
 
 ## References
 
-- [Knowledge Unit](../Locus-Social-Realitatis/Facet/Knowledge/Unit/README.md)
+- [Research Unit](.././../../../Locus-Social-Realitatis/Facet/Technical/Unit/Instance/README.md)

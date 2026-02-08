@@ -45,6 +45,7 @@
 - Tie
 - Connection
 - Employment
+- Innovation
 - Inflation: Property of the Dynamics.
 
 ## References

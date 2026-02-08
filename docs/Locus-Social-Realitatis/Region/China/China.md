@@ -12,6 +12,33 @@ Lowering px of Chinese caviar to just $150/30g.
 China has also become the biggest producer of black truffle. Yunnan/Sichuan alone produced 500t out of 800t globally.
 Truffle pigs in China can fine truffles in mountains faster than specially trained truffle dogs.
 
+## Forein Investmtn Incentiyuve System Structure
+
+- How this incetnive system was born - adn evolve? What this incentive sysetm - (plahed) or emernged?
+
+- How should we farme the FI measures in china?
+
+- Different Types of Firms -> Diferent Activites - Control Flexibily by the Governemnt.
+  - Equity Joint Venture (EJV)
+  - Cooperative Joint Venture (CJV)
+  - Wholly Foreign-Owned Enterprise (WFOE)
+  - Variable Interest Entity (VIE)
+  - Strategic Minority Foreign Investment
+  -
+- Control the choice set, not the choice
+- Incentive Compatibility: Firm Makes Money; China Improve It's Technical Mastery.
+- Strategic Ambiguity as a Feature, Not a Bug
+- Dynamic, Not Static, Optimization
+
+China’s FDI regime is not primarily about capital attraction.
+
+It is about:
+
+- Capability extraction
+- Technology domestication
+- Control of strategic assets
+- Dynamic tightening after learning is achieved
+
 ## Legal Framework
 
 - [China’s New Private Economy Promotion Law: Good Intentions Meet Weak Government Accountability](https://npcobserver.com/2025/05/china-private-economy-law-government-accountability/)
