@@ -1,4 +1,4 @@
-# 🛠️ Guide
+# Guide
 
 > Societies — through the actors within them — recursively observe themselves, assess their conditions, and formulate diagnoses - imagine different paths  or modifications -  and invoke a set of agentia proceses that derived in action. From this process emerges a shared and distributed mental schema that guides collective action toward the transformation of social reality.
 
