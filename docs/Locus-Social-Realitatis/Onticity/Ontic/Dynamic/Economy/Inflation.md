@@ -7,6 +7,12 @@ QA:
 - What is the optimal level of inflation?
 - How is inflation measure?
 - Which are the different theories of inflation?
+- How to measure inflation? Why it's hard to measure inflation? Which are the mistakes made in measuring inflation?
+- How to interpret the inflation numbers?
+- How to think deeply about Inflation?
+- What are the types of underlying drivers of inflation?
+- What is the relation of Inflation and Monetary Policy?
+- Why is inflation neceesary? Downward real adjustments are necessary because productivity, demand, and sectoral relevance sometimes fall; inflation allows these unavoidable adjustments to occur without mass unemployment or institutional breakdown.
 
 > Inflation is a complex economic phenomenon influenced by various factors. Economists use different models to understand and explain inflationary processes.
 
@@ -33,3 +39,4 @@ These models provide different lenses through which economists analyze and under
 ## References
 
 - [Inertial Inflation](https://en.wikipedia.org/wiki/Inertial_inflation)
+- [Labor](../../Multi/Labor.md)
