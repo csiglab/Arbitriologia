@@ -68,10 +68,11 @@
 
 ## Framework
 
-> Which are the framework that are the toolkits that can be used to induced or guide chaneg in the social field?a
+> Which are the framework that are the toolkits that can be used to induced or guide chaneg in the social field?
 
 > See more in [General](./General/README.md)
 
 ## References
 
 - [Management](https://righteous-guardian-68f.notion.site/Management-267c0f5171ec80188029f61e9154ccc1?source=copy_link)
+- [An Essay on Foreign Participation in the Local Production System](../../Breviarium/an-essay-on-foreign-participation-in-the-local-production-system.md)
