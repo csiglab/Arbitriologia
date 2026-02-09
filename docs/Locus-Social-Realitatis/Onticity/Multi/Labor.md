@@ -5,6 +5,7 @@
 Guiding Questions:
 
 - What is the ontic nature of **Labor**?
+  - Is labor the activity itself (actual action), the potentiality for activity (an abstract specification of productive action), or both?
 - Is labor an intrinsic human property or a socially mediated economic relation?
 - How does labor differ ontologically from other production factors (capital, land, technology)?
 - Which properties or attributes define labor (e.g., productivity, intensity, skill composition, temporality)?
@@ -38,6 +39,37 @@ Notes:
 - Labor is a relation between agent–means–ends within a system.
 - Labor is not a (Commodity, Resource, Input, Price, Time).
 
+### Is labor the activity itself (actual action), the potentiality for activity (an abstract specification of productive action), or both?
+
+> Labor is both potentiality and actuality, but not as separable entities; rather, as two moments of a single ontic structure.'
+
+> Labor is a structured capacity that becomes real only through its enactment as a temporally extended, intentional process.
+
+> **Labor is both potentiality and actuality, but not as separable entities; rather, as two moments of a single ontic structure.**
+
+#### Labor as Potentiality (Dispositional Capacity)
+
+In its first ontic moment, **labor exists as a structured dispositional capacity** inherent in an agent, constituted by physiological capabilities, cognitive skills, learned techniques, and socially recognized competencies. This potential form of labor is **non-actual**, yet real, insofar as it defines a *space of possible productive actions* that can be mobilized under appropriate conditions. As potentiality, labor is **agent-bound, context-sensitive, and historically formed**, shaped by education, training, institutional recognition, and prior accumulations of embodied knowledge.
+
+Ontologically, this dimension of labor corresponds to **δύναμις (dynamis)**: a capacity oriented toward action but not yet realized. In this form, labor can be accumulated, differentiated, credentialed, withheld, or contracted, but it does not itself effect material or symbolic transformation.
+
+#### Labor as Actuality (Enacted Process)
+
+In its second ontic moment, **labor exists as actuality**, that is, as a **temporally extended, intentional process** through which a previously latent capacity is *actualized in act* (**ἐνέργεια / ἐντελέχεια**). Here, labor manifests as concrete activity: the coordinated expenditure of energy, attention, and skill, mediated by tools, technologies, and organizational structures, and directed toward the transformation of material or symbolic states of the world.
+
+As actuality, labor is **processual, irreversible, and world-transforming**. It occurs only in time, under determinate technical, organizational, and normative constraints, and its effects persist beyond the moment of execution through reified outputs (artifacts, infrastructures, procedures, knowledge).
+
+### Ontological Synthesis
+
+> **Labor is a structured capacity that becomes real only when it is *actualized in act* as a temporally extended, intentional, and systemically constrained process.**
+
+Neither potentiality nor activity alone suffices to define labor:
+
+* Pure potentiality lacks productive efficacy.
+* Pure activity is unintelligible without an underlying capacity.
+
+Labor therefore exists **in the relation between capacity and enactment**, as the continuous mediation between what agents *can do* and what they *actually do* within a structured system of means, ends, and constraints.
+
 ### Is labor an intrinsic human property or a socially mediated economic relation?
 
 > ...
@@ -45,6 +77,28 @@ Notes:
 ### How does labor differ ontologically from other production factors (capital, land, technology)?
 
 > ...
+
+## Proces Space
+
+> Which processes operate on abstract **labor** (Abstract Capacity Set) to transform it into concrete, socially organized production?
+
+| Category             | Type                  | Description                                                                                              |
+| -------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Differentiation      | **Division of Labor** | Process by which undifferentiated productive activity is split into distinct tasks, roles, or functions. |
+| Aggregation          | Combination           | Recombining differentiated tasks into workflows, production chains, or integrated outputs.               |
+| Specialization       | Intensification       | Deepening of task focus, skill refinement, and role narrowing over time.                                 |
+| Coordination         | Control               | Synchronization of differentiated labor via markets, hierarchies, protocols, or algorithms.              |
+| Allocation           | Distribution          | Assignment of tasks to agents, firms, regions, or machines.                                              |
+| Sequencing           | Temporal              | Ordering of labor activities in time (pipelines, stages, just-in-time).                                  |
+| Standardization      | Normalization         | Reduction of task variance via procedures, specs, and interfaces.                                        |
+| Abstraction          | Conceptual            | Representation of labor as units, hours, costs, or competencies.                                         |
+| Commodification      | Valorization          | Transformation of labor into tradable labor-power or services.                                           |
+| Mechanization        | Substitution          | Replacement or augmentation of human labor by tools or machines.                                         |
+| Automation           | Elimination           | Removal of human execution while retaining function.                                                     |
+| Integration          | Recomposition         | Collapsing previously separated tasks into unified roles or systems.                                     |
+| Learning             | Adaptation            | Skill acquisition and productivity improvement through repetition.                                       |
+| Institutionalization | Stabilization         | Fixing labor roles via law, norms, credentials, or organizations.                                        |
+| Evaluation           | Measurement           | Quantification of labor output, performance, or efficiency.                                              |
 
 ## Wage
 
