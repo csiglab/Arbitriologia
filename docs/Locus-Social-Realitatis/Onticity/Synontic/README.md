@@ -1,4 +1,14 @@
-# Synontic Representation
+# Synontic
+
+> In this note we will explore a very relevant notion for the description of the ontology of social reality — Synontic Elements.
+
+
+(TO BE DONE)
+
+- Intersubjective Mental Elements - That Expalins Agency Elements.        - Value, ...
+- Intersubjective Physico-Mental Elements - That Expalins Agency Elements - Currency, Role, 
+
+> A Synontic element is a a mental or semi-mental construct - that can habinites other minds - and it's .  Examples of this are exceptations,  Role, etc.
 
 > In this note, we explore an important concept in **agent modeling**: **Mental Constructs** - with a focus on the social reality. These are **internally generated concepts or ideas** that agents use to **represent, interpret, and reason about the world**.
 
@@ -25,6 +35,9 @@
 | Legitimacy       | Perceived validity or acceptability of authority, rules, or institutions | Helps agents evaluate governance, compliance, and social order                                           | Subjective and socially constructed; may be fragile or contingent on specific cultural or historical contexts |
 | Authority        | Socially recognized power to influence or command                        | Guides organizational hierarchies, decision-making, and compliance                                       | Can legitimize inequality; may be contested or unstable                                                       |
 | Freedom          | Concept of individual or collective autonomy                             | Helps agents understand constraints, rights, and social obligations                                      | Highly context-dependent; can conflict with other social goals or collective interests                        |
+
+## What is the deep - ontic nature of Syntonic Elements?
+
 
 ## References
 
