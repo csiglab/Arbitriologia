@@ -8,7 +8,7 @@
 >
 > How should we conceptualize the role of a “tribal chief”?
 
-Humans possess the capacity to assign agency-modulating significance to both purely mental constructs and physically instantiated objects. These assignments affect interpretation, belief formation, internal state transitions, and patterns of action.
+Humans possess the capacity to assign agency-modulating significance to both purely mental constructs and physically instantiated objects. By agency-modulating, we mean significance that alters an agent’s internal cognitive or affective states—thereby structuring interpretation, constraining deliberation, and potentially guiding action.
 
 Certain elements—whether:
 
@@ -42,7 +42,13 @@ When an element—mental or physically instantiated—systematically organizes o
 
 ## Catalog
 
-Element, Description
+| **Element** | **Agency-Modulating Function** |
+| --- | --- |
+| **Fiat Currency** | Transforms a physical scrap (or digital bit) into a **deliberation-shifter**, forcing an agent to weigh "cost" against "desire" via a shared abstract scale. |
+| **Stop Sign** | Acts as an **automated cognitive interrupt**; it doesn't physically stop the car, but it reconfigures the driver's "perceptual field" to include a mandatory pause. |
+| **The "Chair" (Meeting)** | A temporary **asymmetric agency-distributor**; it grants one agent the power to "allocate" speech-time and "gate" the entry of ideas into the collective space. |
+| **A "Border"** | An **invisible spatial constraint**; it triggers different sets of legal/affective norms once a geographic coordinate is crossed, despite no physical change in terrain. |
+| **Reputation (Credit Score)** | A **distributed probability-shaper**; it modulates how *others* perceive the risk of interacting with an agent, thereby constraining that agent's future options. |
 
 ## What is the deep - ontic nature of Synontic Elements?
 
