@@ -2,6 +2,8 @@
 
 > Note: The term facet is a technical concept that denotes a distinct dimension or space of social interaction, emphasizing a particular aspect of social life. Each facet represents a coherent set of patterns, processes, or mechanisms that can be analyzed independently while remaining interdependent with other facets.
 
+> Clarification on Culture: There is no separate "cultural facet." Culture is not a single domain of social life; rather, it permeates all facets. Every facet is, in effect, constituted by cultural elements, making culture a comondenotative component across the entirety of social reality.
+
 > The traditional **notion** of a system—defined as a cohesive whole with fixed boundaries—is arguably invalid as an organizing concept for representing social reality. More specialized concepts, such as **social fields**, **ecosystems**, or other **relational frameworks**, are better suited. These alternatives effectively capture the multiplicity of interacting structures, emergent dynamics, fluid and porous boundaries, and complex interdependencies that characterize the social sphere.
 
 ## Facet

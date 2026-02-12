@@ -301,3 +301,5 @@ A **cultural system** and a **social system** are deeply interconnected, but the
 - [Cultural Analysis](https://www.ocf.berkeley.edu/~culturalanalysis/)
 - [Cultural analytics](https://en.wikipedia.org/wiki/Cultural_analytics)
 - [On Cultures That Build (2020) | Hacker News](https://news.ycombinator.com/item?id=38278380)
+- [Culture Is the Mass-Synchronization of Framings](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings)
+- [Mechanism](https://www.notion.so/Mechanism-305598edb79080f3b8d9d8fcda9b6d94?source=copy_link)
