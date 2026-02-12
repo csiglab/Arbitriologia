@@ -15,7 +15,7 @@ Certain elements—whether:
 * **Purely mental** (e.g., expectations, norms, values), or
 * **Physico-mental hybrids** (e.g., currency, titles, institutional roles),
 
-function as coordination operators within intersubjective space. They shape how agents interpret situations, update beliefs, regulate internal states, and select actions.
+function as coordination elements within intersubjective space. They shape how agents interpret situations, update beliefs, regulate internal states, and select actions.
 
 When an element—mental or physically instantiated—systematically organizes or modulates intersubjective agency in this way, we designate it a **Synontic Element**.
 
@@ -25,15 +25,20 @@ When an element—mental or physically instantiated—systematically organizes o
 
 ## Competing Term(s)
 
-| **Notion**                    | **Description**                                                                                                                                                                       |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Notion**                    | A general mental construct or conceptual content held by an individual. Primarily cognitive and epistemic; not necessarily intersubjective or agency-structuring.                     |
-| **Status Function**           | A **status function** is a function that an object, person, or entity performs not because of its physical properties, but because it is collectively recognized as having that function. |
-| **Social Fact**               | A socially constructed state of affairs that exists due to collective attitudes or practices (e.g., being married, holding office). Descriptive rather than structurally operative.   |
-| **Symbol**                    | A sign that stands for or represents something beyond itself. Primarily semiotic; representation-focused.                                                                             |
-| **Cultural Schema**  | A shared cognitive template that guides interpretation and expected behavior in recurring situations. Operates at the level of distributed cognition.                                 |
-| **Collective Representation** | A shared symbolic or conceptual framework that expresses group-level meanings (Durkheimian sense).                                                                                    |
-| **Convention**                | A regularized pattern of behavior sustained by mutual expectations and equilibrium-like coordination.                                                                                 |
+| **Notion**                    | **Description**                                                                                                                                                                                   | **Source**           |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Status Function**           | A function an object, person, or entity performs not because of its intrinsic physical properties, but because it is collectively recognized as having that function.                             | John Searle (Institutional ontology)       |
+| **Social Fact**               | A socially constructed state of affairs that exists due to collective attitudes, recognition, or practices (e.g., being married, holding office). Descriptive rather than structurally operative. | Émile Durkheim                             |
+| **Symbol**                    | A sign that stands for or represents something beyond itself. Primarily semiotic; representation-focused rather than structurally generative.                                                     | Semiotics (Peirce, Saussure traditions)    |
+| **Cultural Schema**           | A shared cognitive template that guides interpretation and expected behavior in recurring situations. Operates at the level of distributed cognition.                                             | Cognitive anthropology; cultural cognition |
+| **Collective Representation** | A shared symbolic or conceptual framework that expresses group-level meanings and classifications.                                                                                                | Émile Durkheim                             |
+| **Convention**                | A regularized pattern of behavior sustained by mutual expectations and coordination equilibria.                                                                                                   | David Lewis                                |
+| **Shared Intention**          | A structured form of coordinated intention where agents plan and act together under mutual awareness of joint activity.                                                                           | Michael Bratman                            |
+| **Joint Commitment**          | A normative relation in which agents are collectively bound through mutual commitment to act as a body.                                                                                           | Margaret Gilbert                           |
+| **Structuration**             | The recursive process by which social structures are both constituted by and constitutive of social practices.                                                                                    | Anthony Giddens                            |
+| **Normative Relations**       | Structured relations of rights, duties, privileges, and powers among agents; analytically decomposable into fundamental legal positions.                                                          | Wesley Hohfeld                             |
+| **Deontic Logic Frameworks**  | Formal systems modeling obligations, permissions, prohibitions, and normative statuses.                                                                                                           | Modal logic / formal normative theory      |
+| **Institutional Ontology**    | The study of the ontological structure of institutions, including collective recognition, rule systems, and status assignments.                                                                   | Searle, Hindriks, Tuomela                  |
 
 ## Catalog
 
@@ -41,7 +46,7 @@ Element, Description
 
 ## What is the deep - ontic nature of Synontic Elements?
 
-> A Synontic Element is a recognition-constituted, relational operator embedded in intersubjective space whose being consists in its structured capacity to constrain, coordinate, and modulate distributed agency independently of its material substrate, persisting only through the recursive reproduction of shared interpretation.
+> A Synontic Element is a recognition-constituted, relational element embedded in intersubjective space whose being consists in its structured capacity to constrain, coordinate, and modulate distributed agency independently of its material substrate, persisting only through the recursive reproduction of shared interpretation.
 
 Aspects:
 
