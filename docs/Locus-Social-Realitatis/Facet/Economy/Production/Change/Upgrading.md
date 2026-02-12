@@ -1,15 +1,10 @@
 # Upgrading
 
-: 9
-
 > **Industrial Upgrading** refers to the process of improving or advancing a sector's technological, organizational, or product capabilities to enhance its competitiveness, productivity, and overall performance within the economy.
-> 
 
 > **Technological learning** denotes the iterative process through which individuals, organizations, or societies acquire, assimilate, and apply knowledge and skills related to technology, fostering innovation, efficiency, and adaptation over time.
-> 
 
 > **Structural Upgrade**:  "Structural upgrade" denotes the process of enhancing or improving the fundamental framework, systems, or infrastructure of an entity, typically aimed at increasing efficiency, capacity, or resilience.
-> 
 
 Government Grants and Direct Subsidies to Promote Firms’ Technological Learning Should be Restricted.
 
@@ -28,8 +23,8 @@ Government Grants and Direct Subsidies to Promote Firms’ Technological Learnin
 
 ## Referencing
 
-- Intarakumnerd, Patarapong, Pun-Arj Chairatana, and Preeda Chaiyanajit.  "Global production networks and host-site industrial upgrading: the case  of the semiconductor industry in Thailand." *Asia Pacific Business Review* 22.2 (2016): 289-306.
-- Doner, Richard F., Patarapong Intarakumnerd, and Bryan K. Ritchie. 
+- Intarakumnerd, Patarapong, Pun-Arj Chairatana, and Preeda Chaiyanajit.  "Global production networks and host-site industrial upgrading: the case  of the semiconductor industry in Thailand." *Asia Pacific Business Review* 22.2 (2016)
+- Doner, Richard F., Patarapong Intarakumnerd, and Bryan K. Ritchie.
 "University–industry linkages in Thailand: Sources of weakness in  economic upgrading." *Science, Technology and Society* 18.2 (2013): 213-229.
 - Rasiah, Rajah, and Yap Xiao Shan. "Institutional support, technological  capabilities and domestic linkages in the semiconductor industry in  Singapore." *Asia Pacific Business Review* 22.1 (2016): 180-192.
 - An Exploratory Review of the Relationship Between Enterprise Training and Technology Upgrading: Evidence From South African Manufacturing Firms.
@@ -40,4 +35,3 @@ Development Studies Working Paper No.13, Roskilde University, Roskilde,
 Denmark
 - Intarakumnerd, Patarapong, and Meng-Chun Liu. "Industrial technology upgrading and innovation policies: A comparison of Taiwan and Thailand." Emerging States at Crossroads (2019)
 - Structural Upgrade - Wu, Ning, and ZuanKuo Liu. "Higher education development, technological innovation and industrial structure upgrade." Technological Forecasting and Social Change 162 (2021): 120400.
-- …

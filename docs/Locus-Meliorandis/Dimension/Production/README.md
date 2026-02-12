@@ -1,5 +1,15 @@
 # Production
 
+(TO BE DONE)
+
+- HOW TO STRUCTURE AGENCY AROUND PRODUCTION? HOW TO PROBLEMATIZE PRODUCTION?
+
+- DIVERSIFICATION (CHANGE) -> NATURE
+- VALUE CAPTURE
+- ONTOLOGY: WHICH ARE THE ACTOR SET -> DYNAMICS OF THE SET.
+- MECHANISM: INDUCE CERTAIN DYNAMICS IN THE ACTORS
+- HOW TO EVALUET PROGRESS
+
 - How can the ownership of firms be distributed as broadly as possible, while ensuring that the firms themselves remain professionally managed and large enough to exploit economies of scale?
 
 - What were John Stuart Mill’s ideas regarding the aggregation of firm resources or cooperative ownership?
@@ -127,4 +137,4 @@ Innovation:
     - Intarakumnerd, Patarapong. "Catching Up or Falling Behind: Thailand’s  Industrial Development from the National Innovation System  Perspective’." *Sustainability of Thailand’s Competitiveness: The Policy Challenges* (2010): 52-77.
     - Intarakumnerd, P., and T. Virasa. "Government policies and measures in  supporting technological capability development of latecomer firms: a
     tentative taxonomy." *Asian Journal of Technology Innovation* 12.2 (2004): 1-19.
-    - ‣
+- [An Essay on the Determination of the Minimal and Sufficient Conditions Required to Initiate the Development and Evolution of an Industrial Sector Toward Convergence and Overtaking](../../../Breviarium/essay-on-the-determination-of-the-minimal-and-sufficient-conditions-required-to-initiate-the-development-and-evolution-of-an-industrial-sector-toward-convergence-and-overtaking.md)

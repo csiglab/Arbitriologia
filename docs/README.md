@@ -38,6 +38,9 @@
 - [An Essay on Local Action and Global Outcome](Breviarium/articulation/an-essay-composition-local-action-global-outcome.md)
 - [On The Nature of the Problems (And Change) of the Social Field](Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
 
+- [An Essay on the Determination of the Minimal and Sufficient Conditions Required to Initiate the Development and Evolution of an Industrial Sector Toward Convergence and Overtaking](Breviarium/essay-on-the-determination-of-the-minimal-and-sufficient-conditions-required-to-initiate-the-development-and-evolution-of-an-industrial-sector-toward-convergence-and-overtaking.md)
+
+
 ## 💡 Research
 
 - [Investigaciones](https://www.bremontix.xyz/lab/research.html)

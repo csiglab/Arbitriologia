@@ -2,6 +2,12 @@
 
 > ...
 
+Dynamics Type:
+
+- Diversification
+- Technical Space Change
+- ...
+
 ## References
 
 - Salis, Sergio. "Foreign acquisition and firm productivity: evidence from Slovenia." *World Economy* 31.8 (2008): 1030-1048.
