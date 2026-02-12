@@ -4,6 +4,8 @@
 
 > **Agency** = Capacity for intentional state formation + action selection + execution control + feedback integration under a coherent decision architecture.
 
+> **Note**: The Logic of Action and the Operational Encoding of Action are often confused. For example, a “UDA Data Strategy” is not strictly a strategy—it is guided by one. What it actually represents is an Agenda, a prioritized set of actions or initiatives.
+
 ## Action
 
 > Action is a causally efficacious intervention generated  by an entity.
@@ -72,11 +74,8 @@
 | **Plan** | Temporal Sequencing Structure | Ordered set of actions with milestones and dependencies. | 12-month market entry plan. |
 | **Tactic** | Contextual Maneuver | Situation-specific action chosen to advance a scheme or plan. | Promotional discount to accelerate adoption. |
 | **Campaign** | Coordinated Tactical Sequence | Time-bound aggregation of tactics oriented toward a defined objective. | Election campaign. |
-| **Operation** | Active Execution Phase | Real-time coordinated execution of plans and tactics. | Military operation or product launch. |
 | **Action** | Concrete Intervention | Specific behavioral act affecting the environment. | Signing a contract; deploying software update. |
-| **Control Mechanism** | Monitoring Structure | System for tracking performance and enforcing correction. | KPI dashboard with variance thresholds. |
-| **Feedback Loop** | Adaptive Adjustment System | Mechanism that integrates performance data into future execution adjustments. | Post-mortem review feeding into process redesign. |
-| Agenda |  |  |  |
+| **Agenda** | Priority Sequencing Framework | Ordered set of topics or issues requiring attention and decision within a governance context. | Board meeting agenda prioritizing M&A review before quarterly financials. |
 
 ## References
 
