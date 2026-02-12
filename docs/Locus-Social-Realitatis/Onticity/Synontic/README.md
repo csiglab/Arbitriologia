@@ -2,43 +2,57 @@
 
 > In this note we will explore a very relevant notion for the description of the ontology of social reality — Synontic Elements.
 
+## Formulation
 
-(TO BE DONE)
+> How should one conceptualize a ten-dollar bill?
+>
+> How should we conceptualize the role of a “tribal chief”?
 
-- Intersubjective Mental Elements - That Expalins Agency Elements.        - Value, ...
-- Intersubjective Physico-Mental Elements - That Expalins Agency Elements - Currency, Role, 
+Humans possess the capacity to assign agency-modulating significance to both purely mental constructs and physically instantiated objects. These assignments affect interpretation, belief formation, internal state transitions, and patterns of action.
 
-> A Synontic element is a a mental or semi-mental construct - that can habinites other minds - and it's .  Examples of this are exceptations,  Role, etc.
+Certain elements—whether:
 
-> In this note, we explore an important concept in **agent modeling**: **Mental Constructs** - with a focus on the social reality. These are **internally generated concepts or ideas** that agents use to **represent, interpret, and reason about the world**.
+* **Purely mental** (e.g., expectations, norms, values), or
+* **Physico-mental hybrids** (e.g., currency, titles, institutional roles),
 
-> **Mental Constructs** are concepts or ideas that function as **internally constructed representations**. They serve a **representational purpose** at some level of abstraction from reality, helping agents interpret, model, or anticipate aspects of the external world, even though they are **not directly derived from reality**.
+function as coordination operators within intersubjective space. They shape how agents interpret situations, update beliefs, regulate internal states, and select actions.
 
-> **Agents—in** our case, humans—possess many concepts related to the social sphere of reality that do not correspond to tangible entities or ontological features of that reality. Concepts such as Justice or Progress are non-substantial. Nonetheless, these key concepts exist as shared mental representations among agents; they shape how we act and, ultimately, influence the structure and dynamics of social reality itself.
+When an element—mental or physically instantiated—systematically organizes or modulates intersubjective agency in this way, we designate it a **Synontic Element**.
 
-> For example; Idiology is not a mental construct - because it's related with realty in this case - the inner state of Agents.
+> Note: The causal efficacy of a Synontic Element does not supervene on its material substrate. Its agency-modulating consequences are determined by intersubjective interpretation, not by intrinsic physical structure.
 
-**Alternative Terms:**
+> Note: The consequences of a Synontic Element are not determined by its intrinsic physical properties. Rather, its effects arise from the interpretations agents assign to it within intersubjective space.
 
-- A **status function** is a function that an object, person, or entity performs not because of its physical properties, but because it is collectively recognized as having that function.
-- ...
+## Competing Term(s)
 
-## Case
+| **Notion**                    | **Description**                                                                                                                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Notion**                    | A general mental construct or conceptual content held by an individual. Primarily cognitive and epistemic; not necessarily intersubjective or agency-structuring.                     |
+| **Status Function**           | A **status function** is a function that an object, person, or entity performs not because of its physical properties, but because it is collectively recognized as having that function. |
+| **Social Fact**               | A socially constructed state of affairs that exists due to collective attitudes or practices (e.g., being married, holding office). Descriptive rather than structurally operative.   |
+| **Symbol**                    | A sign that stands for or represents something beyond itself. Primarily semiotic; representation-focused.                                                                             |
+| **Cultural Schema**  | A shared cognitive template that guides interpretation and expected behavior in recurring situations. Operates at the level of distributed cognition.                                 |
+| **Collective Representation** | A shared symbolic or conceptual framework that expresses group-level meanings (Durkheimian sense).                                                                                    |
+| **Convention**                | A regularized pattern of behavior sustained by mutual expectations and equilibrium-like coordination.                                                                                 |
 
-| Mental Construct | Description                                                              | Use                                                                                                      | Criticism                                                                                                     |
-| ---------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Modernity        | A framework emphasizing progress, rationality, and social transformation | Helps agents interpret social, economic, and technological change; guides development-oriented decisions | Can impose a linear view of history; may discourage experimentation and alternative approaches                |
-| Nation           | Idea of a politically and culturally bounded community                   | Guides collective identity, political organization, and governance                                       | Often socially constructed; can be exclusionary or oversimplify complex social networks                       |
-| Development      | Concept of improving social, economic, and technological conditions      | Helps agents prioritize policies, investments, and reforms                                               | Can be ethnocentric; risks imposing external models that ignore local capacities                              |
-| Market           | Abstract representation of economic exchange mechanisms                  | Helps agents predict, coordinate, and optimize resource allocation                                       | Can mask power relations, inequalities, and informal economies                                                |
-| Justice          | Normative concept of fairness and rights                                 | Guides legal, political, and social decision-making                                                      | Highly context-dependent; contested interpretations can produce conflict                                      |
-| Legitimacy       | Perceived validity or acceptability of authority, rules, or institutions | Helps agents evaluate governance, compliance, and social order                                           | Subjective and socially constructed; may be fragile or contingent on specific cultural or historical contexts |
-| Authority        | Socially recognized power to influence or command                        | Guides organizational hierarchies, decision-making, and compliance                                       | Can legitimize inequality; may be contested or unstable                                                       |
-| Freedom          | Concept of individual or collective autonomy                             | Helps agents understand constraints, rights, and social obligations                                      | Highly context-dependent; can conflict with other social goals or collective interests                        |
+## Catalog
+
+Element, Description
 
 ## What is the deep - ontic nature of Syntonic Elements?
 
+> A Synontic Element is a recognition-constituted, relational operator embedded in intersubjective space whose being consists in its structured capacity to constrain, coordinate, and modulate distributed agency independently of its material substrate, persisting only through the recursive reproduction of shared interpretation.
+
+Aspects:
+
+1. **Relational Ontology**:  A Synontic Element does not exist as a self-subsisting substance but as a structured relation of mutual recognition distributed across agents.
+2. **Interpretation-Dependent Efficacy**: The causal efficacy of a Synontic Element is not grounded in intrinsic properties, but in the interpretive uptake that confers agency-modulating significance.
+3. **Agency-Structuring Function**: A Synontic Element operates as a constraint-generator that reorganizes the field of possible perceptions, expectations, and actions among interacting agents.
+4. **Intersubjective Embedding**: The being of a Synontic Element consists in its stable embedding within a network of shared anticipations and reciprocal orientation.
+5. **Recognition-Constitution**: A Synontic Element exists insofar as it is collectively recognized as binding, meaningful, or action-relevant.
+6. **Persistence Condition**: A Synontic Element endures not through material continuity but through the recursive reproduction of coordinated expectations.
+7. **Substrate-Independence**: The material carrier of a Synontic Element is ontologically secondary to the interpretive structure that animates it.
 
 ## References
 
-- [Representation](https://righteous-guardian-68f.notion.site/Representation-16fc0f5171ec80c6bb5fc675d075f9b1?source=copy_link)
+* [Representation](https://righteous-guardian-68f.notion.site/Representation-16fc0f5171ec80c6bb5fc675d075f9b1?source=copy_link)
