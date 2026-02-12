@@ -1,4 +1,4 @@
-# 🕸️ Guide
+# Guide
 
 > In this note, we introduce a template for representing **social reality**—a comprehensive social ontology—with emphasis on dynamics.
 
