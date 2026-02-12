@@ -1,25 +1,4 @@
-# Agency
-
-> ...
-
-- Agency    Theory
-    - Perception
-    - Interpretation
-    - ….
-    - Action
-    - Typology - Role - Interaction
-    - Description at some level - Principle - … - Model
-
-    - Rational Agent
-    - Bounded Rationality
-
-Type of Actions  by Deliberate Level or Process Mediated By Agents in Social Reality:
-
-- Deliberate Actions: …
-- Semi-Deliberate Actions: …
-- Non Deliberate :
-
-## Cognitive Structure
+# Cognitive
 
 | Epistemological Element | Description | Cognitive Role(s) |
 |------------------------|-------------|-------------------|
@@ -49,4 +28,4 @@ Type of Actions  by Deliberate Level or Process Mediated By Agents in Social Rea
 
 ## References
 
-- [Agency](https://righteous-guardian-68f.notion.site/Agency-eebe9b5a15d84a3db7a1a1273fc29a2c?source=copy_link)
+- ...

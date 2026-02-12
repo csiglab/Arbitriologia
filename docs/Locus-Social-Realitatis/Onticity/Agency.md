@@ -1,7 +1,0 @@
-# Public Actor
-
-> ...
-
-## References
-
-- []()
