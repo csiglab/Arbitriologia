@@ -39,7 +39,7 @@ When an element—mental or physically instantiated—systematically organizes o
 
 Element, Description
 
-## What is the deep - ontic nature of Syntonic Elements?
+## What is the deep - ontic nature of Synontic Elements?
 
 > A Synontic Element is a recognition-constituted, relational operator embedded in intersubjective space whose being consists in its structured capacity to constrain, coordinate, and modulate distributed agency independently of its material substrate, persisting only through the recursive reproduction of shared interpretation.
 
