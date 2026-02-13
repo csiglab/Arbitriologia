@@ -2,8 +2,6 @@
 
 > In this note, we introduce a template for representing **social reality**—a comprehensive social ontology—with emphasis on dynamics.
 
-> **Social reality** is a piece of reality composed of the patterns, structures, and norms that emerge from the interactions of agents (humans) within specific social, cultural, and institutional contexts.
-
 > ⚠️ Note: To explore complex terrain, a map is often necessary, but it is always incomplete and can be flawed. **Exploration beyond the map is recommended** — to build a better map and to rediscover the terrain itself. The map should orient, not dictate.
 
 Doing:
@@ -14,7 +12,11 @@ Doing:
 * **Activation Number** – used in some complex systems literature to denote the number of agents needed to trigger a system-level effect.
 * **Participation Threshold** – more explicit, often used in modeling collective action.
 
-## Structure
+## Social Reality
+
+> **Social reality** is a piece of reality composed of the patterns, structures, and norms that emerge from the interactions of agents (humans) within specific social, cultural, and institutional contexts.
+
+### 'Object' of Study
 
 > Which concepts describe the **delimitation** of the study object within social reality?
 
@@ -23,7 +25,7 @@ Doing:
 | **Region**                       | A spatially bounded zone within social reality characterized by relatively dense and recurrent patterns of human interaction, without presupposing cultural unity, institutional coherence, or political sovereignty.                                                                             | Provides spatial anchoring for social analysis; defines where interaction occurs without reifying “societies” or “nations.” |
 | **Facet**                        | An analytically distinct dimension of a social configuration (economic, political, legal, symbolic, cognitive, technical, etc.), defined by dominant causal mechanisms rather than by location or actors.                                                                                         | Enables multi-dimensional analysis of the same region or configuration; prevents mono-causal explanations.                  |
 
-## Social Reality
+### Characterization
 
 > Which properties characterize the **social sphere** of reality?
 
