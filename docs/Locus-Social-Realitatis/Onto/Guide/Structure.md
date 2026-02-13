@@ -14,7 +14,7 @@
 - **Structure** as also an analytic–epistemic element.
 - The **Structure of Social Reality** Must Not Be Conflated with the **Institutional Structure of the State**.
 
-- **Social Structure** should better be treated more as a epistemic–analytical construct that captures the relatively invariant relational configuration common to an equivalence class of social states. This configuration functions as a constraint topology that conditions the probability distribution over the system’s reachable states, thereby delimiting the probabilistically admissible region of its state space.
+- **Social Structure** should better be treated more as a epistemic–analytical construct that captures the relatively invariant relational configuration (Regimes) (Abstract State) common to an equivalence class of social states. This configuration functions as a constraint topology that conditions the probability distribution over the system’s reachable states, thereby delimiting the probabilistically admissible region of its state space.
 
 - Note: This formulation introduces a purely epistemic tool intended to hypothesize a meta-level property of social reality—namely, the persistence of invariant relational configurations. It does not, in itself, assert any substantive ontological claim about social reality.
 
