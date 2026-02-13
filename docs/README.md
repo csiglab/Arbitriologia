@@ -39,7 +39,7 @@ Our mission unfolds through three interconnected realms:
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 - [An Essay on Local Action and Global Outcome](Breviarium/articulation/an-essay-composition-local-action-global-outcome.md)
-- [On The Nature of the Problems (And Change) of the Social Field](Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
+- [On the Nature of Agent-Driven Social Reality Evolution](Breviarium/articulation/on-the-nature-of-the-agentic-diven-social-reality-evolution.md)
 
 - [An Essay on the Determination of the Minimal and Sufficient Conditions Required to Initiate the Development and Evolution of an Industrial Sector Toward Convergence and Overtaking](Breviarium/essay-on-the-determination-of-the-minimal-and-sufficient-conditions-required-to-initiate-the-development-and-evolution-of-an-industrial-sector-toward-convergence-and-overtaking.md)
 
