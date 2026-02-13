@@ -8,9 +8,8 @@
 
 Doing:
 
-* notion that denotes the **minimum number of agents participating in an environment** required to **give rise to, or make noticeable, a particular element of a social field**.
 * Critical Mass: Critical Mass – widely used in sociology, network theory, and innovation diffusion to denote the threshold number of participants needed for a phenomenon to become self-sustaining or visible.
-* Threshold – used in social network theory and collective behavior; the minimal number of adopters or participants required for a behavior, norm, or innovation to spread.
+* **Threshold** – used in social network theory and collective behavior; the minimal number of adopters or participants required for a behavior, norm, or innovation to spread.
 * Participation Threshold – more explicit, often used in modeling collective action.
 * Minimal Cohort – emphasizes the minimal group necessary to produce the emergent social effect.
 * Activation Number – used in some complex systems literature to denote the number of agents needed to trigger a system-level effect.
