@@ -10,9 +10,9 @@
 
 > **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative imagination of social reality. Our mission unfolds through three interconnected realms:
 
-- Locus Instrumentorum: Tools to investigate reality and engineer its transformation.
-- Locus Meliorandis: Engineering change in social reality.
-- Locus Realitatis: Investigating the structure and dynamics of social reality.
+- **Locus Instrumentorum**: Tools to investigate social reality and steer its structural evolution toward higher levels of individual and collective capability.
+- **Locus Meliorandis**: Activating change in social reality.
+- **Locus Realitatis**: Investigating the structure and dynamics of social reality.
 
 > The entire corpus of ideas can be reduced to two fundamental systemic problems: the «The Agent Imagination – «Action Pattern Stability» Problem» and its twin, the «Collective Action Problem».
 
