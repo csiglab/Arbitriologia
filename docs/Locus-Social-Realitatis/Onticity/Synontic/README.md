@@ -67,3 +67,7 @@ Aspects:
 ## References
 
 * [Representation](https://righteous-guardian-68f.notion.site/Representation-16fc0f5171ec80c6bb5fc675d075f9b1?source=copy_link)
+* [Collective Intentionality](https://plato.stanford.edu/entries/collective-intentionality/)
+* Searle, J. R. (1995). The Construction of Social Reality.
+* Bratman, M. (2014). Shared Agency.
+* Gilbert, M. (1989). On Social Facts.
