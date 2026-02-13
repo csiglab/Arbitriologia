@@ -1,17 +1,10 @@
-# New Zealand
+# 🇳🇿 New Zealand
 
-Tags: Observatorio
-ID: PRO-1316
-L: 11
-Status: Not started
-
-> …
-> 
+> ...
 
 ## R&D Actors
 
 > Here is a table summarizing some notable **Research and Development (R&D)** actors in New Zealand, including their foundation year, parent organization, roles, and current president or equivalent leader:
-> 
 
 Here is the table of notable research and development (R&D) actors in New Zealand, ordered by their foundation year:
 
@@ -39,7 +32,6 @@ This table includes the notable R&D actors in New Zealand, ordered by their foun
 ## Industrial Policy
 
 > …
-> 
 
 - Álvarez, Jorge, et al. "Agricultural institutions, industrialization and growth: The case of New Zealand and Uruguay in 1870–1940." Explorations in Economic History 48.2 (2011): 151-168.
 - Greasley, David, and Les Oxley. "Knowledge, natural resource abundance and economic development: Lessons from New Zealand 1861–1939." Explorations in Economic History 47.4 (2010): 443-459.
@@ -83,4 +75,4 @@ This table includes some of the prominent enterprises in New Zealand founded fro
 
 - [Developing research organisations](https://teara.govt.nz/en/research-institutions/page-2)
 - Álvarez, Jorge, and Luis Bértola. "So similar, so different: New Zealand and Uruguay in the world economy." Settler economies in world history. Brill, 2013. 491-520.
-- New Zealand Trade and Enterprise (NZTE)
+- [New Zealand Trade and Enterprise (NZTE)](https://www.nzte.govt.nz/)

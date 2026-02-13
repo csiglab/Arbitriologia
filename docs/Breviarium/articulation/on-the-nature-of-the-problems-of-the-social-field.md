@@ -12,11 +12,20 @@ Elements:
 - Critical Mass
 - ...
 
+Types of Changes:
+
+- State Changes
+- Dynamics Changes
+
 Type of Actions  by Deliberate Level or Process Mediated By Agents in Social Reality:
 
 - Non Deliberate :
 - Deliberate Actions: …
 - Semi-Deliberate Actions: …
+
+Types of Actors that can alter the dynamics of social change:
+
+- ...
 
 Mechanism vs Technique
 

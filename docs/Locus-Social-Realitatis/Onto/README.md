@@ -1,4 +1,4 @@
-# Onticity
+# Onto
 
 > In this section of our notes, we analyze a set of **general elements**—both **ontic** and **non-ontic**—that do not fit easily into other branches of study.
 >
