@@ -8,7 +8,9 @@
   window.location.href = './Meta/Libro-Mayor/';
 </script> -->
 
-> **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative imagination of social reality. Our mission unfolds through three interconnected realms:
+> **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative imagination of social reality.
+
+Our mission unfolds through three interconnected realms:
 
 - **Locus Instrumentorum**: Tools to investigate social reality and steer its structural evolution toward higher levels of individual and collective capability.
 - **Locus Meliorandis**: Activating change in social reality.
@@ -40,7 +42,6 @@
 - [On The Nature of the Problems (And Change) of the Social Field](Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
 
 - [An Essay on the Determination of the Minimal and Sufficient Conditions Required to Initiate the Development and Evolution of an Industrial Sector Toward Convergence and Overtaking](Breviarium/essay-on-the-determination-of-the-minimal-and-sufficient-conditions-required-to-initiate-the-development-and-evolution-of-an-industrial-sector-toward-convergence-and-overtaking.md)
-
 
 ## 💡 Research
 
