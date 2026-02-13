@@ -113,3 +113,8 @@ QA:
 - [State](../Locus-Social-Realitatis/Subfield/Meta/State/README.md)
 - [Why public policies fail: Policymaking under complexity](https://www.sciencedirect.com/science/article/pii/S1517758019300931)
 - [Positive and normative economics](https://en.wikipedia.org/wiki/Positive_and_normative_economics)
+- [On The Nature of the Problems (And Change) of the Social Field](../Breviarium/articulation/on-the-nature-of-the-problems-of-the-social-field.md)
+- [The Agent Social Reality Reflection Problem](../Breviarium/agent-social-reality-reflection-problem.md)
+- [The Collective Action Problem](../Breviarium/collective-action-problem.md)
+- [The Agent–Social-Reality Hard Coupling Problem](../Breviarium/agent-social-reality-hard-coupling-problem.md)
+- [Techno-Productivist Agential Principle Set (T-PAPS)](../Breviarium/techno-productivist-agential-principle-set.md)
