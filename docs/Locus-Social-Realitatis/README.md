@@ -5,3 +5,7 @@
 - Region: A spatially bounded zone within social reality characterized by relatively dense and recurrent patterns of human interaction, without presupposing cultural unity, institutional coherence, or political sovereignty.
 
 - Onticity: General  Ontology of of Social Reality.
+
+## Working On
+
+[ ] Nothing.
