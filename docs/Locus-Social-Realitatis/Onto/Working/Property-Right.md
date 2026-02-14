@@ -1,16 +1,35 @@
-# Ownership
+# Property Rights
+
+> Note: Property can be understood as a type of boolean function — something is either possessed or not — but its meaning extends far beyond this binary logic, encompassing legal, social, cognitive, and psychological dimensions.
+
+Guiding Questions:
+
+- How to compare  property models?
+- How to characterized a property regime?
+- Can property exist outside of social recognition?
+- What are the different models or theories of property?
+- How does property emerge in non-human species, if at all?
+- What is the ontological nature of the concept of property?
+- How does property differ from possession, control, or access?
+- What fundamental problems does the concept of property aim to solve?
+- What are the biological, cognitive, and psychological foundations of property?
+- What are the main theories of property (e.g. natural rights, social contract, labor-based, utilitarian, legal-institutional)?
+
+> Digitalize the economy.
+
+- https://www.bbva.ch/en/blog/innovacion/blockchain/hacia-un-mundo-tokenizado-en-2030-el-10-del-pib-mundial-se-movera-en-tokenes.html
+- https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-tokenization
+
+
+## Ownership
 
 > ...
 
 ## Organizational Ownership
 
-: 31
-
 > Legal Forms of Enterprises.
-> 
 
 > Business organizational forms vary widely, each with specific characteristics, legal structures, and implications for ownership, liability, taxation, and governance.
-> 
 
 Here's a list of typical **business organizational forms**:
 
@@ -48,9 +67,9 @@ Each organizational form has specific advantages, disadvantages, regulatory requ
 
 Las formas jurídicas para empresas varían según la legislación de cada país, pero muchas tienen equivalentes o conceptos similares entre distintas jurisdicciones. Aquí te dejo un listado general de algunas de las formas jurídicas más comunes para empresas:
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 4. **Sociedad por Acciones Simplificada (S.A.S.)**: Modalidad empresarial que permite crear sociedades por acciones con un proceso simplificado y con responsabilidad limitada.
 5. 
 6. 
@@ -67,4 +86,4 @@ Cada forma jurídica tiene sus propias características, ventajas y desventajas,
 - Keiretsu
 - Chaebol
 - [Business Conglomerate](https://en.wikipedia.org/wiki/Conglomerate_(company))
-- ….
+- [Property](https://en.wikipedia.org/wiki/Property)
