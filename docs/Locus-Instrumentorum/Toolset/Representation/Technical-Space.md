@@ -1,4 +1,4 @@
-# Technical Space Representation: State and Dynamics
+# Technical Space Representation
 
 (THIS IS WORK IN PROGRESS)
 
