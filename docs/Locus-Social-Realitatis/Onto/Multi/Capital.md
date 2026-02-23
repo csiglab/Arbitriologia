@@ -19,6 +19,26 @@ Notes:
 
 - Capital is an abstract concept - almost an epitemological element that can denote elements of multiple form - united by a their functional role.
 
+## Term
+
+> What has the term denoted over time?
+
+> Note: We must distinguish concepts from reality: the different denotations of capital existed in practice long before they were conceptually articulated.
+
+| **Period**                                      | **Denotation**                             | **Note**                                                                                                |
+| ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Antiquity (Latin usage)**                     | Head, principal, chief amount (*capitale*) | Refers to the principal or stock, often in legal and accounting contexts; not yet an economic category. |
+| **Medieval Europe**                             | Movable wealth, money, livestock           | Capital denotes wealth used in trade; strongly linked to mercantile activity and commercial risk.       |
+| **Mercantilist Era (16th–18th c.)**             | Money invested in commerce                 | Emphasis on trade finance, bullion accumulation, and circulation rather than production.                |
+| **Early Classical Economics (late 18th c.)**    | Accumulated wealth used productively       | Shift from money to productive assets (tools, machinery, materials).                                    |
+| **Classical Political Economy (Smith–Ricardo)** | Produced means of production               | Capital distinguished from land and labor; central to productivity and distribution.                    |
+| **Marxian Political Economy (mid-19th c.)**     | Self-expanding value; social relation      | Capital is not a thing but a dynamic relation enabling surplus extraction.                              |
+| **Neoclassical Economics (late 19th–20th c.)**  | Factor of production                       | Capital abstracted into a measurable stock contributing to output via marginal productivity.            |
+| **Keynesian / Monetary Economics (20th c.)**    | Financial assets enabling investment       | Focus on capital as money and financial claims influencing aggregate demand.                            |
+| **Late 20th–21st c. Economics**                 | Physical, human, and intellectual assets   | Concept broadens to include skills, knowledge, and intangible productive capacities.                    |
+
+
+
 ## Capital Space
 
 > Let's say - Let’s say we have a list of all forms that capital can take? How to visualize that set in a tree like structure?
