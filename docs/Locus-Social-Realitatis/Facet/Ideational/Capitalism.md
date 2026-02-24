@@ -4,7 +4,7 @@
 
 > Note: The History of the term tiself - is complicted nenotuh reseearch - but we can safily go with Le Blac, Marx, and it became popualr i teh midle of the xiv centory.
 
-GD:
+GQ:
 
 * What is the history of the term **capitalism**?
 * What has the term denoted over time?
@@ -47,3 +47,4 @@ GD:
 * [Did Marx use the word "capitalism"?](https://skeptics.stackexchange.com/questions/47854/did-marx-use-the-word-capitalism)
 * [Rainer, Franz. "Word formation and word history: The case of capitalist and capitalism." The lexeme in descriptive and theoretical morphology 4 (2018): 43.](https://research.wu.ac.at/ws/portalfiles/portal/19833162/165-3-1215-1-10-20180925.pdf)
 * Dauzat, Albert. 1972. Nouveau dictionnaire étymologique. Paris: Larousse.
+* [(Ismo) Ism](https://equable-twister-380.notion.site/Ismo-Ism-310598edb790804391c7e2c448d0615e)
