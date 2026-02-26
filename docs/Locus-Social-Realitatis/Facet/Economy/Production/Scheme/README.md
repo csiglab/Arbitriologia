@@ -41,3 +41,4 @@
 - Son, Hosung, Yanghon Chung, and Sangpil Yoon. "How can university  technology holding companies bridge the Valley of Death? Evidence from  Korea." *Technovation* 109 (2022): 102158.
 - Demsetz, Harold. "Some aspects of property rights." *The Journal of Law and Economics* 9 (1966): 61-70.
 - Congost, Rosa. "Property rights and historical analysis: What rights? What history?." Past & Present 181 (2003): 73-106.
+- [Catalog of Technical Core (Operative Technique, Constitutive Technique, Constitutive Technical Object, Production Technical Object)](https://www.bremontix.xyz/lab/pro/Catalog/Production/Catalog/)
