@@ -118,16 +118,16 @@ QA:
 
 ## References
 
-- [Action Toolkit](../../../Locus-Meliorandis/Toolkit/README.md)
+- [Action Toolkit](../../../Toolkit/README.md)
 
 - [Developmentalism](../../../Locus-Social-Realitatis/Facet/Ideational/Developmentalism.md)
 
-- [Social Ontology](../../../Locus-Social-Realitatis/README.md)
+- [Social Ontology](../../../../Locus-Social-Realitatis/Onto/README.md)
+
+- [Social Change](.././../../../Locus-Social-Realitatis/Onto/Guide/Change/README.md)
 
 - [Turkey’s 2030 Industry And Technology Strategy](https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy)
 
 - [An Essay On the Institutional Architecture of Development](../../..//Breviarium/an-essay-on-the-institutional-architecture-of-development.md)
 
 - [On The Nature of the Problems (And Change) of the Social Field](../../../../Breviarium/articulation/on-the-nature-of-the-agentic-diven-social-reality-evolution.md)
-
-- [Social Change](.././../../../Locus-Social-Realitatis/Onto/Guide/Change/README.md)
