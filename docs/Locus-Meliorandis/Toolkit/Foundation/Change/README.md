@@ -54,7 +54,6 @@ QA:
 
 > What conditions determine whether a social field endogenously evolves toward a particular state?
 
-
 > Complexity grows by lowering coordination costs ??? Is this right?
 
 - What are the limits of self-organization? Can we ever prove or disprove that a particular state xxx cannot be achieved through self-organization alone?
@@ -66,7 +65,6 @@ QA:
 - Use the minimal effective intervention—enough to tip the system toward desired outcomes but not so much that you over-specify paths or stifle local initiative.
 
 - Order Without Control.
-
 
 - How to think about change in the social field? How to think about change?
   - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
@@ -108,7 +106,6 @@ QA:
 | **Operational Layer**   | Executes sectoral and firm-level transformation through clusters, labs, upskilling, and other initiatives.               |
 | **Reflective Layer**    | Incorporates mechanisms for iterative learning and course correction, allowing for adaptation to changing circumstances. |
 
-
 #### Comparatige Model
 
 | **Term**                                                           | **Strengths**                                                             | **Limitations**                         | **Best Fit For**                   |
@@ -119,18 +116,18 @@ QA:
 | **Adaptive National Transformation System**                        | Captures dynamism and evolution                                           | Too broad, loses productive specificity | Whole-society transitions          |
 | **Strategic Productive Ecosystem**                                 | Emphasizes interdependencies and innovation                               | Implies more bottom-up dynamics         | Market-led industrial transitions  |
 
-
 ## References
 
 - [Action Toolkit](../../../Locus-Meliorandis/Toolkit/README.md)
 
 - [Developmentalism](../../../Locus-Social-Realitatis/Facet/Ideational/Developmentalism.md)
 
-- [Techno-Productivist Agential Principle Set (T-PAPS)](../../../Breviarium/techno-productivist-agential-principle-set.md)
+- [Social Ontology](../../../Locus-Social-Realitatis/README.md)
+
+- [Turkey’s 2030 Industry And Technology Strategy](https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy)
 
 - [An Essay On the Institutional Architecture of Development](../../..//Breviarium/an-essay-on-the-institutional-architecture-of-development.md)
 
-- [On The Nature of the Problems (And Change) of the Social Field](../../..//Breviarium//articulation/on-the-nature-of-the-problems-of-the-social-field.md)
+- [On The Nature of the Problems (And Change) of the Social Field](../../../../Breviarium/articulation/on-the-nature-of-the-agentic-diven-social-reality-evolution.md)
 
-- https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy
-- [Social Ontology](../../../Locus-Social-Realitatis/README.md)
+- [Social Change](.././../../../Locus-Social-Realitatis/Onto/Guide/Change/README.md)

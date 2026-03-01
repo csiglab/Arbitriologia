@@ -199,10 +199,11 @@ Limits:
 - [An Essay on the Notion of Agency](https://www.notion.so/Agency-eebe9b5a15d84a3db7a1a1273fc29a2c?source=copy_link)
 - [Techno-Productivist Agential Principle Set (T-PAPS)](techno-productivist-agential-principle-set.md)
 - [The Agent–Social-Reality Hard Coupling Problem](agent-social-reality-hard-coupling-problem.md)
-- [Social Change](../Locus-Social-Realitatis/Dynamical/Change.md)
+- [Social Change](../Locus-Social-Realitatis/Onto/Guide/Change/README.md)
 - Emirbayer, M., & Mische, A. (1998). "What Is Agency?" American Journal of Sociology, 103(4), 962-1023.
 - Archer, M. S. (2000). Being Human: The Problem of Agency. Cambridge University Press.
 - Bandura, A. (2001). Social Cognitive Theory: An Agentic Perspective. Annual Review of Psychology.
 - Mahoney, J. (2000). "Path Dependence in Historical Sociology." Theory and Society, 29(4), 507-548.
 - Pierson, P. (2004). Politics in Time: History, Institutions, and Social Analysis. Princeton University Press.
-- [Problematization](../Locus-Instrumentorum/Problematization.md)
+- [Problematization](../Locus-Instrumentorum/Foundation/Problematization.md)
+

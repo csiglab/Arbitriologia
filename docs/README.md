@@ -24,7 +24,8 @@ Our mission unfolds through three interconnected realms:
 - [The Collective Action Problem](Breviarium/collective-action-problem.md)
 - [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem.md)
 - [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos.md)
-- [Techno-Productivist Agential Principle Set (T-PAPS)](Breviarium/techno-productivist-agential-principle-set.md)
+- [Social Field Change Ontology](./Locus-Meliorandis/Toolkit/Foundation/Change/README.md)
+
 - [On Technology](Locus-Social-Realitatis/Facet/Technical/Technology.md)
 - [On Technique](./Locus-Social-Realitatis/Onticity/Synontic/Technique.md)
 
@@ -35,7 +36,6 @@ Our mission unfolds through three interconnected realms:
 - [Cartilla Mínima sobre el Diseño de Mercados: ¿Qué es el mercado? Soluciones de mercado vs. no mercado](Breviarium/an-essay-of-public-services-marketization.md)
 - [In Support of Policy Experimentation](Breviarium/in-support-of-policy-experimentation.md)
 - [The Policy-Politics Conflation Hypothesis: Language Structure and Development Outcomes](Breviarium/the-policy-politics-conflation-hypothesis-language-structure-and-development-outcomes.md)
-- [A Guide to Modeling a Communist Regime](Breviarium/a-guide-to-modeling-a-communist-regime.md)
 - [The Art of Economic Statecraft](Breviarium/the-art-of-economic-statecraft.md)
 - [A Guide to Modelling Social Reality](Breviarium/a-guide-to-modelling-social-reality.md)
 - [An Essay on Local Action and Global Outcome](Breviarium/articulation/an-essay-composition-local-action-global-outcome.md)
