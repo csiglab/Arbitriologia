@@ -74,3 +74,4 @@ Functions:
 - International Economy
 - Naked Money.
 - [Digital Currency](https://en.wikipedia.org/wiki/Digital_currency)
+- [Keynes, J. M. (1930). A Treatise on Money. Macmillan.](https://www.notion.so/Keynes-J-M-1930-A-Treatise-on-Money-Macmillan-317598edb790802fa46dd287bea3619a?source=copy_link)
