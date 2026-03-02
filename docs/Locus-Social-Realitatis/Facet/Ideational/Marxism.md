@@ -290,3 +290,4 @@ Is this the diagnostic you were looking for—the "bug list" that explains why t
 - [Marxism](https://www.reddit.com/r/Marxism/)
 - [Marxism](https://www.marxists.org/reference/subject/philosophy/help/marxism.htm)
 - [Karl Marx](https://equable-twister-380.notion.site/Karl-Marx-10e598edb79081399b11fe938892075b?source=copy_link)
+- [Historical Materialism](https://bactra.org/notebooks/historical-materialism.html)

@@ -264,7 +264,7 @@ During the Meiji period (1868–1912), the Japanese government established numer
 2. **Tokyo Arsenal (東京砲兵工廠)** – *Established in the 1870s, Tokyo*
     
     Focused on the production of handguns and other small arms for the military.
-    
+
 
 ### 🚢 Shipbuilding
 
@@ -318,4 +318,5 @@ During the Meiji period (1868–1912), the Japanese government established numer
 - https://en.wikipedia.org/wiki/Japan_Industrial_Partners
 - https://en.wikipedia.org/wiki/National_Research_and_Development_Agency_(Japan)
 - [Sogo shosha](https://en.wikipedia.org/wiki/Sogo_shosha). Trading Companies ; Tool used by Japan to Increase Exports.
--
+ - https://cepr.org/voxeu/columns/us-japanese-knowledge-transfer-programme-aftermath-wwii
+
