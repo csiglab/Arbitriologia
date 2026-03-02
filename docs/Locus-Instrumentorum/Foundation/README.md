@@ -408,3 +408,4 @@ QA:
 - [The Frankfurt School](https://www.youtube.com/watch?v=xX9EI8wEyuY)
 - [Critical Theory](https://en.wikipedia.org/wiki/Critical_theory)
 - Horkheimer, Max. "Traditional and critical theory." Critical theory: Selected essays 188.243 (1972): 1-11.
+- [Liu Jianjun: the false faith in social sciences](https://www.eastisread.com/p/liu-jianjun-the-false-faith-in-social)

@@ -123,5 +123,6 @@ Let me know if you want the open economy case (Mundell-Fleming), dynamic extensi
 
 ## References
 
-- [Keynesian Theory](https://en.wikipedia.org/wiki/Keynesian_economics)
-- [Business Cycles Explained: Keynesian Theory](https://www.youtube.com/watch?v=g_647R_vUVc)
+* [Keynesian Theory](https://en.wikipedia.org/wiki/Keynesian_economics)
+* [Business Cycles Explained: Keynesian Theory](https://www.youtube.com/watch?v=g_647R_vUVc)
+* [Keynes, J. M. (1930). A Treatise on Money. Macmillan.](https://www.notion.so/Keynes-J-M-1930-A-Treatise-on-Money-Macmillan-317598edb790802fa46dd287bea3619a?source=copy_link)
