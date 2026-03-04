@@ -20,6 +20,9 @@ Doing:
 
 > Which concepts describe the **delimitation** of the study object within social reality?
 
+> Note: The term “Social Field” is not analogous to the “Social Region.” A [field](https://en.wikipedia.org/wiki/Field_theory_(sociology))
+ is a more technical concept—related to structured arenas of social relations, competition, and influence, where actors’ positions, resources, and strategies determine their power and effects within that domain. A region is a broad term that denotes the area of interaction among social actors.
+
 | **Concept**                      | **Description**                                                                                                                                                                                                                                                                                   | **Role**                                                                                                                    |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **Region**                       | A spatially bounded zone within social reality characterized by relatively dense and recurrent patterns of human interaction, without presupposing cultural unity, institutional coherence, or political sovereignty.                                                                             | Provides spatial anchoring for social analysis; defines where interaction occurs without reifying “societies” or “nations.” |
@@ -83,8 +86,8 @@ Where:
 - The ontic set $(\mathcal{O}(t))$ may include both physical and symbolic components, such as resources, norms, and institutional structures.
 - Agents perceive and interpret these ontic Eelements differently, meaning that each agent’s effective environment is a projection:  $E_i(t) = f_i\big(\mathcal{E}(t), \text{Interpretation}_i(t)\big)$
 - Thus, while $\mathcal{E}(t)$ represents the **objective configuration** of the environment, each $E_i(t)$ corresponds to the **subjectively interpreted environment** as experienced by agent $(i)$.
-- **Emergence:**    Group-level phenomena arise from interactions among agents and with the environment: $\text{Social Field}(t) = F\big({A_i(t)}_{i=1}^N, E(t)\big)$ Where (N) may need to exceed a **critical mass** for certain structures or patterns to stabilize.
-- **Synontic Reification:** synontic elements, such as norms, reputations, or shared beliefs, exist primarily in collective cognition.   These elements are **reified** when they are treated as real objects in the social field—e.g., a law is a physical document (ontic) but its authority and enforcement depend on collective recognition (synontic).    Formally, a synontic element (X) becomes operative in the social field when:  $X(t) \in \text{Reified} \iff \exists , A_i \text{ such that } A_i \text{ recognizes or acts upon } X(t)$
+- **Emergence:**    Group-level phenomena arise from interactions among agents and with the environment: $\text{Social Region}(t) = F\big({A_i(t)}_{i=1}^N, E(t)\big)$ Where (N) may need to exceed a **critical mass** for certain structures or patterns to stabilize.
+- **Synontic Reification:** synontic elements, such as norms, reputations, or shared beliefs, exist primarily in collective cognition.   These elements are **reified** when they are treated as real objects in the social regino—e.g., a law is a physical document (ontic) but its authority and enforcement depend on collective recognition (synontic).    Formally, a synontic element (X) becomes operative in the social region when:  $X(t) \in \text{Reified} \iff \exists , A_i \text{ such that } A_i \text{ recognizes or acts upon } X(t)$
 
 ### Agent Formulation
 

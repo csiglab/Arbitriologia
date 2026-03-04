@@ -1,6 +1,6 @@
 # Onticity Map
 
-> Which elements—ontic or non-ontic—are the primary targets of study in the social field?
+> Which elements—ontic or non-ontic—are the primary targets of study in the social region?
 
 > In what ways can non-ontic elements (e.g., norms, beliefs, symbols) be meaningfully studied or measured?
 

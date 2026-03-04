@@ -169,7 +169,7 @@ Limits:
 
 ### Context
 
-> Suppose the state of our social field is objectively backward—that is, its technology, production processes, organizational structures, and social technologies are underdeveloped or even non-existent—producing effects such as:
+> Suppose the state of our social region is objectively backward—that is, its technology, production processes, organizational structures, and social technologies are underdeveloped or even non-existent—producing effects such as:
 
 - Low productivity and inefficient use of resources.
 - Limited capacity for innovation or technological adoption.

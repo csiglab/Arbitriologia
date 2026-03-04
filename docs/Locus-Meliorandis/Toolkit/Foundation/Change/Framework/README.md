@@ -1,4 +1,4 @@
-# Techno-Productivist Social Field Agential Transformation Framework (TP-SF-ATF)
+# Techno-Productivist Social Region Agential Transformation Framework (TP-SF-ATF)
 
 > ¿Can we transition from a low e **value-added** economy to a **high-value-added** one?
 

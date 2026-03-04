@@ -24,7 +24,7 @@ Our mission unfolds through three interconnected realms:
 - [The Collective Action Problem](Breviarium/collective-action-problem.md)
 - [The Agent–Social-Reality Hard Coupling Problem](Breviarium/agent-social-reality-hard-coupling-problem.md)
 - [Cartilla mínima para razonar sobre el desarrollo económico: marcos y modelos](Breviarium/cartilla-minima-para-razonar-sobre-el-desarrollo-economico-marcos-y-modelos.md)
-- [Social Field Change Ontology](./Locus-Meliorandis/Toolkit/Foundation/Change/README.md)
+- [Social Region Change Toolkit Foundation](./Locus-Meliorandis/Toolkit/Foundation/Change/README.md)
 
 - [On Technology](Locus-Social-Realitatis/Facet/Technical/Technology.md)
 - [On Technique](./Locus-Social-Realitatis/Onticity/Synontic/Technique.md)

@@ -8,7 +8,7 @@
 
 QA:
 
-* How can we capture the current configuration of a social field?
+* How can we capture the current configuration of a social region?
 * What do we mean by the term *state structure*? How should the state be described?
 * How can we evaluate the **relevance** of variables?
 

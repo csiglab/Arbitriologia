@@ -9,7 +9,7 @@
 - Thinking: How to improve the national capacity for policy thinking to reduce mere imitation?
 - Is the idea of a grand strategy useful? What exactly is a grand strategy, and does anyone truly have one?
 
-## Social Field Change
+## Social Region Change
 
 > ...
 

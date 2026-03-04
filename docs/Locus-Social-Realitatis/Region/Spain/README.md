@@ -1,6 +1,6 @@
 # España
 
-> Note: This is a social field — with a large 'History' so we only characterize the field from 1800 onwards.
+> Note: This is a social region — with a large 'History' so we only characterize the field from 1800 onwards.
 
 ## Meta
 

@@ -9,7 +9,7 @@ QA:
 
 ## Ontology
 
-> Social order is a **complex property** of a given configuration of a social field that captures the patterns of stability, coordination, and predictability emerging from the interactions of agents and institutions. It does not exist independently as a discrete entity but is instantiated through the structure and dynamics of the social configuration.
+> Social order is a **complex property** of a given configuration of a  that captures the patterns of stability, coordination, and predictability emerging from the interactions of agents and institutions. It does not exist independently as a discrete entity but is instantiated through the structure and dynamics of the social configuration.
 
 ## Structure
 

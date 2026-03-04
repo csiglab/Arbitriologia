@@ -43,7 +43,7 @@ What is the notion of politics on Unger?
 > There is not even a definitino of the `political`  - the idea of the political  is not inate to humnaity = - but to special kinds of configuration  of  some fields.
 > 
 
-Politics as techniques to navegating a special social field.
+Politics as techniques to navegating a special social region.
 
 | **Notion** | **Description** | **Other Related Notions** | **Thinker** |
 | --- | --- | --- | --- |
@@ -93,7 +93,7 @@ It can be, **conditionally**:
 
 ## Political Science
 
-> Political phenomena are distinctive in that their existence and form depend heavily on the current configuration of a society. While other social fields often have fundamental and relatively stable processes—such as production, consumption, and resource allocation in the economic sphere—political phenomena lack such universality. This context-dependent and fluid nature makes it difficult to establish a fully formalized or universally predictive “science” of political phenomena, distinguishing it from fields like economics or sociology where more stable patterns can be identified.
+> Political phenomena are distinctive in that their existence and form depend heavily on the current configuration of a society. While other social facets often have fundamental and relatively stable processes—such as production, consumption, and resource allocation in the economic sphere—political phenomena lack such universality. This context-dependent and fluid nature makes it difficult to establish a fully formalized or universally predictive “science” of political phenomena, distinguishing it from facets like economics or sociology where more stable patterns can be identified.
 
 > A science of political phenomena is possible, but it must be context-sensitive and account for the current configuration of society. If we conceive of social reality as structured in layers, political phenomena occupy one of the upper layers—emerging from, yet interacting with, underlying economic, cultural, and social processes. This layered perspective allows political science to study patterns, mechanisms, and dynamics without assuming universality or independence from other dimensions of social reality.
 

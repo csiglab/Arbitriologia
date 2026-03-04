@@ -10,4 +10,4 @@
 - [Technology](../../Locus-Social-Realitatis/Facet/Technical/Technology.md)
 - [Agency - Locus Instrumentorum](../../Locus-Instrumentorum/Foundation/Agency.md)
 - [Social Ontology · Change](../../Locus-Social-Realitatis/Onto/Guide/Change/README.md)
-- [Social Field Change Ontology](../../Locus-Meliorandis/Toolkit/Foundation/Change/README.md)
+- [Social Region Change Toolkit Foundation](../../Locus-Meliorandis/Toolkit/Foundation/Change/README.md)

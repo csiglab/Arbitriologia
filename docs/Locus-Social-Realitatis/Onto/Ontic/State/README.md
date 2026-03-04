@@ -8,8 +8,8 @@
 
 QA:
 
-- How to capture the current instance of a social field?
-- Which are the limits of describing the instance at time $t$  of the social field?
+- How to capture the current instance of a social region?
+- Which are the limits of describing the instance at time $t$  of the social region?
 - How to evaluate the **relevance** of variables?
 
 ## References

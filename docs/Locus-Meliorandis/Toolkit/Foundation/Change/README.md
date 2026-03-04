@@ -1,37 +1,37 @@
-# Social Field Change Ontology
+# Social Region Change Toolkit Foundation
 
-> Social Field Change Ontology offers a formal vocabulary for analyzing how social fields evolve, reproduce, and transform through changes in states, dynamics, and viability conditions.
+> Social Region Change Ontology offers a formal vocabulary for analyzing how social regions evolve, reproduce, and transform through changes in states, dynamics, and viability conditions.
 
 QA:
 
 - How **second-order-changes** happends?
-- How should an intervention be defined within a social field, and how can external intervention be distinguished from endogenous change?
-- Under what conditions can first-order changes accumulate or interact so as to induce second-order changes in the social field?
+- How should an intervention be defined within a social region, and how can external intervention be distinguished from endogenous change?
+- Under what conditions can first-order changes accumulate or interact so as to induce second-order changes in the social region?
 - Which is the critical mass needed by x to develop y?
 
 ## Terminology
 
-> A **Social Field** is a bounded domain of interaction in which agents engage through a shared medium.
+> A **Social Region** is a bounded domain of interaction in which agents engage through a shared medium.
 
 ## Formulation
 
-> How to characterize chain in a given social 'field'? In this document, we propose a set of concepts that together form a coherent analytical grammar—a grammar of change—for the description, analysis, and modeling of social field dynamics.
+> How to characterize chain in a given social 'field'? In this document, we propose a set of concepts that together form a coherent analytical grammar—a grammar of change—for the description, analysis, and modeling of social region dynamics.
 
 | Term                    | Description                                                                                                                                                          | Role in the Grammar                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **State**               | A concrete configuration of agents, resources, rules, and relations at a given time.                                                                                 | Basic unit of description; enables comparison across time.                        |
 | **Dynamics**            | The set of generative mechanisms, interaction rules, and constraints governing transitions between states.                                                           | Determines how change unfolds over time.                                          |
-| **State Space**         | The set of all admissible states of the social field at a given level of description.                                                                                | Defines the horizon of possibility within the field.                              |
+| **State Space**         | The set of all admissible states of the social region at a given level of description.                                                                                | Defines the horizon of possibility within the field.                              |
 | **Configuration**       | A structured representation of a state emphasizing relational patterns, positional structures, and functional roles rather than isolated variables.                  | Supports typological analysis and structural comparison across cases.             |
 | **Sub–State Space**     | A constrained region of the state space defined by institutional, normative, technological, or material limits.                                                      | Captures regime-like stability and bounded variation within the field.            |
-| **Reachability Set**    | The subset of states that can be reached from a given state under the **current dynamics** of the social field, absent second-order change or external intervention. | Operationalizes path-dependence, feasibility, and short-to-medium term evolution. |
+| **Reachability Set**    | The subset of states that can be reached from a given state under the **current dynamics** of the social region, absent second-order change or external intervention. | Operationalizes path-dependence, feasibility, and short-to-medium term evolution. |
 | **Attractor**           | A state or set of states toward which the dynamics of the field tend to evolve and remain once reached.                                                              | Explains persistence, convergence, and patterned reproduction.                    |
 | **First-Order Change**  | Transitions between states that occur under the existing dynamics of the field.                                                                                      | Describes routine adaptation, learning, and endogenous variation.                 |
 | **Second-Order Change** | Transformations of the dynamics themselves, altering the rules by which states are generated and connected.                                                          | Captures structural reconfiguration, regime shifts, and field transformation.     |
 
-## Mode of Social Field Transformation
+## Mode of Social Region Transformation
 
-| Mode of Social Field Transformation      | Description                                                                                                                      | Dominant Change Order              | Control Structure                 | Canonical Case        |
+| Mode of Social Region Transformation      | Description                                                                                                                      | Dominant Change Order              | Control Structure                 | Canonical Case        |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------- | --------------------- |
 | **Shock-Driven Reconfiguration**         | Rapid reprogramming of field dynamics triggered by an external or acute internal shock, bypassing incremental adaptation.        | Second-order (discontinuous)       | Exogenous / elite-imposed         | Meiji Japan           |
 | **Revolutionary Field Rupture**          | Breakdown of existing dynamics followed by the construction of a new field logic through conflict and institutional destruction. | Second-order (violent, non-linear) | Extra-systemic                    | French Revolution     |
@@ -50,9 +50,9 @@ QA:
 
 ## Limits of Self Organization and  Engougeous Change
 
-> How large is the set of states reachable under the current dynamics of the social field? Can State `X` be Reach Without Intervention In the Dynamics?
+> How large is the set of states reachable under the current dynamics of the social region? Can State `X` be Reach Without Intervention In the Dynamics?
 
-> What conditions determine whether a social field endogenously evolves toward a particular state?
+> What conditions determine whether a social region endogenously evolves toward a particular state?
 
 > Complexity grows by lowering coordination costs ??? Is this right?
 
@@ -66,16 +66,16 @@ QA:
 
 - Order Without Control.
 
-- How to think about change in the social field? How to think about change?
+- How to think about change in the social region? How to think about change?
   - Transformation: Actor's That Drive Change - Actors that get's shape by those changes.
   - Hierharchy and Interaction Between the Actors.
   - Minimal Catalist Set - Reaction - Propagation  Type of Analysis.
 
 ## QA
 
-### Why Social Field and Not System?
+### Why Social Region and Not System?
 
-> The term System usually denotes a bounded, functionally integrated, and self-regulating whole, whereas `Social Field` designates a structured space of interaction without presupposing closure, coherence, or goal-directed regulation.
+> The term System usually denotes a bounded, functionally integrated, and self-regulating whole, whereas `Social Region` designates a structured space of interaction without presupposing closure, coherence, or goal-directed regulation.
 
 ### Can "tecno-productive developmentalism” be reduced to a grand epistemological or operational concept? What is the more appropriate term for describing a nation's adaptive, multiphase strategic framework—development strategy, grand meta-strategy, or something else?
 
@@ -129,5 +129,3 @@ QA:
 - [Turkey’s 2030 Industry And Technology Strategy](https://www.setav.org/en/turkeys-2030-industry-and-technology-strategy)
 
 - [An Essay On the Institutional Architecture of Development](../../..//Breviarium/an-essay-on-the-institutional-architecture-of-development.md)
-
-- [On The Nature of the Problems (And Change) of the Social Field](../../../../Breviarium/articulation/on-the-nature-of-the-agentic-diven-social-reality-evolution.md)

@@ -1,6 +1,6 @@
 # Agentic Intervention
 
-> How propertly intervine a Social Field?
+> How propertly intervine a Social Region?
 
 > It's intervention Justify? How much?
 
