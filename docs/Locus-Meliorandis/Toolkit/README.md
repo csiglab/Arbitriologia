@@ -68,7 +68,7 @@
 
 ## Framework
 
-> Which are the framework that are the toolkits that can be used to induced or guide chaneg in the social field?
+> Which are the framework that are the toolkits that can be used to induced or guide chaneg in the social region?
 
 > See more in [General](./General/README.md)
 
