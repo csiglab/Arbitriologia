@@ -21,7 +21,7 @@ Truffle pigs in China can fine truffles in mountains faster than specially train
 ## Foreign Investment Incentive System Structure
 
 - How this incetnive system was born - adn evolve? What this incentive sysetm - (plahed) or emernged?
-
+Y
 - How should we farme the FI measures in china?
 
 - Different Types of Firms -> Diferent Activites - Control Flexibily by the Governemnt.
