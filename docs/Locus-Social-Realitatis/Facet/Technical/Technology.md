@@ -38,6 +38,8 @@ Notions:
 | **Operative Technique**                        | Governs the use, operation, and coordination of technical objects within productive systems (e.g., CNC machine operation, assembly-line management).                                             |
 | **Production Technical Object (Capital Good)** | Technical objects used directly for production rather than consumption.                                                                                                                          |
 | **Constitutive Technical  Object**             | A technical object that forms an integral, functional part of a final product (e.g., a microchip in a smartphone, a battery in an EV, or an enzyme in a biopharmaceutical).                      |
+| **Technogenesis** | The process by which new techniques, technical objects, and technological systems originate and evolve. It encompasses discovery, experimentation, recombination of existing techniques, and the institutional processes through which novel technical capabilities emerge and stabilize. |
+| **Tecnogenia · (Potentia  Tecnogenética) · Innovative Capability · Tecnoadopción · Absorptive Capacity · Technological Capability** | The generative capacity of an actor (individual, firm, institution, or society) to produce technogenesis; the capability to originate new techniques, technical objects, or technological systems through research, experimentation, and technical recombination. |
 
 ## Technical Research
 

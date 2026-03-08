@@ -50,3 +50,8 @@ Our mission unfolds through three interconnected realms:
 ## 📚 Most Read
 
 - Nothing here yet. Be the first reader to leave a mark!
+
+## References
+
+- [Spatium Generis Organizationis](https://bremontix.xyz/lab/pending.html)
+- [Spatium Societatis](https://bremontix.xyz/lab/pending.html)

@@ -12,7 +12,13 @@ Lowering px of Chinese caviar to just $150/30g.
 China has also become the biggest producer of black truffle. Yunnan/Sichuan alone produced 500t out of 800t globally.
 Truffle pigs in China can fine truffles in mountains faster than specially trained truffle dogs.
 
-## Forein Investmtn Incentiyuve System Structure
+## Knowledge Sysetm
+
+- [ ]  https://english.beijing.gov.cn/investinginbeijing/InvestmentSpecial/DigitalEconomy/PolicesAndInterpretations/202412/t20241225_3973328.html
+- [ ]  https://english.beijing.gov.cn/government/policytoolkittwo/index.html
+- [ ]  https://english.beijing.gov.cn/government/policytoolkittwo/INV_Policy_Text/202505/t20250515_4089823.html
+
+## Foreign Investment Incentive System Structure
 
 - How this incetnive system was born - adn evolve? What this incentive sysetm - (plahed) or emernged?
 
@@ -42,6 +48,12 @@ It is about:
 ## Legal Framework
 
 - [China’s New Private Economy Promotion Law: Good Intentions Meet Weak Government Accountability](https://npcobserver.com/2025/05/china-private-economy-law-government-accountability/)
+
+## QA
+
+### What is the Role of Joint Ventures in Firm Capability Development and Potential? Which types of techniques can diffuse through this method?   What are the limits of Joint-Venture?
+
+> ...
 
 ## References
 
