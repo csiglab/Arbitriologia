@@ -1,5 +1,0 @@
-# CIC energiGUNE
-
-## References
-
-- ...
