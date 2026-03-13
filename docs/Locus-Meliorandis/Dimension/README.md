@@ -16,6 +16,7 @@
 8. **Urbanization & Spatial Planning** – Organizes population, production, and services efficiently, impacting productivity and quality of life.
 9. **Joint Cognition** – Collective knowledge, coordination, and decision-making capabilities of society; underpins strategic alignment and innovation.
 10. **Miscellaneous Social Domains** – Welfare, health, and cultural aspects ensure social stability, resilience, and human development.
+11. **The State** — Used to disambiguate (State Finance vs. Social/Regional Finance).
 
 ## Actor Set
 

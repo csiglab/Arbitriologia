@@ -1,5 +1,7 @@
 # 🏛️ Public Administration
 
+> aka (Bureaucracy).
+
 > In this note, we explore the conceptual, systemic, and operational dimensions of `Public Administration`.
 
 > Also referred to as: State Administration, Government Administration, Public Sector Management, Administrative Science, or Administrative Systems (from an institutional perspective).

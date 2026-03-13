@@ -2,6 +2,10 @@
 
 > **Human Resource Management (HRM)** is the organizational function concerned with the systematic acquisition, development, deployment, governance, and reproduction of human capabilities in pursuit of organizational objectives.
 
+> **HR** does not manage personnel resources; it acts as an intermediary coordinating the workforce system across organizational units in order to staff them.
+
+> **HR** does not managed it sataff and coordinat eworklof proceses.
+
 > Wha tis the relation with Administration of an Organization? It's HRM part of the administartion? In the sense that adminmistration takes alrady the set of (agents) in order to coordinate them? An Organization has many administrative layer - or systems - 
 
 How to design, evalute, and improve the administration of the **Human Resources Unit** - Across a Governmetn AGency adn across th government?
