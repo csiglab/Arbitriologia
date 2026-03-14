@@ -1,3 +1,0 @@
-# EMATER
-
-> Technical Agricultural Services.
