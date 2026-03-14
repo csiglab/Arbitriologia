@@ -70,3 +70,4 @@ It is about:
 - https://www.fredgao.com/p/how-the-hefei-model-work-in-chinese
 - https://www.pekingnology.com/
 - [Can China reform inefficient SOEs?](https://www.readwriteinvest.com/p/can-china-reform-inefficient-soes)
+- [Action Plan for the Innovation and Development of the Robotics Industry in Beijing (2019-2022)](https://invest.beijing.gov.cn/english/Choose/Policies/202012/t20201222_2170203.html)
