@@ -2,15 +2,81 @@
 
 > Ontological element that represents Actors (individuals, groups, basic or compound).
 
-## Behavioral Schema
+Guiding Questions:
 
-> Note: This behavioral model—or more precisely, this assumption about the Interaction Unit—is pervasive in economics.
+- What is its relationship to other concepts such as **social action** and **agency**?
+- What properties or attributes define an interaction unit (e.g., boundaries, capabilities, internal structure, persistence)?
+- How to characterize actor interactions?
 
-> A formalized model of goal-oriented behavior: it specifies what the unit is optimizing.
+## Formulation
 
-## Cognitive Model
+> What is an **interaction unit** in a social region? A bounded and recognizable entity capable of interacting with the environment and with other actors within a social region.
 
-> ...
+> How can the interaction unit be characterized? What is the ontic tructure of such entity?
+
+### Characterization Scheme
+
+| Category     | Subcategory    | Aspect                | Description                                                                              |
+| ------------ | -------------- | --------------------- | ---------------------------------------------------------------------------------------- |
+| **State**    | Structure      | Composition           | Internal components that constitute the interaction unit (members, roles, resources).    |
+| **State**    | Structure      | Boundaries            | Conditions that distinguish the unit from other actors and from the environment.         |
+| **State**    | Structure      | Identity              | Persistent properties that allow the unit to be recognized as the same entity over time. |
+| **Dynamics** | Processes      | Operational Processes | Regular activities through which the unit operates and interacts.                        |
+| **Dynamics** | Phenomena      | Emergent Behavior     | Observable patterns that arise from the internal or collective dynamics of the unit.     |
+| **Dynamics** | Events         | Discrete Occurrences  | Specific actions or events produced by the unit in a social region.                      |
+| **Dynamics** | Interaction    | ...                   | The unit’s observable exchanges with other actors.                                       |
+| **Agency**   | Capacities     | Action Capacity       | The ability of the unit to produce actions affecting other actors or the environment.    |
+| **Agency**   | Intentionality | ...                   | Objectives or motivations guiding the actions of the unit.                               |
+| **Agency**   | Influence      | Interaction Power     | Ability to influence other actors or social processes.                                   |
+
+### Property Set
+
+| Feature                   | Description                                                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Agentive Entity**       | Can be individual, group, organization, or compound social actor with intentional action.              |
+| **Cognitive Capacity**    | Possesses internal reflexivity enabling self-observation, interpretation, and behavioral adaptation.   |
+| **Relational Focus**      | Engages in interactions such as communication, cooperation, competition, and conflict.                 |
+| **Nested & Scalable**     | Can be atomic (individual) or compound (group, institution), supporting multi-level analysis.          |
+| **Boundary**              | Has definable conceptual or physical boundaries distinguishing it from others and the environment.     |
+| **Behavioral Repertoire** | Holds a set of possible actions, strategies, or roles constrained by norms, capabilities, and context. |
+| **State & Attributes**    | Maintains an internal state or status that evolves through interactions and influences behavior.       |
+| **Reflexivity**           | Internal capacity for self-reference, learning, and modifying future behavior (intrinsic to unit).     |
+
+## Interaction
+
+> How to characterize actor interactions?
+
+| Category       | Dimension              | Description                                                                   |
+| -------------- | ---------------------- | ----------------------------------------------------------------------------- |
+| **Relational** | Tie Strength           | Measures how strong or persistent the relationship is between actors.         |
+| **Relational** | Reciprocity / Exchange | Indicates the balance and mutuality of interactions.                          |
+| **Relational** | Dependency             | How much one actor relies on another to achieve goals or maintain operations. |
+| **Relational** | Network Position       | Role of the actor within the social network or interaction system.            |
+| **Temporal**   | Synchronization        | Measures how well actors align their actions over time.                       |
+| **Temporal**   | Sequence / Order       | Captures the sequential structure of interactions and potential causality.    |
+| **Content**    | Communication          | What is exchanged—information, directives, norms, or resources.               |
+| **Content**    | Conflict / Negotiation | How actors manage disagreements, compete, or negotiate.                       |
+| **Contextual** | Environment / Setting  | External conditions that shape or constrain the interaction.                  |
+| **Contextual** | Norms / Rules          | Institutional or social rules that influence interaction patterns.            |
+| **Outcome**    | Influence / Effect     | Observable impact of interactions on other actors or the system.              |
+| **Outcome**    | Emergent Patterns      | Higher-order patterns resulting from repeated interactions among actors.      |
+
+## Agency
+
+> How to characterize an agent’s internal cognition that drives its actions?
+
+| Category               | Dimension             | Description                                                                                     |
+| ---------------------- | --------------------- | ----------------------------------------------------------------------------------------------- |
+| **Cognition**          | Knowledge / Beliefs   | Internal representations that the agent uses to interpret the environment and make decisions.   |
+| **Cognition**          | Reasoning / Planning  | Mechanisms by which the agent evaluates options and anticipates outcomes.                       |
+| **Cognition**          | Learning / Adaptation | Ability of the agent to adjust strategies or beliefs based on outcomes or environmental change. |
+| **Intentionality**     | Goals / Motivations   | Desired outcomes that guide behavior and choice.                                                |
+| **Intentionality**     | Preferences / Values  | Criteria for selecting actions among alternatives based on internal priorities.                 |
+| **Decision**           | Action Selection      | Processes by which an agent selects a specific action among feasible options.                   |
+| **Decision**           | Uncertainty Handling  | How the agent accounts for uncertainty in the environment when making decisions.                |
+| **Capability**         | Resource Mobilization | Internal and external resources the agent can deploy to execute actions.                        |
+| **Capability**         | Influence / Control   | Ability to affect other actors or system states through actions.                                |
+| **Temporal Cognition** | Memory / Persistence  | How past experiences inform present and future decisions.                                       |
 
 ## Actor Type Space
 
@@ -81,3 +147,7 @@
 - [Actor](./Epistemic/Actor.md)
 - [Onticity](./README.md)
 - [Actor Catalog](../../Locus-Meliorandis/Dimension/Actor/Catalog/README.md)
+- García Sánchez, Ester. El concepto de actor: Reflexiones y propuestas para la ciencia política. Andamios 3.6 (2007): 199-216.
+- [Actors](https://www.sociopedia.co/post/actors)
+- [Agency](Agency.md)
+- [Action](Action.md)

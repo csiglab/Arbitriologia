@@ -156,15 +156,15 @@ It supports stochastic modeling of perception errors, interpretation biases, and
 
 | **Level**         | **Ontological Element**        | **Description**                                                                                    | **Basic Ontological Form (If Applicable)**      | **Tags**                                  |
 | ----------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| **Primitive** ⚙️  | **Interaction Unit 👤**        | Basic actor (individual or group)                                                                  | —                                               | `actor`, `agent`, `unit`                  |
-|                   | **Action 🔄**             | Relational event/process between actors                                                            | —                                               | `interaction`, `relation`, `process`      |
+| **Primitive** ⚙️  | **Interaction Unit 👤**        | Basic actor (individual or group) - See [Unit](Unit.md)                                            | —                                               | `actor`, `agent`, `unit`                  |
+|                   | **Action 🔄**                  | Relational event/process between actors                                                            | —                                               | `interaction`, `relation`, `process`      |
 |                   | **Regulation 📏**              | Shared behavioral protocols                                                                        | —                                               | `rule`, `protocol`, `normative`           |
-|                   | **State 🏷️**                  | System’s condition or status                                                                       | —                                               | `state`, `condition`, `status`            |
-|                   | **Dynamical 🌪️**              | Observable transformations in the system (change, process, event)                                  | —                                               | `change`, `dynamic`, `process`            |
+|                   | **State 🏷️**                   | System’s condition or status                                                                       | —                                               | `state`, `condition`, `status`            |
+|                   | **Dynamical 🌪️**               | Observable transformations in the system (change, process, event)                                  | —                                               | `change`, `dynamic`, `process`            |
 |                   | **Environment 🌍**             | External conditions influencing the system                                                         | —                                               | `context`, `environment`, `external`      |
 | **Derivative** 🔄 | **Social Role 🎭**             | Normative position within structured context                                                       | Interaction Unit + Tagging System + Regulation  | `role`, `normative`, `position`           |
 |                   | **Social Norm 📜**             | Shared behavioral expectations with meaning                                                        | Regulation + Tagging System                     | `norm`, `expectation`, `behavioral`       |
-|                   | **Institution 🏛️**            | Stable configuration of roles and rules                                                            | Interaction Unit + Regulation + State           | `institution`, `structure`, `rule-system` |
+|                   | **Institution 🏛️**             | Stable configuration of roles and rules                                                            | Interaction Unit + Regulation + State           | `institution`, `structure`, `rule-system` |
 |                   | **Social Network 🌐**          | Web of patterned relationships                                                                     | Interaction Unit + Interaction                  | `network`, `relation`, `pattern`          |
 |                   | **Interaction Pattern 🔁**     | Recurring relational sequences shaped by protocols                                                 | Interaction + Regulation                        | `pattern`, `sequence`, `interaction`      |
 |                   | **Collective Identity 🆔**     | Shared interpretive frame binding actors                                                           | Interaction Unit + Tagging System               | `identity`, `collective`, `shared`        |
@@ -176,37 +176,9 @@ It supports stochastic modeling of perception errors, interpretation biases, and
 |                   | **Systemic Transformation 🔄** | Structural change in system state via interactions                                                 | Phenomena (Change) + State + Interaction        | `transformation`, `systemic`, `change`    |
 |                   | **Symbolic System 🔣**         | Full set of labels and interpretive frames used                                                    | Tagging System + Interaction Unit               | `symbolic`, `semiosis`, `meaning-system`  |
 |                   | **Behavior 🚶**                | Observable pattern of actions over time in response to internal or external stimuli                | Interaction Unit + Interaction + Environment    | `behavior`, `action`, `pattern`           |
-|                   | **City 🏙️**                   | Spatially and institutionally organized social system; local nexus of roles, rules, and identities | Organizational Unit + Environment + Institution | `city`, `urban`, `local-system`           |
-|                   | **Province 🗺️**               | Higher-order territorial aggregation of cities with governance and coordination functions          | Organizational Unit + Institution + Environment | `province`, `regional`, `territorial`     |
-| Derivative 🔄 | **Collective Mental Model 🧠** | Shared, stabilized interpretive schema guiding perception, expectation, and action across agents | Symbolic System + Regulation + Interaction Pattern + Collective Identity |
-
-### Interaction Unit
-
-> An **Interaction Unit** is the fundamental cognitive and social actor or entity that participates in and generates relational events within a social system. It serves as the primary locus of agency and meaning-making in social interactions.
-
-**Feature**:
-
-| Feature                   | Description                                                                                            |
-| ------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Agentive Entity**       | Can be individual, group, organization, or compound social actor with intentional action.              |
-| **Cognitive Capacity**    | Possesses internal reflexivity enabling self-observation, interpretation, and behavioral adaptation.   |
-| **Relational Focus**      | Engages in interactions such as communication, cooperation, competition, and conflict.                 |
-| **Nested & Scalable**     | Can be atomic (individual) or compound (group, institution), supporting multi-level analysis.          |
-| **Boundary**              | Has definable conceptual or physical boundaries distinguishing it from others and the environment.     |
-| **Behavioral Repertoire** | Holds a set of possible actions, strategies, or roles constrained by norms, capabilities, and context. |
-| **State & Attributes**    | Maintains an internal state or status that evolves through interactions and influences behavior.       |
-| **Reflexivity**           | Internal capacity for self-reference, learning, and modifying future behavior (intrinsic to unit).     |
-
-**Levels:**
-
-| Level                                 | Description                                          | Case Study|
-| ------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Dyadic / Pairwise**                 | Direct interaction between two agents                | Communication, exchange, conflict, cooperation                           |
-| **Networked / Relational**            | Complex patterns among multiple agents               | Social networks, alliances, trade relations, kinship ties                |
-| **Symbolic / Meaning-Making**         | Communication via shared symbols, language           | Discourse, narratives, semiotics, framing                                |
-| **Rule-Governed / Institutionalized** | Interactions structured by formal and informal rules | Negotiation, governance, norms enforcement, legal procedures             |
-| **Strategic / Game-Theoretic**        | Interaction as strategic decision-making             | Games, bargaining, signaling, competition                                |
-| **Emergent Collective Behavior**      | Macro patterns from micro interactions               | Collective identity, social movements, market trends, cultural diffusion |
+|                   | **City 🏙️**                    | Spatially and institutionally organized social system; local nexus of roles, rules, and identities | Organizational Unit + Environment + Institution | `city`, `urban`, `local-system`           |
+|                   | **Province 🗺️**                | Higher-order territorial aggregation of cities with governance and coordination functions          | Organizational Unit + Institution + Environment | `province`, `regional`, `territorial`     |
+| Derivative 🔄     | **Collective Mental Model 🧠** | Shared, stabilized interpretive schema guiding perception, expectation, and action across agents   | Symbolic System + Regulation + Interaction Pattern + Collective Identity                    |
 
 ### Regulation
 
