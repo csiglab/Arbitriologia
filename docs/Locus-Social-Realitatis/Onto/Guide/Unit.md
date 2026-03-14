@@ -7,6 +7,9 @@ Guiding Questions:
 - What is its relationship to other concepts such as **social action** and **agency**?
 - What properties or attributes define an interaction unit (e.g., boundaries, capabilities, internal structure, persistence)?
 - How to characterize actor interactions?
+- ...
+- What is the nature of the internal changes of an actor? How can internal mental states be used to infer external dynamics?
+- How does the actor participate in or induce changes in the state of its environment?
 
 ## Formulation
 
@@ -16,18 +19,20 @@ Guiding Questions:
 
 ### Characterization Scheme
 
-| Category     | Subcategory    | Aspect                | Description                                                                              |
-| ------------ | -------------- | --------------------- | ---------------------------------------------------------------------------------------- |
-| **State**    | Structure      | Composition           | Internal components that constitute the interaction unit (members, roles, resources).    |
-| **State**    | Structure      | Boundaries            | Conditions that distinguish the unit from other actors and from the environment.         |
-| **State**    | Structure      | Identity              | Persistent properties that allow the unit to be recognized as the same entity over time. |
-| **Dynamics** | Processes      | Operational Processes | Regular activities through which the unit operates and interacts.                        |
-| **Dynamics** | Phenomena      | Emergent Behavior     | Observable patterns that arise from the internal or collective dynamics of the unit.     |
-| **Dynamics** | Events         | Discrete Occurrences  | Specific actions or events produced by the unit in a social region.                      |
-| **Dynamics** | Interaction    | ...                   | The unit’s observable exchanges with other actors.                                       |
-| **Agency**   | Capacities     | Action Capacity       | The ability of the unit to produce actions affecting other actors or the environment.    |
-| **Agency**   | Intentionality | ...                   | Objectives or motivations guiding the actions of the unit.                               |
-| **Agency**   | Influence      | Interaction Power     | Ability to influence other actors or social processes.                                   |
+| Category     | Subcategory    | Aspect                | Description                                                                              | Note(s)                                         |
+| ------------ | -------------- | --------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **State**    | Structure      | Composition           | Internal components that constitute the interaction unit (members, roles, resources).    | Participation Structure: single actor, dyadic, multi-actor, network |
+| **State**    | Structure      | Boundaries            | Conditions that distinguish the unit from other actors and from the environment.         | Stability Properties: equilibrium-seeking, oscillatory, chaotic     |
+| **State**    | Structure      | Identity              | Persistent properties that allow the unit to be recognized as the same entity over time. | Temporal Structure: event, sequence, continuous, iterative          |
+| **Dynamics** | Processes      | Operational Processes | Regular activities through which the unit operates and interacts.                        | Temporal Structure: continuous process, iterative                   |
+| **Dynamics** | Phenomena      | Emergent Behavior     | Observable patterns that arise from the internal or collective dynamics of the unit.     | Intentionality: emergent vs designed                                |
+| **Dynamics** | Events         | Discrete Occurrences  | Specific actions or events produced by the unit in a social region.                      | Temporal Structure: event, sequence                                 |
+| **Dynamics** | Interaction    | Exchanges             | The unit’s observable interactions with other actors.                                    | Coordination Mode: hierarchy, market, network, institutional rule   |
+| **Agency**   | Capacities     | Action Capacity       | Ability of the unit to produce actions affecting other actors or the environment.        | Feedback Structure: positive, negative, adaptive learning           |
+| **Agency**   | Intentionality | Goals / Motivations   | Objectives or motivations guiding the actions of the unit.                               | Intentionality: intentional action vs side-effect                   |
+| **Agency**   | Influence      | Interaction Power     | Ability to influence other actors or social processes.                                   | Participation Structure: single actor, dyadic, networked influence  |
+| **Action**   | Execution      | Performed Actions     | Observable behaviors resulting from agency and decision processes.                       | Temporal Structure: event, sequence; Coordination Mode              |
+| **Action**   | Outcomes       | Consequences          | Effects of actions on other actors, social structures, or the environment.               | Feedback Structure: positive, negative, adaptive learning           |
 
 ### Property Set
 
@@ -41,6 +46,26 @@ Guiding Questions:
 | **Behavioral Repertoire** | Holds a set of possible actions, strategies, or roles constrained by norms, capabilities, and context. |
 | **State & Attributes**    | Maintains an internal state or status that evolves through interactions and influences behavior.       |
 | **Reflexivity**           | Internal capacity for self-reference, learning, and modifying future behavior (intrinsic to unit).     |
+
+### Dynamics Type Space
+
+| **The Actor Dynamics Space** classifies the types of environmental state changes in which an actor participates or which it induces. It provides a taxonomy of interaction patterns, processes, and events involving actors.
+
+| Type                              | Description                                                                        | Characterization                                                                | Instance(s)                                                      |
+| --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Action Event**                  | Discrete action performed by an actor that changes some environmental state.       | Single-step state transition; localized effect; intentional or rule-triggered.  | Purchase transaction, issuing a command, signing a contract.     |
+| **Interaction Event**             | Discrete event involving multiple actors affecting shared states.                  | Multi-actor coordination; mutual influence; synchronous or asynchronous.        | Negotiation, trade exchange, vote.                               |
+| **Process Dynamics**              | Continuous or multi-step evolution of states induced by actor activity.            | Temporal sequence of actions; persistent causal chain; often institutionalized. | Production process, policy implementation, research program.     |
+| **Strategic Dynamics**            | Iterative interaction where actors adjust actions based on expectations of others. | Feedback loops; anticipation; adaptive decision-making.                         | Price competition between firms, diplomatic bargaining.          |
+| **Coordination Dynamics**         | Actors align behavior to achieve compatible outcomes.                              | Shared rules, conventions, or signaling mechanisms.                             | Standard adoption, traffic coordination, scheduling.             |
+| **Competition Dynamics**          | Actors pursue incompatible goals over limited resources or positions.              | Rivalry; zero-sum or partially conflicting objectives.                          | Market competition, election campaigns.                          |
+| **Cooperation Dynamics**          | Actors jointly pursue shared or partially aligned objectives.                      | Collective payoff structures; coordination of actions; trust mechanisms.        | Joint ventures, alliances, research collaborations.              |
+| **Institutional Dynamics**        | Actors modify or operate within rule systems governing behavior.                   | Rule creation, enforcement, adaptation; institutional constraints.              | Legislative change, regulatory enforcement.                      |
+| **Diffusion Dynamics**            | Propagation of behaviors, technologies, or information across actors.              | Network propagation; imitation or learning mechanisms.                          | Technology diffusion, policy transfer, viral information spread. |
+| **Learning Dynamics**             | Actors update internal models based on environmental feedback.                     | Belief updating; reinforcement learning; adaptive strategies.                   | Firm capability development, scientific discovery.               |
+| **Network Formation Dynamics**    | Actors create or dissolve relational ties with other actors.                       | Link formation or dissolution; evolving interaction topology.                   | Trade partnerships, alliances, social networks.                  |
+| **Resource Flow Dynamics**        | Movement or allocation of resources between actors.                                | Transfers of goods, capital, labor, information.                                | Supply chains, financial transactions, migration flows.          |
+| **Collective Emergence Dynamics** | Macro-level patterns arising from many actor interactions.                         | Emergent behavior; aggregation effects.                                         | Market price formation, social norms.                            |
 
 ## Interaction
 
@@ -78,64 +103,18 @@ Guiding Questions:
 | **Capability**         | Influence / Control   | Ability to affect other actors or system states through actions.                                |
 | **Temporal Cognition** | Memory / Persistence  | How past experiences inform present and future decisions.                                       |
 
-## Actor Type Space
+## Quaisy Interacton Unit
 
-> See more in [Actor Type Space](../../Locus-Meliorandis/Dimension/Actor/Catalog/Type/README.md)
+> A Quaisy Interaction Unit (QI Unit) represents a bounded social actor or collective within a social system. It is a flexible unit of analysis that can range from an individual entity to a larger organized group, depending on the context. Each QI Unit can be characterized by its state, dynamics, agency, and actions.
 
-## Actor Space Taxonomy
-
-> See more in [Actor Catalog](../../Locus-Meliorandis/Dimension/Actor/Catalog/README.md).
-
-| Actor                    | Type              | Description                                                                                            |
-| ------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------ |
-| Individual               | Basic             | Single human agent with personal preferences, goals, and cognitive processes.                          |
-| Household (Family)       | Compound          | Group of individuals with partially aligned objectives; shared resources and joint decisions.          |
-| Firm (Organization)      | Compound          | Structured group pursuing economic, social, or strategic goals; may be hierarchical.                   |
-| Government Agency        | Compound          | Public sector organization executing policies and regulations; goal-oriented and rule-bound.           |
-| Market (Network)         | Emergent          | Collective actor arising from interactions among multiple agents; characterized by aggregate behavior. |
-| Coalition (Alliance)     | Compound          | Temporary or permanent actor formed for strategic objectives; coordination between members.            |
-| Social Group (Community) | Compound          | Actor defined by social ties, norms, and collective identity; behavior shaped by cultural factors.     |
-| Artificial Agent (AI)    | Basic or Compound | Algorithmic or robotic entity designed to optimize objective functions or perform tasks.               |
-
-## Characteriztaion
-
-### Internal Dynamical Characterization
-
-> What is the nature of the internal changes of an actor? How can internal mental states be used to infer external dynamics?
-
-### External Dynamics Characterization
-
-> How does the actor participate in or induce changes in the state of its environment?
-
-| Dimension                   | Description                                                    |
-| --------------------------- | -------------------------------------------------------------- |
-| **Temporal Structure**      | Event, sequence, continuous process, iterative dynamics.       |
-| **Participation Structure** | Single actor, dyadic interaction, multi-actor system, network. |
-| **Intentionality**          | Intentional action vs emergent side-effect.                    |
-| **Coordination Mode**       | Hierarchy, market, network, institutional rule.                |
-| **Feedback Structure**      | Positive feedback, negative feedback, adaptive learning.       |
-| **Stability Properties**    | Convergent, oscillatory, chaotic, equilibrium-seeking.         |
-
-### Actor Dynamics Space
-
-| **The Actor Dynamics Space** classifies the types of environmental state changes in which an actor participates or which it induces. It provides a taxonomy of interaction patterns, processes, and events involving actors.
-
-| Type                              | Description                                                                        | Characterization                                                                | Instance(s)                                                      |
-| --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Action Event**                  | Discrete action performed by an actor that changes some environmental state.       | Single-step state transition; localized effect; intentional or rule-triggered.  | Purchase transaction, issuing a command, signing a contract.     |
-| **Interaction Event**             | Discrete event involving multiple actors affecting shared states.                  | Multi-actor coordination; mutual influence; synchronous or asynchronous.        | Negotiation, trade exchange, vote.                               |
-| **Process Dynamics**              | Continuous or multi-step evolution of states induced by actor activity.            | Temporal sequence of actions; persistent causal chain; often institutionalized. | Production process, policy implementation, research program.     |
-| **Strategic Dynamics**            | Iterative interaction where actors adjust actions based on expectations of others. | Feedback loops; anticipation; adaptive decision-making.                         | Price competition between firms, diplomatic bargaining.          |
-| **Coordination Dynamics**         | Actors align behavior to achieve compatible outcomes.                              | Shared rules, conventions, or signaling mechanisms.                             | Standard adoption, traffic coordination, scheduling.             |
-| **Competition Dynamics**          | Actors pursue incompatible goals over limited resources or positions.              | Rivalry; zero-sum or partially conflicting objectives.                          | Market competition, election campaigns.                          |
-| **Cooperation Dynamics**          | Actors jointly pursue shared or partially aligned objectives.                      | Collective payoff structures; coordination of actions; trust mechanisms.        | Joint ventures, alliances, research collaborations.              |
-| **Institutional Dynamics**        | Actors modify or operate within rule systems governing behavior.                   | Rule creation, enforcement, adaptation; institutional constraints.              | Legislative change, regulatory enforcement.                      |
-| **Diffusion Dynamics**            | Propagation of behaviors, technologies, or information across actors.              | Network propagation; imitation or learning mechanisms.                          | Technology diffusion, policy transfer, viral information spread. |
-| **Learning Dynamics**             | Actors update internal models based on environmental feedback.                     | Belief updating; reinforcement learning; adaptive strategies.                   | Firm capability development, scientific discovery.               |
-| **Network Formation Dynamics**    | Actors create or dissolve relational ties with other actors.                       | Link formation or dissolution; evolving interaction topology.                   | Trade partnerships, alliances, social networks.                  |
-| **Resource Flow Dynamics**        | Movement or allocation of resources between actors.                                | Transfers of goods, capital, labor, information.                                | Supply chains, financial transactions, migration flows.          |
-| **Collective Emergence Dynamics** | Macro-level patterns arising from many actor interactions.                         | Emergent behavior; aggregation effects.                                         | Market price formation, social norms.                            |
-
+| QI Unit Type                  | Description                                                                  | Instance(s)                                                        |
+| ----------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Country**                   | Nation-state, including its administrative, social, and economic structures. | Dominican Republic, Japan, Germany                                 |
+| **Social Group**              | Community, ethnic group, or professional association with internal cohesion. | Local neighborhoods, cultural communities, professional guilds     |
+| **Organization**              | Firm, NGO, institution, or formal association that acts collectively.        | Tech companies, universities, Red Cross chapters                   |
+| **Family / Household**        | Small, tightly-knit group acting as a basic social unit.                     | Nuclear family, extended family, shared households                 |
+| **Virtual / Networked Group** | Online communities, forums, or decentralized collectives.                    | Reddit communities, open-source software projects, Discord servers |
+| **Other**                     | Any other bounded entity that can be analyzed as an interaction unit.        | Project teams, coalitions, temporary alliances, task forces        |
 
 ## References
 
@@ -151,3 +130,4 @@ Guiding Questions:
 - [Actors](https://www.sociopedia.co/post/actors)
 - [Agency](Agency.md)
 - [Action](Action.md)
+- [Actor Taxonomy](https://www.bremontix.xyz/lab/research/actor/)
