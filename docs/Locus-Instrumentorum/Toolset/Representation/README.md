@@ -6,3 +6,7 @@ How should the economy be represented?
 
 - [Input-Output Models in Economics](https://bactra.org/notebooks/input-output.html)
 - ...
+
+## References
+
+- [Actor Representation]()
