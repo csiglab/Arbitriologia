@@ -9,4 +9,4 @@ How should the economy be represented?
 
 ## References
 
-- [Actor Representation]()
+- Actor Representation

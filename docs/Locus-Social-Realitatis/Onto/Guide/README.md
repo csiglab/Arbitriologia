@@ -380,5 +380,6 @@ Classification of Elements of Social Reality:
 * Searle, John R. The construction of social reality. Simon and Schuster, 1995.
 * Baker, Lynne Rudder. "Just what is social ontology?." Journal of Social Ontology 5.1 (2019): 1-12.
 * DeLanda, Manuel. "A new philosophy of society." (2019): 1-152.
-- [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723?source=copy_link)
-- [Property](https://righteous-guardian-68f.notion.site/Property-271c0f5171ec80498865e3db652beafb?source=copy_link)
+* [Ontology](https://righteous-guardian-68f.notion.site/Ontology-138eea37a34f43ed87c16d1818629723?source=copy_link)
+* [Property](https://righteous-guardian-68f.notion.site/Property-271c0f5171ec80498865e3db652beafb?source=copy_link)
+* [Event](https://righteous-guardian-68f.notion.site/Event-326c0f5171ec80fea5e2ca362eeaf779?source=copy_link)
