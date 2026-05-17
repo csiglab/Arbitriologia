@@ -8,6 +8,9 @@
     -  The technique distance from the current used.
     -  etc.
     -  The German froundhogver - focus to much on technique that are near the current application (short cycle tech) - they will miss - technique subset - far - like quamtumg technologies, ai, etc - https://seedsoftime.substack.com/p/how-germany-lost-the-technological
+    -  https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance
+    -  Should We have Only `Research for Industry Firms`. - That can spin of firms.
+    -  The talent should flow between gov - and firms  - https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance
     -  So think very hard - no how to concienive the DR.  `Technique Space Evolution mechanism` - and how wil they be effective in multiple modes of technique evolution - for all kinds of necessites - from the very prescent - to the very future.
 - https://www.cs.princeton.edu/courses/archive/spr09/cos444/papers/bulow_klemperer96
 - https://en.wikipedia.org/wiki/National_Bar_Association
