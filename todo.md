@@ -12,6 +12,7 @@
     -  Should We have Only `Research for Industry Firms`. - That can spin of firms.
     -  The talent should flow between gov - and firms  - https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance
     -  So think very hard - no how to concienive the DR.  `Technique Space Evolution mechanism` - and how wil they be effective in multiple modes of technique evolution - for all kinds of necessites - from the very prescent - to the very future.
+- [ ] https://www.eastisread.com/p/the-politics-of-policy-research-in
 - https://www.cs.princeton.edu/courses/archive/spr09/cos444/papers/bulow_klemperer96
 - https://en.wikipedia.org/wiki/National_Bar_Association
 - Hierarchy - Organization - Delegation
