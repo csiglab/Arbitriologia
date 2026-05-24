@@ -36,6 +36,8 @@ Functions:
 | **Tagging System**   | Units of money are tagged: denominations, serial numbers, tokens, addresses (crypto), or even reputation (in credit). These allow tracking, comparability, and exchange.       |
 | **Dynamics**         | Flows of money: circulation, accumulation, inflation, credit expansion/contraction, monetary policy effects. Also includes temporal aspects like savings and deferred payment. |
 | **Environment**      | The broader socio-technical and institutional context in which money operates: markets, cultures, states, platforms, technologies (e.g., gold standard vs. blockchain).        |
+|**Form**|The representational embodiment through which money appears and operates within the system. Money can take multiple forms—commodity (gold, silver), physical token (coins, notes), ledger entry (bank deposits), reserve balance, digital token, or cryptographic asset. The form determines how money is stored, transferred, verified, and perceived, while not altering its underlying monetary function.|
+|**Creation Mechanism**| The processes through which money is brought into existence, expanded, or extinguished within the monetary system. This includes minting of physical currency, issuance by central banks, commercial bank **credit creation** through lending, state deficit spending, commodity extraction (e.g. gold mining), or algorithmic/token issuance in digital monetary systems. The creation mechanism determines who has monetary issuance power, under what constraints money enters circulation, and how the money supply changes over time.|
 
 ## Characterization
 
