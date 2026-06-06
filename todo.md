@@ -1,3 +1,7 @@
+- [ ] What underlies the production of new products? What kind of  of change in the social field allows this some type of capital (production factor) accumulation, labor, surplus in other sectors, ...?
+- [ ] Does the economist used the factor of money -  in economic growth models?
+- [ ] What do economist mean by efficient capital alocation?  (This is mostly garbage -  if we go deep)
+- [ ] How to think about the external restriction? - A **Terrible** Concept.
 - [ ] Social Action: Research, Academic and Industry Sectors One-plus Scheme (RAISe+) - https://www.itf.gov.hk/en/raiseplus.
 - [ ] Social Action Hierarchy:
     - [ ] Scheme
