@@ -3,13 +3,13 @@ set -eu
 
 IMAGE="ghcr.io/csiglab/arbitriologia:latest"
 CONTAINER="arbitriologia"
-PORT="${ARBITRIOLOGIA_PORT:-8080}"
 
 cd "$(dirname "$0")"
 
 # Local defaults from .env (e.g. ARBITRIOLOGIA_PORT); real env vars still win.
+# NOTE: this must run BEFORE deriving PORT below, otherwise .env is ignored.
 if [ -f .env ]; then
-  while IFS='=' read -r key value; do
+  while IFS='=' read -r key value || [ -n "$key" ]; do
     case $key in
       ''|\#*) continue ;;
     esac
@@ -18,6 +18,8 @@ if [ -f .env ]; then
     fi
   done < .env
 fi
+
+PORT="${ARBITRIOLOGIA_PORT:-8080}"
 
 docker pull "$IMAGE"
 docker rm -f "$CONTAINER" 2>/dev/null || true

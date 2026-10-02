@@ -20,7 +20,7 @@ dist/
 build/
 eggs/
 parts/
-bin/
+# NOTE: no `bin/` exclusion — repo uses bin/ for pipeline CLIs.
 var/
 sdist/
 wheels/

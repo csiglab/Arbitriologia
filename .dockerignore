@@ -8,7 +8,7 @@ data
 research
 img
 operation
-scripts
+bin
 Makefile
 build.sh
 deploy.sh
