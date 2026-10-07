@@ -10,9 +10,9 @@ export
 PYTHON ?= python3
 # Single port concept: .env (or exported env) sets ARBITRIOLOGIA_PORT,
 # default 8080. PORT stays as a per-invocation override for deploy-local.
-ARBITRIOLOGIA_PORT ?= 8080
+ARBITRIOLOGIA_PORT ?= 8006
 ifeq ($(strip $(ARBITRIOLOGIA_PORT)),)
-override ARBITRIOLOGIA_PORT := 8080
+override ARBITRIOLOGIA_PORT := 8006
 endif
 PORT ?= $(ARBITRIOLOGIA_PORT)
 IMAGE := ghcr.io/csiglab/arbitriologia:latest
